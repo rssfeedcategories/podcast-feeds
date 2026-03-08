@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
+    <title>Havineini - הבינני - לימוד התורה</title>
+    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    <language>en-us</language>
+    <copyright>Machon Havineini</copyright>
+    <docs>http://lomdotchasidut.libsyn.com/podcast</docs>
+    <itunes:summary>Daily Shiur</itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg</url>
+      <title>Havineini - הבינני</title>
+      <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    </image>
+    <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:category text="Education" />
+    <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Rabbi Shimon Spitzer</itunes:name>
+      <itunes:email>info@machonhavineini.com</itunes:email>
+    </itunes:owner>
+    <description>Daily Shiur</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords />
+    <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>איך משיגים מתיקות התורה? - חלק ד' - הלימוד בתשוקה הבנה וענוה</title>
+      <itunes:title>איך משיגים מתיקות התורה? - חלק ד' - הלימוד בתשוקה הבנה וענוה</itunes:title>
+      <pubDate>Sun, 10 Nov 2024 10:33:36 +0000</pubDate>
+      <guid isPermaLink="false">55e7fa6c-a897-457b-b243-e3568b897bb8</guid>
+      <link>https://lomdotchasidut.libsyn.com/2yvp3k4bqlkw</link>
+      <description>&lt;p style="text-align: center;"&gt;יום א' פרשת וירא תשפ"ה&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; הרה"ח ר' &lt;strong&gt;ארי'&lt;/strong&gt; ב"ר &lt;strong&gt;אברהם אליעזר&lt;/strong&gt; ז"ל&lt;br /&gt; נדבת בנו הר"ר &lt;strong&gt;מנחם בצלאל גאטעסמאן&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;יום א' פרשת וירא תשפ"ה&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' ארי' ב"ר אברהם אליעזר ז"ל נדבת בנו הר"ר מנחם בצלאל גאטעסמאן הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_____-___-____.mp3?dest-id=468609" length="14813838" type="audio/mpeg" />
+      <itunes:duration>49:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/3/e/1/83e160af9cbdaa6c27a2322813b393ee/_____-_____-___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</title>
+      <itunes:title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</itunes:title>
+      <pubDate>Thu, 22 Feb 2024 16:10:34 +0000</pubDate>
+      <guid isPermaLink="false">1d738ce1-2788-41f4-9964-f55582fd0c41</guid>
+      <link>https://lomdotchasidut.libsyn.com/p81a043j8fls</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/THURSDAY_TZAVE.mp3?dest-id=468609" length="14995196" type="audio/mpeg" />
+      <itunes:duration>49:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/b/6/e/bb6e2a994f8ec25588c4a68c3ddbc4f2/THURSDAY_TZAVE.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</title>
+      <itunes:title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</itunes:title>
+      <pubDate>Thu, 22 Feb 2024 11:06:28 +0000</pubDate>
+      <guid isPermaLink="false">aba2e0e3-2bef-41aa-83f0-e08b47b2f67b</guid>
+      <link>https://lomdotchasidut.libsyn.com/9qjw73v3p5hc</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;נחום מאיר בן חנה פעסיל&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;חי' בת גיטל אסתר&lt;/strong&gt;&lt;br /&gt; נדבת אביו הר"ר &lt;strong&gt;לייב בער פריעד&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לזכות החתן נחום מאיר בן חנה פעסיל והכלה חי' בת גיטל אסתר נדבת אביו הר"ר לייב בער פריעד הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-________.mp3?dest-id=468609" length="14879313" type="audio/mpeg" />
+      <itunes:duration>49:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/2/d/0/c2d098aaca31d95a88c4a68c3ddbc4f2/_____-____-___-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה - חלק י"א - הלכה למעשה, איך מגיעים לזה?</title>
+      <itunes:title>קבעת עיתים לתורה - חלק י"א - הלכה למעשה, איך מגיעים לזה?</itunes:title>
+      <pubDate>Wed, 21 Feb 2024 10:37:09 +0000</pubDate>
+      <guid isPermaLink="false">6e7e94a8-e24d-4140-8460-878148ca61e0</guid>
+      <link>https://lomdotchasidut.libsyn.com/ce4kkck6n6rk</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;משה יחיאל בן יוטל שפרינצא&lt;/strong&gt;&lt;br /&gt; והכלה מ&lt;strong&gt;רים גיטל בת לאה איטא&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לזכות החתן משה יחיאל בן יוטל שפרינצא והכלה מרים גיטל בת לאה איטא&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-______1759.mp3?dest-id=468609" length="16447232" type="audio/mpeg" />
+      <itunes:duration>45:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/7/9/5/6795b7c95809b62ae5bbc093207a2619/_____-____-___-______1759.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה - חלק י' - ג' סוגי מניעות</title>
+      <itunes:title>קבעת עיתים לתורה - חלק י' - ג' סוגי מניעות</itunes:title>
+      <pubDate>Mon, 19 Feb 2024 10:16:49 +0000</pubDate>
+      <guid isPermaLink="false">04d906ec-b9e5-453c-9645-8fa26ae04a65</guid>
+      <link>https://lomdotchasidut.libsyn.com/kpwcmbyevhfk</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-____1762.mp3?dest-id=468609" length="14083759" type="audio/mpeg" />
+      <itunes:duration>46:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/f/1/0/4f10bbac1ad3ac90e5bbc093207a2619/_____-____-___-____1762.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ט' - המניעות המקרבים את האדם להקב"ה</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ט' - המניעות המקרבים את האדם להקב"ה</itunes:title>
+      <pubDate>Sun, 18 Feb 2024 09:40:09 +0000</pubDate>
+      <guid isPermaLink="false">e45cd06a-927e-4f4c-93df-de4521edd0ce</guid>
+      <link>https://lomdotchasidut.libsyn.com/1jwgopgtrbi8</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-______1767.mp3?dest-id=468609" length="16486300" type="audio/mpeg" />
+      <itunes:duration>45:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/3/8/8/d388a0d3f693fcbbe5bbc093207a2619/_____-____-___-______1767.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ח' - מניעות וסיוע שיש למתחזק בעבודת השם</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ח' - מניעות וסיוע שיש למתחזק בעבודת השם</itunes:title>
+      <pubDate>Thu, 15 Feb 2024 10:02:46 +0000</pubDate>
+      <guid isPermaLink="false">49258930-a929-413b-9059-31f8d56de743</guid>
+      <link>https://lomdotchasidut.libsyn.com/ak58ken9dtz4</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; הרה"ח ר' &lt;strong&gt;נחום מרדכי&lt;/strong&gt; בן ר' &lt;strong&gt;חיים&lt;/strong&gt; ז"ל&lt;br /&gt; נדבת הר"ר &lt;strong&gt;משה חיים גרינפעלד&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' נחום מרדכי בן ר' חיים ז"ל נדבת הר"ר משה חיים גרינפעלד הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-_______1760.mp3?dest-id=468609" length="14441371" type="audio/mpeg" />
+      <itunes:duration>48:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/b/7/7/6b77f3f4ed8cd5bbe5bbc093207a2619/_____-____-___-_______1760.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ז' - תורה שלמדתי באף היא שעמדה לי</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ז' - תורה שלמדתי באף היא שעמדה לי</itunes:title>
+      <pubDate>Wed, 14 Feb 2024 11:24:19 +0000</pubDate>
+      <guid isPermaLink="false">656a2bff-33a8-45e6-b0f7-cc3e0686a09a</guid>
+      <link>https://lomdotchasidut.libsyn.com/hfadp3gram80</link>
+      <description>&lt;p style="text-align: center;"&gt;נדבת לכבוד ולזכר&lt;br /&gt; &lt;strong&gt;הרה"ק ר' מרדכי שלמה מבאיאן זצוק"ל&lt;/strong&gt;&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לזכות&lt;br /&gt; &lt;strong&gt;שלום בן בראנדל&lt;/strong&gt;&lt;br /&gt; להצלחה וברכה בכל הענינים&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נדבת לכבוד ולזכר הרה"ק ר' מרדכי שלמה מבאיאן זצוק"ל&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לזכות שלום בן בראנדל להצלחה וברכה בכל הענינים&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-_______1759.mp3?dest-id=468609" length="14496359" type="audio/mpeg" />
+      <itunes:duration>48:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/b/a/b/7bab045d63fb376988c4a68c3ddbc4f2/_____-____-___-_______1759.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ו' - הבנת התורה הוא כלי לאורה ושמחה</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ו' - הבנת התורה הוא כלי לאורה ושמחה</itunes:title>
+      <pubDate>Mon, 12 Feb 2024 10:57:27 +0000</pubDate>
+      <guid isPermaLink="false">2a1f5e9a-6075-4524-b5bc-1323d35adaa2</guid>
+      <link>https://lomdotchasidut.libsyn.com/l2ipygzhtrls</link>
+      <description>&lt;p style="text-align: center;"&gt;נדבת לזכות&lt;br /&gt; החתן &lt;strong&gt;שלמה צבי בן רחל&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;געלע בת שיינדיל&lt;/strong&gt;&lt;/p&gt; &lt;p style="text-align: center;"&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;אליהו מזרחי&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל אירוסי בתו בשטו"מ&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נדבת לזכות החתן שלמה צבי בן רחל והכלה געלע בת שיינדיל&lt;/p&gt; &lt;p style="text-align: center;"&gt;נדבת הר"ר אליהו מזרחי הי"ו לרגל אירוסי בתו בשטו"מ&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-______.mp3?dest-id=468609" length="16354326" type="audio/mpeg" />
+      <itunes:duration>45:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ה' - עצות להתחבר למתיקות התורה</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ה' - עצות להתחבר למתיקות התורה</itunes:title>
+      <pubDate>Sun, 11 Feb 2024 09:45:24 +0000</pubDate>
+      <guid isPermaLink="false">5022acfa-5df2-4212-9582-39fbccbf8d05</guid>
+      <link>https://lomdotchasidut.libsyn.com/n4dkql8als74</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-_____1756.mp3?dest-id=468609" length="16085972" type="audio/mpeg" />
+      <itunes:duration>44:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה? - חלק ד' - קביעות באיכות</title>
+      <itunes:title>קבעת עיתים לתורה? - חלק ד' - קביעות באיכות</itunes:title>
+      <pubDate>Thu, 08 Feb 2024 09:24:28 +0000</pubDate>
+      <guid isPermaLink="false">80ca7d89-fd62-458e-bd81-bda42e781f49</guid>
+      <link>https://lomdotchasidut.libsyn.com/oapuubbbffnk</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-___1750.mp3?dest-id=468609" length="14395502" type="audio/mpeg" />
+      <itunes:duration>47:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה - חלק ג' - כח השעבוד לזכך את האדם ולקרבו להקב"ה</title>
+      <itunes:title>קבעת עיתים לתורה - חלק ג' - כח השעבוד לזכך את האדם ולקרבו להקב"ה</itunes:title>
+      <pubDate>Wed, 07 Feb 2024 10:46:31 +0000</pubDate>
+      <guid isPermaLink="false">22d4976d-0230-4dda-9204-e207bd01e6fb</guid>
+      <link>https://lomdotchasidut.libsyn.com/fbnpatvyvsao</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לזכות &lt;strong&gt;בנציון בן שרה טויבא&lt;/strong&gt;&lt;br /&gt; לברכה ולהצלחה וסייעתא דשמיא בכ"ע&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לזכות בנציון בן שרה טויבא לברכה ולהצלחה וסייעתא דשמיא בכ"ע&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___-_______.mp3?dest-id=468609" length="16169992" type="audio/mpeg" />
+      <itunes:duration>44:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה?! חלק ב' - המזון והמים של האדם</title>
+      <itunes:title>קבעת עיתים לתורה?! חלק ב' - המזון והמים של האדם</itunes:title>
+      <pubDate>Mon, 05 Feb 2024 12:05:39 +0000</pubDate>
+      <guid isPermaLink="false">3844fa7b-9343-41ba-970d-e2bbcaad674f</guid>
+      <link>https://lomdotchasidut.libsyn.com/ctsimxixr5s0</link>
+      <description>&lt;p style="text-align: center;"&gt;נדבת הר"ר &lt;strong&gt;משה אהרן ווייס&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל היכנס בנו בבריתו של אברהם אבינו&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נדבת הר"ר משה אהרן ווייס הי"ו לרגל היכנס בנו בבריתו של אברהם אבינו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______-_____1732.mp3?dest-id=468609" length="16369319" type="audio/mpeg" />
+      <itunes:duration>45:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>קבעת עיתים לתורה?! - חלק א'</title>
+      <itunes:title>קבעת עיתים לתורה?! - חלק א'</itunes:title>
+      <pubDate>Sun, 04 Feb 2024 10:37:00 +0000</pubDate>
+      <guid isPermaLink="false">bd06b1b7-06c6-4e1b-a7b2-2efc3d83e683</guid>
+      <link>https://lomdotchasidut.libsyn.com/gi4dmi1k061f</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-___1739.mp3?dest-id=468609" length="16361960" type="audio/mpeg" />
+      <itunes:duration>45:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #18 - הפתרונות לריכוז לחברותא וכו'</title>
+      <itunes:title>תורה לשמה #18 - הפתרונות לריכוז לחברותא וכו'</itunes:title>
+      <pubDate>Thu, 16 Mar 2023 10:12:30 +0000</pubDate>
+      <guid isPermaLink="false">d5bf5095-bc81-4398-ae6e-f9558f11f153</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--18-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___18_-____.mp3?dest-id=468609" length="16336399" type="audio/mpeg" />
+      <itunes:duration>45:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/5/5/3/a5536b8a134d444088c4a68c3ddbc4f2/______-___18_-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #17 - ולא ידע כי קרן עור פניו</title>
+      <itunes:title>תורה לשמה #17 - ולא ידע כי קרן עור פניו</itunes:title>
+      <pubDate>Mon, 20 Feb 2023 09:53:49 +0000</pubDate>
+      <guid isPermaLink="false">bccb72df-fdb5-4df5-9704-5a2ece75b88f</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--17-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___17_-______.mp3?dest-id=468609" length="16099442" type="audio/mpeg" />
+      <itunes:duration>44:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/c/d/5/acd56b920d4583ebd959afa2a1bf1c87/_____-___17_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #16 - הבאר הנובע מתוך מ"ח קניינים של התורה</title>
+      <itunes:title>תורה לשמה #16 - הבאר הנובע מתוך מ"ח קניינים של התורה</itunes:title>
+      <pubDate>Thu, 16 Feb 2023 09:39:49 +0000</pubDate>
+      <guid isPermaLink="false">67a198be-57b0-4120-844c-5b42f244f25d</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--16-3</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___16_-_______.mp3?dest-id=468609" length="16585470" type="audio/mpeg" />
+      <itunes:duration>45:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/f/4/1/1f419f9a53b9d565d959afa2a1bf1c87/_____-___16_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #15 - המתנות שחז"ל נתנו לנו לזכות ללשמה</title>
+      <itunes:title>תורה לשמה #15 - המתנות שחז"ל נתנו לנו לזכות ללשמה</itunes:title>
+      <pubDate>Thu, 09 Feb 2023 11:35:25 +0000</pubDate>
+      <guid isPermaLink="false">d474077c-6d4c-44a9-a03e-9c5d7cabe7f5</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--15-2</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לזכות&lt;br /&gt; ידידינו הר"ר &lt;strong&gt;ישראל רוזנבוים&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הבר המצוה לבנו היקר שיחי'&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לזכות ידידינו הר"ר ישראל רוזנבוים הי"ו לרגל שמחת הבר המצוה לבנו היקר שיחי'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___15_-______.mp3?dest-id=468609" length="15662010" type="audio/mpeg" />
+      <itunes:duration>43:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/b/6/d/eb6da866e0e9ea5940be95ea3302a6a1/_____-___15_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #14 -ללמוד על מנת לקיים או ללמוד לשם דבקות בהקב"ה</title>
+      <itunes:title>תורה לשמה #14 -ללמוד על מנת לקיים או ללמוד לשם דבקות בהקב"ה</itunes:title>
+      <pubDate>Thu, 02 Feb 2023 10:57:00 +0000</pubDate>
+      <guid isPermaLink="false">0e8af20c-bb03-46b2-acf3-f594378caa93</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--14-3</link>
+      <description>&lt;center&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;נדבת ידידינו&lt;br /&gt; הר"ר &lt;strong&gt;יואל ווערצבערגער&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל הולדת בתו בשטו"מ&lt;/p&gt; &lt;p&gt;נדבת לזכות &lt;strong&gt;יהושע ישכר דוב בן אסתר&lt;/strong&gt;&lt;br /&gt; ולזכות &lt;strong&gt;רבקה דבורה בת ציפורה&lt;/strong&gt;&lt;br /&gt; ומשפחתם שחיו&lt;br /&gt; לרגל הכנסת בנם בבריתו של אברהם אבינו&lt;/p&gt; &lt;/center&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt; &lt;p&gt;נדבת ידידינו הר"ר יואל ווערצבערגער הי"ו לרגל הולדת בתו בשטו"מ&lt;/p&gt; &lt;p&gt;נדבת לזכות יהושע ישכר דוב בן אסתר ולזכות רבקה דבורה בת ציפורה ומשפחתם שחיו לרגל הכנסת בנם בבריתו של אברהם אבינו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___14_-_________1485.mp3?dest-id=468609" length="15907408" type="audio/mpeg" />
+      <itunes:duration>44:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/5/0/c/a50c6718cb4f676a27a2322813b393ee/_____-___14_-_________1485.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #13 - הקליפה של כשרון טוב</title>
+      <itunes:title>תורה לשמה #13 - הקליפה של כשרון טוב</itunes:title>
+      <pubDate>Thu, 26 Jan 2023 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">73787c6f-d14c-4b41-a609-2b504eb093fc</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--13-3</link>
+      <description>&lt;center&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;/center&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___13_-____.mp3?dest-id=468609" length="17473354" type="audio/mpeg" />
+      <itunes:duration>48:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/f/a/0/2fa09b085cc1d924bafc7308ab683e82/_____-___13_-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #12 - התפשטות הדעת למעלה ולמטה</title>
+      <itunes:title>תורה לשמה #12 - התפשטות הדעת למעלה ולמטה</itunes:title>
+      <pubDate>Thu, 19 Jan 2023 11:22:00 +0000</pubDate>
+      <guid isPermaLink="false">34cd43bb-050a-4ef5-9db2-8db8746e14c1</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--12-3</link>
+      <description>&lt;center&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;/center&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___12_-____.mp3?dest-id=468609" length="16685425" type="audio/mpeg" />
+      <itunes:duration>46:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/d/d/6/5dd670303ef777a3e55e3c100dce7605/_____-___12_-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #11 - לימוד עם דעת</title>
+      <itunes:title>תורה לשמה #11 - לימוד עם דעת</itunes:title>
+      <pubDate>Thu, 12 Jan 2023 10:33:00 +0000</pubDate>
+      <guid isPermaLink="false">9b205bd8-23de-4ae4-8d70-49c90b30e8a3</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--11-2</link>
+      <description>&lt;center&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' שלמה ב"ר פנחס נתן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;/center&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לע"נ הרה"ח ר' שלמה ב"ר פנחס נתן ז"ל&lt;/p&gt; &lt;p&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___11_-___.mp3?dest-id=468609" length="15481443" type="audio/mpeg" />
+      <itunes:duration>42:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/9/7/a/297ad82dcefddd9ed959afa2a1bf1c87/_____-___11_-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #10 - לימוד תורה בכדי להגיע להאור המונח בתוכו</title>
+      <itunes:title>תורה לשמה #10 - לימוד תורה בכדי להגיע להאור המונח בתוכו</itunes:title>
+      <pubDate>Thu, 05 Jan 2023 11:32:00 +0000</pubDate>
+      <guid isPermaLink="false">d4e15d84-24f0-4224-b51c-a1692aa22f5a</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--10-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___10_-_______.mp3?dest-id=468609" length="18781479" type="audio/mpeg" />
+      <itunes:duration>52:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/b/9/e/fb9e5c4566b7ea0e27a2322813b393ee/_____-___10_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #9 - מהות ה'שלא לשמה' שמביא לידי 'לשמה'</title>
+      <itunes:title>תורה לשמה #9 - מהות ה'שלא לשמה' שמביא לידי 'לשמה'</itunes:title>
+      <pubDate>Thu, 29 Dec 2022 11:32:00 +0000</pubDate>
+      <guid isPermaLink="false">5aa61ef6-45b2-4047-9a5a-72b01147916e</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--8-4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___9_-______.mp3?dest-id=468609" length="18258406" type="audio/mpeg" />
+      <itunes:duration>50:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/d/5/2cd5281179d2802d88c4a68c3ddbc4f2/_____-___8_-________1448.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #8 - איך מביא תורה שלא לשמה לידי לשמה</title>
+      <itunes:title>תורה לשמה #8 - איך מביא תורה שלא לשמה לידי לשמה</itunes:title>
+      <pubDate>Thu, 08 Dec 2022 09:57:38 +0000</pubDate>
+      <guid isPermaLink="false">07631b4a-46d1-423b-833c-9635b13d5822</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--8-3</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___8_-_______.mp3?dest-id=468609" length="17284468" type="audio/mpeg" />
+      <itunes:duration>47:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/7/0/f/a70fb1661011fbaed959afa2a1bf1c87/_____-___8_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #7 - להגיע לאהבת השם</title>
+      <itunes:title>תורה לשמה #7 - להגיע לאהבת השם</itunes:title>
+      <pubDate>Thu, 01 Dec 2022 09:43:21 +0000</pubDate>
+      <guid isPermaLink="false">752f5145-a9e6-4af3-aef6-2b8ec7820725</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--7-1</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' חיים שמואל בן ר' יעקב ז"ל&lt;/strong&gt;&lt;br /&gt; היארצייט כ"ט חשון&lt;br /&gt; נדבת משפחתו שיחיו&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt; &lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' חיים שמואל בן ר' יעקב ז"ל היארצייט כ"ט חשון נדבת משפחתו שיחיו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___7_-___.mp3?dest-id=468609" length="16138946" type="audio/mpeg" />
+      <itunes:duration>44:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/f/a/f/9faf81e7c4f42cf4a04421dee9605cbd/_____-___7_-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #5 - זוכה לדברים הרבה - גם באיכות, וזה לעומת זה</title>
+      <itunes:title>תורה לשמה #5 - זוכה לדברים הרבה - גם באיכות, וזה לעומת זה</itunes:title>
+      <pubDate>Thu, 17 Nov 2022 09:05:08 +0000</pubDate>
+      <guid isPermaLink="false">6a179b7c-57dc-4327-bc79-af47bd040a11</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--5-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___5_-____-_____.mp3?dest-id=468609" length="16174340" type="audio/mpeg" />
+      <itunes:duration>44:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/a/8/7/2a878bfafa30d6b15f2e77a3093c12a1/______-___5_-____-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #4 - עשיית כלי בכדי שהמים יתקבלו</title>
+      <itunes:title>תורה לשמה #4 - עשיית כלי בכדי שהמים יתקבלו</itunes:title>
+      <pubDate>Thu, 10 Nov 2022 10:35:25 +0000</pubDate>
+      <guid isPermaLink="false">a847c869-8129-4bf0-a626-eb5c78171ede</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--4-5</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___4_-_____.mp3?dest-id=468609" length="16516507" type="audio/mpeg" />
+      <itunes:duration>45:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/9/a/2/c9a2d537537db574a04421dee9605cbd/_____-___4_-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>תורה לשמה #3 - הצורך לערב קב חומטין של יראה ללימוד התורה</title>
+      <itunes:title>תורה לשמה #3 - הצורך לערב קב חומטין של יראה ללימוד התורה</itunes:title>
+      <pubDate>Thu, 03 Nov 2022 11:31:02 +0000</pubDate>
+      <guid isPermaLink="false">c9b1c72c-16fb-40e8-85d1-8dfc1f19a42f</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--3-6</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לע"נ&lt;br /&gt; &lt;strong&gt;הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לע"נ הרה"ח ר' יעקב שמואל ב"ר אלטר אהרן ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___3_-________.mp3?dest-id=468609" length="17860507" type="audio/mpeg" />
+      <itunes:duration>49:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/4/1/9/b419699983b70d83a04421dee9605cbd/______-___3_-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

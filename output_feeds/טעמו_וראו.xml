@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
+    <title>Havineini - הבינני - טעמו וראו</title>
+    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    <language>en-us</language>
+    <copyright>Machon Havineini</copyright>
+    <docs>http://lomdotchasidut.libsyn.com/podcast</docs>
+    <itunes:summary>Daily Shiur</itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg</url>
+      <title>Havineini - הבינני</title>
+      <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    </image>
+    <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:category text="Education" />
+    <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Rabbi Shimon Spitzer</itunes:name>
+      <itunes:email>info@machonhavineini.com</itunes:email>
+    </itunes:owner>
+    <description>Daily Shiur</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords />
+    <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>טעימה - 568 האם זו סיבה להתפטר מהעבודה?</title>
+      <itunes:title>טעימה - 568 האם זו סיבה להתפטר מהעבודה?</itunes:title>
+      <pubDate>Sun, 23 Feb 2025 17:35:00 +0000</pubDate>
+      <guid isPermaLink="false">614e9d3d-8bf2-42b6-b5a2-452efac13d90</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--568</link>
+      <description>&lt;p&gt;מתוך שיעור שנמסר יום שלישי פרשת ויחי ז' טבת תשפ"ה&lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/342856"&gt;https://torahanytime.com/lectures/342856&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;מתוך שיעור שנמסר יום שלישי פרשת ויחי ז' טבת תשפ"ה &lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/342856"&gt;https://torahanytime.com/lectures/342856&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_568_-____.mp3?dest-id=468609" length="2378741" type="audio/mpeg" />
+      <itunes:duration>02:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>סבך של הצעות שידוכים -טעימה - 550</title>
+      <itunes:title>סבך של הצעות שידוכים -טעימה - 550</itunes:title>
+      <pubDate>Thu, 09 Jan 2025 19:42:00 +0000</pubDate>
+      <guid isPermaLink="false">89981a14-bbb9-4e81-b5f5-6c33f793a75c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--550</link>
+      <description>&lt;p&gt;מתוך שיעור שנמסר יום ראשון פרשת חיי שרה ט"ז חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/332503"&gt;https://torahanytime.com/lectures/332503&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;מתוך שיעור שנמסר יום ראשון פרשת חיי שרה ט"ז חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/332503"&gt;https://torahanytime.com/lectures/332503&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____-__550.mp3?dest-id=468609" length="3121039" type="audio/mpeg" />
+      <itunes:duration>03:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>לא על חשבון אחרים - טעימה - 549</title>
+      <itunes:title>לא על חשבון אחרים - טעימה - 549</itunes:title>
+      <pubDate>Tue, 07 Jan 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">fceabffa-4568-43e1-aaa7-326807010e23</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--549</link>
+      <description>&lt;p&gt; מתוך שיעור שנמסר יום שני פרשת וישלח ח' כסלו תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/337114"&gt;https://torahanytime.com/lectures/337114&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt; מתוך שיעור שנמסר יום שני פרשת וישלח ח' כסלו תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/337114"&gt;https://torahanytime.com/lectures/337114&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____-_549.mp3?dest-id=468609" length="4452665" type="audio/mpeg" />
+      <itunes:duration>04:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>הכח העצום של קבלת יסורים באהבה - טעימה 548</title>
+      <itunes:title>הכח העצום של קבלת יסורים באהבה - טעימה 548</itunes:title>
+      <pubDate>Sun, 05 Jan 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">51d34e11-56c3-49cd-a6b8-67a7a5d0fff8</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--548</link>
+      <description>&lt;p&gt; מתוך שיעור שנמסר יום ראשון פרשת ויצא ל' חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/335501"&gt;https://torahanytime.com/lectures/335501&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt; מתוך שיעור שנמסר יום ראשון פרשת ויצא ל' חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/335501"&gt;https://torahanytime.com/lectures/335501&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-__548.mp3?dest-id=468609" length="2909977" type="audio/mpeg" />
+      <itunes:duration>03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>טעמו וראו - 547</title>
+      <itunes:title>טעמו וראו - 547</itunes:title>
+      <pubDate>Wed, 01 Jan 2025 18:12:00 +0000</pubDate>
+      <guid isPermaLink="false">842a4cfd-8b21-405c-ac4c-8d6344ba476c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--547</link>
+      <description>&lt;p&gt;למה בכו אלפי אנשים? - זאת חנוכה&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;למה בכו אלפי אנשים? - זאת חנוכה&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____-__547.mp3?dest-id=468609" length="3852893" type="audio/mpeg" />
+      <itunes:duration>04:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

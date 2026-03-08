@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
+    <title>Havineini - הבינני - שיעורים מיוחדים</title>
+    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    <language>en-us</language>
+    <copyright>Machon Havineini</copyright>
+    <docs>http://lomdotchasidut.libsyn.com/podcast</docs>
+    <itunes:summary>Daily Shiur</itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg</url>
+      <title>Havineini - הבינני</title>
+      <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    </image>
+    <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:category text="Education" />
+    <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Rabbi Shimon Spitzer</itunes:name>
+      <itunes:email>info@machonhavineini.com</itunes:email>
+    </itunes:owner>
+    <description>Daily Shiur</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords />
+    <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אנטווערפן - דרשה לנשים</title>
+      <itunes:title>אנטווערפן - דרשה לנשים</itunes:title>
+      <pubDate>Sun, 22 Sep 2024 13:21:27 +0000</pubDate>
+      <guid isPermaLink="false">1e1904d8-d7ff-486c-bc68-f96ae5364463</guid>
+      <link>https://lomdotchasidut.libsyn.com/cde2qd17gb28</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_-___2045.mp3?dest-id=468609" length="16464547" type="audio/mpeg" />
+      <itunes:duration>34:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/d/4/1/cd41fbc43c79d97e27a2322813b393ee/_-___2045.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>סעודה שלישית פרשת שופטים - ירושלים</title>
+      <itunes:title>סעודה שלישית פרשת שופטים - ירושלים</itunes:title>
+      <pubDate>Sun, 22 Sep 2024 13:21:13 +0000</pubDate>
+      <guid isPermaLink="false">67a428d9-86cf-4616-b9da-8597278dc4c8</guid>
+      <link>https://lomdotchasidut.libsyn.com/9i8s8nhmjklc</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____-__2049.mp3?dest-id=468609" length="39488351" type="audio/mpeg" />
+      <itunes:duration>01:49:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/4/7/3/44732cdd7a0119b6e55e3c100dce7605/____-__2049.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>דרשה בביהמ''ד בעלזא לונדון ט''ז אלול תשפ''ד</title>
+      <itunes:title>דרשה בביהמ''ד בעלזא לונדון ט''ז אלול תשפ''ד</itunes:title>
+      <pubDate>Sun, 22 Sep 2024 13:20:50 +0000</pubDate>
+      <guid isPermaLink="false">dfd93caa-c8f4-4fc8-99ca-0812730f68be</guid>
+      <link>https://lomdotchasidut.libsyn.com/dmtrroxx562o</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______2047.mp3?dest-id=468609" length="16351333" type="audio/mpeg" />
+      <itunes:duration>45:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/d/5/3/3d53e0398e64c64427a2322813b393ee/_______2047.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>אנטווערפן - דרשה לגברים באולם חבד</title>
+      <itunes:title>אנטווערפן - דרשה לגברים באולם חבד</itunes:title>
+      <pubDate>Sun, 22 Sep 2024 13:19:05 +0000</pubDate>
+      <guid isPermaLink="false">75da733a-0cff-418f-b83d-b0cb8ea18072</guid>
+      <link>https://lomdotchasidut.libsyn.com/dh621161uby8</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_-_____2043.mp3?dest-id=468609" length="19672227" type="audio/mpeg" />
+      <itunes:duration>54:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/1/0/a/310a3e10191a8df9e55e3c100dce7605/_-_____2043.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

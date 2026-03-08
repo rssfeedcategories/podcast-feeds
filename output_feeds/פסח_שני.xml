@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
+    <title>Havineini - הבינני - פסח שני</title>
+    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    <language>en-us</language>
+    <copyright>Machon Havineini</copyright>
+    <docs>http://lomdotchasidut.libsyn.com/podcast</docs>
+    <itunes:summary>Daily Shiur</itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg</url>
+      <title>Havineini - הבינני</title>
+      <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    </image>
+    <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:category text="Education" />
+    <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Rabbi Shimon Spitzer</itunes:name>
+      <itunes:email>info@machonhavineini.com</itunes:email>
+    </itunes:owner>
+    <description>Daily Shiur</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords />
+    <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>פסח שני - הבריאה מתחדש כשמשתוקקין לרוחניות</title>
+      <itunes:title>פסח שני - הבריאה מתחדש כשמשתוקקין לרוחניות</itunes:title>
+      <pubDate>Thu, 04 May 2023 09:53:49 +0000</pubDate>
+      <guid isPermaLink="false">e6ff261f-023c-471d-b048-46b209778257</guid>
+      <link>https://lomdotchasidut.libsyn.com/977yomow61s0</link>
+      <description>&lt;p style="text-align: center;"&gt;נלמד לזכות&lt;br /&gt; &lt;strong&gt;יודא אפרים פישל בן פעלא&lt;/strong&gt;&lt;br /&gt; לברכה ולהצלחה בכל הענינים&lt;/p&gt;</description>
+      <content:encoded>&lt;p style="text-align: center;"&gt;נלמד לזכות יודא אפרים פישל בן פעלא לברכה ולהצלחה בכל הענינים&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-_____1527.mp3?dest-id=468609" length="17365344" type="audio/mpeg" />
+      <itunes:duration>48:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/a/8/6/9a86c06b5b34862fe55e3c100dce7605/_____-___-_____1527.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
