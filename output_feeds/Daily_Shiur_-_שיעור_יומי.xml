@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 11:17:11 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 11:17:11 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>דרך ארץ קדמה לתורה - בעניני חינוך</title>
+      <itunes:title>דרך ארץ קדמה לתורה - בעניני חינוך</itunes:title>
+      <pubDate>Mon, 09 Mar 2026 11:02:00 +0000</pubDate>
+      <guid isPermaLink="false">c227970a-ce01-4eca-b1ff-494ed387bf3c</guid>
+      <link>https://lomdotchasidut.libsyn.com/a62h5hkpaal0</link>
+      <description>&lt;p&gt;יום ב' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_____-___5344.mp3?dest-id=468609" length="14572653" type="audio/mpeg" />
+      <itunes:duration>48:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>דרך ארץ קדמה לתורה</title>
       <itunes:title>דרך ארץ קדמה לתורה</itunes:title>
