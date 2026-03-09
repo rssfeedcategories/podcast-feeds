@@ -2,8 +2,8 @@ name: Update Podcast Feeds
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # Every 15 minutes - incremental (page 1 only)
-    - cron: '0 3 * * 0'      # Every Sunday at 3am UTC - full rebuild
+    - cron: '*/15 * * * *'   # Every 15 minutes - incremental
+    - cron: '0 3 * * 0'      # Every Sunday 3am UTC - full rebuild
   workflow_dispatch:
     inputs:
       mode:
@@ -35,8 +35,7 @@ jobs:
       - name: Run feed generator (scheduled)
         if: github.event_name == 'schedule'
         run: |
-          # Sunday 3am = full rebuild, everything else = incremental
-          DAY=$(date -u +%u)   # 7 = Sunday
+          DAY=$(date -u +%u)
           HOUR=$(date -u +%H)
           if [ "$DAY" = "7" ] && [ "$HOUR" = "03" ]; then
             echo "Weekly full rebuild..."
@@ -58,10 +57,16 @@ jobs:
             python generate_category_feeds.py
           fi
 
-      - name: Commit and push updated feeds
+      - name: Commit and push ONLY if feeds changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output_feeds/ checkpoint.json
-          git diff --staged --quiet || git commit -m "Auto-update feeds $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes detected — skipping commit."
+          else
+            CHANGED=$(git diff --staged --name-only | wc -l)
+            git commit -m "New episodes detected - updated $CHANGED file(s) $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "Pushed updates!"
+          fi
