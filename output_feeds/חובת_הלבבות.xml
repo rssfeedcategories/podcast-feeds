@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 11:49:38 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 11:49:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חובות הלבבות שער הביטחון שיעור #324 - תפקיד היהודי לשבח ולהודות - במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #324 - תפקיד היהודי לשבח ולהודות - במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל</itunes:title>
+      <pubDate>Tue, 10 Mar 2026 11:21:00 +0000</pubDate>
+      <guid isPermaLink="false">32662ac4-34eb-4d59-a998-7e872a0e21f3</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--324-1</link>
+      <description>&lt;p&gt;יום ג' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______324_-_____-______.mp3?dest-id=468609" length="20951949" type="audio/mpeg" />
+      <itunes:duration>58:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/2/8/c/c28ca48d1ee78d5716c3140a3186d450/______-______324_-_____-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #323 - מהו בחירה?</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #323 - מהו בחירה?</itunes:title>
