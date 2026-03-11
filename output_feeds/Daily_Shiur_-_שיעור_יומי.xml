@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 09 Mar 2026 11:17:11 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 11:17:11 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 11:28:12 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 11:28:12 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>דרך ארץ קדמה לתורה והשגחה פרטית</title>
+      <itunes:title>דרך ארץ קדמה לתורה והשגחה פרטית</itunes:title>
+      <pubDate>Wed, 11 Mar 2026 10:58:00 +0000</pubDate>
+      <guid isPermaLink="false">63f151a0-72e3-4492-bde6-475406e25102</guid>
+      <link>https://lomdotchasidut.libsyn.com/dbi7madpzkb3</link>
+      <description>&lt;p&gt;יום ד' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;שמעון יצחק בן חנה אסתר&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;מלכה מרים בת רחל דבורה&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;יואל שטרויס&lt;/strong&gt; הי"ו &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לזכות החתן שמעון יצחק בן חנה אסתר והכלה מלכה מרים בת רחל דבורה נדבת אבי החתן הר"ר יואל שטרויס הי"ו &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_______64883.mp3?dest-id=468609" length="14047753" type="audio/mpeg" />
+      <itunes:duration>46:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>דרך ארץ קדמה לתורה - בעניני חינוך</title>
       <itunes:title>דרך ארץ קדמה לתורה - בעניני חינוך</itunes:title>
