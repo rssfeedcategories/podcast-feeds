@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שבת קודש</title>
-    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 10:56:19 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:56:19 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עניני שבת קודש #99 - פיזור הנפש אינו דבר טבעי לאדם</title>
+      <itunes:title>עניני שבת קודש #99 - פיזור הנפש אינו דבר טבעי לאדם</itunes:title>
+      <pubDate>Thu, 12 Mar 2026 10:23:00 +0000</pubDate>
+      <guid isPermaLink="false">b174215e-9022-47f6-9b95-f0cc26de88e3</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--99-2</link>
+      <description>&lt;p&gt;יום ה' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת ויקהל פקודי תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-____99_-______.mp3?dest-id=468609" length="13041299" type="audio/mpeg" />
+      <itunes:duration>43:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/b/b/5/8bb551d5d1e94fa5d959afa2a1bf1c87/______-____99_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>עניני שבת קודש #98 - שמירת שבת מוחה עמלק</title>
       <itunes:title>עניני שבת קודש #98 - שמירת שבת מוחה עמלק</itunes:title>
