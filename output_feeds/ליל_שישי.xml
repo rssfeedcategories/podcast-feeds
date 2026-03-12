@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 21:34:58 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:34:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,36 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>העבודת ה' בשעת ירידה</title>
+      <itunes:title>העבודת ה' בשעת ירידה</itunes:title>
+      <pubDate>Thu, 12 Mar 2026 21:26:00 +0000</pubDate>
+      <guid isPermaLink="false">a23cadf2-0d91-49e3-b5b7-0473048531d2</guid>
+      <link>https://lomdotchasidut.libsyn.com/wnpjtumlved</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_____1538.mp3?dest-id=468609" length="7638070" type="audio/mpeg" />
+      <itunes:duration>25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/a/c/8/fac8b8b4ac46f5a8d959afa2a1bf1c87/________-_____1538.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>הרה"ג ר' יעקב קמינצקי זצ"ל</title>
+      <itunes:title>הרה"ג ר' יעקב קמינצקי זצ"ל</itunes:title>
+      <pubDate>Thu, 12 Mar 2026 21:26:00 +0000</pubDate>
+      <guid isPermaLink="false">ddc03661-5100-41d1-b66b-492536f74ad8</guid>
+      <link>https://lomdotchasidut.libsyn.com/ogn9t4phmgnf</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______2866.mp3?dest-id=468609" length="5367246" type="audio/mpeg" />
+      <itunes:duration>17:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/e/d/6/aed6e240b3bedba1d959afa2a1bf1c87/________-______2866.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>קריאת פרשת פרה אחרי פרשת כי תשא - חיזוק כוח האמונה</title>
       <itunes:title>קריאת פרשת פרה אחרי פרשת כי תשא - חיזוק כוח האמונה</itunes:title>

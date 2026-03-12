@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Sun, 08 Mar 2026 11:26:54 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 11:26:54 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 21:34:58 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:34:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הק' פרשת פקודי - היכולת להרגיש שלימות על ידי חיבור לכלל ישראל</title>
+      <itunes:title>אור החיים הק' פרשת פקודי - היכולת להרגיש שלימות על ידי חיבור לכלל ישראל</itunes:title>
+      <pubDate>Thu, 12 Mar 2026 21:18:00 +0000</pubDate>
+      <guid isPermaLink="false">f6b34e08-5cb8-4739-bea7-8f3a6700b2da</guid>
+      <link>https://lomdotchasidut.libsyn.com/a3uht7dzbqn0</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקהל פקודי תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-_________4553.mp3?dest-id=468609" length="13381090" type="audio/mpeg" />
+      <itunes:duration>44:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/0/7/7/c07794ca74258c2516c3140a3186d450/________-______-_________4553.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת כי תשא - "כי אני ה' מקדישכם" - קדושת השבת מתוך חילול</title>
       <itunes:title>אור החיים הקדוש פרשת כי תשא - "כי אני ה' מקדישכם" - קדושת השבת מתוך חילול</itunes:title>
