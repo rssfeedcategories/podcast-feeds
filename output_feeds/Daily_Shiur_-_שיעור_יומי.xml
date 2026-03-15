@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 11 Mar 2026 11:28:12 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 11:28:12 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 10:11:48 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 10:11:48 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,35 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1003 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ח' ח"א</title>
+      <itunes:title>הבינני בהלכה #1003 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ח' ח"א</itunes:title>
+      <pubDate>Sun, 15 Mar 2026 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">73516e14-f4be-4a56-b54f-42666074ac27</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1003</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1003_-__________.mp3?dest-id=468609" length="4831470" type="audio/mpeg" />
+      <itunes:duration>15:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/f/3/6/6f36bde8faa248d4d959afa2a1bf1c87/__1003_-__________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>בחירה לצאת מהבחירה</title>
+      <itunes:title>בחירה לצאת מהבחירה</itunes:title>
+      <pubDate>Sun, 15 Mar 2026 09:55:00 +0000</pubDate>
+      <guid isPermaLink="false">284a2adb-0966-41d3-a113-1bd539e6f819</guid>
+      <link>https://lomdotchasidut.libsyn.com/2bikaxohdbzh</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____9577.mp3?dest-id=468609" length="13777647" type="audio/mpeg" />
+      <itunes:duration>45:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>דרך ארץ קדמה לתורה והשגחה פרטית</title>
       <itunes:title>דרך ארץ קדמה לתורה והשגחה פרטית</itunes:title>
