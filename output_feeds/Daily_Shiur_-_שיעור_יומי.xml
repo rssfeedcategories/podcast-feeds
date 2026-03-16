@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 15 Mar 2026 10:11:48 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 10:11:48 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 10:53:29 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:53:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>המעלה הגדולה בהבנת פשטות התורה</title>
+      <itunes:title>המעלה הגדולה בהבנת פשטות התורה</itunes:title>
+      <pubDate>Mon, 16 Mar 2026 10:43:00 +0000</pubDate>
+      <guid isPermaLink="false">f57fae02-519a-4a2c-adff-117db761db7b</guid>
+      <link>https://lomdotchasidut.libsyn.com/blrbvk7y65yx</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______4335.mp3?dest-id=468609" length="13259217" type="audio/mpeg" />
+      <itunes:duration>44:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>הבינני בהלכה #1003 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ח' ח"א</title>
       <itunes:title>הבינני בהלכה #1003 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ח' ח"א</itunes:title>
