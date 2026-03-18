@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 16 Mar 2026 10:53:29 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 10:53:29 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 11:37:04 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 11:37:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תכלית המועדים</title>
+      <itunes:title>תכלית המועדים</itunes:title>
+      <pubDate>Wed, 18 Mar 2026 11:28:00 +0000</pubDate>
+      <guid isPermaLink="false">f5138617-42e2-4ca0-be57-8f1825450ea7</guid>
+      <link>https://lomdotchasidut.libsyn.com/qbxzpe88e039</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___12344.mp3?dest-id=468609" length="14877657" type="audio/mpeg" />
+      <itunes:duration>49:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>המעלה הגדולה בהבנת פשטות התורה</title>
       <itunes:title>המעלה הגדולה בהבנת פשטות התורה</itunes:title>
