@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 12 Mar 2026 21:34:58 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 21:34:58 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 19:48:20 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 19:48:20 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,34 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חיזוק לקושי הפרנסה בימים אלו</title>
+      <itunes:title>חיזוק לקושי הפרנסה בימים אלו</itunes:title>
+      <pubDate>Thu, 19 Mar 2026 19:41:00 +0000</pubDate>
+      <guid isPermaLink="false">70b8ba26-8b5a-407c-b14a-a6bf972e2e03</guid>
+      <link>https://lomdotchasidut.libsyn.com/k4l79u0s57ka</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______35853.mp3?dest-id=468609" length="4979206" type="audio/mpeg" />
+      <itunes:duration>16:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>עצות לא ליפול לידי כעס בימים אלו</title>
+      <itunes:title>עצות לא ליפול לידי כעס בימים אלו</itunes:title>
+      <pubDate>Thu, 19 Mar 2026 19:32:00 +0000</pubDate>
+      <guid isPermaLink="false">99636f18-cda8-4e74-8032-67892bf3771f</guid>
+      <link>https://lomdotchasidut.libsyn.com/4lz4lhmq8kq5</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-________15774.mp3?dest-id=468609" length="7075402" type="audio/mpeg" />
+      <itunes:duration>23:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>העבודת ה' בשעת ירידה</title>
       <itunes:title>העבודת ה' בשעת ירידה</itunes:title>

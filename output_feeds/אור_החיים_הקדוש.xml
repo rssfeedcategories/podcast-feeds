@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Thu, 12 Mar 2026 21:34:58 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 21:34:58 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 19:48:20 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 19:48:20 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת ויקרא - הקושי בקירוב אנשים ולמה הוא כקרבן לפני השם</title>
+      <itunes:title>אור החיים הקדוש פרשת ויקרא - הקושי בקירוב אנשים ולמה הוא כקרבן לפני השם</itunes:title>
+      <pubDate>Thu, 19 Mar 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">b3faf96f-6e77-4c00-b392-4749458c4aed</guid>
+      <link>https://lomdotchasidut.libsyn.com/occr1n62gver</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויקרא תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-_________19555.mp3?dest-id=468609" length="14177704" type="audio/mpeg" />
+      <itunes:duration>47:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>אור החיים הק' פרשת פקודי - היכולת להרגיש שלימות על ידי חיבור לכלל ישראל</title>
       <itunes:title>אור החיים הק' פרשת פקודי - היכולת להרגיש שלימות על ידי חיבור לכלל ישראל</itunes:title>
