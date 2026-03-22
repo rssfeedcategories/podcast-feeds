@@ -2,20 +2,15 @@
 """
 generate_category_feeds.py
 ==========================
-Smart RSS feed generator with three modes:
+  INCREMENTAL (--incremental, default if checkpoint exists):
+    - Checks page 1 of each category for new episodes only
+    - Only commits if something actually changed
 
-  AUTO (default):
-    - If checkpoint.json exists -> INCREMENTAL (checks page 1 only)
-    - If no checkpoint.json -> FULL (first time only)
-
-  INCREMENTAL (--incremental):
-    - Checks only page 1 of each category for new episodes
-    - Only updates XML and checkpoint if new episodes found
-    - No changes = no commits to GitHub
-
-  FULL (--full):
-    - Fetches every page of every category
-    - Full rebuild of all XML feeds
+  FULL (--full, runs daily at 3am UTC via GitHub Actions):
+    - Fetches ALL pages of every category from scratch
+    - Completely rebuilds every XML feed
+    - Catches added, removed, AND moved episodes
+    - Always saves and commits results
 
 Requirements:
     pip install requests openpyxl
@@ -46,7 +41,7 @@ REQUEST_DELAY  = 0.5
 # ──────────────────────────────────────────────────────────────────────────────
 
 
-def normalize(text: str) -> str:
+def normalize(text):
     text = (text or "")
     text = text.replace('\u201c', '"').replace('\u201d', '"')
     text = text.replace('\u2018', "'").replace('\u2019', "'")
@@ -54,13 +49,13 @@ def normalize(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip().lower()
 
 
-def safe_filename(name: str) -> str:
+def safe_filename(name):
     name = re.sub(r'[<>:"/\\|?*]', '', name)
     name = re.sub(r'\s+', '_', name.strip())
     return name[:80] or "category"
 
 
-def load_categories(excel_path: str) -> list:
+def load_categories(excel_path):
     wb = openpyxl.load_workbook(excel_path)
     ws = wb.active
     cats = []
@@ -71,7 +66,7 @@ def load_categories(excel_path: str) -> list:
     return cats
 
 
-def category_url_to_json_api(page_url: str, page_num: int) -> str:
+def category_url_to_json_api(page_url, page_num):
     parsed = urlparse(page_url)
     path = parsed.path.rstrip("/")
     new_path = path.replace("/podcast/category/", f"/podcast/page/{page_num}/category/", 1)
@@ -79,7 +74,7 @@ def category_url_to_json_api(page_url: str, page_num: int) -> str:
     return urlunparse(parsed._replace(path=new_path, query=""))
 
 
-def fetch_page(url: str, referer: str, page_num: int) -> list:
+def fetch_page(url, referer, page_num):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "application/json, text/javascript, */*",
@@ -100,7 +95,8 @@ def fetch_page(url: str, referer: str, page_num: int) -> list:
         return []
 
 
-def fetch_all_titles_full(category_url: str) -> set:
+def fetch_all_titles(category_url):
+    """Fetch every page until empty. Returns complete set of titles."""
     titles = set()
     page = 1
     while True:
@@ -118,21 +114,19 @@ def fetch_all_titles_full(category_url: str) -> set:
     return titles
 
 
-def fetch_new_titles_incremental(category_url: str, known_titles: set) -> set:
-    """Check page 1 only. Returns ONLY titles not already known."""
+def fetch_page1_titles(category_url):
+    """Fetch page 1 only. Returns titles found."""
     api_url = category_url_to_json_api(category_url, 1)
     data = fetch_page(api_url, category_url, 1)
-    new_titles = set()
+    titles = set()
     for ep in data:
         t = ep.get("item_title", "")
         if t:
-            norm = normalize(t)
-            if norm not in known_titles:
-                new_titles.add(norm)
-    return new_titles
+            titles.add(normalize(t))
+    return titles
 
 
-def load_checkpoint() -> dict:
+def load_checkpoint():
     if CHECKPOINT.exists():
         try:
             return json.loads(CHECKPOINT.read_text(encoding="utf-8"))
@@ -141,14 +135,14 @@ def load_checkpoint() -> dict:
     return {}
 
 
-def save_checkpoint(data: dict):
+def save_checkpoint(data):
     CHECKPOINT.write_text(
         json.dumps(data, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
 
-def build_checkpoint_from_existing_feeds(categories: list, item_title_map: list) -> dict:
+def build_checkpoint_from_existing_feeds(categories):
     print("\nBuilding checkpoint from existing XML files...")
     checkpoint = {}
     for cat_name, _ in categories:
@@ -171,7 +165,7 @@ def build_checkpoint_from_existing_feeds(categories: list, item_title_map: list)
     return checkpoint
 
 
-def fetch_master_rss(url: str) -> ET.Element:
+def fetch_master_rss(url):
     print(f"Fetching master RSS: {url}")
     headers = {"User-Agent": "Mozilla/5.0 (compatible; RSSCategoryBuilder/1.0)"}
     try:
@@ -214,6 +208,18 @@ def write_feed(root, path):
     tree.write(str(path), encoding="utf-8", xml_declaration=True)
 
 
+def match_titles(all_titles, item_title_map):
+    matched = [item for (norm_title, item) in item_title_map
+               if norm_title in all_titles]
+    if not matched:
+        matched = [
+            item for (norm_title, item) in item_title_map
+            if any(pt in norm_title or norm_title in pt
+                   for pt in all_titles if len(pt) > 8)
+        ]
+    return matched
+
+
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -249,72 +255,86 @@ def main():
     # ── Load or build checkpoint ───────────────────────────────────────────────
     checkpoint = load_checkpoint()
     if not checkpoint and any(OUTPUT_DIR.glob("*.xml")):
-        checkpoint = build_checkpoint_from_existing_feeds(categories, item_title_map)
-        mode = "INCREMENTAL"
-        print("Existing XML files found — switching to INCREMENTAL mode.\n")
+        checkpoint = build_checkpoint_from_existing_feeds(categories)
+        if mode != "FULL":
+            mode = "INCREMENTAL"
+            print("Existing XML files found — using INCREMENTAL mode.\n")
 
+    new_checkpoint = {}
     summary = []
-    new_checkpoint = dict(checkpoint)
-    total_new = 0  # track globally if anything changed
+    anything_changed = False
 
     for i, (cat_name, cat_url) in enumerate(categories, 1):
         print(f"\n[{i}/{len(categories)}] {cat_name}")
         known_titles = set(checkpoint.get(cat_name, []))
 
         if mode == "FULL":
-            all_titles = fetch_all_titles_full(cat_url)
-            new_titles = all_titles - known_titles
-        else:
-            # INCREMENTAL: only fetch page 1, only get genuinely new titles
-            new_titles = fetch_new_titles_incremental(cat_url, known_titles)
-            all_titles = known_titles | new_titles
+            # Fetch everything from scratch — ignores checkpoint completely
+            current_titles = fetch_all_titles(cat_url)
+            added   = current_titles - known_titles
+            removed = known_titles - current_titles
+            changed = len(added) + len(removed)
 
-        if new_titles:
-            print(f"   +{len(new_titles)} NEW episode(s) found: {list(new_titles)[:3]}")
-            total_new += len(new_titles)
-        else:
-            print(f"   No new episodes.")
+            if added:
+                print(f"   +{len(added)} added")
+            if removed:
+                print(f"   -{len(removed)} removed/moved")
+            if not changed:
+                print(f"   No changes.")
 
-        # Only update checkpoint and XML if something changed
-        if new_titles or mode == "FULL":
-            new_checkpoint[cat_name] = list(all_titles)
-
-            matched = [item for (norm_title, item) in item_title_map
-                       if norm_title in all_titles]
-
-            if not matched:
-                matched = [
-                    item for (norm_title, item) in item_title_map
-                    if any(pt in norm_title or norm_title in pt
-                           for pt in all_titles if len(pt) > 8)
-                ]
-
-            print(f"   {len(matched)} episode(s) in feed")
-
+            # Always write XML in full mode
+            new_checkpoint[cat_name] = list(current_titles)
+            matched = match_titles(current_titles, item_title_map)
+            print(f"   {len(matched)} episodes in feed")
             if matched:
                 feed_root = build_category_feed(master_root, matched, cat_name)
                 out_path  = OUTPUT_DIR / f"{safe_filename(cat_name)}.xml"
                 write_feed(feed_root, out_path)
-                if new_titles:
+                print(f"   Saved -> {out_path}")
+            anything_changed = True  # always commit in full mode
+
+            summary.append((cat_name, len(matched), len(added), len(removed)))
+
+        else:
+            # INCREMENTAL: check page 1 for new episodes only
+            page1_titles = fetch_page1_titles(cat_url)
+            new_titles = page1_titles - known_titles
+
+            if new_titles:
+                print(f"   +{len(new_titles)} NEW: {list(new_titles)[:2]}")
+                all_titles = known_titles | new_titles
+                new_checkpoint[cat_name] = list(all_titles)
+                matched = match_titles(all_titles, item_title_map)
+                print(f"   {len(matched)} episodes in feed")
+                if matched:
+                    feed_root = build_category_feed(master_root, matched, cat_name)
+                    out_path  = OUTPUT_DIR / f"{safe_filename(cat_name)}.xml"
+                    write_feed(feed_root, out_path)
                     print(f"   Updated -> {out_path}")
+                anything_changed = True
+                summary.append((cat_name, len(matched), len(new_titles), 0))
+            else:
+                print(f"   No new episodes.")
+                new_checkpoint[cat_name] = list(known_titles)
+                summary.append((cat_name, len(known_titles), 0, 0))
 
-        summary.append((cat_name, len(all_titles & set(t for t, _ in item_title_map)), len(new_titles)))
-
-    # ── Only save checkpoint if something actually changed ─────────────────────
-    if total_new > 0 or mode == "FULL":
+    # ── Save checkpoint ────────────────────────────────────────────────────────
+    if anything_changed:
         save_checkpoint(new_checkpoint)
-        print(f"\nCheckpoint updated ({total_new} new episodes total).")
+        print(f"\nCheckpoint saved.")
     else:
-        print(f"\nNo new episodes found — checkpoint unchanged, no commit needed.")
+        print(f"\nNo changes — skipping checkpoint save and commit.")
 
+    # ── Summary ────────────────────────────────────────────────────────────────
     print("\n" + "=" * 60)
     print(f"SUMMARY  ({mode} mode)")
     print("=" * 60)
-    for cat_name, count, new in summary:
-        new_str = f"  (+{new} NEW)" if new > 0 else ""
-        print(f"  {'**' if new else '  '}  {cat_name}: {count} episode(s){new_str}")
-    print(f"\nTotal new episodes detected: {total_new}")
-    print(f"Done! Output: {OUTPUT_DIR.resolve()}/")
+    for cat_name, count, added, removed in summary:
+        flags = ""
+        if added:   flags += f" +{added}"
+        if removed: flags += f" -{removed}"
+        print(f"  {cat_name}: {count} episodes{flags}")
+    print(f"\nDone! Output: {OUTPUT_DIR.resolve()}/")
 
 
 if __name__ == "__main__":

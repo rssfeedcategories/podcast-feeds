@@ -3,16 +3,15 @@ name: Update Podcast Feeds
 on:
   schedule:
     - cron: '*/15 * * * *'   # Every 15 minutes - incremental
-    - cron: '0 3 * * 0'      # Every Sunday 3am UTC - full rebuild
+    - cron: '0 3 * * *'      # Every day at 3am UTC - full rebuild
   workflow_dispatch:
     inputs:
       mode:
         description: 'Run mode'
         required: false
-        default: 'auto'
+        default: 'incremental'
         type: choice
         options:
-          - auto
           - incremental
           - full
 
@@ -32,29 +31,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests openpyxl
 
-      - name: Run feed generator (scheduled)
-        if: github.event_name == 'schedule'
-        run: |
-          DAY=$(date -u +%u)
-          HOUR=$(date -u +%H)
-          if [ "$DAY" = "7" ] && [ "$HOUR" = "03" ]; then
-            echo "Weekly full rebuild..."
-            python generate_category_feeds.py --full
-          else
-            echo "Incremental update..."
-            python generate_category_feeds.py --incremental
-          fi
+      - name: Run incremental update (every 15 min)
+        if: github.event_name == 'schedule' && github.event.schedule == '*/15 * * * *'
+        run: python generate_category_feeds.py --incremental
 
-      - name: Run feed generator (manual trigger)
+      - name: Run full rebuild (daily 3am)
+        if: github.event_name == 'schedule' && github.event.schedule == '0 3 * * *'
+        run: python generate_category_feeds.py --full
+
+      - name: Run manual trigger
         if: github.event_name == 'workflow_dispatch'
         run: |
-          MODE="${{ github.event.inputs.mode }}"
-          if [ "$MODE" = "full" ]; then
+          if [ "${{ github.event.inputs.mode }}" = "full" ]; then
             python generate_category_feeds.py --full
-          elif [ "$MODE" = "incremental" ]; then
-            python generate_category_feeds.py --incremental
           else
-            python generate_category_feeds.py
+            python generate_category_feeds.py --incremental
           fi
 
       - name: Commit and push ONLY if feeds changed
@@ -63,10 +54,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output_feeds/ checkpoint.json
           if git diff --staged --quiet; then
-            echo "No changes detected — skipping commit."
+            echo "No changes — skipping commit."
           else
             CHANGED=$(git diff --staged --name-only | wc -l)
-            git commit -m "New episodes detected - updated $CHANGED file(s) $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "Feed update - $CHANGED file(s) $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
-            echo "Pushed updates!"
+            echo "Pushed!"
           fi
