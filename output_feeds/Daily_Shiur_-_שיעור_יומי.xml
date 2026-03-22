@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 19 Mar 2026 14:32:43 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 14:32:43 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2026 12:09:53 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 12:09:53 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>פסח - לידת כלל לישראל</title>
+      <itunes:title>פסח - לידת כלל לישראל</itunes:title>
+      <pubDate>Sun, 22 Mar 2026 11:47:00 +0000</pubDate>
+      <guid isPermaLink="false">e11b2ff6-9e8a-413b-b79b-13ab557740b5</guid>
+      <link>https://lomdotchasidut.libsyn.com/lrl95p03fymq</link>
+      <description>&lt;p&gt;יום א' פרשת צו תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; האה"ח מרת &lt;strong&gt;לאה&lt;/strong&gt; ב"ר &lt;strong&gt;פנחס נתן&lt;/strong&gt; ע"ה&lt;br /&gt; לא השאירה אחריה זש"ק&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת צו תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לע"נ האה"ח מרת לאה ב"ר פנחס נתן ע"ה לא השאירה אחריה זש"ק&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-__-____32883.mp3?dest-id=468609" length="15210196" type="audio/mpeg" />
+      <itunes:duration>50:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>ימי ניסן - חידשו הבריאה למעשה</title>
       <itunes:title>ימי ניסן - חידשו הבריאה למעשה</itunes:title>
