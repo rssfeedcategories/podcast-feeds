@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 22 Mar 2026 12:09:53 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 12:09:53 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 10:05:39 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:05:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,82 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להתאפק מלדבר לפני שמדברים להקב"ה</title>
+      <itunes:title>להתאפק מלדבר לפני שמדברים להקב"ה</itunes:title>
+      <pubDate>Sun, 19 Apr 2026 09:57:00 +0000</pubDate>
+      <guid isPermaLink="false">dec2b6b1-9a77-43f4-99db-128bffb0e1f9</guid>
+      <link>https://lomdotchasidut.libsyn.com/6byjs7ac6k5z</link>
+      <description>&lt;p&gt;יום א' פרשת אחרי קדושים תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת אחרי קדושים תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_____3433.mp3?dest-id=468609" length="13423557" type="audio/mpeg" />
+      <itunes:duration>44:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/0/b/f/20bf8b1accadf671d959afa2a1bf1c87/______-_____3433.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>שינוי המח והלב לישרות ונעימות ואמת</title>
+      <itunes:title>שינוי המח והלב לישרות ונעימות ואמת</itunes:title>
+      <pubDate>Wed, 15 Apr 2026 09:52:00 +0000</pubDate>
+      <guid isPermaLink="false">b5b410d1-6d55-4fb6-bc98-319c8e9b3700</guid>
+      <link>https://lomdotchasidut.libsyn.com/onam15ofhnsh</link>
+      <description>&lt;p&gt;יום ד' פרשת תזריע טהרה תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;שלמה בערל&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל הולדת בניו התאומים למזל"ט&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;אהרן בערגער&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל הולדת בנו למזל"ט&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת תזריע טהרה תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נדבת הר"ר שלמה בערל הי"ו לרגל הולדת בניו התאומים למזל"ט&lt;/p&gt; &lt;p&gt;נדבת הר"ר אהרן בערגער הי"ו לרגל הולדת בנו למזל"ט&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_______15445.mp3?dest-id=468609" length="13317628" type="audio/mpeg" />
+      <itunes:duration>44:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>הדמיון בין ה'דיבור' ל'בונה בנין'</title>
+      <itunes:title>הדמיון בין ה'דיבור' ל'בונה בנין'</itunes:title>
+      <pubDate>Mon, 13 Apr 2026 10:04:00 +0000</pubDate>
+      <guid isPermaLink="false">c7b26d97-1dc7-4316-adcc-93925ff29b4c</guid>
+      <link>https://lomdotchasidut.libsyn.com/q0hn8yc380vo</link>
+      <description>&lt;p&gt;יום ב' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______13287.mp3?dest-id=468609" length="13015144" type="audio/mpeg" />
+      <itunes:duration>43:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>למה כל כך קשה להתאפק מלדבר דברים בטלים?</title>
+      <itunes:title>למה כל כך קשה להתאפק מלדבר דברים בטלים?</itunes:title>
+      <pubDate>Sun, 12 Apr 2026 09:42:00 +0000</pubDate>
+      <guid isPermaLink="false">fea0ea3b-0f01-4808-a947-b4e444e898ba</guid>
+      <link>https://lomdotchasidut.libsyn.com/1xn0h58opc40</link>
+      <description>&lt;p&gt;יום א' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_________4571.mp3?dest-id=468609" length="13307736" type="audio/mpeg" />
+      <itunes:duration>44:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>אסרו חג - איך אפשר להביא גאולת מצרים בכל יום ויום</title>
+      <itunes:title>אסרו חג - איך אפשר להביא גאולת מצרים בכל יום ויום</itunes:title>
+      <pubDate>Thu, 09 Apr 2026 10:17:00 +0000</pubDate>
+      <guid isPermaLink="false">458679cc-a6e4-47a0-9bcf-eb914aa6c2de</guid>
+      <link>https://lomdotchasidut.libsyn.com/nb2xllnwial1</link>
+      <description>&lt;p&gt;יום ה' פרשת שמיני תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת שמיני תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-_________4377.mp3?dest-id=468609" length="15040148" type="audio/mpeg" />
+      <itunes:duration>50:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>פסח - לידת כלל לישראל</title>
       <itunes:title>פסח - לידת כלל לישראל</itunes:title>

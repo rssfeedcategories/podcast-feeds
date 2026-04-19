@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Sun, 22 Mar 2026 12:09:53 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 12:09:53 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 10:05:39 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:05:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,37 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת טהרה - ראיית העולם עם מבט אחר</title>
+      <itunes:title>אור החיים הקדוש פרשת טהרה - ראיית העולם עם מבט אחר</itunes:title>
+      <pubDate>Thu, 16 Apr 2026 18:58:00 +0000</pubDate>
+      <guid isPermaLink="false">90e8fa39-0a99-4f34-98d2-2f3f0f06933c</guid>
+      <link>https://lomdotchasidut.libsyn.com/k4yk8u2j6nxa</link>
+      <description>&lt;p&gt;ליל שישי פרשת תזריע טהרה תשפ"ו&lt;/p&gt; &lt;p&gt;נמסר בבית הכנסת קרלין בעיה"ק טבריה - מעל ביתו של הרה"ק מוויטעפסק זצוק"ל&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת תזריע טהרה תשפ"ו&lt;/p&gt; &lt;p&gt;נמסר בבית הכנסת קרלין בעיה"ק טבריה - מעל ביתו של הרה"ק מוויטעפסק זצוק"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-______1245.mp3?dest-id=468609" length="13551081" type="audio/mpeg" />
+      <itunes:duration>45:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/e/c/1/1ec1a88d711077bad959afa2a1bf1c87/________-______-______1245.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>אור החיים הקדוש פרשת שמיני - ההצלחה של האדם - בטל רצונך מפני רצונו!</title>
+      <itunes:title>אור החיים הקדוש פרשת שמיני - ההצלחה של האדם - בטל רצונך מפני רצונו!</itunes:title>
+      <pubDate>Thu, 09 Apr 2026 22:36:00 +0000</pubDate>
+      <guid isPermaLink="false">c22ff136-a9bd-4e75-a289-9775589de379</guid>
+      <link>https://lomdotchasidut.libsyn.com/aw8zx8moexay</link>
+      <description>&lt;p&gt;ליל שישי פרשת שמיני תשפ"ו - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שמיני תשפ"ו - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______-____-_____9835.mp3?dest-id=468609" length="11405107" type="audio/mpeg" />
+      <itunes:duration>38:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת ויקרא - הקושי בקירוב אנשים ולמה הוא כקרבן לפני השם</title>
       <itunes:title>אור החיים הקדוש פרשת ויקרא - הקושי בקירוב אנשים ולמה הוא כקרבן לפני השם</itunes:title>

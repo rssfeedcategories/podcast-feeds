@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
+    <title>Havineini - הבינני - ספר חפץ חיים</title>
+    <pubDate>Sun, 19 Apr 2026 10:05:39 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:05:39 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    <language>en-us</language>
+    <copyright>Machon Havineini</copyright>
+    <docs>http://lomdotchasidut.libsyn.com/podcast</docs>
+    <itunes:summary>Daily Shiur</itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg</url>
+      <title>Havineini - הבינני</title>
+      <link>http://lomdotchasidut.libsyn.com/podcast</link>
+    </image>
+    <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism" />
+    </itunes:category>
+    <itunes:category text="Education" />
+    <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/7/b8678f93a486a715d959afa2a1bf1c87/_App_Button__1.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Rabbi Shimon Spitzer</itunes:name>
+      <itunes:email>info@machonhavineini.com</itunes:email>
+    </itunes:owner>
+    <description>Daily Shiur</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords />
+    <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #4 - הקדמה חלק ד', וּמֵאָז וְעַד עַתָּה</title>
+      <itunes:title>ספר חפץ חיים שיעור #4 - הקדמה חלק ד', וּמֵאָז וְעַד עַתָּה</itunes:title>
+      <pubDate>Sun, 19 Apr 2026 07:07:00 +0000</pubDate>
+      <guid isPermaLink="false">5cc5a59f-b287-415f-9511-4d2914ef247b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--4-6</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____4_-______.mp3?dest-id=468609" length="2686353" type="audio/mpeg" />
+      <itunes:duration>07:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/f/0/d/1f0da820d6afb540d959afa2a1bf1c87/____4_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>ספר חפץ חיים שיעור #3 - הקדמה חלק ג', וְאַף בִּימֵי בַּיִת שֵׁנִי</title>
+      <itunes:title>ספר חפץ חיים שיעור #3 - הקדמה חלק ג', וְאַף בִּימֵי בַּיִת שֵׁנִי</itunes:title>
+      <pubDate>Thu, 16 Apr 2026 06:56:00 +0000</pubDate>
+      <guid isPermaLink="false">490791ac-1fe8-4564-9d64-2c2670f220a7</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--3-8</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____3_-_______.mp3?dest-id=468609" length="3568769" type="audio/mpeg" />
+      <itunes:duration>09:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/0/4/3/e04348e68e10d189d959afa2a1bf1c87/____3_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>ספר חפץ חיים שיעור #2 - הקדמה חלק ב', לֹא דַּי בָּזֶה</title>
+      <itunes:title>ספר חפץ חיים שיעור #2 - הקדמה חלק ב', לֹא דַּי בָּזֶה</itunes:title>
+      <pubDate>Wed, 15 Apr 2026 18:15:00 +0000</pubDate>
+      <guid isPermaLink="false">825f9ba5-6de9-4ff0-a061-aceea6a17d5c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--2-9</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____2_-_______74.mp3?dest-id=468609" length="3513912" type="audio/mpeg" />
+      <itunes:duration>09:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/c/d/2/dcd2e4b354eaab1dd959afa2a1bf1c87/____2_-_______74.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>ספר חפץ חיים שיעור #1 - הקדמה חלק א', בָּרוּךְ ה' אֱלֹהֵי יִשְׂרָאֵל</title>
+      <itunes:title>ספר חפץ חיים שיעור #1 - הקדמה חלק א', בָּרוּךְ ה' אֱלֹהֵי יִשְׂרָאֵל</itunes:title>
+      <pubDate>Tue, 14 Apr 2026 16:04:00 +0000</pubDate>
+      <guid isPermaLink="false">2ed7fa91-757e-434e-88e9-2ad2b12708cf</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1-7</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____1_-_______.mp3?dest-id=468609" length="3082892" type="audio/mpeg" />
+      <itunes:duration>08:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/b/1/c/7b1c2e92b1e26cffd959afa2a1bf1c87/____1_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+  </channel>
+</rss>

@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שבת קודש</title>
-    <pubDate>Sun, 22 Mar 2026 12:09:53 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 12:09:53 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 10:05:39 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:05:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עניני שבת קודש #100 - מה אני רוצה להעביר לילדים במשך סעודת שבת</title>
+      <itunes:title>עניני שבת קודש #100 - מה אני רוצה להעביר לילדים במשך סעודת שבת</itunes:title>
+      <pubDate>Thu, 16 Apr 2026 10:17:00 +0000</pubDate>
+      <guid isPermaLink="false">4e401d52-7a4b-469d-9879-5e5d04a9de2c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--100-1</link>
+      <description>&lt;p&gt;יום ה' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת תזריע טהרה תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-____100_-________.mp3?dest-id=468609" length="13891344" type="audio/mpeg" />
+      <itunes:duration>46:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/7/7/5/477514d0a5f06fbb16c3140a3186d450/______-____100_-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>עניני שבת קודש #99 - פיזור הנפש אינו דבר טבעי לאדם</title>
       <itunes:title>עניני שבת קודש #99 - פיזור הנפש אינו דבר טבעי לאדם</itunes:title>
