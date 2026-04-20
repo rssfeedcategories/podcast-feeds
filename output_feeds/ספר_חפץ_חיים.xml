@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 19 Apr 2026 10:05:39 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2026 10:05:39 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 10:37:30 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:37:30 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #5 - הקדמה חלק ה', וְכַאֲשֶׁר נַחְפְּשָׂה דְּרָכֵינוּ וְנַחְקֹרָה</title>
+      <itunes:title>ספר חפץ חיים שיעור #5 - הקדמה חלק ה', וְכַאֲשֶׁר נַחְפְּשָׂה דְּרָכֵינוּ וְנַחְקֹרָה</itunes:title>
+      <pubDate>Mon, 20 Apr 2026 09:16:00 +0000</pubDate>
+      <guid isPermaLink="false">eac7a367-1e73-42f2-819b-2c5ed0895789</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--5-4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____5_-_______.mp3?dest-id=468609" length="3390248" type="audio/mpeg" />
+      <itunes:duration>09:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/c/d/4/ecd49f2d419f2e63d959afa2a1bf1c87/____5_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #4 - הקדמה חלק ד', וּמֵאָז וְעַד עַתָּה</title>
       <itunes:title>ספר חפץ חיים שיעור #4 - הקדמה חלק ד', וּמֵאָז וְעַד עַתָּה</itunes:title>
