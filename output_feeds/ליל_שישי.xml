@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 22 Apr 2026 21:29:28 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 21:29:28 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 23:00:33 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:00:33 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ביאור עמוק בענין דמות דיוקנו של אביו</title>
+      <itunes:title>ביאור עמוק בענין דמות דיוקנו של אביו</itunes:title>
+      <pubDate>Thu, 23 Apr 2026 22:47:00 +0000</pubDate>
+      <guid isPermaLink="false">7aa7ed56-bcd1-4565-8503-829fb38d48be</guid>
+      <link>https://lomdotchasidut.libsyn.com/7dfihswkgp0i</link>
+      <description>&lt;p&gt;ליל שישי פרשת אחרי קדושים תשפ"ו - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת אחרי קדושים תשפ"ו - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-________9532.mp3?dest-id=468609" length="3171029" type="audio/mpeg" />
+      <itunes:duration>10:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/f/8/6/9f86ea8df9580eea16c3140a3186d450/________-________9532.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>החשיבות של לימוד בספר חסידי</title>
       <itunes:title>החשיבות של לימוד בספר חסידי</itunes:title>
