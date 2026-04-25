@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Thu, 23 Apr 2026 23:00:33 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2026 23:00:33 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 20:28:34 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 20:28:34 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,37 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת תענית דף י"ז</title>
+      <itunes:title>תלמוד ירושלמי - מסכת תענית דף י"ז</itunes:title>
+      <pubDate>Sat, 25 Apr 2026 20:19:00 +0000</pubDate>
+      <guid isPermaLink="false">a11a0b5d-bc8a-402b-9276-6f795c916eae</guid>
+      <link>https://lomdotchasidut.libsyn.com/80w5e7ppxaiw</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/017_____.mp3?dest-id=468609" length="14397321" type="audio/mpeg" />
+      <itunes:duration>40:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת תענית דף ט"ז</title>
+      <itunes:title>תלמוד ירושלמי - מסכת תענית דף ט"ז</itunes:title>
+      <pubDate>Sat, 25 Apr 2026 20:13:00 +0000</pubDate>
+      <guid isPermaLink="false">46b5c4dc-2a0c-43f0-a56d-8aa6b8897230</guid>
+      <link>https://lomdotchasidut.libsyn.com/9ewbfz85izdv</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/016_____.mp3?dest-id=468609" length="16259291" type="audio/mpeg" />
+      <itunes:duration>38:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/4/d/a/64dacd86f297058416c3140a3186d450/016_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת תענית דף ט"ו</title>
       <itunes:title>תלמוד ירושלמי - מסכת תענית דף ט"ו</itunes:title>
