@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Sat, 25 Apr 2026 20:28:34 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 20:28:34 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 10:05:43 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 10:05:43 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת תענית דף י"ח</title>
+      <itunes:title>תלמוד ירושלמי - מסכת תענית דף י"ח</itunes:title>
+      <pubDate>Sun, 26 Apr 2026 09:22:00 +0000</pubDate>
+      <guid isPermaLink="false">c151087b-ec5b-473d-978a-634cff85011f</guid>
+      <link>https://lomdotchasidut.libsyn.com/nxbnnixqk7ax</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/018_____.mp3?dest-id=468609" length="11486355" type="audio/mpeg" />
+      <itunes:duration>37:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/f/7/c/df7c7b8eac584d4ad959afa2a1bf1c87/018_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת תענית דף י"ז</title>
       <itunes:title>תלמוד ירושלמי - מסכת תענית דף י"ז</itunes:title>
