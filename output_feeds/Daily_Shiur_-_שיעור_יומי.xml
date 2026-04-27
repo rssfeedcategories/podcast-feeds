@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 26 Apr 2026 18:27:40 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2026 18:27:40 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 10:17:24 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:17:24 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שמחה וזריזות בדברים שבקדושה</title>
+      <itunes:title>שמחה וזריזות בדברים שבקדושה</itunes:title>
+      <pubDate>Mon, 27 Apr 2026 09:59:00 +0000</pubDate>
+      <guid isPermaLink="false">31d3b2ea-ae09-48b1-aea9-715c43ceafed</guid>
+      <link>https://lomdotchasidut.libsyn.com/3ts9nr0yhatb</link>
+      <description>&lt;p&gt;יום ב' פרשת אמור תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;מענדל לוסטיגמאן&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל אירוסי בנו הבחור &lt;strong&gt;לוי יצחק&lt;/strong&gt; ני"ו&lt;br /&gt; עב"ג בת הר"ר &lt;strong&gt;יצחק יעקב פיש&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת אמור תשפ"ו&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נדבת הר"ר מענדל לוסטיגמאן הי"ו לרגל אירוסי בנו הבחור לוי יצחק ני"ו עב"ג בת הר"ר יצחק יעקב פיש הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_____1731.mp3?dest-id=468609" length="14231044" type="audio/mpeg" />
+      <itunes:duration>47:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/2/c/4/d2c4e21475e3b8ee16c3140a3186d450/_____-_____1731.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>פיתרון כאב ומחלוקות על ידי התבוננות בשורש הדברים</title>
       <itunes:title>פיתרון כאב ומחלוקות על ידי התבוננות בשורש הדברים</itunes:title>
