@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 27 Apr 2026 10:17:24 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 10:17:24 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 10:17:17 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:17:17 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חובות הלבבות שער הביטחון שיעור #329 - ב' סוגי הביטחון הנצרכים למתמודדים עם הנפש, לעבר ולעתיד</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #329 - ב' סוגי הביטחון הנצרכים למתמודדים עם הנפש, לעבר ולעתיד</itunes:title>
+      <pubDate>Tue, 28 Apr 2026 10:02:00 +0000</pubDate>
+      <guid isPermaLink="false">07fc53ff-59a2-4d98-8bec-070af761b32f</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--329-0</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______329_-_________.mp3?dest-id=468609" length="21124570" type="audio/mpeg" />
+      <itunes:duration>58:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/b/6/b/4b6baf63eb0ef630d959afa2a1bf1c87/_____-______329_-_________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #328 - הספר תורה שכל אדם כותב במצבים הקשים לו</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #328 - הספר תורה שכל אדם כותב במצבים הקשים לו</itunes:title>
