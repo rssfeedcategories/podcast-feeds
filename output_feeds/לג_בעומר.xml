@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ל"ג בעומר</title>
-    <pubDate>Tue, 28 Apr 2026 10:17:17 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 10:17:17 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 10:23:46 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:23:46 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ל"ג בעומר - שימת לב לנגעי עצמו - עצה להשגת פנימיות התורה</title>
+      <itunes:title>ל"ג בעומר - שימת לב לנגעי עצמו - עצה להשגת פנימיות התורה</itunes:title>
+      <pubDate>Wed, 29 Apr 2026 09:58:00 +0000</pubDate>
+      <guid isPermaLink="false">c1bdf2e2-357f-428a-81bb-c520929fe9ce</guid>
+      <link>https://lomdotchasidut.libsyn.com/fgnlan422jfb</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-_____-____.mp3?dest-id=468609" length="13911002" type="audio/mpeg" />
+      <itunes:duration>46:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/6/9/e/f69ee32c1cc40999d959afa2a1bf1c87/_____-___-_____-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>פארברענג ליל ל''ג בעומר באתרא קדישא מירון חלק ז</title>
       <itunes:title>פארברענג ליל ל''ג בעומר באתרא קדישא מירון חלק ז</itunes:title>
