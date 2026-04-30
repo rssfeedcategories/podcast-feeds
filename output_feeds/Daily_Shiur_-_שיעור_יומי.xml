@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 29 Apr 2026 10:23:46 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 10:23:46 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 10:39:41 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:39:41 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ל"ג בעומר - לית אתר פנוי מיניה - ג' דרכי העבודה בזה</title>
+      <itunes:title>ל"ג בעומר - לית אתר פנוי מיניה - ג' דרכי העבודה בזה</itunes:title>
+      <pubDate>Thu, 30 Apr 2026 10:18:00 +0000</pubDate>
+      <guid isPermaLink="false">f63be3c9-0fcd-4654-b4f0-d9503a39c2f7</guid>
+      <link>https://lomdotchasidut.libsyn.com/bcjppxsktpz7</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-_____-_____3275.mp3?dest-id=468609" length="13797166" type="audio/mpeg" />
+      <itunes:duration>45:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/d/e/6/6de6d112e9153f5516c3140a3186d450/_____-___-_____-_____3275.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>שמחה וזריזות בדברים שבקדושה</title>
       <itunes:title>שמחה וזריזות בדברים שבקדושה</itunes:title>
