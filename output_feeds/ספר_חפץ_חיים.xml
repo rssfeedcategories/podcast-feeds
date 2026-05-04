@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 03 May 2026 10:39:32 +0000</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 10:39:32 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 10:35:56 +0000</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 10:35:56 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #15 - הקדמה חלק ט"ו, ואֲחַשְּׁבָה לָדַעַת זֹאת</title>
+      <itunes:title>ספר חפץ חיים שיעור #15 - הקדמה חלק ט"ו, ואֲחַשְּׁבָה לָדַעַת זֹאת</itunes:title>
+      <pubDate>Mon, 04 May 2026 08:59:00 +0000</pubDate>
+      <guid isPermaLink="false">2b023516-b3a2-4ff7-9d9c-57442de8bae9</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--15-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____15_-______.mp3?dest-id=468609" length="4155490" type="audio/mpeg" />
+      <itunes:duration>09:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/a/0/8/4a087df87c6f107e16c3140a3186d450/____15_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #14 - הקדמה חלק י"ד, וְכַאֲשֶׁר נַעֲמִיק בְּזֶה הָעִנְיָן</title>
       <itunes:title>ספר חפץ חיים שיעור #14 - הקדמה חלק י"ד, וְכַאֲשֶׁר נַעֲמִיק בְּזֶה הָעִנְיָן</itunes:title>

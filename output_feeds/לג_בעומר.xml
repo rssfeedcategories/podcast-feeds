@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ל"ג בעומר</title>
-    <pubDate>Sun, 03 May 2026 10:39:32 +0000</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 10:39:32 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 10:35:56 +0000</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 10:35:56 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ל"ג בעומר - מה השייכות "שלך" עם ר' שמעון בר יוחאי?</title>
+      <itunes:title>ל"ג בעומר - מה השייכות "שלך" עם ר' שמעון בר יוחאי?</itunes:title>
+      <pubDate>Mon, 04 May 2026 10:12:00 +0000</pubDate>
+      <guid isPermaLink="false">65d01213-2698-4ec9-a2f1-ad71d8c708d9</guid>
+      <link>https://lomdotchasidut.libsyn.com/hdyszrfpswfl</link>
+      <description>&lt;p&gt;יום ב' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; הבחור הבר מצוה &lt;strong&gt;יצחק אהרן פינק&lt;/strong&gt; ני"ו&lt;br /&gt; בן הר"ר &lt;strong&gt;שלמה לייב פינק&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות הבחור הבר מצוה יצחק אהרן פינק ני"ו בן הר"ר שלמה לייב פינק הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__-_________1455.mp3?dest-id=468609" length="12913569" type="audio/mpeg" />
+      <itunes:duration>42:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/6/b/4/e6b4b69e3234e355d959afa2a1bf1c87/__-_________1455.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ל"ג בעומר - מהותו של יום - יום הכיפורים - והביאור בזה</title>
       <itunes:title>ל"ג בעומר - מהותו של יום - יום הכיפורים - והביאור בזה</itunes:title>
