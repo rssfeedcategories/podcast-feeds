@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 05 May 2026 13:45:49 +0000</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 13:45:49 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 10:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 10:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מהו סוד התלהבות נשמות ישראל בל"ג בעומר?</title>
+      <itunes:title>מהו סוד התלהבות נשמות ישראל בל"ג בעומר?</itunes:title>
+      <pubDate>Wed, 06 May 2026 10:16:00 +0000</pubDate>
+      <guid isPermaLink="false">40805565-c9c5-4501-b6d4-56351f577ea0</guid>
+      <link>https://lomdotchasidut.libsyn.com/ldami3q9dpzi</link>
+      <description>&lt;p&gt;יום ד' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-________4588.mp3?dest-id=468609" length="14743577" type="audio/mpeg" />
+      <itunes:duration>49:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/9/8/2/d9826efc25e8e6e916c3140a3186d450/______-________4588.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>פסח שני - לנסות אפילו כשנראה שזה לא יצליח</title>
       <itunes:title>פסח שני - לנסות אפילו כשנראה שזה לא יצליח</itunes:title>

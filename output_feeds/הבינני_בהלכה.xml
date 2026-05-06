@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Tue, 05 May 2026 13:45:49 +0000</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 13:45:49 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 10:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 10:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1025 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף כ"ו</title>
+      <itunes:title>הבינני בהלכה #1025 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף כ"ו</itunes:title>
+      <pubDate>Wed, 06 May 2026 09:23:00 +0000</pubDate>
+      <guid isPermaLink="false">18f2a14c-0040-4f17-b895-84d9b60856e7</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1025</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1025_-_________.mp3?dest-id=468609" length="5566432" type="audio/mpeg" />
+      <itunes:duration>18:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/1/8/9/318946373c995dd3d959afa2a1bf1c87/__1025_-_________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>הבינני בהלכה #1024 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף כ"ה</title>
       <itunes:title>הבינני בהלכה #1024 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף כ"ה</itunes:title>
