@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Wed, 06 May 2026 10:48:04 +0000</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 10:48:04 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 10:34:03 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 10:34:03 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,38 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת תענית דף ל'</title>
+      <itunes:title>תלמוד ירושלמי - מסכת תענית דף ל'</itunes:title>
+      <pubDate>Thu, 07 May 2026 10:29:00 +0000</pubDate>
+      <guid isPermaLink="false">06377823-ff55-4ae7-beef-d8700b177bea</guid>
+      <link>https://lomdotchasidut.libsyn.com/70yp4g20cmfa</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/030_____.mp3?dest-id=468609" length="9653996" type="audio/mpeg" />
+      <itunes:duration>26:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/0/c/7/c0c7b4b3d24cde8fd959afa2a1bf1c87/030_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת תענית דף כ"ט</title>
+      <itunes:title>תלמוד ירושלמי - מסכת תענית דף כ"ט</itunes:title>
+      <pubDate>Thu, 07 May 2026 10:25:00 +0000</pubDate>
+      <guid isPermaLink="false">5b2e244f-a641-424d-ae5e-87f7f4c2136b</guid>
+      <link>https://lomdotchasidut.libsyn.com/dm1tyczq3358</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/029_____.mp3?dest-id=468609" length="12000784" type="audio/mpeg" />
+      <itunes:duration>32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/6/2/d/262d5ad11f6e264616c3140a3186d450/029_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת תענית דף כ"ח</title>
       <itunes:title>תלמוד ירושלמי - מסכת תענית דף כ"ח</itunes:title>

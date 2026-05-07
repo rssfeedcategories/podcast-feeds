@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 06 May 2026 10:48:04 +0000</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 10:48:04 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 10:34:03 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 10:34:03 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>איך תורתו של רשב"י עוזר להאדם בכל הזמנים של חושך</title>
+      <itunes:title>איך תורתו של רשב"י עוזר להאדם בכל הזמנים של חושך</itunes:title>
+      <pubDate>Thu, 07 May 2026 09:59:00 +0000</pubDate>
+      <guid isPermaLink="false">1534e40c-b337-4da7-a703-bf547ad1feb2</guid>
+      <link>https://lomdotchasidut.libsyn.com/arlp5tp2s31o</link>
+      <description>&lt;p&gt;יום ה' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt; &lt;p&gt;נתנדב לז"נ&lt;br /&gt; האה"ח &lt;strong&gt;שיינדל&lt;/strong&gt; ב"ר &lt;strong&gt;יחיאל מיכל&lt;/strong&gt; ע"ה &lt;strong&gt;פייג&lt;/strong&gt;&lt;br /&gt; נדבת בנה הר"ר &lt;strong&gt;אברהם בנימין פייג&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת בהר בחוקותי תשפ"ו&lt;/p&gt; &lt;p&gt;נתנדב לז"נ האה"ח שיינדל ב"ר יחיאל מיכל ע"ה פייג נדבת בנה הר"ר אברהם בנימין פייג הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___________1472.mp3?dest-id=468609" length="14963630" type="audio/mpeg" />
+      <itunes:duration>49:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/8/a/c/a8ac36d75da23c4b16c3140a3186d450/______-___________1472.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>מהו סוד התלהבות נשמות ישראל בל"ג בעומר?</title>
       <itunes:title>מהו סוד התלהבות נשמות ישראל בל"ג בעומר?</itunes:title>
