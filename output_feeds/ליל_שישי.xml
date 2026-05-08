@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 06 May 2026 10:48:04 +0000</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 10:48:04 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 23:14:14 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 23:14:14 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,38 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הרה"ק ר' שלמה מזוועהיל זצוק"ל - הימנעות מדברים בטלים כישועה לזש"ק</title>
+      <itunes:title>הרה"ק ר' שלמה מזוועהיל זצוק"ל - הימנעות מדברים בטלים כישועה לזש"ק</itunes:title>
+      <pubDate>Thu, 07 May 2026 23:05:00 +0000</pubDate>
+      <guid isPermaLink="false">92895c4f-742b-4337-91c5-d11388126fd4</guid>
+      <link>https://lomdotchasidut.libsyn.com/35hz63abzsfg</link>
+      <description>&lt;p&gt;ליל שישי פרשת בהר בחוקותי תשפ"ו - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בהר בחוקותי תשפ"ו - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-______3612.mp3?dest-id=468609" length="3510653" type="audio/mpeg" />
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/b/c/3/2bc330475ef5ea6c16c3140a3186d450/________-______-______3612.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>קבלת עול - העבודה שהקב"ה בחר עבורך</title>
+      <itunes:title>קבלת עול - העבודה שהקב"ה בחר עבורך</itunes:title>
+      <pubDate>Thu, 07 May 2026 22:57:00 +0000</pubDate>
+      <guid isPermaLink="false">9a611abe-0350-4506-9f85-0e61f5bc0027</guid>
+      <link>https://lomdotchasidut.libsyn.com/kdah6brp5w8l</link>
+      <description>&lt;p&gt;ליל שישי פרשת בהר בחוקותי תשפ"ו - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בהר בחוקותי תשפ"ו - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-___-_____9811.mp3?dest-id=468609" length="7472122" type="audio/mpeg" />
+      <itunes:duration>24:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/3/4/0/4340d86fa0e1319fd959afa2a1bf1c87/________-___-_____9811.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ל"ג בעומר - הודאה על פנימיות התורה מקשר את האדם להאור</title>
       <itunes:title>ל"ג בעומר - הודאה על פנימיות התורה מקשר את האדם להאור</itunes:title>
