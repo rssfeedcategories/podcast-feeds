@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 11 May 2026 10:47:14 +0000</pubDate>
-    <lastBuildDate>Mon, 11 May 2026 10:47:14 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 19:14:52 +0000</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 19:14:52 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שבת הבינני - פרשת במדבר - מאנסי ניו יארק</title>
+      <itunes:title>שבת הבינני - פרשת במדבר - מאנסי ניו יארק</itunes:title>
+      <pubDate>Mon, 11 May 2026 19:05:00 +0000</pubDate>
+      <guid isPermaLink="false">dc7cf75d-4dcb-439b-82ab-5afaf52e99fd</guid>
+      <link>https://lomdotchasidut.libsyn.com/rlv9zjzekifv</link>
+      <description>&lt;p&gt;לקראת שבת לכו ונלכה&lt;/p&gt; &lt;p&gt;אי"ה בשב"ק הבעל"ט ישבות המגיד שיעור בעיר מאנסי יצ"ו&lt;/p&gt; &lt;p&gt;כל התפלות והכינוסים יתקיימו באולם ווילחאוויץ&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;לקראת שבת לכו ונלכה&lt;/p&gt; &lt;p&gt;אי"ה בשב"ק הבעל"ט ישבות המגיד שיעור בעיר מאנסי יצ"ו&lt;/p&gt; &lt;p&gt;כל התפלות והכינוסים יתקיימו באולם ווילחאוויץ&lt;/p&gt;</content:encoded>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>מתיקות עול התורה לעומת מרירות עול דרך ארץ</title>
       <itunes:title>מתיקות עול התורה לעומת מרירות עול דרך ארץ</itunes:title>
