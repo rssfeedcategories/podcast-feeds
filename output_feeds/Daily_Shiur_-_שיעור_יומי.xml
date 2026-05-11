@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 10 May 2026 10:36:44 +0000</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 10:36:44 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 10:47:14 +0000</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 10:47:14 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מתיקות עול התורה לעומת מרירות עול דרך ארץ</title>
+      <itunes:title>מתיקות עול התורה לעומת מרירות עול דרך ארץ</itunes:title>
+      <pubDate>Mon, 11 May 2026 10:40:00 +0000</pubDate>
+      <guid isPermaLink="false">42da3d9b-f951-4cf2-adbb-c9fd0ff8dfab</guid>
+      <link>https://lomdotchasidut.libsyn.com/rw3gc7ect68f</link>
+      <description>&lt;p&gt;יום ב' פרשת במדבר תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת במדבר תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_________12996.mp3?dest-id=468609" length="13576177" type="audio/mpeg" />
+      <itunes:duration>45:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/c/e/2/ace21eb4ec114b13d959afa2a1bf1c87/_____-_________12996.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>אופן קיום המצוה כשאין לך מספיק זמן או כשזה כבר כבר לא הצליח</title>
       <itunes:title>אופן קיום המצוה כשאין לך מספיק זמן או כשזה כבר כבר לא הצליח</itunes:title>
