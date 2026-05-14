@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 13 May 2026 10:41:13 +0000</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 10:41:13 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 08:37:11 +0000</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 08:37:11 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הסגולה ל"גוטע קינדער"</title>
+      <itunes:title>הסגולה ל"גוטע קינדער"</itunes:title>
+      <pubDate>Thu, 14 May 2026 08:27:00 +0000</pubDate>
+      <guid isPermaLink="false">aac3078d-ffbf-4890-848d-f50e563fc392</guid>
+      <link>https://lomdotchasidut.libsyn.com/b7oml4nypbco</link>
+      <description>&lt;p&gt;יום ה' פרשת במדבר תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;חיים אלי' גרוסמן&lt;/strong&gt; הי"ו&lt;br /&gt; לכבוד שמחת הברית לנכדו בן אצל חתנו הר"ר &lt;strong&gt;מרדכי לאנגסאם&lt;/strong&gt; הי"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות &lt;strong&gt;יצחק בן יטל&lt;/strong&gt;&lt;br /&gt; וזוגתו &lt;strong&gt;פרידא בת חי' שיינדל&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת במדבר תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר חיים אלי' גרוסמן הי"ו לכבוד שמחת הברית לנכדו בן אצל חתנו הר"ר מרדכי לאנגסאם הי"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות יצחק בן יטל וזוגתו פרידא בת חי' שיינדל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____8444.mp3?dest-id=468609" length="13231013" type="audio/mpeg" />
+      <itunes:duration>43:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/b/3/9/7b39b1acbf551a35d959afa2a1bf1c87/_____-____8444.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>מידת היסוד, מהו?</title>
       <itunes:title>מידת היסוד, מהו?</itunes:title>
