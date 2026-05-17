@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 14 May 2026 20:01:06 +0000</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 20:01:06 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 09:59:45 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 09:59:45 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>איך עושים שיהיה בכל יום יהיה בעיניך כחדשים</title>
+      <itunes:title>איך עושים שיהיה בכל יום יהיה בעיניך כחדשים</itunes:title>
+      <pubDate>Sun, 17 May 2026 09:12:00 +0000</pubDate>
+      <guid isPermaLink="false">21868bf9-58c7-43ec-a54b-9b89e7049ff7</guid>
+      <link>https://lomdotchasidut.libsyn.com/8p65mcducbgm</link>
+      <description>&lt;p&gt;יום א' פרשת נשא (שבוע של ערב שבועות בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת לרפואת האשה&lt;br /&gt; &lt;strong&gt;קריינא לאה בת רבקה שרה&lt;/strong&gt; בתשח"י&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת נשא (שבוע של ערב שבועות בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת לרפואת האשה קריינא לאה בת רבקה שרה בתשח"י&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-__________1225.mp3?dest-id=468609" length="12629815" type="audio/mpeg" />
+      <itunes:duration>41:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/a/6/a/4a6a6629e3c300bdd959afa2a1bf1c87/_____-__________1225.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>הסגולה ל"גוטע קינדער"</title>
       <itunes:title>הסגולה ל"גוטע קינדער"</itunes:title>

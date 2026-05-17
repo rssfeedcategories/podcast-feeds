@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Thu, 14 May 2026 20:01:06 +0000</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 20:01:06 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 09:59:45 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 09:59:45 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף ו'</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ו'</itunes:title>
+      <pubDate>Sun, 17 May 2026 09:51:00 +0000</pubDate>
+      <guid isPermaLink="false">ca765550-122f-4a10-a301-04bc607214f3</guid>
+      <link>https://lomdotchasidut.libsyn.com/lgxkg52whozm</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/06___-____.mp3?dest-id=468609" length="11334505" type="audio/mpeg" />
+      <itunes:duration>31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/7/8/6/c7866e0d2be68ba1d959afa2a1bf1c87/06___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ה'</title>
       <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ה'</itunes:title>
