@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 17 May 2026 09:59:45 +0000</pubDate>
-    <lastBuildDate>Sun, 17 May 2026 09:59:45 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 12:20:32 +0000</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 12:20:32 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להסתכל על העולם מיט א העכער'ן בליק</title>
+      <itunes:title>להסתכל על העולם מיט א העכער'ן בליק</itunes:title>
+      <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a2c96b0a-975f-4a4c-95b7-20c287e8540c</guid>
+      <link>https://lomdotchasidut.libsyn.com/1ig7o6hsilus</link>
+      <description>&lt;p&gt;יום ב' פרשת נשא (שבוע של שבועות בחול) תשפ"ו &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת נשא (שבוע של שבועות בחול) תשפ"ו &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-________1999.mp3?dest-id=468609" length="13270900" type="audio/mpeg" />
+      <itunes:duration>44:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/f/8/f/df8fd91684859ef216c3140a3186d450/_________-________1999.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>איך עושים שיהיה בכל יום יהיה בעיניך כחדשים</title>
       <itunes:title>איך עושים שיהיה בכל יום יהיה בעיניך כחדשים</itunes:title>
