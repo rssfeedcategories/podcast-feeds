@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Mon, 18 May 2026 12:20:32 +0000</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 12:20:32 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 08:27:39 +0000</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 08:27:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #25 - הקדמה חלק כ"ה, וְאִם רוֹאֶה הַיֵּצֶּר הָרָע חלק ה'</title>
+      <itunes:title>ספר חפץ חיים שיעור #25 - הקדמה חלק כ"ה, וְאִם רוֹאֶה הַיֵּצֶּר הָרָע חלק ה'</itunes:title>
+      <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ece1f689-4f7d-4ff3-a00c-0a82f0e33057</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--25-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____25_-_________.mp3?dest-id=468609" length="3053502" type="audio/mpeg" />
+      <itunes:duration>08:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/b/c/6/abc6ed87a2619e45d959afa2a1bf1c87/____25_-_________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #24 - הקדמה חלק כ"ד, וְאִם רוֹאֶה הַיֵּצֶּר הָרָע חלק ד'</title>
       <itunes:title>ספר חפץ חיים שיעור #24 - הקדמה חלק כ"ד, וְאִם רוֹאֶה הַיֵּצֶּר הָרָע חלק ד'</itunes:title>

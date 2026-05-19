@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Mon, 18 May 2026 12:20:32 +0000</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 12:20:32 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 08:27:39 +0000</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 08:27:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף ט'</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ט'</itunes:title>
+      <pubDate>Tue, 19 May 2026 08:16:00 +0000</pubDate>
+      <guid isPermaLink="false">3b8bf252-cbd4-4c3f-b3a2-d68f38725bb1</guid>
+      <link>https://lomdotchasidut.libsyn.com/71qd1fnq5p21</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/09___-____.mp3?dest-id=468609" length="11145326" type="audio/mpeg" />
+      <itunes:duration>30:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ח'</title>
       <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ח'</itunes:title>
