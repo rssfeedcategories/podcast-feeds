@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Wed, 20 May 2026 23:09:57 +0000</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 23:09:57 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 10:41:50 +0000</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 10:41:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,38 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף ט"ו</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ט"ו</itunes:title>
+      <pubDate>Sun, 24 May 2026 09:37:00 +0000</pubDate>
+      <guid isPermaLink="false">dd784b59-bd7a-4deb-813b-632828733db3</guid>
+      <link>https://lomdotchasidut.libsyn.com/nf923s29fpqg</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/15___-____.mp3?dest-id=468609" length="14008347" type="audio/mpeg" />
+      <itunes:duration>46:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/3/6/3/6363b626b3b9aed816c3140a3186d450/15___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף ט"ז</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף ט"ז</itunes:title>
+      <pubDate>Sun, 24 May 2026 09:37:00 +0000</pubDate>
+      <guid isPermaLink="false">cb4e131c-86ff-4607-ae75-198a3e49ad5b</guid>
+      <link>https://lomdotchasidut.libsyn.com/ib963hcp1gdv</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/16___-____.mp3?dest-id=468609" length="9865849" type="audio/mpeg" />
+      <itunes:duration>32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/4/a/3/c4a3067780735f5e16c3140a3186d450/16___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף י"ד</title>
       <itunes:title>תלמוד ירושלמי - מסכת מגילה דף י"ד</itunes:title>

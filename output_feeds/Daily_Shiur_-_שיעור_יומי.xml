@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 20 May 2026 23:09:57 +0000</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 23:09:57 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 10:41:50 +0000</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 10:41:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שבועות - שנה ראשונה אחרי החתונה</title>
+      <itunes:title>שבועות - שנה ראשונה אחרי החתונה</itunes:title>
+      <pubDate>Sun, 24 May 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">3e6b7763-0f79-4d91-8001-06a5bf58dadd</guid>
+      <link>https://lomdotchasidut.libsyn.com/1y64lolwtf6z</link>
+      <description>&lt;p&gt;יום א' פרשת בהעלותך (נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; האה"ח &lt;strong&gt;העניא פרומא&lt;/strong&gt; ב"ר &lt;strong&gt;משה&lt;/strong&gt; ע"ה&lt;br /&gt; נדבת חתנה הר"ר &lt;strong&gt;אברהם פריעדמאן&lt;/strong&gt; הי"ו&lt;br /&gt;  &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת בהעלותך (נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ האה"ח העניא פרומא ב"ר משה ע"ה נדבת חתנה הר"ר אברהם פריעדמאן הי"ו &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__-____.mp3?dest-id=468609" length="13308649" type="audio/mpeg" />
+      <itunes:duration>44:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/7/b/0/d7b0e7db737bd5e5d959afa2a1bf1c87/_______-__-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תפילה על פרטים הנצרכים ברוחניות</title>
       <itunes:title>תפילה על פרטים הנצרכים ברוחניות</itunes:title>
