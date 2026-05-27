@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Tue, 26 May 2026 10:46:13 +0000</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 10:46:13 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 10:40:17 +0000</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 10:40:17 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #30 - הקדמה חלק ל', וּלְבד זֶה חֲסֵרָה לְהַרְבֵּה אֲנָשִׁים - חלק ד'</title>
+      <itunes:title>ספר חפץ חיים שיעור #30 - הקדמה חלק ל', וּלְבד זֶה חֲסֵרָה לְהַרְבֵּה אֲנָשִׁים - חלק ד'</itunes:title>
+      <pubDate>Wed, 27 May 2026 09:28:00 +0000</pubDate>
+      <guid isPermaLink="false">55e93f34-8c85-486a-b8e8-0d7d1f5c15b0</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--30-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____30_-_________-__.mp3?dest-id=468609" length="1893249" type="audio/mpeg" />
+      <itunes:duration>05:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/2/9/6/929674252833f06916c3140a3186d450/____30_-_________-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #29 - הקדמה חלק כ"ט, וּלְבד זֶה חֲסֵרָה לְהַרְבֵּה אֲנָשִׁים - חלק ג'</title>
       <itunes:title>ספר חפץ חיים שיעור #29 - הקדמה חלק כ"ט, וּלְבד זֶה חֲסֵרָה לְהַרְבֵּה אֲנָשִׁים - חלק ג'</itunes:title>

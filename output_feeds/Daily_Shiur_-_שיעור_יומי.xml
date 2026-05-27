@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 26 May 2026 10:46:13 +0000</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 10:46:13 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 10:40:17 +0000</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 10:40:17 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הסבר התורה להקשיים של האדם - לילה היום יאיר</title>
+      <itunes:title>הסבר התורה להקשיים של האדם - לילה היום יאיר</itunes:title>
+      <pubDate>Wed, 27 May 2026 10:14:00 +0000</pubDate>
+      <guid isPermaLink="false">628a9016-cca5-4288-ae6f-72c652aebcac</guid>
+      <link>https://lomdotchasidut.libsyn.com/pufn79zw9s1o</link>
+      <description>&lt;p&gt;יום ד' פרשת בהעלותך (פרשת נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ האה"ח &lt;strong&gt;רבקה&lt;/strong&gt; ב"ר &lt;strong&gt;מרדכי צבי&lt;/strong&gt; ע"ה&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה&lt;br /&gt; האשה &lt;strong&gt;דבורה בת בילא&lt;/strong&gt; בתשח"י&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת בהעלותך (פרשת נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ האה"ח רבקה ב"ר מרדכי צבי ע"ה&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה האשה דבורה בת בילא בתשח"י&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-____1455.mp3?dest-id=468609" length="14701104" type="audio/mpeg" />
+      <itunes:duration>48:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/5/8/a/158a1eb90237c76916c3140a3186d450/_______-______-____1455.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>שבועות - שנה ראשונה אחרי החתונה</title>
       <itunes:title>שבועות - שנה ראשונה אחרי החתונה</itunes:title>
