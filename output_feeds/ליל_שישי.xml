@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 27 May 2026 10:40:17 +0000</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 10:40:17 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 23:12:20 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 23:12:20 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,38 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>השגת ענווה מתוך התבוננות בחסדי השי"ת</title>
+      <itunes:title>השגת ענווה מתוך התבוננות בחסדי השי"ת</itunes:title>
+      <pubDate>Thu, 28 May 2026 23:02:00 +0000</pubDate>
+      <guid isPermaLink="false">2d0887e4-ead5-4c0a-a249-1edf017c9085</guid>
+      <link>https://lomdotchasidut.libsyn.com/4769fsep75sl</link>
+      <description>&lt;p&gt;ליל שישי פרשת בהעלותך (נשא בחו"ל) תשפ"ו - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בהעלותך (נשא בחו"ל) תשפ"ו - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-_______477.mp3?dest-id=468609" length="2181770" type="audio/mpeg" />
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/e/0/c/de0cbca19d69e0fc16c3140a3186d450/_________-_______477.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>האפשרות שיש לנו לצמוח כאשר מצפים לישועה</title>
+      <itunes:title>האפשרות שיש לנו לצמוח כאשר מצפים לישועה</itunes:title>
+      <pubDate>Thu, 28 May 2026 22:51:00 +0000</pubDate>
+      <guid isPermaLink="false">b50849dd-79dc-4e8c-acdd-d29ec68878d0</guid>
+      <link>https://lomdotchasidut.libsyn.com/6yfvsb4j8ssb</link>
+      <description>&lt;p&gt;ליל שישי פרשת בהעלותך (נשא בחו"ל) תשפ"ו - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בהעלותך (נשא בחו"ל) תשפ"ו - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-________1499.mp3?dest-id=468609" length="6894390" type="audio/mpeg" />
+      <itunes:duration>22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/9/c/e/59ce95997faa6436d959afa2a1bf1c87/_________-________1499.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>הקב"ה יושב ושונה כנגדו - מה הכוונה</title>
       <itunes:title>הקב"ה יושב ושונה כנגדו - מה הכוונה</itunes:title>
