@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 27 May 2026 10:40:17 +0000</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 10:40:17 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 10:28:56 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 10:28:56 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ענווה - הדרך להתמודד עם הרגשות סותרות</title>
+      <itunes:title>ענווה - הדרך להתמודד עם הרגשות סותרות</itunes:title>
+      <pubDate>Thu, 28 May 2026 10:19:00 +0000</pubDate>
+      <guid isPermaLink="false">76b164da-fe67-4181-9792-5b223929e9cd</guid>
+      <link>https://lomdotchasidut.libsyn.com/12bn3cropaqi</link>
+      <description>&lt;p&gt;יום ה' פרשת בהעלותך (נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt;  הרה"ח ר' &lt;strong&gt;אהרן&lt;/strong&gt; ב"ר &lt;strong&gt;ירמי' מנחם&lt;/strong&gt; ז"ל&lt;br /&gt; נדבת בנו הר"ר &lt;strong&gt;העניך כהן&lt;/strong&gt; הי"ו &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת בהעלותך (נשא בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ הרה"ח ר' אהרן ב"ר ירמי' מנחם ז"ל נדבת בנו הר"ר העניך כהן הי"ו &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__-______6511.mp3?dest-id=468609" length="13813598" type="audio/mpeg" />
+      <itunes:duration>45:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/d/3/0/fd309dc814d28d3a16c3140a3186d450/_______-__-______6511.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>הסבר התורה להקשיים של האדם - לילה היום יאיר</title>
       <itunes:title>הסבר התורה להקשיים של האדם - לילה היום יאיר</itunes:title>
