@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 31 May 2026 03:42:30 +0000</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 03:42:30 +0000</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 10:50:16 +0000</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 10:50:16 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>לא להתפעל מהחושך</title>
+      <itunes:title>לא להתפעל מהחושך</itunes:title>
+      <pubDate>Sun, 31 May 2026 10:19:00 +0000</pubDate>
+      <guid isPermaLink="false">22891194-e93b-45d7-86aa-308650f8e14d</guid>
+      <link>https://lomdotchasidut.libsyn.com/naosia64ndl4</link>
+      <description>&lt;p&gt;נלמד לע"נ &lt;br /&gt; האה"ח &lt;strong&gt;אסתר&lt;/strong&gt; ב"ר &lt;strong&gt;אברהם אביש זאב&lt;/strong&gt; ע"ה&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;יואל ווייס&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הבר מצווה לבנו &lt;strong&gt;יהודה&lt;/strong&gt; ני"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לע"נ האה"ח אסתר ב"ר אברהם אביש זאב ע"ה&lt;/p&gt; &lt;p&gt;נדבת הר"ר יואל ווייס הי"ו לרגל שמחת הבר מצווה לבנו יהודה ני"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____1.mp3?dest-id=468609" length="14490246" type="audio/mpeg" />
+      <itunes:duration>48:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/d/9/e/7d9e412e2a5cc49f16c3140a3186d450/_______-____1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ענווה - הדרך להתמודד עם הרגשות סותרות</title>
       <itunes:title>ענווה - הדרך להתמודד עם הרגשות סותרות</itunes:title>
