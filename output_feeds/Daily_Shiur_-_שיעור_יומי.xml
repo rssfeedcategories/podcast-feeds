@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 03 Jun 2026 03:47:06 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 03:47:06 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 13:51:50 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:51:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עצות לשמירת המחשבה על פי תורה</title>
+      <itunes:title>עצות לשמירת המחשבה על פי תורה</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 12:54:00 +0000</pubDate>
+      <guid isPermaLink="false">a71d481b-a635-4b47-aafc-fda5e6829e3e</guid>
+      <link>https://lomdotchasidut.libsyn.com/8lwvyrbh74yo</link>
+      <description>&lt;p&gt;יום ד' פרשת שלח (בהעלותך בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;יצחק בן מלכה&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;מרים הינדא בת חי' שרה&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;פנחס לערנער&lt;/strong&gt; הי"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;משה עמרם בן שרה&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;אסתר בת חנה דבורה&lt;/strong&gt;&lt;br /&gt; נדבת אבי חתן הר"ר &lt;strong&gt;חיים יודא גראד&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת שלח (בהעלותך בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן יצחק בן מלכה והכלה מרים הינדא בת חי' שרה נדבת אבי החתן הר"ר פנחס לערנער הי"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן משה עמרם בן שרה והכלה אסתר בת חנה דבורה נדבת אבי חתן הר"ר חיים יודא גראד הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______1989.mp3?dest-id=468609" length="13364921" type="audio/mpeg" />
+      <itunes:duration>44:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/e/5/9/fe59c1829ca27d06d959afa2a1bf1c87/_______-_______1989.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>המצבים שהאדם עובר מביאים לו דעת</title>
       <itunes:title>המצבים שהאדם עובר מביאים לו דעת</itunes:title>

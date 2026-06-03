@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Wed, 03 Jun 2026 03:47:06 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 03:47:06 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 13:51:50 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:51:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,70 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף כ"ד</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף כ"ד</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 13:43:00 +0000</pubDate>
+      <guid isPermaLink="false">de2f4d12-33e8-490a-9049-88b16861b58d</guid>
+      <link>https://lomdotchasidut.libsyn.com/vfcxpb0ay4e</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/24___-____.mp3?dest-id=468609" length="12244822" type="audio/mpeg" />
+      <itunes:duration>40:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/f/e/f/3fef69c23525ed5f16c3140a3186d450/24___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף כ"ה</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף כ"ה</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 13:43:00 +0000</pubDate>
+      <guid isPermaLink="false">b3fc5074-fbdf-45b5-b9b8-61978bc09730</guid>
+      <link>https://lomdotchasidut.libsyn.com/9ovmdo9xwqjx</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/25___-____.mp3?dest-id=468609" length="8283353" type="audio/mpeg" />
+      <itunes:duration>27:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/9/5/b/695b492f82aaba89d959afa2a1bf1c87/25___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף כ"ג</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף כ"ג</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 13:40:00 +0000</pubDate>
+      <guid isPermaLink="false">7a181ae8-148b-412a-b88e-2155443903f0</guid>
+      <link>https://lomdotchasidut.libsyn.com/8x2vop47io1p</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/23___-____.mp3?dest-id=468609" length="7730994" type="audio/mpeg" />
+      <itunes:duration>25:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/4/d/2/44d2a0889bfabbcad959afa2a1bf1c87/23___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
+    <item>
+      <title>תלמוד ירושלמי - מסכת מגילה דף כ"ב</title>
+      <itunes:title>תלמוד ירושלמי - מסכת מגילה דף כ"ב</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 13:39:00 +0000</pubDate>
+      <guid isPermaLink="false">0e30a813-6d44-4ec4-b843-7b0bd50141ab</guid>
+      <link>https://lomdotchasidut.libsyn.com/2ob41rfclxwg</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/22___-____.mp3?dest-id=468609" length="8968937" type="audio/mpeg" />
+      <itunes:duration>29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/8/8/9/988976af0127c0dcd959afa2a1bf1c87/22___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"א</title>
       <itunes:title>תלמוד ירושלמי - מסכת מגילה דף כ"א</itunes:title>
