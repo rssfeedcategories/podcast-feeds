@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - טעמו וראו</title>
-    <pubDate>Mon, 01 Jun 2026 08:21:20 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2026 08:21:20 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 03:47:06 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:47:06 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>טעימה 685 - להשלים רצונו כרצוננו</title>
+      <itunes:title>טעימה 685 - להשלים רצונו כרצוננו</itunes:title>
+      <pubDate>Wed, 03 Jun 2026 03:37:00 +0000</pubDate>
+      <guid isPermaLink="false">c3986815-6da0-4cbe-9042-2cab5dccfa96</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--685</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_685_-___.mp3?dest-id=468609" length="4721413" type="audio/mpeg" />
+      <itunes:duration>04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>טעימה 684 - למה הילד לא מאמין למחמאה שלי</title>
       <itunes:title>טעימה 684 - למה הילד לא מאמין למחמאה שלי</itunes:title>
