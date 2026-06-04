@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Wed, 03 Jun 2026 13:51:50 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 13:51:50 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 10:38:16 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:38:16 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #36 - הקדמה חלק ל"ו, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ד'</title>
+      <itunes:title>ספר חפץ חיים שיעור #36 - הקדמה חלק ל"ו, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ד'</itunes:title>
+      <pubDate>Thu, 04 Jun 2026 09:25:00 +0000</pubDate>
+      <guid isPermaLink="false">5678839d-3cc4-449b-b740-bce80d6416d4</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--36-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____36_-_________-__.mp3?dest-id=468609" length="2424312" type="audio/mpeg" />
+      <itunes:duration>07:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/e/d/7/1ed7cf3f26faa978d959afa2a1bf1c87/____36_-_________-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #35 - הקדמה חלק ל"ה, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ג'</title>
       <itunes:title>ספר חפץ חיים שיעור #35 - הקדמה חלק ל"ה, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ג'</itunes:title>
