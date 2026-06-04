@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 03 Jun 2026 13:51:50 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 13:51:50 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 22:40:54 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 22:40:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת שלח - מה התענוג והגעשמאק של להיות עבד</title>
+      <itunes:title>אור החיים הקדוש פרשת שלח - מה התענוג והגעשמאק של להיות עבד</itunes:title>
+      <pubDate>Thu, 04 Jun 2026 22:24:00 +0000</pubDate>
+      <guid isPermaLink="false">266b913e-b401-40c3-a380-87068bbbe2ac</guid>
+      <link>https://lomdotchasidut.libsyn.com/rijjw5s5x923</link>
+      <description>&lt;p&gt;ליל שישי פרשת שלח (בהעלותך בחו"ל) תשפ"ו חלק ד'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שלח (בהעלותך בחו"ל) תשפ"ו חלק ד'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-______-_______9846.mp3?dest-id=468609" length="12187461" type="audio/mpeg" />
+      <itunes:duration>40:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/3/2/f/f32f10f9888b02e116c3140a3186d450/_________-______-_______9846.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת בהעלותך - 'על פי ה' יחנו' העבודה בעת החנייה</title>
       <itunes:title>אור החיים הקדוש פרשת בהעלותך - 'על פי ה' יחנו' העבודה בעת החנייה</itunes:title>

@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 03 Jun 2026 13:51:50 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 13:51:50 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 22:40:54 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 22:40:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>העומד על הצוק, האם הוא מרגיש טעם חיים או טעם מוות</title>
+      <itunes:title>העומד על הצוק, האם הוא מרגיש טעם חיים או טעם מוות</itunes:title>
+      <pubDate>Thu, 04 Jun 2026 22:36:00 +0000</pubDate>
+      <guid isPermaLink="false">c667f9b3-0887-49b8-8eb9-8d5ca672657e</guid>
+      <link>https://lomdotchasidut.libsyn.com/pgntf0400ny8</link>
+      <description>&lt;p&gt;ליל שישי פרשת שלח (בהעלותך בחו"ל) תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שלח (בהעלותך בחו"ל) תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-____________8777.mp3?dest-id=468609" length="8652833" type="audio/mpeg" />
+      <itunes:duration>28:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/d/b/9/3db984c1a9411748d959afa2a1bf1c87/_________-____________8777.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>השגת ענווה מתוך התבוננות בחסדי השי"ת</title>
       <itunes:title>השגת ענווה מתוך התבוננות בחסדי השי"ת</itunes:title>
