@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sat, 06 Jun 2026 22:49:48 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2026 22:49:48 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2026 10:20:58 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:20:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הרה"ק ר' ישראל מרדכי מרחמיסטריווקא ירושלים זצוק"ל - תורה בקדושה ובענוה</title>
+      <itunes:title>הרה"ק ר' ישראל מרדכי מרחמיסטריווקא ירושלים זצוק"ל - תורה בקדושה ובענוה</itunes:title>
+      <pubDate>Sun, 07 Jun 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="false">bfacd373-488a-4863-878b-3c5e24759e66</guid>
+      <link>https://lomdotchasidut.libsyn.com/mfalmuvob1u9</link>
+      <description>&lt;p&gt;יום א' פרשת קרח (שלח בחו"ל) תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת קרח (שלח בחו"ל) תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-________-___.mp3?dest-id=468609" length="13256159" type="audio/mpeg" />
+      <itunes:duration>44:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/8/4/2/0842b27c87d07b1dd959afa2a1bf1c87/_______-________-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>פגם המרגלים - דבר אל בני ישראל ויסעו</title>
       <itunes:title>פגם המרגלים - דבר אל בני ישראל ויסעו</itunes:title>
