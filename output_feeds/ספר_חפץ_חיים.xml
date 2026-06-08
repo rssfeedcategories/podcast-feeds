@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 07 Jun 2026 10:20:58 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 10:20:58 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
@@ -31,6 +31,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #38 - הקדמה חלק ל"ח, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק ב'</title>
+      <itunes:title>ספר חפץ חיים שיעור #38 - הקדמה חלק ל"ח, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק ב'</itunes:title>
+      <pubDate>Mon, 08 Jun 2026 09:20:00 +0000</pubDate>
+      <guid isPermaLink="false">47b2af56-ec39-468c-949e-e99215e30e3c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--38-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____38_-_________-__.mp3?dest-id=468609" length="1774778" type="audio/mpeg" />
+      <itunes:duration>05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/3/8/6/b3868cf286acd27416c3140a3186d450/____38_-_________-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #37 - הקדמה חלק ל"ז, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק א'</title>
       <itunes:title>ספר חפץ חיים שיעור #37 - הקדמה חלק ל"ז, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק א'</itunes:title>
