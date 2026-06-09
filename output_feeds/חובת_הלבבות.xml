@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -32,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>חובות הלבבות שער הביטחון שיעור #333 - האסט טענות...? רעד זיך אויס די ריכטיגע וועג</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #333 - האסט טענות...? רעד זיך אויס די ריכטיגע וועג</itunes:title>
+      <pubDate>Tue, 09 Jun 2026 10:43:00 +0000</pubDate>
+      <guid isPermaLink="false">e47880a8-69af-45b7-9a8a-50774a59e379</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--333-0</link>
+      <description>&lt;p&gt;יום ג' פרשת קרח (שלח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; האה"ח &lt;strong&gt;אלטא אסתר יכט&lt;/strong&gt; ב"ר &lt;strong&gt;זאב&lt;/strong&gt; ע"ה&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;ליפא ברניג&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל היכנס בנו &lt;strong&gt;ישראל יוסף&lt;/strong&gt; ני"ו, לבריתו של אברהם אבינו&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;מיכאל ישראל גרינוואלד&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל הולדת בתו למזל טוב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג' פרשת קרח (שלח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ האה"ח אלטא אסתר יכט ב"ר זאב ע"ה&lt;/p&gt; &lt;p&gt;נדבת הר"ר ליפא ברניג הי"ו לרגל היכנס בנו ישראל יוסף ני"ו, לבריתו של אברהם אבינו&lt;/p&gt; &lt;p&gt;נדבת הר"ר מיכאל ישראל גרינוואלד הי"ו לרגל הולדת בתו למזל טוב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______333_-__...______.mp3?dest-id=468609" length="23009906" type="audio/mpeg" />
+      <itunes:duration>01:03:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/d/2/d/4d2d3ff6b587790fd959afa2a1bf1c87/_______-______333_-__...______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41583720</ns1:item-id>
+      <ns1:last-updated>2026-06-09T10:51:52Z</ns1:last-updated>
+    </item>
+    <item>
       <title>חובות הלבבות שער הביטחון שיעור #332 - עבודת המידות בגישה הנכונה</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #332 - עבודת המידות בגישה הנכונה</itunes:title>
       <pubDate>Tue, 02 Jun 2026 09:59:00 +0000</pubDate>
@@ -46,6 +66,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/6/a/d46abdeeb5fa358f16c3140a3186d450/_______-______332_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41505980</ns1:item-id>
+      <ns1:last-updated>2026-06-02T10:04:53Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #331 - הקשיים והביטחון בסוגיות בין אדם לחבירו</title>
@@ -62,6 +84,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/9/c/3/3/9c33380be944b12916c3140a3186d450/_______-______331_-_______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41422965</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #330 - הרגש העדין הנצרך להצלחה בתורה ומצוות</title>
@@ -78,6 +102,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/8/1/fd8173f80080829016c3140a3186d450/_____-______330_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41262015</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #329 - ב' סוגי הביטחון הנצרכים למתמודדים עם הנפש, לעבר ולעתיד</title>
@@ -94,6 +120,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/6/b/4b6baf63eb0ef630d959afa2a1bf1c87/_____-______329_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41044930</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #328 - הספר תורה שכל אדם כותב במצבים הקשים לו</title>
@@ -110,6 +138,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/1/f/e/3/1fe37017f496bebfd959afa2a1bf1c87/______-______328_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40953085</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #327 - עצות למי שמרגיש שחסר לו כלים רגשיים לעבודת השם</title>
@@ -126,6 +156,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/d/b/f/5/dbf5ca3d50c055d416c3140a3186d450/______-______327_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40868120</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #326 - לא קיבלתי אהבה מהאמא, מה עלי לעשות?</title>
@@ -142,6 +174,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/9/f/349fb4f267ce55ae16c3140a3186d450/_____-______326_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40603425</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #325 - לבטוח בצרכי הנפש על הקב"ה</title>
@@ -157,6 +191,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/3/7/8/137818d9c74a2cce16c3140a3186d450/_____-______325_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40510590</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #324 - תפקיד היהודי לשבח ולהודות - במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל</title>
@@ -172,6 +208,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/8/c/c28ca48d1ee78d5716c3140a3186d450/______-______324_-_____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40380170</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #323 - מהו בחירה?</title>
@@ -187,6 +225,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/f/3/7bf33eb49aede8ad16c3140a3186d450/_____-______323_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40212800</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3454" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #322 - למה הקב"ה מכניס אותנו למצבים לא נעימים?</title>
@@ -202,6 +246,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/c/6/9/bc695ee912446780d959afa2a1bf1c87/_____-______322_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40135990</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3616" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #321 - ביטחון בריא ברוחניות</title>
@@ -217,6 +267,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/b/c/a5bcdfaa18c1c9ca16c3140a3186d450/_____-______321_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40056715</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3748" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #320 - האם השתדלות ברוחניות דומה להשתדלות בגשמיות?</title>
@@ -232,6 +288,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/8/4/74848643029b049316c3140a3186d450/_____-______320_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39977510</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3713" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #319 - ביטחון הוא מידה וביטוי של הנשמה</title>
@@ -247,6 +309,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/4/8/1848bbfdde347ce7d959afa2a1bf1c87/_____-______319_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39894230</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3632" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #318 - מכשולות בביטחון - האיך להסתכל עליהם?</title>
@@ -262,6 +330,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/a/e/ddaeb1b1392b9481d959afa2a1bf1c87/_____-______318_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39796385</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3546" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #317 - נשמת האדם מלמד את האדם הנעימות והישרות של ביטחון והמסתעף</title>
@@ -277,6 +351,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/5/a/c/05ac329b2c2cc0bfd959afa2a1bf1c87/_____-______317_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39713115</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3654" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #316 - שורשי תרי"ג מצוות באמונה וביטחון</title>
@@ -292,6 +372,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/2/a/d72a2fa426b4096216c3140a3186d450/_____-______316_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39625110</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3646" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #315 - עצות להרגיל עצמו ששכל וחכמה בא מאת הקב"ה</title>
@@ -307,6 +393,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/1/f/871fcf50c1661e2716c3140a3186d450/_____-______315_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39574285</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3730" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #314 - וְאֶל בִּינָתְךָ אַל תִּשָּׁעֵן</title>
@@ -322,6 +414,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/5/4/d/354dd07ea616a8c4d959afa2a1bf1c87/_____-______314_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39515305</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3606" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #313 - להודות להקב"ה על התמונה המלאה</title>
@@ -337,6 +435,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/1/a/7b1a960c401d3a2816c3140a3186d450/_____-______313_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39423105</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3747" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #312 - הסדר והטבע הרגילים בעולם הוא חיי הביטחון</title>
@@ -352,6 +456,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/d/e/e2de41670f98948cd959afa2a1bf1c87/_____-______312_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39335850</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3654" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #311 - כלי מדידה של הצלחה בעוה"ז ובעוה"ב</title>
@@ -367,6 +477,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/f/d/52fda5abc84bd7efd959afa2a1bf1c87/_____-______311_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39235030</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3635" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #310 - כֻּלָּם אֵלֶיךָ יְשַׂבֵּרוּן לָתֵת אָכְלָם בְּעִתּוֹ</title>
@@ -382,6 +498,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/a/6/6/1a665f3e7011a8bed959afa2a1bf1c87/_____-______310_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39164330</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3431" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #309 - הצלחתו של אדם נמדד לפי הבחירה</title>
@@ -397,6 +519,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/e/c/b3ec11f2ac877c45d959afa2a1bf1c87/_____-______309_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39075055</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3694" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #308 - ביטחון במצבים שמוכרחים להחליט ואין יודעים מה להחליט</title>
@@ -412,6 +540,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/f/4/46f430c0b002a302d959afa2a1bf1c87/______-______308_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38991595</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3550" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #307 - איך להרגיש בתפילה בכניסתו וביציאתו</title>
@@ -427,6 +561,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/0/9/2e09d5c5b5a71724d959afa2a1bf1c87/_____-______307_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38906065</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3446" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #306 - שיעור יסודי בענין מה צריך לקרות בתפילה</title>
@@ -442,6 +582,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/2/e/472e572c13a188b216c3140a3186d450/______-______306_-________1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38806210</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3488" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #305 - למה אני מקיים תורה ומצוות?</title>
@@ -457,6 +603,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/f/d/4/dfd4a2c1e9066d9316c3140a3186d450/_____-______305_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38723985</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3549" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #304 - חרטה בעניינים רוחניים וידיעה שהכל מאת הקב"ה</title>
@@ -472,6 +624,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/e/3/6/8e36d5d4d92b521216c3140a3186d450/_____-______304_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38236405</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #303 - עשיית תשובה בלי להאשים את עצמו</title>
@@ -487,6 +641,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/d/6/8dd640a0b261d65116c3140a3186d450/______-______303_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38140730</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #302 - ביטחון והצלחה בתשובה</title>
@@ -502,6 +658,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/6/4/b9641e240f56d5ea16c3140a3186d450/______-______302_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38055390</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #301 - ביטחון אחרי הצלחה גדולה</title>
@@ -517,6 +675,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/9/8/6/7986fa6e61b3706216c3140a3186d450/_____-______301_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37959220</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #300 - הכנעה וביטול להקב"ה לפני קיום המצוה</title>
@@ -532,6 +692,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/e/8/3fe8be2e4896739b16c3140a3186d450/_____-______300_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37875165</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #299 - השפעת המצוה על נפש האדם הוא לפי מה שיקוה ויצפה מה שיפעל</title>
@@ -547,6 +709,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/4/9/d4490b8b52c276cb16c3140a3186d450/_____-______299_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37772200</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #299 - השפעת המצוה על נפש האדם הוא לפי מה שיקוה ויצפה מה שיפעל</title>
@@ -562,6 +726,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/4/9/d4490b8b52c276cb16c3140a3186d450/_____-______299_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37772195</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #298 - בחירה ותוצאה בביטחון ברוחניות</title>
@@ -577,6 +743,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/d/0/44d06d4f6c3be9fad959afa2a1bf1c87/_____-______298_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37677095</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #297 - אמונה וביטחון אע"פ שיתמהמה</title>
@@ -592,6 +760,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/6/2/9/5629ffa1815fc766d959afa2a1bf1c87/_____-______297_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37591845</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #294 - ברצות ה' דרכי איש גם אויביו ישלם אתו - כך משלים האדם את עצמו</title>
@@ -607,6 +777,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/e/9/2/ee92e9e2d9f45a2216c3140a3186d450/______-______294_-_________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37501755</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #295 - דאגה בלב איש ישיחנה עם פרטיה</title>
@@ -622,6 +794,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/6/d/4/86d4bbd013bb94b8d959afa2a1bf1c87/_____-______295_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37411170</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #294 - האם הדרך שהמומחים בתורת הנפש מדריכים הוא הדרך של החובות הלבבות?</title>
@@ -637,6 +811,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/f/0/e/5f0ebfe6ddd7984c16c3140a3186d450/_____-______294_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37331800</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #293 - אופן ההתנהגות למי ששונא או הרע לך</title>
@@ -652,6 +828,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/4/e/1/64e1bbf8d2c44f26d959afa2a1bf1c87/_____-______293_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37234890</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>'חובות הלבבות שער הביטחון שיעור #292 - השרשת האמונה 'מי באמת מביא את השפע</title>
@@ -667,6 +845,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/8/a/d28a1f049b66ef4216c3140a3186d450/_____-______292_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37131185</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #291 - העבודה להפריד את התוצאה מההשתדלות</title>
@@ -682,6 +862,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/c/0/4dc03e5b460dcc09d959afa2a1bf1c87/_____-______291_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37038155</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #290 - החיוב להודות להקב"ה אחרי שזוכים להיטיב לאחרים</title>
@@ -697,6 +879,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/3/6/8/d36841430347a80d16c3140a3186d450/_____-______290_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36934960</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #289 - הגישה הנכונה בעת שאדם מבקש טובה ממך</title>
@@ -712,6 +896,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/9/6/679668c64795a01a16c3140a3186d450/_____-______289_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36846155</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #288 - הפרדת התוצאה מהפעולה בעשיית טובות ובחינוך הבנים</title>
@@ -727,6 +913,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/7/d/f67d5fdba8e7838416c3140a3186d450/_____-______288_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36726000</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #288 - הפרדת התוצאה מהפעולה בעשיית טובות ובחינוך הבנים</title>
@@ -742,6 +930,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/7/d/f67d5fdba8e7838416c3140a3186d450/_____-______288_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36725995</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #287 - הכרת הטוב של בעל ביטחון</title>
@@ -757,6 +947,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/8/6/95869c67ce11cbca16c3140a3186d450/______-______287_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36637925</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #286 - למה צריך להכיר טוב לאנשים, הרי הקב"ה עשה הכל?</title>
@@ -772,6 +964,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/0/9/3/c093cfbcd4df9bbed959afa2a1bf1c87/_____-______286_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36546620</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #285 - התמדת מחשבות של ביטחון גם בעת כישלונות</title>
@@ -787,6 +981,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/7/a/0/c7a0a2d9cd18ef1316c3140a3186d450/______-______285_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36452665</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #284 - מים עמוקים ידלם איש תבונה - במשנת הרה"ק מוויטעפסק זצוק"ל</title>
@@ -802,6 +998,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/4/5/2e45a0a771ed98e316c3140a3186d450/______-______-_____42.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36353240</ns1:item-id>
+      <ns1:last-updated>2025-05-07T11:11:47Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #283 - בקשת טובות מאת בני אדם - באיזה צורה?</title>
@@ -817,6 +1015,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/b/d/b9bd3ad70a1b35a016c3140a3186d450/_____-______283_-______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36260215</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #282 - חינוך על אמונה וביטחון בגעפיהל עם רגש</title>
@@ -832,6 +1032,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/8/5/a585f9c6ed2dba5cd959afa2a1bf1c87/_____-______282_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35956745</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #281 - השתדלות עם מחשבות נכונות בעת חינוך הילדים</title>
@@ -847,6 +1049,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/0/2/23022dd07b3f6a29d959afa2a1bf1c87/_____-______281_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35852035</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #280 - איך להתפלל לנחת מהילדים</title>
@@ -862,6 +1066,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/4/6/9/646950a63d5bf9d216c3140a3186d450/_____-______280_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35743785</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #279 - הכח לשמוח בכל מצב בחיים</title>
@@ -877,6 +1083,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/9/6/fc96bea62145a188d959afa2a1bf1c87/______-______279_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35632435</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #278 -</title>
@@ -892,6 +1100,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/8/2/4/e8245ffc82098c5e16c3140a3186d450/_____-______278_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35525895</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #277 - הצער של להרגיש ככלום</title>
@@ -907,6 +1117,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/e/2/f/ce2f66325db831afd959afa2a1bf1c87/_____-______277_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35420430</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #276 - עצות למתמודד בבדידות כגון גרוש או מי שאין לו בנים</title>
@@ -922,6 +1134,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/5/a/f/05af70d2b9d0dedcd959afa2a1bf1c87/_____-______276_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35326330</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #275 - ניסיון של בדידות חלק ד' - בטל רצונך מפני רצונו</title>
@@ -937,6 +1151,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/4/2/4b4242001b70493f16c3140a3186d450/_____275_-______-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35235995</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #274 - ניסיון של בדידות ח"ג - עצות על פי תורה להכאב של בדידות</title>
@@ -952,6 +1168,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/6/0/ba60c9a21fe6ece516c3140a3186d450/_____-______274_-______-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35144065</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #273 - ניסון של בדידות חלק ב' - מצבים שונים של בדידות ופתרונם</title>
@@ -967,6 +1185,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/8/4/9a844d69faf42f70d959afa2a1bf1c87/_____-______273_-______-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35044355</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #272 - ניסון של בדידות והעצות לזה</title>
@@ -982,6 +1202,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/8/d/be8da816da69591416c3140a3186d450/_____-______272_-____loneliness__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34938560</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #271 - כשאדם אין לו מושג איך להתנהג - מה עושים'</title>
@@ -997,6 +1219,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/7/6/8/37687c97ed0f951916c3140a3186d450/_____271_-_______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34848575</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #270 - השגחה פרטית גם על מי שנותן לך את הטש'ק בסוף החודש והמסתעף</title>
@@ -1012,6 +1236,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/2/f/692f1cbcc9a70d59d959afa2a1bf1c87/____-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34753945</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #269 - ג' דרגות ב'והלכת בדרכיו'</title>
@@ -1027,6 +1253,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/c/3/81c3036c84c1a7b9d959afa2a1bf1c87/_____-______269_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34668060</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #268 - מה לעשות כשאין מה לעשות?</title>
@@ -1042,6 +1270,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/a/6/b4a6675901ced6db16c3140a3186d450/_____-______268_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34598215</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #267 - משכורת שאף פעם לא מגיע בזמן, מה עושים?</title>
@@ -1057,6 +1287,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/d/6/23d65f167ddf385cd959afa2a1bf1c87/_____-______267_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34483275</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #266 - איזה חלק מן ההשתדלות מביא את הפרנסה? - ואיך הקב"ה עוזר להאדם לקבל את השפע הנצרך לו?</title>
@@ -1072,6 +1304,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/3/9/4/33942703ae1d5a4dd959afa2a1bf1c87/_____-______266_-________-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34361870</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #265 - ענין 'הרחב פיך ואמלאהו'</title>
@@ -1087,6 +1321,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/2/7/fd27840145d2c2e316c3140a3186d450/_____-______265_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34261040</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #264 - עצה לתפילה שיעזור בכל מצב</title>
@@ -1102,6 +1338,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/4/e/e/84ee555d4000f3de16c3140a3186d450/_____-______264_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34153760</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #263 - הכח לא להיבהל ממצבים שונים</title>
@@ -1117,6 +1355,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/5/6/2/0562038a59a8240a27a2322813b393ee/______-______263_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33992367</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #262 - ביאור הענין שהצרה של האדם הוא תחילת ישועתו</title>
@@ -1132,6 +1372,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/a/c/d2ac31d97c2de7c6e55e3c100dce7605/_____-______262_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33894892</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #261 - רפואת הנפש במצבים של יסורים</title>
@@ -1147,6 +1389,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/7/e/c87ea94a3b17a18ae55e3c100dce7605/______-______261_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33790442</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #261 - רפואת הנפש במצבים של יסורים</title>
@@ -1162,6 +1406,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/7/e/c87ea94a3b17a18ae55e3c100dce7605/______-______261_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33790437</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #260 - הצורך להרגיש את הקשר עם הקב"ה</title>
@@ -1177,6 +1423,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/8/3/7/0837f492abe5e2a827a2322813b393ee/_____-______260_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33665352</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #259 - עבודת הביטחון בראש השנה</title>
@@ -1192,6 +1440,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/8/5/a285d7bfff9340e0e55e3c100dce7605/______-______259_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33184647</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #258 - כפרת עוונות ע"י אמונה בהשגחה פרטית על כל פרט ופרט</title>
@@ -1207,6 +1457,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/2/3/d/723d85a21d0fec8627a2322813b393ee/______-______258_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33086882</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #257 - השגת הביטחון מגיע כשהאדם מסכים לשלם מחיר</title>
@@ -1222,6 +1474,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/f/a/9dfa80fb6a3748f827a2322813b393ee/______-______257_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32988467</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #256 - כבוד אמיתי וכבוד מדומה</title>
@@ -1237,6 +1491,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/0/a/0/80a08247029be0a540be95ea3302a6a1/_____-______256_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32874466</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #255 - כי מכבדי אכבד - רק מהקב''ה ולא מבני אדם</title>
@@ -1252,6 +1508,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/4/0/e6404f60f1fe29e0e55e3c100dce7605/_____-______255_-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32757522</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #254 - יניקת השפע באופן הראוי מביא שובע ורוגע</title>
@@ -1267,6 +1525,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/e/9/f/8e9f431583170a9027a2322813b393ee/_____-______254_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32651372</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #253 - הדבק במידותיו - נתינה לשם נתינה</title>
@@ -1282,6 +1542,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/8/6/4586a6e90fbfad88e55e3c100dce7605/_____-______253_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32571507</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #252 - ג' הטעויות המצויות אצל המפרנס אחרים</title>
@@ -1297,6 +1559,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/7/9/42798469d094bb9427a2322813b393ee/_____-______252_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32455657</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #251 - הסיבה האמיתית שרצון האדם לפעול ולהשתדל</title>
@@ -1312,6 +1576,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/a/3/e1a35563ce739be3e55e3c100dce7605/______-______251_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32346402</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #250 - המזון של האדם בא ממדריגה למעלה ממנו</title>
@@ -1327,6 +1593,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/2/5/5225a5a50bd9f9fa27a2322813b393ee/_____-______250_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32272417</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #250 - המזון של האדם בא ממדריגה למעלה ממנו</title>
@@ -1342,6 +1610,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/2/5/5225a5a50bd9f9fa27a2322813b393ee/_____-______250_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32272412</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #249 - תכלית התאווה לכסף וזהב</title>
@@ -1357,6 +1627,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/c/7/f/5c7fe54688b59139e55e3c100dce7605/_____-______249_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32158792</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #248 - כמה שעות צריך לעבוד ביום?</title>
@@ -1372,6 +1644,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/0/b/8c0b07c4ad84a022e55e3c100dce7605/_____-_____248_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32062062</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #247 - הבוטח במצוה שהקב"ה שולח לו חסד יסובבנהו</title>
@@ -1387,6 +1661,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/f/c/5/ffc5d268ad6606c027a2322813b393ee/_____-______247_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31977157</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #246 - מה ההשתדלות הנכונה כשאין יודעים מה לעשות</title>
@@ -1402,6 +1678,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/e/4/0/5e403b0370e9220ee55e3c100dce7605/_____-______246_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31879262</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #245 - מתי נקרא השתדלות ראויה - לדבר מצוה ובכלל</title>
@@ -1417,6 +1695,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/a/4/fea40fb66253f6fa27a2322813b393ee/_____-______245_-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31786937</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #244 - כלים איך להרגיש 'אלמלא הקב"ה עוזרו אין יכול לו'</title>
@@ -1432,6 +1712,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/2/3/b/723b623221cf1983e55e3c100dce7605/_____-______244_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31595067</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #243 - השתדלות בדבר מצוה - האם נכון שזה יהא 'קאלטע השתדלות'?</title>
@@ -1447,6 +1729,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/c/2/3/7c239c8c2f478bac27a2322813b393ee/_____-______243_-____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31491742</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #242 - השתדלות ברפואה בהתלהבות</title>
@@ -1462,6 +1746,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/9/e/f/f9ef879d054ffad7e55e3c100dce7605/_____-______242_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31398432</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #241 - ריבוי השתדלות לצורך רפואה</title>
@@ -1477,6 +1763,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/4/1/1b4125a4e98bc6a3e55e3c100dce7605/_____-______241_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31285827</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #240 - ביטחון בהשתדלות בעניני רפואה</title>
@@ -1492,6 +1780,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/a/2/6da2127c797428cfe55e3c100dce7605/_____-______240_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31171892</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #239 - מה המעכב באמת מההצלחה</title>
@@ -1507,6 +1797,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/3/7/e637e53a2cd9b77988c4a68c3ddbc4f2/_____-______239_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31048643</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #238 - המצב הנפשי הנצרך לליל הסדר</title>
@@ -1522,6 +1814,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/c/6/8/5c68e2e5a1c33f1688c4a68c3ddbc4f2/_____-______238_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30844148</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #237 - עצות להכניס ביטחון עמוק בלב</title>
@@ -1537,6 +1831,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/9/c/3/e9c3827d226b502e88c4a68c3ddbc4f2/_____-______237_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30745823</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #236</title>
@@ -1552,6 +1848,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/e/2/d/ee2d4f07cce4ac0188c4a68c3ddbc4f2/_____-______236_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30638938</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #235 - לשמוח ביודעו שהקב"ה יעזור לו ברוחניות</title>
@@ -1567,6 +1865,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/b/d/87bda47cd0dae259e5bbc093207a2619/_____-______235_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30545383</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #234 - דרגות בענין העבודה של ביטול הרצונות השווא</title>
@@ -1582,6 +1882,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/f/0/3df0d3c0b3320b4288c4a68c3ddbc4f2/_____-______234_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30436598</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #233 - איך מגיעים לשמחה אמיתית?</title>
@@ -1597,6 +1899,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/9/0/e/d90ea214eaefec6b88c4a68c3ddbc4f2/_____-______233_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30337313</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #232 - הכרת הטוב וחנופה אצל בעלי ביטחון חלק ב</title>
@@ -1612,6 +1916,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/3/7/0/c3702693816640c6e5bbc093207a2619/_____-______232_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30235773</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #231 - הכרת הטוב וחנופה אצל בעלי ביטחון</title>
@@ -1627,6 +1933,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/1/9/1/3191955a3af6f3e388c4a68c3ddbc4f2/______-______231_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30131043</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #230 - תפילה על התמדת הטובה</title>
@@ -1642,6 +1950,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/e/e/ebeee11551f6e89e88c4a68c3ddbc4f2/_____-______230_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30030488</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #229 - עצה מעשית לתפילה - ברוך ה' יום יום</title>
@@ -1657,6 +1967,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/b/e/c/5becf6d2a44db01388c4a68c3ddbc4f2/_____-______229_-____-_____3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29929573</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #228 - הדרך המביא לידי נבואה ושמחה</title>
@@ -1672,6 +1984,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/0/e/a/10ea8608c68b771888c4a68c3ddbc4f2/_____-______228_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29821273</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #227 - רחמנא ליבא בעי - בהשתדלות</title>
@@ -1687,6 +2001,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/8/0/f/680f1268fd21f6d888c4a68c3ddbc4f2/_____-______227_-____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29712193</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #226 - הכרת התלבשות הקב"ה בתוך הסיבה</title>
@@ -1702,6 +2018,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/d/c/9fdcd3378aade5cde5bbc093207a2619/_____-______226_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29609258</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #225 - הפרסום של אלוקות הנעשית כשהאדם ממלא תפקידו</title>
@@ -1717,6 +2035,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/c/4/d/ec4d2b46ab13cdd788c4a68c3ddbc4f2/_____-______225_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29505898</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #224 - סיפק ושמחה הנצרך לאדם המצליח בעסקיו</title>
@@ -1732,6 +2052,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/5/2/5552af666ddb625588c4a68c3ddbc4f2/_____-______224_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29402318</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #223 - המחשבות מועברים דרך הדיבור והמעשה של האדם</title>
@@ -1747,6 +2069,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/3/5/6/03565d03c6d12988e5bbc093207a2619/_____-______223_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29304418</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #222 - חיבור המוח עם העשיה - שלימות האדם</title>
@@ -1762,6 +2086,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/3/3/9933d749be4a305d88c4a68c3ddbc4f2/_____-______222_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29229068</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #221 - חיבור כח העשיה להמחשבה משלים את האדם</title>
@@ -1777,6 +2103,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/0/b/6/00b6b629e039eecce5bbc093207a2619/_____-______221_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29144728</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #220 - החיות והשמחה במצבים שאי אפשר להבין אותם - במשנת ה'פרי הארץ'</title>
@@ -1792,6 +2120,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/e/4/75e471b5b6faf56088c4a68c3ddbc4f2/_____-______220_-________-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29036443</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #219 - חנוכה - מוסיף והולך בשמחת הרוחניות</title>
@@ -1807,6 +2137,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/3/5/8c35869c59b6d88688c4a68c3ddbc4f2/_____-______219_-__-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28934743</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #218 - האם יש להאדם שליטה על המצב שלו?</title>
@@ -1822,6 +2154,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/1/7/bb17f437df887dbde5bbc093207a2619/_____-______218_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28822078</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #217 - ב' חלקי העבירה, ועל איזה חלק עושים תשובה</title>
@@ -1837,6 +2171,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/3/5/6f3507bed52695e8e5bbc093207a2619/_____-______217_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28736778</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #216 - האם אני אשם בהיסורים שלי?</title>
@@ -1852,6 +2188,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/6/6/d/866d7b41bb57424ee5bbc093207a2619/_____-______215_-______1680.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28632753</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #215 - ארץ ישראל נקנית ביסורים - האיך?</title>
@@ -1867,6 +2205,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/1/0/9/41098ff6955c2f2727a2322813b393ee/______-______215_-_____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28542110</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #214 - דרכי הביטחון בעת דאגה ופחד</title>
@@ -1882,6 +2222,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/b/3/97b3307f3a4eeecfbafc7308ab683e82/_____-______214_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28472957</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #213 - להרגיש מעין עולם הבא בעת מלחמה</title>
@@ -1897,6 +2239,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/9/2/8/292831754e840bf15f2e77a3093c12a1/______-______213_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28406054</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #212 - וואס הייסט געלעבט?</title>
@@ -1912,6 +2256,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/f/1/6/8f16b5346e9e006e5f2e77a3093c12a1/_____-______212_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28340543</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #211 - איך אפשר להרגיש במצבים חשוכים שזה לטובה?</title>
@@ -1927,6 +2273,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/a/b/01ab8f92a0931c84d959afa2a1bf1c87/_____-______211_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28274498</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #210 - הטבת אלוקים עם בריותיו בבהירות האמונה שמתגלה בכל צעד ושעל</title>
@@ -1942,6 +2290,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/1/b/4/11b4150ef9e4dca5e55e3c100dce7605/_____-______210_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28077798</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #209 - הכרת 'אין עוד מלבדו' בכל הנסיונות</title>
@@ -1957,6 +2307,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/2/3/9823df6749f5b03927a2322813b393ee/_______-______209_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28008654</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #208 - לקראת ראש השנה - לזכות לניסים נסתרים</title>
@@ -1972,6 +2324,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/f/f/beff1eaa2808c3985f2e77a3093c12a1/______-______208_-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27943389</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #207 - איך זוכים לנס?</title>
@@ -1987,6 +2341,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/7/f/6f7f5bc2aed8994940be95ea3302a6a1/______-______207_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27878712</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #206 - מה הפירוש שהעומד במקום סכנה מנקים לו מזכויותיו?</title>
@@ -2002,6 +2358,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/3/e/c/13ec610f8f4eba76a04421dee9605cbd/______-______206_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27817653</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #205 - אל תחקור אחר העתידות - ברוחניות</title>
@@ -2017,6 +2375,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/9/d/e69d1fa91815d4e188c4a68c3ddbc4f2/_____-______205_-_____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27757020</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #204 - העוסק בשליחותו המיוחדת נפשו מתרוממת</title>
@@ -2032,6 +2392,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/e/9/b/ce9b7fdfde592f08e5bbc093207a2619/_____-______204_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27690264</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #203 - הצורך הגדול של הנפש להיות במצב של נתינה (גם בבין הזמנים)</title>
@@ -2047,6 +2409,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/d/5/3fd5e582847b7c5fe5bbc093207a2619/_____-______203_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27622803</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #202 - השכינה בינינו אפילו יותר כשאנחנו נמצאים בגלות</title>
@@ -2062,6 +2426,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/b/c/3/0bc38bcdb13bd0e9e5bbc093207a2619/_____-______202_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27559314</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #201 - הכח של נתינה יכול לקשר כל כוחות הנפש</title>
@@ -2077,6 +2443,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/2/0/20207f67d003184240be95ea3302a6a1/_____-______201_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27497013</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #200 - הרגשת השליחות הוא הכח הכי חזק נגד מכאובים</title>
@@ -2092,6 +2460,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/1/a/2/b1a2f1944bf797de27a2322813b393ee/______-______200_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27431487</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #199 - להתעלות בדבקות המיתה כמצוה על פי השם (תפארת שלמה)</title>
@@ -2107,6 +2477,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/f/0/1/4f01dcd922280c21bafc7308ab683e82/_____-______199_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27363705</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #198 - בענין צורת האדם לעולם הבא</title>
@@ -2122,6 +2494,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/1/9/8/119864910df5cb58e5bbc093207a2619/________-______198_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27288207</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #197 - תכלית בנין ההרגשים בעולם הזה לבנות את ההרגשים לעולם הבא</title>
@@ -2137,6 +2511,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/2/f/5/82f5112ceb2083b75f2e77a3093c12a1/________-______197_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27203499</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #196 - המדרגות שבונים בהדרגה את הביטחון של האדם</title>
@@ -2152,6 +2528,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/1/c/921c29b3fa31c6ed27a2322813b393ee/________-______196_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27134922</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #195 - הכלים שאדם משיג על ידי חטא</title>
@@ -2167,6 +2545,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/8/e/8/58e8144d745c6ff1d959afa2a1bf1c87/________-______195_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27056124</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #194 - בניית כלים להבנת הרגשים שבתורה</title>
@@ -2182,6 +2562,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/6/a/2f6a045a6af3a3f05f2e77a3093c12a1/________-______194_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26985693</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #193 - ביטחון ברוחניות על ידי חיבור לחלק הפנימי שבנפש</title>
@@ -2197,6 +2579,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/5/0/4/2504d9739ddd6603e55e3c100dce7605/_______-______193_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26924289</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #192 - הסכנה בדילוג מדרגות בדרך לביטחון, והעצות לזה</title>
@@ -2212,6 +2596,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/3/8/9b38e42fd62768735f2e77a3093c12a1/_____-______192_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26852898</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #191 - הדרך לקבלת שפע ע"י עשיית כלים לאור, והדרגה. במשנת רשב"י</title>
@@ -2227,6 +2613,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/f/a/a/efaac05e9234238016c3140a3186d450/______-______191_-________.__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26786400</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #190 - המהלך איך תפילה והשתדלות מביאים שפע ושמחה להאדם</title>
@@ -2242,6 +2630,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/6/0/666053e54d741b0740be95ea3302a6a1/_____-______190_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26716962</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #189 - בטל רצונך מפני רצונו - אבל איך?</title>
@@ -2257,6 +2647,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/b/4/7/ab4731c283e411a027a2322813b393ee/______-______189_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26644791</ns1:item-id>
+      <ns1:last-updated>2023-05-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #188 - הסתירא שיש בנפש של האדם בין הרצונות שלו וגזירת הקב"ה</title>
@@ -2272,6 +2664,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/3/f/9/73f9d7056dd46194e5bbc093207a2619/______-______188_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26575005</ns1:item-id>
+      <ns1:last-updated>2023-05-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #187 - המצוה להאיר לבות בנינו באור אמונה ביטחון</title>
@@ -2287,6 +2681,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/5/0/5/6505dc7da28f1a7bd959afa2a1bf1c87/_____-______187_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26364051</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #186 - האם שייך להיות בשמחה באמת בעת שעובר יסורים</title>
@@ -2302,6 +2698,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/5/7/a/657a2b104673726b5f2e77a3093c12a1/_____-______186_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26291922</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #185 - השפע המוכן ומזומן להאדם מראשית הבריאה בתנאי שאינו דואג - במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל</title>
@@ -2317,6 +2715,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/e/9/b4e9919ad1bf94e2a04421dee9605cbd/-1851.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26223684</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #184 - וישמחו כל חוסי בך - לעולם ירננו</title>
@@ -2332,6 +2732,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/f/0/7/bf07b5d3cd18abbf40be95ea3302a6a1/______-______184_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26129511</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #183 - להודיע שכל קויך לא יבושו</title>
@@ -2347,6 +2749,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/7/b/4/b7b41a259511d9dc27a2322813b393ee/_____-______183_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26075334</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #182 - ביאור הלאו דלא תנסו את השם</title>
@@ -2362,6 +2766,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/c/7/7/6c771c5f0246ae9b27a2322813b393ee/_____-______182_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25995921</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #181 - התלבשות השכינה בסיבות וקיום מצוות בעסק הפרנסה</title>
@@ -2377,6 +2783,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/f/3/bef3b0389c36e56c88c4a68c3ddbc4f2/_____-______181_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25923762</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #180 - הטבע הוא שליח של הקב"ה</title>
@@ -2392,6 +2800,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/7/4/b/374bf8a46859b9dee5bbc093207a2619/_____-______180_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25854717</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #179 - ולא תתורו בעניני פרנסה</title>
@@ -2407,6 +2817,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/4/1/7541cb318a4549b7e5bbc093207a2619/_____-______179_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25783029</ns1:item-id>
+      <ns1:last-updated>2023-02-11T21:31:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #178 - המעשים הם כלים לחכמה שתהא מתקיימת</title>
@@ -2422,6 +2834,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/7/6/2376d8232927e010a04421dee9605cbd/_____-______178_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25709544</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #177 - רק על ידי עמידה בנסיונות קונה האדם את מידת הביטחון</title>
@@ -2437,6 +2851,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/7/a/a/b7aa4d13896d2d33e55e3c100dce7605/_____-______177_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25630863</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #176 - לחיות עולם הבא'דיק בעולם הזה</title>
@@ -2452,6 +2868,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/0/c/830cac9d507e9a9127a2322813b393ee/_____-______176_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25557642</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #175 - ומפליא לעשות - למה?</title>
@@ -2467,6 +2885,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/5/b/e/f5be2bb32c2289cf40be95ea3302a6a1/_____-______175_-___-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25490496</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #174 - ביטחון ללא גבולות</title>
@@ -2482,6 +2902,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/9/f/eb9f33c34805effdd959afa2a1bf1c87/_____-______174_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25436841</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #173 - הביטחון עוזר להאדם כשעיקר מחשבתו הוא להתקדם ברוחניות</title>
@@ -2497,6 +2919,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/e/d/e1ed4d1747153430d959afa2a1bf1c87/_____-______173_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25382517</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #172 - דרך ארץ קודמה לתורה</title>
@@ -2512,6 +2936,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/6/5/b865041a5755e26dbafc7308ab683e82/_____-______172_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25310934</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #171 - הבקשה של הקב"ה להאדם להעביר השפע בלי לגנוב חלק ממנו</title>
@@ -2527,6 +2953,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/4/b/b/f4bb7cbe19c1248f88c4a68c3ddbc4f2/_____-______171_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25235934</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #170 - לחבר את העשייה למחשבה ודיבור של האמונה</title>
@@ -2542,6 +2970,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/0/a/7/e0a739e0c0746eecbafc7308ab683e82/_____-______170_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25159788</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #169 - לכל מצב יש כמה וכמה שלבים, ולכל שלב יש מחשבה נכונה</title>
@@ -2557,6 +2987,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/a/c/2/6ac294b291f12d9ea04421dee9605cbd/_____-______169_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25095126</ns1:item-id>
+      <ns1:last-updated>2023-01-22T19:24:24Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #168 - הביטחון כבריח המרכזי בין הוללות לגאוה</title>
@@ -2572,6 +3004,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/e/d/b4ed97f80300060016c3140a3186d450/______-______168_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25016688</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #167 - עצלות המוח הנובע מחוסר ביטחון</title>
@@ -2587,6 +3021,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/d/1/0/0d102ab1b23e185be55e3c100dce7605/_____-______167_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24940005</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #166 - לבטוח בהקב"ה עכשיו גם על דברים שהאדם יעבור בשלבים אחרים של החיים</title>
@@ -2602,6 +3038,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/4/6/4646a7ca49838cc427a2322813b393ee/______-______166_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24866055</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #165 - החובה לחיות באופן אחראי ע"פ התורה הקדושה</title>
@@ -2617,6 +3055,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/9/0/48905107843e8f8616c3140a3186d450/_____-______165_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24792888</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #164 - ביטחון בראש השנה - אשרי איש שלא ישכחך</title>
@@ -2632,6 +3072,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/b/3/a/5b3ac5dddeaf87b427a2322813b393ee/_____-______164_-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24429006</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #163 - בענין אדם שפטרו אותו מעבודתו ובענין כל הדוחק את השעה השעה דוחקתו</title>
@@ -2647,6 +3089,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/b/f/debfe07786c2ac7fe55e3c100dce7605/______-______163_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24359490</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #163 - בענין אדם שפטרו אותו מעבודתו ובענין כל הדוחק את השעה השעה דוחקתו</title>
@@ -2662,6 +3106,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/b/f/debfe07786c2ac7fe55e3c100dce7605/______-______163_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24359487</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #162 - בענין בחירת עבודה חדשה במקום שאינו מרוצה בעבודה הקיימת</title>
@@ -2677,6 +3123,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/5/b/c/d5bc4ddfb986c022d959afa2a1bf1c87/______-______162_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24286071</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #162 - בענין בחירת עבודה חדשה במקום שאינו מרוצה בעבודה הקיימת</title>
@@ -2692,6 +3140,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/5/f/1/85f1edec2faed9d9e5bbc093207a2619/Chovos_Halevovos_162.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24286065</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #161 - אשריכם ישראל - הדרך הטבע אינו מיועד לכם</title>
@@ -2707,6 +3157,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/a/4/2aa4a9361626c212e55e3c100dce7605/_____-______161_-___-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24211017</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #160 - הבחירה בין הברכה לקללה</title>
@@ -2722,6 +3174,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/1/c/3/b1c32dd90934a2ddbafc7308ab683e82/_____-______160_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24151818</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #159 - גילוי פנים של הקב"ה לפי דרגת הביטחון של האדם</title>
@@ -2737,6 +3191,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/b/a/3/fba3e358301bb0e427a2322813b393ee/_____-______159_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24067959</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #158 - דבריו הקדושים של ה'מאור עינים' על מהות ההשתדלות</title>
@@ -2752,6 +3208,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/9/e/2/79e29658c04a950416c3140a3186d450/_____-______158_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24001713</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #157 - עושים תורתן עיקר ומלאכתן טפלה.... אז תישאר דעתו פנויה ולבו מוכן לחסידות האמיתי ולעבודה התמימה</title>
@@ -2767,6 +3225,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/c/9/9bc9c7c1ebd1a84ca04421dee9605cbd/_____-______157_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23933838</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #156 - הכלים של הטבע הם רק לבוש לניסים אמיתיים</title>
@@ -2782,6 +3242,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/7/f/3d7fbcef4d7de833e5bbc093207a2619/_________-______156_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23860536</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #155 - וידע, כי הסיבות כולם אצל הבורא שוות, יטריפהו במה שירצה מהן, ובעת שירצה, מאיזה ענין שירצה</title>
@@ -2797,6 +3259,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/2/8/612884cc9b879144d959afa2a1bf1c87/________-______155_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23785937</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #154 - בחירת מלאכה על פי כיסופי נפשו ולא גופו</title>
@@ -2812,6 +3276,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/b/8/12b8be30f854e732d959afa2a1bf1c87/________-______154_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23718155</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #153 - כללים חשובים מבעל החובת הלבבות בענין 'באיזה עבודה טוב לי לעבוד'</title>
@@ -2827,6 +3293,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/7/1/1871fa6dd72dc74dbafc7308ab683e82/________-______153_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23632607</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #152 - ישוב הסתירא בין פרשת והיה אם שמוע וצדיק ורע לו</title>
@@ -2842,6 +3310,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/c/6/cdc613f41207a01ebafc7308ab683e82/________-______152_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23564189</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #151 - אלו ואלו אמורים אשרי מי שלא חטא</title>
@@ -2857,6 +3327,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/f/b/0/dfb05eb46cfa41c616c3140a3186d450/________-______151_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23493482</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #150 - האם שייך להיות בשמחה גם כשרואים ילדים הטועים בדרכים</title>
@@ -2872,6 +3344,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/7/8/b/a78b71348984868ca04421dee9605cbd/________-______150_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23423087</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #149 - נשמות מיוחדות של עיקבתא דמשיחא - חיזוק להורים של ילדים המתמודדים</title>
@@ -2887,6 +3361,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/0/2/d/802d9ae744fa72a9e5bbc093207a2619/.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23363654</ns1:item-id>
+      <ns1:last-updated>2025-06-17T15:07:53Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="20" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #148 - תכלית העולם שנתמודד ונקרא להקב"ה לעזור</title>
@@ -2902,6 +3382,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/d/1/99d110682f651ea016c3140a3186d450/________-______148_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23280389</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #147 - ארבע יסודות איך להשתמש במידת הביטחון בענינים רוחניים</title>
@@ -2917,6 +3399,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/2/c/2f2caa92f8f46ed7e55e3c100dce7605/________-______147_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23210177</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #146 - הודאה להקב"ה על הדברים שאינם מובנים</title>
@@ -2932,6 +3416,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/c/7/6/3c76882a437c76d188c4a68c3ddbc4f2/________-______146_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23136059</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #145 - בהדי כבשי'ה דרחמנא למה לך - ובענין לא הן ולא שכרן</title>
@@ -2947,6 +3433,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/2/e/9e2ee4856ca1c85616c3140a3186d450/________-______145_-______-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23061980</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #144 - טעם שהקב"ה מדקדק עם הצדיקים כחוט השערה</title>
@@ -2962,6 +3450,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/f/7/8/bf78fb0e74028c25e5bbc093207a2619/________-______144_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22989434</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #143 - הצורך שהאדם יתבונן בהתפקיד המיוחד לו ויעשהו בנאמנה</title>
@@ -2977,6 +3467,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/3/d/d/13dd0c37fd3ecdbbbafc7308ab683e82/________-______143_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22911626</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #142 - שיעור כללי בענין ב' סוגי הצדיקים, צדיק וטוב לו וצדיק ורע לו</title>
@@ -2992,6 +3484,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/b/7/b/6b7bd7a7c3617f68d959afa2a1bf1c87/_____-______142_-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22684724</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שיעור קמ"א - למה יסורים של הצדיק מכפר עונות</title>
@@ -3007,6 +3501,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/9/7/9d973d2abdc7afb2d959afa2a1bf1c87/New_Thin_Boarder_Favicon.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22612262</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #140 - כח ההשפעה לאחרים שיש להמקבל יסורים באהבה</title>
@@ -3022,6 +3518,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/5/2/ba525dd0251dd446e55e3c100dce7605/_____-______140_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22526951</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #139 - להודיע שכל קויך לא יבושו ולא יכלמו לנצח כל החוסים בך</title>
@@ -3037,6 +3535,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/9/5/e295adcdce17c6005f2e77a3093c12a1/_____-______139_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22452572</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #138 - הסוד של שינויים אמיתיים בחיים</title>
@@ -3052,6 +3552,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/0/9/4b09900f194fc163e55e3c100dce7605/_____-______138_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22376180</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #137 - היסורים המזככים מביאים חיי עולם הבא להאדם</title>
@@ -3067,6 +3569,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/0/6/a/506a849ea2a571d25f2e77a3093c12a1/_____-______137_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22294730</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #136 - האיך יכול האדם להיות בטוח שיהא לו ישועה? הרי יש אנשים שאינם נושעים?! י</title>
@@ -3082,6 +3586,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/1/0/3/c10330a13e296095e5bbc093207a2619/_____-______136_-_____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22214486</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #135 - עשיית סעודה והודיה עוד לפני הישועה</title>
@@ -3097,6 +3603,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/9/2/5/0925fb91243808de5f2e77a3093c12a1/______-______135_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22137635</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #134 - פארשטיי אז דו פארשטייסט נישט! (תבין שאתה לא מבין)</title>
@@ -3112,6 +3620,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/2/c/872c884d2b60a7e740be95ea3302a6a1/_____-______134_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22060547</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #133 - היצר של דמיון העתיד</title>
@@ -3127,6 +3637,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/0/2/7/302713a3c178aa8c16c3140a3186d450/_____-______133_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21977336</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #132 - למה אין אנשים מתחזקים מידיעת הענין שיסורים מכפרים עוונות</title>
@@ -3142,6 +3654,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/3/b/ba3b7e3d1535f954d959afa2a1bf1c87/_____-______132_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21886397</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #131 - למה שאלה 'צדיק ורע לו' כל כך כואב? ומה העצה לזה</title>
@@ -3157,6 +3671,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/e/3/7/5e3775858fde35b088c4a68c3ddbc4f2/_____-______131_-_________-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21808661</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #130 - פרשת המן - אני עובד קשה, יש לי פרנסה בשפע, איך זה יתכן?</title>
@@ -3172,6 +3688,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/1/6/5/c165d22a98d84ce440be95ea3302a6a1/_____-______130_-___-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21739001</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #129 - התמודדות וקידוש השם והקשר ביניהם</title>
@@ -3187,6 +3705,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/4/b/4/24b4fc62a5b7068dd959afa2a1bf1c87/_____-______129_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21669785</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #128 - המתנות שנותן הקב"ה</title>
@@ -3202,6 +3722,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/8/e/6/58e6d5ccc94bd18227a2322813b393ee/_____-______128_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21599651</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #127 - למה אין אני מרגיש קרבת אלוקים?</title>
@@ -3217,6 +3739,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/6/5/60653e00e833421727a2322813b393ee/_____-______127_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21532970</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #126 - איך לחזק אנשים שעוברים מצבים קשים</title>
@@ -3232,6 +3756,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/4/8/924850f1277b37df27a2322813b393ee/_____-______126_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21454928</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #125 - התענוג הכי גדול שיש בעולם הזה</title>
@@ -3247,6 +3773,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/d/8/7/7d87f7192428b0ac5f2e77a3093c12a1/_____-______125_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21381002</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #124 - עצות וכלים איך לזכות להכנעה וביטחון</title>
@@ -3262,6 +3790,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/8/f/7/38f758efbf76327c5f2e77a3093c12a1/_____-______124_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21299507</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #123 - תכלית היסורים - מהלך החיים של הכנעה</title>
@@ -3277,6 +3807,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/3/3/f/733f3934d1235dfc88c4a68c3ddbc4f2/_____-______123_-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21232943</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #122 - התענוג של 'הדיבור של הקב"ה אל האדם'</title>
@@ -3292,6 +3824,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/c/c/e/acce68f5b391b7b2d959afa2a1bf1c87/_____-______122_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21154814</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #121 - מהות עולם הזה ומה העצה לזה? י</title>
@@ -3307,6 +3841,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/c/7/4dc79e5bb6a8c867d959afa2a1bf1c87/_____-______121_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21074795</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #120 - מחשבה - המזון של הנשמה</title>
@@ -3322,6 +3858,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/9/9/b39977343c4c607127a2322813b393ee/_____-______120_-__-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20995835</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #119 - קבלת יסורים באהבה חלק ב' - יוסיף דעת יוסיף מכאוב - והעצה לזה</title>
@@ -3337,6 +3875,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/d/5/6/bd560315fa83df4c27a2322813b393ee/______-______119_-______-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20917193</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #118 - קבלת יסורים באהבה חלק א' - מהו יסורים?</title>
@@ -3352,6 +3892,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/3/9/a/539a7a770cc7b20f27a2322813b393ee/_____-______118_-______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20841209</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #117 - איך לא לשאול השאלה של 'צדיק ורע לו'?</title>
@@ -3367,6 +3909,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/d/9/4bd94433e1354a4aa04421dee9605cbd/______-______117_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20765648</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #115 - תוצאות חטא עץ הדעת והדרך לתקנו</title>
@@ -3382,6 +3926,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/e/8/61e89bd0fc33b91ce5bbc093207a2619/_____-______115_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20686007</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #115 - הכנה לראש השנה תשפ"ב</title>
@@ -3397,6 +3943,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/7/1/bb7139702aae871327a2322813b393ee/_____-______115_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20295644</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #114 - נעימות היגיעה</title>
@@ -3412,6 +3960,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/a/2/e1a2cc08af7a820c40be95ea3302a6a1/______-______114_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20218508</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #113 - הטעם שעשה הקב"ה שיהא טירדות ואיך להיפטר ממנו</title>
@@ -3427,6 +3977,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/2/f/a/22fa8d5f347e05b0e5bbc093207a2619/______-______113_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20145140</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #112 - מחלוקות הגוף והנשמה כשמשתדל אחר צרכיו</title>
@@ -3442,6 +3994,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/b/f/c/abfce01c5cf25ac0a04421dee9605cbd/_____-______112_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20067806</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #111 - היצר הרע של השתדלות</title>
@@ -3457,6 +4011,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/8/d/e/08de2596a128a70b27a2322813b393ee/_____-______111_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19993430</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #110 - מה ברא הקב"ה את העולם באופן שלכל דבר שרוצים להשיג צריכים להשתדל ולטרוח</title>
@@ -3472,6 +4028,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/d/9/0ad918474f9bdc2940be95ea3302a6a1/____-______110_-_____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19920338</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #109 - בנין הנפש מועיל לאדם שיבטח בהקב"ה</title>
@@ -3487,6 +4045,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/9/6/e4967d28e4ea059a16c3140a3186d450/_____-______109_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19853135</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #108 - עצות וכלים לשנות הרגלים - חלק ג</title>
@@ -3502,6 +4062,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/1/a/9f1a1960dc589d04d959afa2a1bf1c87/_____-______108_-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19770107</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #107 - עצות וכלים לשנות הרגלים - חלק ב</title>
@@ -3517,6 +4079,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/8/3/3/a833d29e342f573088c4a68c3ddbc4f2/______-______107_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19698335</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #106 - עצות וכלים לשנות הרגלים</title>
@@ -3532,6 +4096,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/9/d/429d66be5df9392d5f2e77a3093c12a1/_____-______106_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19627265</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #105 - שלשה חלקים בתשובה המקרבים את האדם לבוראו</title>
@@ -3547,6 +4113,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/f/3/e4f3d3334139d98ea04421dee9605cbd/_____-______105_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19537577</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #104 - אין שום בעל עבירה שמופקע ממצות הביטחון</title>
@@ -3562,6 +4130,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/7/9/2f79b7abfadd708940be95ea3302a6a1/_____-______104_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19454261</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #103 - האם אפשר לבעל עבירה לבטוח בהקב"ה</title>
@@ -3577,6 +4147,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/2/d/1/f2d127442d9e944288c4a68c3ddbc4f2/_____-______103_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19368509</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #102 - ביטחון בהשם במקום דשכיח הזיקא</title>
@@ -3592,6 +4164,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/a/8/3fa88eb49e7dff8116c3140a3186d450/_____-______102_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19289483</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #101 - אמונה וביטחון מביא לידי אהבת חינם</title>
@@ -3607,6 +4181,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/1/3/d113075eb9351b3727a2322813b393ee/_____-______101_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19204136</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #100 - המתיקות של ביטחון 'רק בהקב"ה' י</title>
@@ -3622,6 +4198,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/e/f/f/8efff10e04d40ac4bafc7308ab683e82/_____-______100_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19161233</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #99</title>
@@ -3637,6 +4215,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/e/d/7/4ed7321185fa9d2fe55e3c100dce7605/HAVINEINI_LOGO_final-10.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19042904</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #98 - המלאך המסייע לאדם 'לא להצליח' י</title>
@@ -3652,6 +4232,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/f/6/18f6dcf9b4d59b6588c4a68c3ddbc4f2/_____-______98_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18849446</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #97 - המלאך המסייע להאדם להצליח</title>
@@ -3667,6 +4249,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/9/4/7/d9475fe20f1223c7bafc7308ab683e82/______-______97_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18763766</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #96 - תעשה את הדבר הנכון! אל תפחד!! י</title>
@@ -3682,6 +4266,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/8/1/5/58150fc0401ad10f88c4a68c3ddbc4f2/______-______96_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18677834</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #95 - מתי זוכים לקבל ישעה מעל לדרך הטבע</title>
@@ -3697,6 +4283,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/f/9/3/5f93d62f04aae4e8a04421dee9605cbd/_____95_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18594359</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #94 - אלפי מצבים שאדם עובר בחייו הם לקרב את לבו לבטוח באלוקיו</title>
@@ -3712,6 +4300,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/5/e/d65e8ffa958cc6eb/_____-______94_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18405425</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #93 - איך לעבור מצב של 'הפסד של הרבה כסף'? גם אם זה נעשה על ידי מישהו אחר</title>
@@ -3727,6 +4317,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/8/7/0/e870a43ebe3dda52/_____-______93_-_________-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18314012</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #92 - חיזוק ההכרה שהמצב שעובר על האדם הוא רק חלק מתוכנית גדול</title>
@@ -3742,6 +4334,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/d/e/12de9b850fb9a0ce/______-______92_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18218240</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #91 - אל תפספס המתיקות של המזל שלך</title>
@@ -3757,6 +4351,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/d/3/bed350651e2c7b91/______-______91_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18136541</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #90 - היצר הרע של היסח הדעת</title>
@@ -3772,6 +4368,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/7/4/0/27403560e5306b40/_____-______90_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18026354</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #89 - מה הסיבה שאפילו אנשים שמודים להקב"ה יש להם הרבה כאב מהדברים שחסר להם</title>
@@ -3787,6 +4385,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/6/e/d/56ed5bace6d2f894/_____-______89_-_____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17940977</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #88</title>
@@ -3802,6 +4402,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/1/e/4/11e4e15e5ec70392/_____-______88_-_______._______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17851448</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #87 - האמונה שהאדם אינו יכול לעזור לעצמו אפילו על ידי סגולות</title>
@@ -3817,6 +4419,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/3/2/2/9322058e408e9461/_____-______87_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17754764</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #86 - יסודות באמונה המביאים לידי ביטחון</title>
@@ -3832,6 +4436,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/d/b/44db9c431d990764/_____-______86_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17664764</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #85 - איך עושים שהאמונה וביטחון יהיה חי ואמיתי אצל האדם</title>
@@ -3847,6 +4453,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/1/b/3b1b02c020866dd9/_____-______85_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17576747</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #84 - אמונה וביטחון לאנשים שיש להם חובות כספיים</title>
@@ -3862,6 +4470,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/b/6/8/fb684731be96b4d7/_____-______84_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17485571</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #83 - ישוב הדעת הנצרך לפני ההשתדלות</title>
@@ -3877,6 +4487,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/0/c/2/a0c2433956a92ae4/_____-______83_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17401673</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #82</title>
@@ -3892,6 +4504,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/6/3/0f63ea7a8a9c7259/_____-______82_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17334374</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #81 - הקב"ה יותר חזק מכל טבע ומכל זמן</title>
@@ -3907,6 +4521,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/a/f/c/5afcd35898c3b0b1/_____-______81_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17263598</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #80 - הקב"ה ברא בריאה של שלימות</title>
@@ -3922,6 +4538,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/0/c/7/f0c709f6064fd026/_____-__-______80_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17171639</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #79 - מה הפירוש שהקב"ה הוא מקור הרחמים. ואיך עושים השתדלות לקבל רחמנות?</title>
@@ -3937,6 +4555,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/a/4/e6a41e80e2858cff/_____-______79_-______._____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17079494</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>חובת הלבבות שער הביטחון שיעור #78 - מחשבות של ביטחון צריכים להוליד אצל האדם הרגשת הביטחון</title>
@@ -3952,6 +4572,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/f/a/8/cfa8a634139f2393/_____-_____-_____78_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17015210</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>יום א ויצא תשפא -חובת הלבבות שער הביטחון שיעור #77 - ההרגל למידת הביטחון מתחיל מרגע לידת האדם בעולם הזה</title>
@@ -3967,6 +4589,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/e/8/b8e8b45fe10deca0/____-_____77__-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16906649</ns1:item-id>
+      <ns1:last-updated>2023-09-11T09:51:39Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #76 - הקב"ה אינו עוזב את האדם בשום מצב</title>
@@ -3982,6 +4606,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/3/1/2d31029c0850f36d/_____-______-__76_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16813343</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #75 - הרי אנו רואים בחוש הרבה פעמים שנעזרים על ידי אנשים?</title>
@@ -3997,6 +4623,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/9/5/b995fe92101210c4/______-______-__75_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16723517</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #74 - השתדלות העלפט א מכה!</title>
@@ -4012,6 +4640,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/c/e/6/2ce655473be760d5/_____-______-__74_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16634033</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #73 - המלחמה הכי קשה בסוגיית הביטחון</title>
@@ -4027,6 +4657,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/9/7/8/d978c6b1d29d0d95/______-______-__73_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16534505</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #72 - העצה של 'ההתבוננות בהסטוריה שלך'</title>
@@ -4042,6 +4674,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/6/8/6768d5ccd93c14cc/_____-______-__72_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16443842</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #71 - בראשית ברא - אמונה ביסודות הדת</title>
@@ -4057,6 +4691,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/e/9/cde9ac5d02d7d937/_____-______-__71_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16371284</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #70</title>
@@ -4072,6 +4708,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/0/2/5/b025473c7925f98a/_____-________-__70_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16109297</ns1:item-id>
+      <ns1:last-updated>2020-10-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #69</title>
@@ -4087,6 +4725,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/8/1/9f8140094273f8ab/_______-________-__69_-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15988799</ns1:item-id>
+      <ns1:last-updated>2020-10-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #68</title>
@@ -4102,6 +4742,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/2/9/3/f2937fa245bbdb28/______-________-__68_-______-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15902798</ns1:item-id>
+      <ns1:last-updated>2020-10-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #67 - 6 יסודות בתפלה המיוסד על ביטחון</title>
@@ -4117,6 +4759,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/c/a/d7ca5dfad8966ff6/______-________-__67_-_6_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15806432</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #66</title>
@@ -4132,6 +4776,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/3/5/d/a35d33b2d46798b1/______-________-__66_-________-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15719021</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #65</title>
@@ -4147,6 +4793,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/6/e/466e863df567cabd/_____-________-__65_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15627494</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #64 - הקב"ה יודע יותר טוב ממני מה אני צריך</title>
@@ -4162,6 +4810,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/0/4/d1044c543df961c3/_____-________-__64_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15538259</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #63 - כי אין לה' מעצור להושיע</title>
@@ -4177,6 +4827,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/a/e/3baea42dea530111/_____-________-__63_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15443738</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #62 - הקב"ה משגיח ומתבונן על האדם 24 שעות</title>
@@ -4192,6 +4844,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/c/3/3/3c330603078daf75/_____-________-__62_-______24_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15353948</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #61</title>
@@ -4207,6 +4861,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/6/9/1/16919421b6315aad/_____-________-__61_-_____.______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15261521</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #60</title>
@@ -4222,6 +4878,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/8/8/3/7883aabe8dc38744/______-________-__60_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15174095</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #59</title>
@@ -4237,6 +4895,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/4/a/dd4a353c7092bf01/_____-________-__58_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15087785</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון פרק ב' - שיעור #58?</title>
@@ -4252,6 +4912,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/8/2/e/682e3e741d0c37e1/________-________-__58_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14992625</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #57</title>
@@ -4267,6 +4929,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/c/a/b/7cabf3fd5cb5ec0d/_______-______-__57_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14904452</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #56</title>
@@ -4282,6 +4946,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/b/1/d/db1db0d7ed6f9004/_______-______-__56_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14813366</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #55 - חכמת החיים או אמונה וביטחון?</title>
@@ -4297,6 +4963,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/7/a/cc7a59d184afd897/_______-______-__55_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14725751</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #54</title>
@@ -4312,6 +4980,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/5/0/1/6501161b0f0c58a9/_______-______-__54_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14634209</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #53</title>
@@ -4327,6 +4997,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/0/0/9/0009df5b3fa63bca/________-______-__53_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14544035</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #52 - מהו מהות תכונת הביטחון</title>
@@ -4342,6 +5014,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/a/8/2fa8ea794c05b00b/_____-______-__52_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14451251</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #51</title>
@@ -4357,6 +5031,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/6/b/1/06b12a78be628b6c/______-______-__51_-________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14355632</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #50</title>
@@ -4372,6 +5048,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/4/6/9b46f967edd363cc/_____-______-__50_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14256434</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #49</title>
@@ -4387,6 +5065,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/d/9/e3d9a9d018ecce4f/______-______-__49_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14148266</ns1:item-id>
+      <ns1:last-updated>2020-05-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #48</title>
@@ -4402,6 +5082,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/f/5/d4f53000ea84b6e2/______-______-__48_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14047847</ns1:item-id>
+      <ns1:last-updated>2020-05-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #47</title>
@@ -4417,6 +5099,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/0/c/de0c6ba346a81464/______-______-__47_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13952513</ns1:item-id>
+      <ns1:last-updated>2020-05-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #46</title>
@@ -4432,6 +5116,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/d/b/12db7bafc09efa7f/_____-______-__46_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13866539</ns1:item-id>
+      <ns1:last-updated>2020-05-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #45 - אשרי אדם מפחד תמיד - אשרי אדם בוטח בך</title>
@@ -4447,6 +5133,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/4/8/3/a4833296a2fa029b/_____-______-__45_-_____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13748924</ns1:item-id>
+      <ns1:last-updated>2020-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #44</title>
@@ -4462,6 +5150,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/f/3/69f35afbe9fa2b61/_____-______-__44_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13646363</ns1:item-id>
+      <ns1:last-updated>2020-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #43 - דברי חיזוק והתעוררות בצל נגיף הקרונה</title>
@@ -4477,6 +5167,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/3/a/743ab9ed2e90c344/_____-______-__43_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13552211</ns1:item-id>
+      <ns1:last-updated>2020-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #42</title>
@@ -4492,6 +5184,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/5/6/cd56fd3fe507e02f/______-______-__42_-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13455251</ns1:item-id>
+      <ns1:last-updated>2020-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #41</title>
@@ -4507,6 +5201,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/4/b/dd4b60745c2d744e/_____-______-__41_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13356677</ns1:item-id>
+      <ns1:last-updated>2020-03-29T20:48:01Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #40</title>
@@ -4522,6 +5218,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/6/c/986c63811975aa44/_____-______-__40_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13262336</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #39</title>
@@ -4537,6 +5235,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/b/5/7bb5f9e5f7c18808/_____-______-__39_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13169198</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #38</title>
@@ -4552,6 +5252,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/0/d/b90d43f50c10d322/_____-______-__38_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12980201</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #37</title>
@@ -4567,6 +5269,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/9/8/7/a98793e7de854e01/_____-______-__37_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12930407</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #36</title>
@@ -4582,6 +5286,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/9/a/4/e9a413db4f9789e3/_____-______-__36_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12886961</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #35</title>
@@ -4597,6 +5303,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/9/b/4/79b4c954ace871d2/_____-______-__35_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12795968</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>יום ב' פרשת שמות תשפ - ספר חובות הלבבות שער הביטחון - שיעור #34</title>
@@ -4612,6 +5320,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/7/5/a57510ac2fdef50f/_____-______-__34.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12715295</ns1:item-id>
+      <ns1:last-updated>2020-10-15T04:42:39Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #33</title>
@@ -4627,6 +5337,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/8/b/0/68b042ae8b4c15ae/_____-______-__33_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12620099</ns1:item-id>
+      <ns1:last-updated>2020-01-28T17:22:48Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #32 - האם יש לי מנוחת הנפש?</title>
@@ -4642,6 +5354,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/a/5/a/aa5a746f3b3a6cc4/____-__-__-______-__32_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12552536</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובות הלבבות שער הביטחון - שיעור #31</title>
@@ -4657,6 +5371,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/6/2/cb622a13cfada53b/_____-______-__31_-__-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12520946</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #30</title>
@@ -4672,6 +5388,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/3/7/6737b8f600eca161/_____-______-__30_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12404111</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #29</title>
@@ -4687,6 +5405,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/9/1/b391de4aa3d966cf/_____-______-__29_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12319064</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #28</title>
@@ -4702,6 +5422,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/d/a/d/7dad8144fe47a273/_____-______-__28_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12232589</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #27</title>
@@ -4717,6 +5439,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/1/e/d41e0ac48ec94f22/_____-______-__27_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12181628</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #26 -</title>
@@ -4732,6 +5456,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/0/7/e/d07e8647c5a4d39f/______-_______26_-__________-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12063740</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #25 - קבלת היסורים סיבה לישועה וקבלת התפילות</title>
@@ -4747,6 +5473,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/e/c/d6ec0ffee6473a00/_____-_______25_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11975132</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #24</title>
@@ -4762,6 +5490,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/4/a/e/84aee11f329ee6c8/______-______-__24_-______________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11885381</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #23 - ה' רועי לא אחסר - ואם חסר לי???</title>
@@ -4777,6 +5507,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/e/4/0fe4c281cc85b5ed/_____-______-__23_-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11795528</ns1:item-id>
+      <ns1:last-updated>2019-11-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #22 - חלקי העולם שלא נתגשמו</title>
@@ -4792,6 +5524,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/5/7/9/c579ff3926f6d2de/_____-______-__22_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11530241</ns1:item-id>
+      <ns1:last-updated>2019-10-31T08:02:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #21 - השייכות בין געזונט לפרנסה</title>
@@ -4807,6 +5541,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/0/b/d/d0bdec30ddb9c331/_____-______-__21_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11481935</ns1:item-id>
+      <ns1:last-updated>2019-10-27T10:54:04Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #20 - עבודת הביטחון לקראת יום הדין</title>
@@ -4822,6 +5558,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/6/8/4d68021f8ba2c563/_____-______-__20_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11342579</ns1:item-id>
+      <ns1:last-updated>2019-10-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #19 - אהוב את המלאכה</title>
@@ -4837,6 +5575,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/3/7/1/437159da00999e60/______-______-__19_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11254082</ns1:item-id>
+      <ns1:last-updated>2019-10-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #18 - בענין איך להשיג מנוחת הנפש</title>
@@ -4852,6 +5592,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/c/2/3/7c235504844674a6/______-______-__18_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11164391</ns1:item-id>
+      <ns1:last-updated>2019-09-18T08:09:43Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #17 - בענין בכל דרכיך דעהו</title>
@@ -4867,6 +5609,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/1/1/b/911b23a0ac4976a9/_____-______-__17_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11074037</ns1:item-id>
+      <ns1:last-updated>2019-09-18T08:09:44Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #16 - שונא מתנות יחיה</title>
@@ -4882,6 +5626,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/8/a/1/d8a12067decb9fde/_____-______-__16_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10995716</ns1:item-id>
+      <ns1:last-updated>2019-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>למה כל כך קשה להשיג הפרנסה? ומה הפתרון לזה?</title>
@@ -4897,6 +5643,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/1/3/9/913956e09c17eff7/_____-______-__15_-_______-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10908447</ns1:item-id>
+      <ns1:last-updated>2019-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #14 - לבטוח רק בהקב"ה ולא באמצעיים</title>
@@ -4912,6 +5660,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/e/1/2ae1bdc429e35955/_____-______-__14_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10871075</ns1:item-id>
+      <ns1:last-updated>2019-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #13 - האם השתדלות עוזר במשהו?</title>
@@ -4927,6 +5677,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/2/e/0/32e04fa80ad67151/____-______-__12_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10776503</ns1:item-id>
+      <ns1:last-updated>2019-08-25T06:35:47Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #12 - סוד קיום הבריאה</title>
@@ -4942,6 +5694,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/1/4/1214ec1d39b09d0d/_______-______-__12_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10691534</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות #11 איזה חלקים בתורה צריכים לחזור מאה פעמים ביום</title>
@@ -4957,6 +5711,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/3/4/9e344012d5934e63/_____-___11________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10610066</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>?ספר חובת הלבבות שער הביטחון - שיעור #10 - פתיחת המחבר - אין לי כח! מה עושים</title>
@@ -4972,6 +5728,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/1/b/9/71b9e26636afc474/_____-__10_-___-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10511588</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #9 - פתיחת המחבר - מבלעדי עזך ועזרתך אין עזרה וישועה - בעניני רוחניות</title>
@@ -4987,6 +5745,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/e/5/3fe5490c38d58758/_____-______-__9_-___-_______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10427750</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חובת הלבבות שער הביטחון - שיעור #8 - פתיחת המחבר - במי אתה בוטח? בעצמך או בהקב"ה?</title>
@@ -5002,6 +5762,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/a/7/4ba76a2516f50684/_____-______-__8_-___-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10342871</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:51:57Z</ns1:last-updated>
     </item>
     <item>
       <title>"ספר חובת הלבבות שער הביטחון - שיעור #7 - פשט מאירת עינים ושווה לכל נפש ב"הרואה יסורים באים עליו</title>
@@ -5017,6 +5779,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/d/e/2/1de2cf7070739a13/_____-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10251437</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:53:31Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #6 - מה יעשה כשעובר יסורים? יפשפש במעשיו או יתן הודעה להקב"ה</title>
@@ -5032,6 +5796,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/8/a/9/e8a9c2b1d353364a/______-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10163867</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:54:40Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #5 - בטחון על ההוה (current)</title>
@@ -5047,6 +5813,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/f/0/77f0c6bd4a7c949d/______-_______-__5_-____current.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10108965</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:55:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #4 - האם ביטחון עובד 90% או 100%</title>
@@ -5062,6 +5830,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/c/d/d/5cddd038de53b4d2/______-_______-__4_-____90__100.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10012592</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:55:56Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #3 - היה לי ביטחון ולא נושעתי</title>
@@ -5077,6 +5847,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/9/8/5298f3b86c727842/______-_______-__3_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9924557</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:56:29Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #2</title>
@@ -5092,6 +5864,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/a/c/6/1ac611e34d4a327c/_____-_______-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9837482</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:07:10Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמה לספר חובות הלבבות שער הביטחון - שיעור #1</title>
@@ -5107,6 +5881,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/e/2/63e2780dc4dc06d4/______-_______-__1_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9745613</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:07:42Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

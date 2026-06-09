@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ENGLISH SHIURIM</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -32,8 +34,26 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
-      <title>With Bitachon - Even the Unloved Can Love</title>
-      <itunes:title>With Bitachon - Even the Unloved Can Love</itunes:title>
+      <title>Bein Adam L'chaveiro - We Need Bitachon to Succeed</title>
+      <itunes:title>Bein Adam L'chaveiro - We Need Bitachon to Succeed</itunes:title>
+      <pubDate>Tue, 09 Jun 2026 11:45:00 +0000</pubDate>
+      <guid isPermaLink="false">a2b1e104-b384-4ab1-9d0f-1333c844ef64</guid>
+      <link>https://lomdotchasidut.libsyn.com/bein-adam-lchaveiro-we-need-bitachon-to-succeed</link>
+      <description>&lt;p&gt;&lt;strong&gt;Watch it on Torah Anytime - &lt;a href= "https://www.torahanytime.com/#/lectures?v=155116" target="_blank" rel= "noopener"&gt;https://www.torahanytime.com/#/lectures?v=454736&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;For past shiurim in &lt;strong&gt;Yiddish&lt;/strong&gt; &amp; &lt;strong&gt;English&lt;/strong&gt;:&lt;br /&gt;  &lt;a href="https://bit.ly/2QhADhe" target="_blank" rel= "noopener"&gt;https://bit.ly/2QhADhe&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Hotline&lt;/strong&gt;: 718-686-8300&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Email signup&lt;/strong&gt;: &lt;a href= "http://bit.ly/HavSignup" target="_blank" rel= "noopener"&gt;http://bit.ly/HavSignup&lt;/a&gt;&lt;/p&gt; &lt;p&gt;For questions/comments or to &lt;strong&gt;sponsor&lt;/strong&gt; a shiur:&lt;br /&gt; info@machonhavineini.com&lt;br /&gt; Or call us: 347-351-2400&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WhatsApp&lt;/strong&gt;: &lt;a href= "https://chat.whatsapp.com/Lqt6Kd1sb458SZvyFeJgOJ" target="_blank" rel= "noopener"&gt;https://chat.whatsapp.com/Lqt6Kd1sb458SZvyFeJgOJ&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Click to donate a Shiur:&lt;/strong&gt; &lt;a href= "https://donate.machonhavineini.com/"&gt;https://donate.machonhavineini.com&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Watch it on Torah Anytime - &lt;a href= "https://www.torahanytime.com/#/lectures?v=155116" target="_blank" rel= "noopener"&gt;https://www.torahanytime.com/#/lectures?v=454736&lt;/a&gt;&lt;/p&gt; &lt;p&gt;For past shiurim in Yiddish &amp; English: &lt;a href="https://bit.ly/2QhADhe" target="_blank" rel= "noopener"&gt;https://bit.ly/2QhADhe&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hotline: 718-686-8300&lt;/p&gt; &lt;p&gt;Email signup: &lt;a href= "http://bit.ly/HavSignup" target="_blank" rel= "noopener"&gt;http://bit.ly/HavSignup&lt;/a&gt;&lt;/p&gt; &lt;p&gt;For questions/comments or to sponsor a shiur: info@machonhavineini.com Or call us: 347-351-2400&lt;/p&gt; &lt;p&gt;WhatsApp: &lt;a href= "https://chat.whatsapp.com/Lqt6Kd1sb458SZvyFeJgOJ" target="_blank" rel= "noopener"&gt;https://chat.whatsapp.com/Lqt6Kd1sb458SZvyFeJgOJ&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Click to donate a Shiur: &lt;a href= "https://donate.machonhavineini.com/"&gt;https://donate.machonhavineini.com&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/149_-_Bein_Adam_Lchaveiro_-_We_Need_Bitachon_to_Succeed_-_____.mp3?dest-id=468609" length="12406860" type="audio/mpeg" />
+      <itunes:duration>40:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/5/0/3/250369ab7c18b45d16c3140a3186d450/149_-_Bein_Adam_Lchaveiro_-_We_Need_Bitachon_to_Succeed_-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41584010</ns1:item-id>
+      <ns1:last-updated>2026-06-09T11:46:30Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>If It's Not al pi Torah - It Can't Heal You</title>
+      <itunes:title>If It's Not al pi Torah - It Can't Heal You</itunes:title>
       <pubDate>Wed, 27 May 2026 10:25:00 +0000</pubDate>
       <guid isPermaLink="false">29fcf930-e0e4-4590-a516-9ad33c72d3ba</guid>
       <link>https://lomdotchasidut.libsyn.com/with-bitachon-even-the-unloved-can-love-0</link>
@@ -46,6 +66,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/c/b/f6cb08c795d72fba16c3140a3186d450/148_-_If_Its_Not_al_pi_Torah_-_It_Cant_Heal_You_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41437205</ns1:item-id>
+      <ns1:last-updated>2026-06-09T11:45:11Z</ns1:last-updated>
     </item>
     <item>
       <title>With Bitachon - Even the Unloved Can Love</title>
@@ -62,6 +84,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/e/0/c2e0609d4e88bbf916c3140a3186d450/147_-_With_Bitachon_-_Even_the_Unloved_Can_Love_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41028375</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon - and Our Deep Need for Self-esteem</title>
@@ -78,6 +102,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/2/8/9928a144ec80a155d959afa2a1bf1c87/146_-_Bitachon_-_and_Our_Deep_Need_for_Self-esteem_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40900820</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>Derech Eretz - Learn to be a Mentch!</title>
@@ -94,6 +120,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/c/1/8dc1859df6ee6f6f16c3140a3186d450/145_-_Derech_Eretz_-_Learn_to_be_a_Mentch_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40616800</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>Overcome Apprehension and Do What's Right - With Bitachon</title>
@@ -109,6 +137,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/3/1/69312d0affa7101116c3140a3186d450/144_-_Overcome_Apprehension_and_Do_Whats_Right_-_With_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40149425</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2697" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Decisions - Gashmiyus, Ruchniyus and the Role of Bitachon</title>
@@ -124,6 +158,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/7/9/e/279e0b84811a66e1d959afa2a1bf1c87/143_-_Decisions_-_Gashmiyus_Ruchniyus_and_the_Role_of_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40122800</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2872" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Plan, Arrange, and Implement with Bitachon</title>
@@ -138,6 +178,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40056685</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2625" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Healing Your Mind - As Part Of Bitachon</title>
@@ -153,6 +199,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/7/1/0271e50643c6ce5a16c3140a3186d450/141_-_Healing_Your_Mind_-_As_Part_Of_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39868675</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2754" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Have Bitachon that No Mitzva is Beyond Your Reach</title>
@@ -168,6 +220,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/e/e/c/1eec62c4fc872067d959afa2a1bf1c87/140_-_Have_Bitachon_that_No_Mitzva_is_Beyond_Your_Reach_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39771570</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2244" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Stuck? Follow the Path of Tefilla to Bitachon</title>
@@ -183,6 +241,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/2/5/4/3254de1c5942b998d959afa2a1bf1c87/139_-_Stuck_Follow_the_Path_of_Tefilla_to_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39657230</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2241" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Wisdom Is a Gift - Use it With Bitachon!</title>
@@ -198,6 +262,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/e/b/aeeb3460ad95220e16c3140a3186d450/138_-_Wisdom_Is_a_Gift_-_Use_it_With_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39582620</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2692" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Chanuka - Time to Expand Your Thanking</title>
@@ -213,6 +283,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/9/6/6/f96605ebe748950416c3140a3186d450/WhatsApp_Image_2021-10-28_at_11.35.29_AM-20251231-ed88dzpazp.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39438040</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2201" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Prepare for Chanuka - By Learning How to Thank!</title>
@@ -228,6 +304,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/f/f/7/4ff75724cd14d959d959afa2a1bf1c87/136_-_Prepare_for_Chanuka_-_By_Learning_How_to_Thank_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39354415</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1844" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Think Big! Tefila for a specific need can open gates of shefa for all!</title>
@@ -243,6 +325,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/c/5/e/ec5e7d55df3fb86fd959afa2a1bf1c87/135_-_Think_Big_Tefila_for_a_specific_need_can_open_gates_of_shefa_for_all_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38935605</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2476" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>Reward and Punishment - A Chance to See the Melech</title>
@@ -258,6 +346,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/0/9/fc09480338dd7d8216c3140a3186d450/134_-_Reward_and_Punishment_-_A_Chance_to_See_the_Melech_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38264100</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>חרטה - Regret Doesn't Mean Blaming Yourself</title>
@@ -273,6 +363,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/3/8/f/538fc522039ea5e0d959afa2a1bf1c87/133_-__-_Regret_Doesnt_Mean_Blaming_Yourself_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38180555</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>The Hidden Truth of Teshuva - #132</title>
@@ -288,6 +380,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/f/a/45faf9864d42f6a5d959afa2a1bf1c87/132_-_The_Hidden_Truth_of_Teshuva_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38069875</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>Thanking Your Friend - The Gateway to Kirvas Elokim - #130</title>
@@ -303,6 +397,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/a/f/feaf649a81750c48d959afa2a1bf1c87/130_-_Thanking_Your_Friend_-_The_Gateway_to_Kirvas_Elokim_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36663140</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>Asking for Favors - The Overlooked Hishtadlus</title>
@@ -318,6 +414,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/9/f/699f27282ae1f04216c3140a3186d450/129_-_Asking_for_Favors_-_The_Overlooked_Hishtadlus_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36275865</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>Chinuch Dilemmas? Let Bitachon Guide you - #127</title>
@@ -333,6 +431,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/8/1/9b817f4432318f8dd959afa2a1bf1c87/127_-_Chinuch_Dilemmas_-_Let_Bitachon_Guide_you___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35867385</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>Torah and Loneliness - Find the Light that Illuminates Your Darkness - #126</title>
@@ -348,6 +448,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/a/1/87a147693f6b136ad959afa2a1bf1c87/126_-_Torah_and_Loneliness_-_Find_the_Light_that_Illuminates_Your_Darkness_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35852405</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>The Pain of Loneliness - Heal it From Within - #125</title>
@@ -363,6 +465,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/1/1/f/211f47335d83f32116c3140a3186d450/125_-_The_Pain_of_Loneliness_-_Heal_it_From_Within_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35408375</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>Loneliness - An Unprecedented Opportunity for Dveikus!</title>
@@ -378,6 +482,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/e/e/92ee9496a5e971f216c3140a3186d450/124_-_Loneliness_-_An_Unprecedented_Opportunity_for_Dveikus_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35311335</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon Means That You Are Never Alone - #123</title>
@@ -393,6 +499,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/e/7/2de7c38b22eafee416c3140a3186d450/123_-_Bitachon_Means_That_You_Are_Never_Alone_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35148440</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>Hishtadlus - more than the means to an end - #121</title>
@@ -408,6 +516,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/c/2/87c2e83ba4519e1816c3140a3186d450/121_-_Hishtadlus_-_more_than_the_means_to_an_end_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35025550</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Hishtadlus - more than the means to an end - #121</title>
@@ -423,6 +533,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/c/2/87c2e83ba4519e1816c3140a3186d450/121_-_Hishtadlus_-_more_than_the_means_to_an_end_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35025520</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Tefilla's Not Working? Think Again! - #120</title>
@@ -438,6 +550,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/e/a/c/ceac1081d49ab94a16c3140a3186d450/120_-_Tefillas_Not_Working_Think_Again_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34954955</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Once you're davening, Open Wide!   #119</title>
@@ -453,6 +567,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/c/d/8/dcd8e6d46e9735f6d959afa2a1bf1c87/119_-_Once_youre_davening_Open_Wide___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34581645</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>Big Budgets Come With Big Challenges - #118</title>
@@ -468,6 +584,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/5/6/9a564991c564705227a2322813b393ee/118_-_Big_Budgets_Come_With_Big_Challenges_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32757707</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>Step Back and Start Doing! - #117</title>
@@ -483,6 +601,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/f/f/3bff381e07e5308c27a2322813b393ee/117_-_Step_Back_and_Start_Doing_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32494452</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>Same Actions Different Stories</title>
@@ -498,6 +618,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/4/4/fd44f1900cf7addde55e3c100dce7605/115_-_Same_Actions_Different_Stories_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32017812</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>Identify Your "Tafkid" - Guidance From the Chazon Ish zt"l</title>
@@ -513,6 +635,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/a/3/92a3d79f7029592ae55e3c100dce7605/114_-_Identify_Your_Tafkid_-_Guidance_From_the_Chazon_Ish_ztl_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31807607</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>Success in Ruchniyus - Do I Need Bitachon? How Can it Help? - #113</title>
@@ -528,6 +652,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/0/a/d/30adc9639cbf8a6e27a2322813b393ee/113_-_Success_in_Ruchniyus_-_Do_I_Need_Bitachon_-_How_Can_it_Help_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31694447</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>"Hot" Bitachon or "Cold" Bitachon? - Each Has It's Place - #112</title>
@@ -543,6 +669,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/7/b/607b8fd0875cc93027a2322813b393ee/112_-_Hot_Bitachon_or_Cold_Bitachon_-_Each_Has_Its_Place_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31577582</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>Hishtadlus Gone Wrong - It's the Attitude not the Actions</title>
@@ -558,6 +686,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/8/f/d/38fd7317111b6e01e55e3c100dce7605/111_-_Hishtadlus_Gone_Wrong_-_Its_the_Attitude_not_the_Actions_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31527632</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>Limits to Hishtadlus - Even For Refuah - #109</title>
@@ -573,6 +703,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/c/f/adcfb225f026401fe55e3c100dce7605/110_-_Limits_to_Hishtadlus_-_Even_For_Refuah_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31398912</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon in Illness and Health - #109</title>
@@ -588,6 +720,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/c/c/4/bcc4449b2e37365027a2322813b393ee/109_-_Bitachon_in_Illness_and_Health_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31193067</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>Building Bitachon - Action and attitude</title>
@@ -603,6 +737,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/b/1/2ab15588e799195088c4a68c3ddbc4f2/108_-_Building_Bitachon_-_Action_and_attitude_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30762648</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>Lowering Expectations - how and why</title>
@@ -618,6 +754,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/3/3/f/a33f2ec366731ea088c4a68c3ddbc4f2/107_-_Lowering_Expectations_-_how_and_why_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30563038</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>Marbin B'simcha? Stop Dreaming and Start Living!</title>
@@ -633,6 +771,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/5/d/9d5d7ba7104933a4e5bbc093207a2619/106_-_Marbin_Bsimcha_-__Stop_Dreaming_and_Start_Living_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30449043</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>Hakaras Hatov - The Natural Path to Kirvas Elokim</title>
@@ -648,6 +788,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/9/7/6/3976a417c4a7efa3e5bbc093207a2619/105_-_Hakaras_Hatov_-_The_Natural_Path_to_Kirvas_Elokim_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30448343</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>Hakaras Hatov - The Natural Path to Kirvas Elokim</title>
@@ -663,6 +805,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/9/7/6/3976a417c4a7efa3e5bbc093207a2619/105_-_Hakaras_Hatov_-_The_Natural_Path_to_Kirvas_Elokim_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30448353</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>Appreciation or Flattery? A World of Difference</title>
@@ -678,6 +822,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/0/c/870c56f8f31ad3e5e5bbc093207a2619/104_-_Appreciation_or_Flattery_A_World_of_Difference_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30149468</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>How to daven for today - How to daven for tomorrow - #103</title>
@@ -693,6 +839,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/b/9/f8b97cb2d6a838a388c4a68c3ddbc4f2/103_-_How_to_daven_for_today_-_How_to_daven_for_tomorrow_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30052218</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>Don't Forget "Today"! - #102</title>
@@ -708,6 +856,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/0/8/95085972f802c83ce5bbc093207a2619/102_-_Dont_Forget_Today_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30012928</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>Clarity - Why We Need It and How to Find It -#101</title>
@@ -723,6 +873,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/3/c/a/a3ca3e651a6da32c88c4a68c3ddbc4f2/101_-_Clarity_-_Why_We_Need_It_and_How_to_Find_It_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29787898</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>Uncover Your Parnassah and Discover the Mann!</title>
@@ -738,6 +890,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/8/3/e/283e6099fd47fda4e5bbc093207a2619/100_-_Uncover_Your_Parnassah_and_Discover_the_Mann_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29712888</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>Hashem Gave Everyone Talents, and Wants You to Use Them - #99</title>
@@ -753,6 +907,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/e/a/3/6ea3749e3ff7dea6e5bbc093207a2619/099_-_Hashem_Gave_Everyone_Talents_and_Wants_You_to_Use_Them_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29578983</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>With Bitachon - Enjoying your Success Isn't Treif! - #98</title>
@@ -768,6 +924,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/a/2/4/6a24b8650f08404ee5bbc093207a2619/098_-_With_Bitachon_-_Enjoying_your_Success_Isnt_Treif_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29525918</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>Peace of Mind - The True Test of Bitachon - #97</title>
@@ -783,6 +941,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/6/3/f/863f347ba21f6db788c4a68c3ddbc4f2/097_-_Peace_of_Mind_-_The_True_Test_of_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29402558</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>Conscious and Subconscious - Living in Two Worlds Simultaneously - #96</title>
@@ -798,6 +958,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/6/5/7765f34e6c0677d288c4a68c3ddbc4f2/096_-_Conscious_and_Subconscious_-_Living_in_Two_Worlds_Simultaneously_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29309278</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>Connecting Heaven and Earth - #95</title>
@@ -813,6 +975,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/5/2/ad52eb7a305214f5e5bbc093207a2619/095_-_Connecting_Heaven_and_Earth_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29231463</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>The Longing and the Light - Kedushas Levi on Chanukah - #94</title>
@@ -828,6 +992,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/9/b/a59bd90b43f1d1d588c4a68c3ddbc4f2/094_-_The_Longing_and_the_Light_-_Kedushas_Levi_on_Chanukah_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28954518</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>Don't say "I Did it". Say, "I Can Fix It" - #93</title>
@@ -843,6 +1009,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/a/b/9eab62db9004a9afe5bbc093207a2619/093_-_Dont_say_I_Did_it._Say_I_Can_Fix_It_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28871253</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Teshuvah - Focus on the Decisions Not The Painful Results - #92</title>
@@ -858,6 +1026,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/b/f/d1bf76c9a26082a8e5bbc093207a2619/092_-_Teshuvah_-_Focus_on_the_Decisions_Not_The_Painful_Results_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28755503</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Yisurim - Start a Conversation With Yourself - #91</title>
@@ -873,6 +1043,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/f/0/fef0458064cb27cde5bbc093207a2619/091_-_Yisurim_-_Start_a_Conversation_With_Yourself_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28755493</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>From Fear to Freedom - #90</title>
@@ -888,6 +1060,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/6/4/a26484386d83d0eb40be95ea3302a6a1/090_-_From_Fear_to_Freedom_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28555760</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>Addressing Fear - Speak to the Nefesh Before the Mind</title>
@@ -903,6 +1077,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/7/5/e4757660ac8adbef27a2322813b393ee/089_-_Addressing_Fear_-_Speak_to_the_Nefesh_Before_the_Mind_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28486508</ns1:item-id>
+      <ns1:last-updated>2023-11-28T11:17:43Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon - Basic Training for Times of War  #88</title>
@@ -918,6 +1094,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/1/7/a/f17ac0428bf1d8dae55e3c100dce7605/088_-_Bitachon_-_Basic_Training_for_Times_of_War_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28406285</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>What do we want and why should we want it</title>
@@ -933,6 +1111,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/2/9/f629623786c252f6e55e3c100dce7605/087_-_What_do_we_want_and_why_should_we_want_it_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28354280</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>The Best Miracles are Invisible - #86</title>
@@ -948,6 +1128,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/1/a/d/11ad26edd6fdda4340be95ea3302a6a1/086_-_The_Best_Miracles_are_Invisible_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27977160</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>Believe in Miracles, but Don't Ask for Them - #85</title>
@@ -963,6 +1145,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/8/7/6d8730c7d2fa6cd4e5bbc093207a2619/085_-_Believe_in_Miracles_but_Dont_Ask_for_Them_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27879390</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>Tisha Bav 5783 - English</title>
@@ -978,6 +1162,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/c/d/d/1cdd37851ddffd0ebafc7308ab683e82/Tisha_Bav_5783_-_English_-_Kol_Halashon.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27574464</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>Giving It All You've Got - The Joy of Fulfilling Your Shlichus</title>
@@ -993,6 +1179,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/d/3/4bd3d587182d1ca727a2322813b393ee/084_-_Giving_It_All_Youve_Got_-_The_Joy_of_Fulfilling_Your_Shlichus_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27559875</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>"Learn How to Live" - #83</title>
@@ -1008,6 +1196,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/0/2/4/a02409e863fffc02d959afa2a1bf1c87/083_-_Learn_How_to_Live_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27487125</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>The Secret of Old Talmidei Chachomim (That We All Need to Learn)</title>
@@ -1023,6 +1213,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/6/0/b/b60bf6c07d04b52e16c3140a3186d450/082_-_The_Secret_of_Old_Talmidei_Chachomim_That_We_All_Need_to_Learn_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27460422</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>Lost and Found - A Confusing World Helps us Connect to Eternity</title>
@@ -1038,6 +1230,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/1/9/e/f19e2bc137ce013ae55e3c100dce7605/081_-_Lost_and_Found_-_A_Confusing_World_Helps_us_Connect_to_Eternity_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27416559</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>The REAL Story of Our Lives - #80</title>
@@ -1053,6 +1247,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/5/1/6/851658de98325a4e27a2322813b393ee/080_-_The_REAL_Story_of_Our_Lives_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27321120</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>Building our Bitachon Muscles - #79</title>
@@ -1068,6 +1264,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/6/d/446d0c67b0ea5d2bbafc7308ab683e82/079_-_Building_our_Bitachon_Muscles_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27223314</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>The Baal Aveira's Guide to Bitachon - #78</title>
@@ -1083,6 +1281,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/c/f/48cf5398fe3c5e66e55e3c100dce7605/078_-_The_Baal_Aveiras_Guide_to_Bitachon_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27157491</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>"Designer Torah" - Learning/Teaching at the Right Level - #77</title>
@@ -1098,6 +1298,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/2/e/fd2e8e1cf3fae8dd16c3140a3186d450/077_-_Designer_Torah_-_Learning-Teaching_at_the_Right_Level_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26999493</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Healthy Bitachon - Don't Skip Steps! - #76</title>
@@ -1113,6 +1315,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/3/7/343751c4630030dde5bbc093207a2619/076_-_Healthy_Bitachon_-_Dont_Skip_Steps_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26903025</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Find Yourself through Bitachon, Tefilah, and Hishtadlus - #75</title>
@@ -1128,6 +1332,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/8/5/f6858e9902c6aa6fbafc7308ab683e82/075_-_Find_Yourself_through_Bitachon_Tefilah_and_Hishtadlus_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26765535</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>"Let Your Neshama Speak" - #74</title>
@@ -1143,6 +1349,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/f/c/48fce78a77f6bad740be95ea3302a6a1/074_-_Let_Your_Neshama_Speak_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26670486</ns1:item-id>
+      <ns1:last-updated>2023-05-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Why We Try - #73</title>
@@ -1158,6 +1366,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/3/5/4/7354e71946df304abafc7308ab683e82/073_-_Why_We_Try_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26587515</ns1:item-id>
+      <ns1:last-updated>2023-05-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Kirvas Elokim. Awakening the Yearning in Yourself Awakens it in Others - #72</title>
@@ -1173,6 +1383,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/e/9/5/4e959d2308930f93d959afa2a1bf1c87/072_-_Kirvas_Elokim._Awakening_the_Yearning_in_Yourself_Awakens_it_in_Others_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26397921</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>What happens when you worry? - #71</title>
@@ -1188,6 +1400,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/9/7/52976792684e4dbf88c4a68c3ddbc4f2/071_-_What_happens_when_you_worry_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26224386</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Purim - A lesson in Bitachon - #70</title>
@@ -1203,6 +1417,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/0/c/2d0c18c4fc3f5f2abafc7308ab683e82/070_-_Purim_-_A_lesson_in_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26127372</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Bringing the Shechina Into the World with Everything We Do - #69</title>
@@ -1218,6 +1434,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/5/8/7/f5875632a6c4bc7e40be95ea3302a6a1/069_-_Bringing_the_Shechina_Into_the_World_with_Everything_We_Do_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26090586</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>Nature - The Toolbox of Hashem's Hashgacha - #68</title>
@@ -1233,6 +1451,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/0/4/3f04659a7537793b16c3140a3186d450/068_-_Nature_-_The_Toolbox_of_Hashems_Hashgacha_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25927641</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>The Tefila of a Baal Bitachon - #67</title>
@@ -1248,6 +1468,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/9/d/029d26106676ae3f40be95ea3302a6a1/067_-_The_Tefila_of_a_Baal_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25855026</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon - You Don't Have It Till You Live It - #66</title>
@@ -1263,6 +1485,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/9/9/8/19980e8d2633a9e8bafc7308ab683e82/066_-_Bitachon_-_You_Dont_Have_It_Till_You_Live_It_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25664175</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>Torah and Tefila - Rewire your Mind for Reception - #65</title>
@@ -1278,6 +1502,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/b/7/f6b7dd5b01527a7ebafc7308ab683e82/065_-_Torah_and_Tefila_-_Rewire_your_Mind_for_Reception_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25592817</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>Why Am I Here? To Find Hashem! - #64</title>
@@ -1293,6 +1519,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/a/1/57a1dca7e4695d09e55e3c100dce7605/064_-_Why_Am_I_Here_-__To_Find_Hashem_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25511370</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>Plugging your "l'maaseh" into the right socket</title>
@@ -1308,6 +1536,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/e/b/beebbdc3447967f65f2e77a3093c12a1/063_-_Plugging_your_lmaaseh_into_the_right_socket_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25490769</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>Reframing Hishtadlus as "Bitachon L'maaseh"</title>
@@ -1323,6 +1553,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/8/a/2/88a24f472d7328f0e55e3c100dce7605/062_-_Reframing_Hishtadlus_as_Bitachon_Lmaaseh_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25428324</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>TSA regulations- Think, Speak and Act with Bitachon.</title>
@@ -1338,6 +1570,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/c/2/2dc2d401938121b2a04421dee9605cbd/061_-_TSA_regulations-_Think_Speak_and_Act_with_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25275687</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>Thinking with Bitachon. Never "One Size Fits All" - English #60</title>
@@ -1353,6 +1587,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/0/d/770d4ac5e42437e716c3140a3186d450/060_-_Thinking_with_Bitachon._Never_One_Size_Fits_All_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25146948</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>With Bitachon I do, With Bitachon I don't - #59</title>
@@ -1368,6 +1604,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/6/5/2365bae8160692fd5f2e77a3093c12a1/059_-_With_Bitachon_I_do_With_Bitachon_I_dont_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25125834</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Denial - The Opposite of Bitachon - #58</title>
@@ -1383,6 +1621,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/1/9/0a19f3363685f078bafc7308ab683e82/058_-_Denial_-_The_Opposite_of_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24966381</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Bitachon - for this world and the next - #57</title>
@@ -1398,6 +1638,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/3/1/8/f318ccd1b2c24b5de55e3c100dce7605/057_-_Bitachon_-_for_this_world_and_the_next____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24920148</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Don't Push! You Can't Make it Happen - #56</title>
@@ -1413,6 +1655,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/5/f/555fa793cd95eafe40be95ea3302a6a1/056_-_Dont_Push_You_Cant_Make_it_Happen_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24429558</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>Nightmare Jobs - Define, Learn, then Decide - #55</title>
@@ -1428,6 +1672,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/7/b/f/a7bf8b76896fb76fbafc7308ab683e82/055_-_Nightmare_Jobs_-_Define_Learn_then_Decide_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24309366</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>'Hishtadlus' - the Conduit of shefa to Olam Ha'maaseh</title>
@@ -1443,6 +1689,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/a/9/6/1a96dcbb7a6191d216c3140a3186d450/054_-_Hishtadlus_-_the_Conduit_of_shefa_to_Olam_Hamaaseh_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24104370</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>Salary and Parnassa - Two Perspectives, One Truth - #52</title>
@@ -1458,6 +1706,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/3/0/7/0307affccb4b5864d959afa2a1bf1c87/052_-_Salary_and_Parnassa_-_Two_Perspectives_One_Truth_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23928354</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>Parnassa mistakes you shouldn't make - #50</title>
@@ -1473,6 +1723,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/b/e/c/abecad68dc2b20eaa04421dee9605cbd/050_-_Parnassa_mistakes_you_shouldnt_make_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23928276</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>Work - Don't Fight the System, Hashem Made it For You</title>
@@ -1488,6 +1740,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/c/3/ddc33612a90b892ee55e3c100dce7605/051_-_Work_-_Dont_Fight_the_System_Hashem_Made_it_For_You_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23893551</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>Why, how, and where to work - #49</title>
@@ -1503,6 +1757,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/7/e/8/07e88b89b73ff40988c4a68c3ddbc4f2/049_-_Why_how_and_where_to_work_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23676023</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>Don't Shrink the Torah, Expand Your Frame - #48</title>
@@ -1518,6 +1774,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/9/9/999906518bb987be27a2322813b393ee/048_-_Dont_Shrink_the_Torah_Expand_Your_Frame_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23627789</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>Different Neshamos, Different Paths, One Goal</title>
@@ -1533,6 +1791,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/c/1/cbc194bddbb6aecbd959afa2a1bf1c87/047_-_Different_Neshamos_Different_Paths_One_Goal_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23523785</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>In The Dark, But Never Lost. (Neshamos of Baalei Tshuva Part 2) - English #46</title>
@@ -1548,6 +1808,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/b/f/74bff0f51dbafb5fe5bbc093207a2619/046_-_In_The_Dark_But_Never_Lost._Neshamos_of_Baalei_Tshuva_Part_2_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23446211</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>In the footsteps of Reb Uri zohar zt"l - the long road to closeness to Hashem - English #45</title>
@@ -1563,6 +1825,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/6/b/8c6b9e2f62135ee65f2e77a3093c12a1/045_-_In_the_footsteps_of_Reb_Uri_zohar_ztl_-_the_long_road_to_closeness_to_Hashem_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23385407</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>Approaching Matan Torah with Bitachon - What it really means</title>
@@ -1578,6 +1842,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/8/8/8988ed19a3216e7688c4a68c3ddbc4f2/044_-_Approaching_Matan_Torah_with_Bitachon_-_What_it_really_means_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23222600</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Tzadik V'ra lo, Rasha V'tov lo - Even here, Learning Brings light - English #43</title>
@@ -1593,6 +1859,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/a/a/d/8aad5761c7e5d023a04421dee9605cbd/043_-_Tzadik_Vra_lo_Rasha_Vtov_lo_-_Even_here_Learning_Brings_light_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23177060</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>The Bitachon - Yisurim connection</title>
@@ -1608,6 +1876,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/0/5/a/305aa784a4bb8c0b27a2322813b393ee/042_-_The_Bitachon_-_Yisurim_connection_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23094542</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>Flying Higher Means Getting Cleaner - Suffering of Tzadikim</title>
@@ -1623,6 +1893,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/5/1/23518151d122102827a2322813b393ee/041_-_Flying_Higher_Means_Getting_Cleaner_-_Suffering_of_Tzadikim_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23001875</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>In the Line of Duty - The Suffering of Tzadikim - English #40</title>
@@ -1638,6 +1910,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/f/9/46f9642e28099aa4e5bbc093207a2619/040_-_In_the_Line_of_Duty_-__The_Suffering_of_Tzadikim_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22951127</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>Pesach - Unlimited Freedom</title>
@@ -1653,6 +1927,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/7/b/6/17b6fa59de35600988c4a68c3ddbc4f2/Pesach_-_Unlimited_Freedom_-___.mp4.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22774037</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>Moshe Rabeinu and Rebbi Akiva - Different Tzadikim, Different Lives, Different Tasks</title>
@@ -1668,6 +1944,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/9/e/2/09e2f8a86419a53fd959afa2a1bf1c87/039_-_Moshe_Rabeinu_and_Rebbi_Akiva_-_Different_Tzadikim_Different_Lives_Different_Tasks_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22714403</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>Kabolas Yisurin - Leading by Example - English #38</title>
@@ -1683,6 +1961,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/f/8/b/df8b458474925739e5bbc093207a2619/038_-_Kabolas_Yisurin_-_Leading_by_Example_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22567043</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>Megillas Esther - Roadmap to Bitachon - English #37</title>
@@ -1698,6 +1978,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/2/d/cd2da730439ad2de16c3140a3186d450/037_-_Megillas_Esther_-_Roadmap_to_Bitachon_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22456934</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>How to make a real change in this world - English #36</title>
@@ -1713,6 +1995,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/f/4/5df4e76fec655368d959afa2a1bf1c87/036_-_How_to_make_a_real_change_in_this_world_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22429661</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>Tzadik V'ra Lo - Learning about the Unknown - English #35</title>
@@ -1728,6 +2012,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/8/c/778c8300f5b8de55a04421dee9605cbd/035_-_Tzadik_Vra_Lo_-_Learning_about_the_Unknown_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22331090</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>Seeing Your Golus Through the Lens of Geula - English #34</title>
@@ -1743,6 +2029,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/d/5/89d56d9a801b43e616c3140a3186d450/034_-_Seeing_Your_Golus_Through_the__Lens_of_Geula_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22331084</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>Today's סעודה, Tomorrow's ישועה - English #33</title>
@@ -1758,6 +2046,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/c/8/b/5c8b5a323477bcf816c3140a3186d450/033_-_Todays__Tomorrows__-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22331072</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>Life's an Adventure - English #32</title>
@@ -1773,6 +2063,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/f/2/e3f27f8ede63ab4d16c3140a3186d450/032_-_Lifes_an_Adventure_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22090976</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>Don't let the Unknown Tomorrow darken Today - English #31</title>
@@ -1788,6 +2080,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/5/f/0c5f8aa5a9a5fb5ea04421dee9605cbd/031_-_Dont_let_the_Unknown_Tomorrow_darken_Today_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22039076</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>Kaporas Avonos - The Inside Story - English #30</title>
@@ -1803,6 +2097,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/0/1/6601e9c619a5dad1d959afa2a1bf1c87/030_-_Kaporas_Avonos_-_The_Inside_Story_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21907838</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>Seeing Through the Lens of Shiras Hayam - English #29</title>
@@ -1818,6 +2114,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/4/5/1/245174035b892e6ee55e3c100dce7605/029_-_Seeing_Through_the_Lens_of_Shiras_Hayam_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21827831</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>פרשת המן - The Ultimate Career Seminar - English 28</title>
@@ -1833,6 +2131,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/5/6/9/e569facbc02050d788c4a68c3ddbc4f2/028_-___-_The_Ultimate_Career_Seminar_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21774263</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>Suffering and Kidush Hashem - the Unexpected Connection - English #27</title>
@@ -1848,6 +2148,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/f/d/d4fdc70e7ab091ad88c4a68c3ddbc4f2/027_-_Suffering_and_Kidush_Hashem_-_the_Unexpected_Connection_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21683825</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>How to unwrap gifts from above - English #26</title>
@@ -1863,6 +2165,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/3/6/bb367c273cf86c66a04421dee9605cbd/026_-_How_to_unwrap_gifts_from_above_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21624725</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>The Surprising Gift of Light in the Darkness - English 25</title>
@@ -1878,6 +2182,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/4/1/d/f41deb4337a569d1bafc7308ab683e82/025_-_The_Surprising_Gift_of_Light_in_the_Darkness_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21593324</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>Emunah and Bitachon in painful situations - English #23</title>
@@ -1893,6 +2199,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/6/6/99664bb2e2333c95e55e3c100dce7605/024_-_Emunah_and_Bitachon_in_painful_situations_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21507305</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>The Pleasure of קרבת אלוקים - always within reach - English 23</title>
@@ -1908,6 +2216,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/d/3/0cd3dfefbc885de516c3140a3186d450/023_-_The_Pleasure_of___-__always_within_reach_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21436316</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>The first step to a relationship with Hashem</title>
@@ -1923,6 +2233,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/9/7/189739d5862d8a37e55e3c100dce7605/022_-_The_first_step_to_a_relationship_with_Hashem_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21353006</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>The sweetness of accepting - English #21</title>
@@ -1938,6 +2250,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/c/6/8/4c68f0f7a0370bcda04421dee9605cbd/021_-_The_sweetness_of_accepting_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21273671</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>"The Power of Torah Based Thinking" - English #20</title>
@@ -1953,6 +2267,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/1/4/b/214bd8eb2b3562b416c3140a3186d450/020_-_The_Power_of_Torah_Based_Thinking_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21195467</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>Da'as - The Source of Pain, The Source of Joy</title>
@@ -1968,6 +2284,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/6/9/9/5699a70bcdfa8c83bafc7308ab683e82/019_-_Daas_-_The_Source_of_Pain_The_Source_of_Joy_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20960546</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>Pain and its Purpose - English 018</title>
@@ -1983,6 +2301,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/4/5/7/145799c739f5788c27a2322813b393ee/018_-_Pain_and_its_Purpose_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20879522</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>Opening up to conversation with Hashem - English 017</title>
@@ -1998,6 +2318,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/6/f/2e6f3a3b1eb99468a04421dee9605cbd/017_-_Opening_up_to_conversation_with_Hashem_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20801381</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>Transformative Tefila - for Rosh Hashona and Beyond - #16</title>
@@ -2013,6 +2335,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/e/3/d7e3d6a1e364132d88c4a68c3ddbc4f2/016_-_Transformative_Tefila_-_for_Rosh_Hashona_and_Beyond_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20335196</ns1:item-id>
+      <ns1:last-updated>2021-10-01T00:00:21Z</ns1:last-updated>
     </item>
     <item>
       <title>Declaring "Hashem Melech" with your Hishtadlus</title>
@@ -2028,6 +2352,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/4/8/8148868c2c41571616c3140a3186d450/015_Declaring_Hashem_Melech_with_your_Hishtadlus_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20263760</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>Busy Signal - The Inner Message Of Your Busy Life</title>
@@ -2043,6 +2369,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/7/f/cc7f89a868b2b1a340be95ea3302a6a1/014_______-_Busy_Signal_-_The_Inner_Message_Of_Your_Busy_Life.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20183342</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>"Real Hishtadlus - Invest in your Neshama"</title>
@@ -2058,6 +2386,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/0/6/0/5060901614cf5b9ae55e3c100dce7605/013_____-_Real_Hishtadlus_-_Invest_in_your_Neshama.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20104010</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>Proper Hishtadlus - The road back to Gan Eden</title>
@@ -2073,6 +2403,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/e/d/f/8edf469ff3f024bae55e3c100dce7605/012______-_Proper_Hishtadlus_-_The_road_back_to_Gan_Eden.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20032214</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>Building your true deep relationship with the Ribono Shel Olam</title>
@@ -2088,6 +2420,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/8/3/9783669f083ad4f927a2322813b393ee/011_-______-_Building_your_true_deep_relationship_with_the_ribono_shel_olam.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19888994</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>Tisha B'av 5781 - ENGLISH</title>
@@ -2103,6 +2437,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/8/2/6/8826bd065a73af78e55e3c100dce7605/______-__-__ENGLISH.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19841930</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>Understanding the secret to changing ones habits - Part 3</title>
@@ -2118,6 +2454,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/8/e/578ea1eee0c4fe4388c4a68c3ddbc4f2/010_-______-_Understanding_the_secret_to_changing_ones_habits_-_Part_3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19806368</ns1:item-id>
+      <ns1:last-updated>2021-08-04T14:17:33Z</ns1:last-updated>
     </item>
     <item>
       <title>Understanding the secret to changing one's habits - Part 2 - ENGLISH #009</title>
@@ -2133,6 +2471,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/e/4/0/4e403e0baa197a4dd959afa2a1bf1c87/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19782578</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>Understanding the secret to changing ones habits - ENGLISH #008</title>
@@ -2148,6 +2488,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/7/1/7/c7176c05360577ffa04421dee9605cbd/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19782527</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>There is no Baal aveira that is exempt from the mitzva of Bitachon - ENGLISH #006</title>
@@ -2163,6 +2505,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/0/8/3/f0838629377e9967e5bbc093207a2619/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19746953</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>When is one not to supposed to have Bitachon? - ENGLISH #004</title>
@@ -2178,6 +2522,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/1/0/c/b10cb63b347edc2888c4a68c3ddbc4f2/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19746911</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>Tragedy strikes, is it bashert or is someone to blame - ENGLISH #003</title>
@@ -2193,6 +2539,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/1/c/8c1cf2065456a4edbafc7308ab683e82/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19720160</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>Hashem's promise to each yid that you will have an enjoyable life - ENGLISH #001</title>
@@ -2208,6 +2556,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/d/7/e3d702a51268028d40be95ea3302a6a1/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19720118</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>WHAT IS TESHUVA? UNDERSTANDING HOW IT WORKS - ENGLISH #007</title>
@@ -2223,6 +2573,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/d/d/5ddd7b4702a4c4425f2e77a3093c12a1/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19564832</ns1:item-id>
+      <ns1:last-updated>2021-07-13T15:26:23Z</ns1:last-updated>
     </item>
     <item>
       <title>BAAL AVEIRA AND BITACHON, CAN THEY COEXIST?! - ENGLISH #005</title>
@@ -2238,6 +2590,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/c/b/1/ecb192c73b16eb7ce55e3c100dce7605/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19564715</ns1:item-id>
+      <ns1:last-updated>2021-07-13T15:25:52Z</ns1:last-updated>
     </item>
     <item>
       <title>CHIZUK AND INSPIRATION AFTER THE TERRIBLE MIRON TRAGEDY - ENGLISH #002</title>
@@ -2253,6 +2607,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/8/7/a287e28e599df32916c3140a3186d450/PROJECT_BITACHON_final_logo_icon_1_Page_1.png" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18988649</ns1:item-id>
+      <ns1:last-updated>2021-07-13T15:24:09Z</ns1:last-updated>
     </item>
     <item>
       <title>How in the world am I going to manage?</title>
@@ -2268,6 +2624,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/6/0/1/26019bdef7d6feb8/English_Shiur_-_How_in_the_world_am_I_going_to_manage_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14857367</ns1:item-id>
+      <ns1:last-updated>2020-08-14T13:17:07Z</ns1:last-updated>
     </item>
     <item>
       <title>שיעור באנגלית - Stay Home Stay Calm - ENGLISH</title>
@@ -2282,6 +2640,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13624574</ns1:item-id>
+      <ns1:last-updated>2020-08-14T13:18:14Z</ns1:last-updated>
     </item>
     <item>
       <title>Chinuch for parents in English - חינוך באנגלית</title>
@@ -2297,6 +2657,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/4/9/a/049a139a39a03593/_____-_Chinuch_for_parents_in_English_-___-_Melbourne_Australia.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10926091</ns1:item-id>
+      <ns1:last-updated>2020-08-14T13:18:22Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל תשעה באב תשע"ט - ENGLISH</title>
@@ -2312,6 +2674,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/d/8/5/7d85106413c68064/______-_ENGLISH_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10847177</ns1:item-id>
+      <ns1:last-updated>2020-08-14T13:18:31Z</ns1:last-updated>
     </item>
     <item>
       <title>תשעה באב תשעח - ENGLISH</title>
@@ -2327,6 +2691,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/2/f/752ff586937a35cf/___-_ENGLISH.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>6837087</ns1:item-id>
+      <ns1:last-updated>2020-08-14T13:18:43Z</ns1:last-updated>
     </item>
   </channel>
 </rss>
