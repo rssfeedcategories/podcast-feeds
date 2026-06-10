@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 10:27:29 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:27:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>כשהאדם מתעלה, האם יש לו נסיונות יותר קשים?</title>
+      <itunes:title>כשהאדם מתעלה, האם יש לו נסיונות יותר קשים?</itunes:title>
+      <pubDate>Wed, 10 Jun 2026 10:09:00 +0000</pubDate>
+      <guid isPermaLink="false">eb6072e9-9ee0-41d6-af8d-d5c2ab900dca</guid>
+      <link>https://lomdotchasidut.libsyn.com/bsxaonju6a0v</link>
+      <description>&lt;p&gt;יום ד' פרשת קרח (שלח בחול) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה&lt;br /&gt; &lt;strong&gt;בריינצא לאה בת העניא&lt;/strong&gt; בתשח"י&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה&lt;br /&gt; &lt;strong&gt;רחל זיסל בת שפרה יוטא רבקה&lt;/strong&gt; בתשח"י&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת קרח (שלח בחול) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה בריינצא לאה בת העניא בתשח"י&lt;/p&gt; &lt;p&gt;נלמד לזכות לרפואה שלימה רחל זיסל בת שפרה יוטא רבקה בתשח"י&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_________1902.mp3?dest-id=468609" length="14568494" type="audio/mpeg" />
+      <itunes:duration>48:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/c/6/c/9c6ceb14f03d2cfd16c3140a3186d450/_______-_________1902.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41596160</ns1:item-id>
+      <ns1:last-updated>2026-06-10T10:13:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>היכולת לסבול דיעה אחרת</title>
       <itunes:title>היכולת לסבול דיעה אחרת</itunes:title>

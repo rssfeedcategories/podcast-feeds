@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 10:27:29 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:27:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1046 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ח, מ"ט, נ'</title>
+      <itunes:title>הבינני בהלכה #1046 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ח, מ"ט, נ'</itunes:title>
+      <pubDate>Wed, 10 Jun 2026 09:22:00 +0000</pubDate>
+      <guid isPermaLink="false">e6e465c7-8976-4dc4-a957-3476aaf54ccf</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1046</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1046_-___________.mp3?dest-id=468609" length="3525737" type="audio/mpeg" />
+      <itunes:duration>11:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/2/2/d/522d5cccb24a361616c3140a3186d450/__1046_-___________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41595830</ns1:item-id>
+      <ns1:last-updated>2026-06-10T09:24:55Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1045 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ו, מ"ז</title>
       <itunes:title>הבינני בהלכה #1045 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ו, מ"ז</itunes:title>
