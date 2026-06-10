@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חנוכה</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/5/1/8d51888e74a2d01c16c3140a3186d450/_____-___-_____5555.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39493280</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3620" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - למה בני אדם מתייאשים</title>
@@ -60,6 +68,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/b/4/cbb42e0a27a226f0d959afa2a1bf1c87/_____-__-_____1313.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39452730</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2866" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - הודאה פורצת גבולות</title>
@@ -75,6 +89,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/3/2/0/7320df167e7dd101d959afa2a1bf1c87/_____-__-____1455.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39398845</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2749" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - תיקון מידת ההוד על ידי ההודאה</title>
@@ -90,6 +110,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/c/f/0/2cf06cc55f585c5dd959afa2a1bf1c87/_____-__-______6655_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39367160</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2659" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - להודות באופן שמכין את עצמו לעולם הבא</title>
@@ -105,6 +131,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/b/8/8cb81c711bd445d116c3140a3186d450/_____-__-________7896.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39353020</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2703" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - אורות החנוכה נקבעו ביום ראשון של הבריאה</title>
@@ -120,6 +152,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/c/c/0accc986e7682cdc16c3140a3186d450/_____-__-________4574.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39249220</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2668" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>זאת חנוכה - להסתכל על הנסיונות בראיה נכונה</title>
@@ -135,6 +173,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/6/2/b/c62bfad5383ad344d959afa2a1bf1c87/_____-___-______2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34694700</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>והדליקו נרות - כשעושים כל מה ששייך, זוכים לנס</title>
@@ -150,6 +190,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/b/1/4/ab14712bda08f3b1d959afa2a1bf1c87/_______-___-_______2023.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34625980</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>ללמוד מחשמונאים איך לצאת מהייאוש</title>
@@ -165,6 +207,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/5/b/bb5b603f5aeb0d2a16c3140a3186d450/_______-______2021.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34625955</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הודאה המביא לידי אור הגנוז</title>
@@ -180,6 +224,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/b/e/2/8be2a8310ed3f574d959afa2a1bf1c87/_____-__-______2027.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34617735</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הלל והודאה על עודף הטובות</title>
@@ -195,6 +241,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/4/b/9/54b95693549feb8216c3140a3186d450/_____-__-______2026.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34613335</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - ווי אזוי ארבעט דאס פאר מיר?   י</title>
@@ -210,6 +258,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/b/f/63bfa719176e40e816c3140a3186d450/_____-_______-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34613290</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - להאיר את הלמטה מעשרה על ידי הלל והודאה</title>
@@ -225,6 +275,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/3/0/a/c30ae0ca63a0ba93d959afa2a1bf1c87/_____-__-_________2024.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34577585</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - המתנה של חכמה אלוקית והכח שיש בה לבער מדות רעות</title>
@@ -240,6 +292,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/e/f/ccef25e3e407766516c3140a3186d450/_____-__-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34466235</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הדרך לגרש את החושך עם נר קטן</title>
@@ -255,6 +309,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/9/c/5/a9c5f8c104ee42bdd959afa2a1bf1c87/_____-__-________3015.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34454885</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - העיסוק בשבח והודי'ה גם שלא בשעת הלל</title>
@@ -270,6 +326,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/5/d/8/25d8602384ba826688c4a68c3ddbc4f2/______-___-________1704.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29076338</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - הרחב פיך ואמלאהו</title>
@@ -285,6 +343,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/1/b/0a1b6e6e54b18569e5bbc093207a2619/______-___-____1702.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29076298</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - האור הגדול המגיע למקומות הנמוכים</title>
@@ -300,6 +360,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/f/0/3ff0afd45b9fe19f88c4a68c3ddbc4f2/_____-___-______1699.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29075853</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - לטבול במקוה של הרמב"ם</title>
@@ -315,6 +377,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/5/7/fe57f1bc9c982f44e5bbc093207a2619/_____-__-_____1693.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29017248</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - תכלית תורה ומצות להוליד אהבה בלב האדם</title>
@@ -330,6 +394,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/5/c/c/e5ccfef664bf6cbae5bbc093207a2619/_____-__-________1693.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29005028</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הדלקת נרות חנוכה מתוך התלהבות</title>
@@ -345,6 +411,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/2/1/c/621c81227e9ad41ae5bbc093207a2619/_____-______1690.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28969828</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>אורו של חנוכה מגיע למקומות הנמוכים באדם</title>
@@ -360,6 +428,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/c/b/decbc4a780061667e5bbc093207a2619/_____-________1681.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28904163</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - המשכת הניסים לכל השנה</title>
@@ -375,6 +445,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/f/b/75fbdb865fa17d76bafc7308ab683e82/_____-___-_____1436.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25427196</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>לכבוד חנוכה - ביאור מזמור קי"ט בתהילים - הקדמה, אות א' ותחילת אות ב'</title>
@@ -390,6 +462,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/d/3/8cd309fe9420db29d959afa2a1bf1c87/_____-___-_____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25361418</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - האש השורף את חכמה חיצונית</title>
@@ -405,6 +479,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/c/f/f/dcff20a1e6706ade88c4a68c3ddbc4f2/_____-__-______1436.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25340196</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הדלקת מנורה להאיר את קליפת אומות העולם</title>
@@ -420,6 +496,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/2/1/a/321a89fb8337b88ae55e3c100dce7605/_____-__-________1427.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25323141</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - צורת העבודה המביא לידי ניסים</title>
@@ -435,6 +513,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/0/9/9/c0999fcc423a0bbc5f2e77a3093c12a1/_____-___-______1238.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21390287</ns1:item-id>
+      <ns1:last-updated>2022-11-06T15:23:26Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - מידת הנצח - איך לנצח מניעות</title>
@@ -450,6 +530,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/d/7/b8d752a753e10df227a2322813b393ee/_____-__-___-____1082.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21269804</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - מידת ההוד המאיר למטה מעשרה לכל אדם ובכל מצב</title>
@@ -465,6 +547,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/0/e/d/70edd61f9b67668be55e3c100dce7605/_____-__-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21179579</ns1:item-id>
+      <ns1:last-updated>2022-11-06T15:27:07Z</ns1:last-updated>
     </item>
     <item>
       <title>מידת ההוד - אורו של הקב"ה מגיע עד למקומות הכי חשוכים, והקשר לחנוכה</title>
@@ -480,6 +564,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/1/9/6f19aa39e5e71972a04421dee9605cbd/_____-___-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21163781</ns1:item-id>
+      <ns1:last-updated>2022-12-18T11:48:56Z</ns1:last-updated>
     </item>
     <item>
       <title>זאת חנוכה - הודאה על שנתן לי הקב"ה יותר מחלקי</title>
@@ -495,6 +581,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/0/1/3/c0136edd50fae3af/_____-__-___-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17231546</ns1:item-id>
+      <ns1:last-updated>2022-11-07T14:47:43Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הקשר הפנימי בין הקב"ה לישראל אע"פ שחטא</title>
@@ -510,6 +598,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/5/e/615ec449588e2e04/_____-__-__-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17184215</ns1:item-id>
+      <ns1:last-updated>2022-12-18T12:22:04Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - למה מדליקין דוקא עם שמן?</title>
@@ -525,6 +615,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/e/2/bae2d27da5809efa/_____-__-______1020.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17139176</ns1:item-id>
+      <ns1:last-updated>2022-12-18T12:24:03Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - לאגור חיזוק מימי האור לימי החושך</title>
@@ -540,6 +632,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/6/2/fe6262d4d335e863/_____-__-_______1019.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17124953</ns1:item-id>
+      <ns1:last-updated>2022-12-18T12:26:58Z</ns1:last-updated>
     </item>
     <item>
       <title>חנוכה - הקב"ה רוצה שיהא לך נס</title>
@@ -555,6 +649,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/8/4/f684b30446341b27/_____-__-______1017.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17110199</ns1:item-id>
+      <ns1:last-updated>2022-11-07T14:46:06Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

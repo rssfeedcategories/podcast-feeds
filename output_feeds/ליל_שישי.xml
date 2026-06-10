@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -46,6 +48,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/6/8/e4687a3496c53aa2d959afa2a1bf1c87/_________-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41560110</ns1:item-id>
+      <ns1:last-updated>2026-06-06T22:43:09Z</ns1:last-updated>
     </item>
     <item>
       <title>העומד על הצוק, האם הוא מרגיש טעם חיים או טעם מוות</title>
@@ -62,6 +66,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/b/9/3db984c1a9411748d959afa2a1bf1c87/_________-____________8777.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41542770</ns1:item-id>
+      <ns1:last-updated>2026-06-04T22:37:28Z</ns1:last-updated>
     </item>
     <item>
       <title>השגת ענווה מתוך התבוננות בחסדי השי"ת</title>
@@ -78,6 +84,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/0/c/de0cbca19d69e0fc16c3140a3186d450/_________-_______477.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41459925</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>האפשרות שיש לנו לצמוח כאשר מצפים לישועה</title>
@@ -94,6 +102,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/5/9/c/e/59ce95997faa6436d959afa2a1bf1c87/_________-________1499.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41459825</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה יושב ושונה כנגדו - מה הכוונה</title>
@@ -110,6 +120,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/1/5/9e155914dcb8d991d959afa2a1bf1c87/_______-_____-___3113.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41298050</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חוסר הצלחה בתורה משום שהנפש בגלות</title>
@@ -126,6 +138,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/a/6/b/2/a6b2acb9dda92aa9d959afa2a1bf1c87/_______-_______3253.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41297975</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>השתוקקות ללשכת הגזית - לפתיחת הלב לתורה</title>
@@ -142,6 +156,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/9/c/e/9/9ce92450fb9a0c55d959afa2a1bf1c87/_______-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41297890</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הרה"ק ר' שלמה מזוועהיל זצוק"ל - הימנעות מדברים בטלים כישועה לזש"ק</title>
@@ -158,6 +174,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/2/b/c/3/2bc330475ef5ea6c16c3140a3186d450/________-______-______3612.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41211110</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>קבלת עול - העבודה שהקב"ה בחר עבורך</title>
@@ -174,6 +192,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/4/3/4/0/4340d86fa0e1319fd959afa2a1bf1c87/________-___-_____9811.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41211100</ns1:item-id>
+      <ns1:last-updated>2026-06-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ל"ג בעומר - הודאה על פנימיות התורה מקשר את האדם להאור</title>
@@ -190,6 +210,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/d/c/3/9/dc39d54941a4239bd959afa2a1bf1c87/_______-___-_________9825.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41081400</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>ספירת העומר - התשוקה מטהר מקליפות</title>
@@ -206,6 +228,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/d/8/c/a/d8ca6f28ab86b00916c3140a3186d450/_______-___-____9844.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41081320</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>ביאור עמוק בענין דמות דיוקנו של אביו</title>
@@ -222,6 +246,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/8/6/9f86ea8df9580eea16c3140a3186d450/________-________9532.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40998085</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>החשיבות של לימוד בספר חסידי</title>
@@ -238,6 +264,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/1/f/9/e/1f9e949a12510cbf16c3140a3186d450/________-______1515.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40902280</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>ענוה במשנת הרה"ק ר' מנדל מוויטעפסק זצוק"ל</title>
@@ -254,6 +282,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/e/8/66e8cc46c9d0417416c3140a3186d450/________-________2323.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40902265</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>אם "והתקדשתם" אז בודאי "והייתם קדושים", ועצות לזה</title>
@@ -269,6 +299,8 @@
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40795770</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה מרגיש את הצער של האדם יותר מהאדם עצמו</title>
@@ -284,6 +316,8 @@
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40795680</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>הכלים של האדם להודות לה' בזכות יציאת מצרים הרה"ק ר אהרן מבעלזא</title>
@@ -299,6 +333,8 @@
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40637500</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>התכלית של ההתבוננות בניסים גלויים - חתם סופר</title>
@@ -314,6 +350,8 @@
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40637490</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>חיזוק לקושי הפרנסה בימים אלו</title>
@@ -328,6 +366,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40546665</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>עצות לא ליפול לידי כעס בימים אלו</title>
@@ -342,6 +382,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40546590</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>העבודת ה' בשעת ירידה</title>
@@ -357,6 +399,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/a/c/8/fac8b8b4ac46f5a8d959afa2a1bf1c87/________-_____1538.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40418775</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>הרה"ג ר' יעקב קמינצקי זצ"ל</title>
@@ -372,6 +416,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/d/6/aed6e240b3bedba1d959afa2a1bf1c87/________-______2866.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40418780</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>קריאת פרשת פרה אחרי פרשת כי תשא - חיזוק כוח האמונה</title>
@@ -386,6 +432,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40335620</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="495" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פרשת פרה - טהרה אחרי מחיית עמלק</title>
@@ -400,6 +452,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40335565</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1407" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>מה שאדם משלם לתורה ומצוות בעולם הזה - זה יש לו לעולם הבא</title>
@@ -414,6 +472,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40169585</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="805" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>הבנת תורה שבעל פה דרך המצבים של האדם</title>
@@ -428,6 +492,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40169560</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1475" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>שבת שקלים עם כיסופים דקדושה</title>
@@ -442,6 +512,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40096980</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1482" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>שמע אשמע צעקתו - א גמ"ח פון א שמייכל</title>
@@ -456,6 +532,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40092415</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1482" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>יומא דהילולא הרה"ק מקאצק זי"ע - ההכרח בהכרת החסרון</title>
@@ -470,6 +552,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40013440</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="559" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>המלחמה על הצלחה בתורה</title>
@@ -484,6 +572,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40013390</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1644" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>תועלת ההכנה לדבר מצווה - קדושת לוי</title>
@@ -498,6 +592,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39929355</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="792" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פרשת המן - שפע ללא צמצומים - מאור עינים פר׳ ואתחנן</title>
@@ -512,6 +612,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39929310</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1678" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>השפת אמת זי"ע - לפעמים צריך האדם לשמוע את האמת וזה החיזוק היותר גדול</title>
@@ -527,6 +633,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/f/f/12ffd7d95ea14290d959afa2a1bf1c87/_______-____-___________6544.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39841255</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="803" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>סיפור הניסים שעברו עליו מעורר ניסים חדשים</title>
@@ -542,6 +654,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/f/4/60f4046c5469b3eed959afa2a1bf1c87/_______-________9898.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39841215</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1569" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>להתחבר אל המצב שבו נמצא כרגע - יומא דהילולא הרה"ק הישמח ישראל זצוק"ל</title>
@@ -557,6 +675,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/f/d/c/ffdcc5fb81e58041d959afa2a1bf1c87/_______-_______-_______1633.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39752395</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="747" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>שמעתי את נאקתם - תפילה בכל מצב - הרה"ק מרופשיץ זצוק"ל</title>
@@ -572,6 +696,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/2/3/f823daf3c8e7c9ad16c3140a3186d450/_______-____-____-____1788.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39752370</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1560" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>מה הכוונה שאין הקב"ה מנסה את האדם מעבר ליכולתיו</title>
@@ -587,6 +717,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/2/7/2a27c960b408fa78d959afa2a1bf1c87/_______-__________55773.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39666240</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1029" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>הקב"ה יודע שעשית תשובה לפני שאתה יודע</title>
@@ -602,6 +738,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/1/b/7/71b784084502457d16c3140a3186d450/_______-________2885.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39666215</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1639" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>אמונה וסבלנות לטוב שבוודאי יגיע</title>
@@ -617,6 +759,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/c/0/97c08ce8282e4e7716c3140a3186d450/_______-______8484.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39586345</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="799" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>לילד שלך יש מעלה וכח מיוחד</title>
@@ -632,6 +780,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/5/0/b/650bd2ab2f906eed16c3140a3186d450/_______-_______5959.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39586340</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1629" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>הנאת הקב"ה מהמאבק עם היצר הרע</title>
@@ -646,6 +800,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39534455</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="853" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>ישועת השם כהרף עין</title>
@@ -660,6 +820,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39534435</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1495" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>לא להיתקע בתוך הקשיים</title>
@@ -675,6 +841,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/7/1/c/e71c1e710ae2a12116c3140a3186d450/_______-_____9999.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39462330</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1018" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>הדרך להתדבק בה׳</title>
@@ -690,6 +862,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/a/a/6faaf7664bb67fff16c3140a3186d450/_______-____1444.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39462325</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1245" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עבודת ה׳ בכל סוגי המצבים</title>
@@ -705,6 +883,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/b/d/34bd62c1f0c0b9ed16c3140a3186d450/_______-______7777.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39462275</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2784" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>חנוכה - לגלות את האור מתוך החושך</title>
@@ -720,6 +904,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/7/2/a2726ab3e728cedcd959afa2a1bf1c87/_______-__-______5323.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39376375</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="670" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>השמחה דרך הסרת דאגות העתיד</title>
@@ -735,6 +925,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/4/b/b/64bb5ebea5d75e27d959afa2a1bf1c87/_______-______8468.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39376255</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1445" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>לב יודע מרת נפשו ובשמחתו לא יתערב זר</title>
@@ -750,6 +946,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/f/8/0/ef80f64114e81ec616c3140a3186d450/_______-_________4444.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39285130</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="674" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>לחיות כל החיים בהודאה ותקווה ובקשה</title>
@@ -765,6 +967,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/5/f/fc5fd085c699421fd959afa2a1bf1c87/_______-_______5555.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39285095</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1623" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>הדרך להתחזק מתוך החושך</title>
@@ -780,6 +988,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/6/1/d/161df3639d7255cb16c3140a3186d450/_______-_____8486.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39194800</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1030" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>להכיר את הטוב לפני הישועה</title>
@@ -795,6 +1009,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/7/e/a/87eafd9dcc6c3d68d959afa2a1bf1c87/_______-______4157.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39194760</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1131" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>בכח הביטול אפשר לזכות להצלחה אפילו במה שנראה כמכשול [שפת אמת]</title>
@@ -810,6 +1030,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/0/3/c20378b371b0603816c3140a3186d450/_______-____________3575.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39117140</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="676" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>היופי והאור כשאדם עומד על מקומו ותפקידו הנכון [שם משמואל]</title>
@@ -825,6 +1051,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/d/8/fdd800402aee5b11d959afa2a1bf1c87/_______-___________8778.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39116995</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2068" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>כי ידעתיו למען אשר יצוה - על ידי הידיעה מגיעים לחיבה</title>
@@ -840,6 +1072,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/f/b/2/4fb26ca9e857431dd959afa2a1bf1c87/_______-______-______3288.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38944645</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="848" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עיקר שמחה של מצוה הוא לשמוח בשמחתו של הקב"ה</title>
@@ -855,6 +1093,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/3/1/a/f31a0c6d44cfb987d959afa2a1bf1c87/_______-__________3788.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38944620</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1433" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>"לא יירשך זה" - עבודת ה' בהתבוננות ובלי חיקויים (נאך מאכן) [מאור ושמש]</title>
@@ -870,6 +1114,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/9/c/7/d9c7acaf96a7953716c3140a3186d450/________-____-__________7433.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38853100</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="998" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>מהות הנסיונות מאברהם אבינו ועד הנה - הכיר את בוראו</title>
@@ -885,6 +1135,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/b/8/9db8582496333045d959afa2a1bf1c87/________-_______-____7887.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38853080</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2150" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>"מזונותיי מסורין ביד הקב"ה" - הדרך להגיע לשובע אמיתי ושלם</title>
@@ -900,6 +1156,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/5/6/9/c56985c46beb09e2d959afa2a1bf1c87/_______-_____-______7699.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38763075</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1431" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>להכניס את היסודות של תשרי לעולם המעשה</title>
@@ -915,6 +1177,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/0/0/7500fd6d739c28c9d959afa2a1bf1c87/_______-________712.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38613315</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2751" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>ע"י התשובה אנו נעשים בריה חדשה לגמרי</title>
@@ -930,6 +1198,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/7/f/4b7f35be5fa6838ed959afa2a1bf1c87/_______-_________7866.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38364655</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>התבוננות בטעותים שעשינו עוזר לנו לתשובה, ע"י הזדונות בונים הזכויות</title>
@@ -945,6 +1215,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/5/a/e25a53d4f9f0a38f16c3140a3186d450/_______-____________9455.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38364640</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>התבוננות בטעותים שעשינו עוזר לנו לתשובה, ע"י הזדונות בונים הזכויות</title>
@@ -960,6 +1232,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/5/a/e25a53d4f9f0a38f16c3140a3186d450/_______-____________9455.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38364635</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>שפת אמת - התשוקה לתשובה כבר פועל</title>
@@ -975,6 +1249,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/a/0/b/fa0b26c737f71e8516c3140a3186d450/_______-___-_____9866.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38359610</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>נקודת הטוב שבכל יהודי</title>
@@ -990,6 +1266,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/1/f/8/11f83e6e5dd0c3fe16c3140a3186d450/_______-_____7225.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38275240</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>העצה להרגיש חיים בכל מצב</title>
@@ -1005,6 +1283,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/9/5/6/3956028b8ffbea2a16c3140a3186d450/_______-______7336.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38275235</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>"אם כבנים אם כעבדים" עבודת היום בכמה אופנים</title>
@@ -1020,6 +1300,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/5/7/6d57b0e26c1dfb7716c3140a3186d450/_______-_________6577.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38275215</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>השמחה של יום המשפט</title>
@@ -1035,6 +1317,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/d/8/60d8e0207f4a8a7fd959afa2a1bf1c87/________-_____98863.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38187820</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>מהות האדם הוא להיות מטיב לאחרים</title>
@@ -1050,6 +1334,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/d/f/99df2de6eb9524afd959afa2a1bf1c87/________-_______4886.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38187815</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה בכל מקום ובכל זמן</title>
@@ -1065,6 +1351,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/a/d/5/5ad5e4dda460e87f16c3140a3186d450/________-______8547.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38092635</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה לפי המדריגה של האדם</title>
@@ -1080,6 +1368,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/9/c/b89c7f491945c63716c3140a3186d450/________-______4569.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38092610</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>"צדק צדק תרדוף" התקדמות תמידית בעבודת ה'</title>
@@ -1095,6 +1385,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/a/4/0/fa4070db7f6cd46816c3140a3186d450/_____-___-________4978.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38014645</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>"אל תחקור עתידות" לשאוב כוח מהעבר וההווה</title>
@@ -1110,6 +1402,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/c/2/e/5c2e47d866e4e4efd959afa2a1bf1c87/_____-___-________679.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38014615</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>הדרך להצליח: לנסות את כל הדרכים בלי ייאוש</title>
@@ -1125,6 +1419,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/1/c/d/41cd2dfbe5b89fe516c3140a3186d450/_______-_________892.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37915010</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>ה'מראי מקומות' ל'מסכתא' של הזמן החדש</title>
@@ -1140,6 +1436,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/3/4/97340bf0b2b6657b16c3140a3186d450/_______-_______689.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37914970</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>המוליכך במדבר הגדול והנורא - היניקה של יהודי היא שלא כדרך הטבע</title>
@@ -1155,6 +1453,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/b/f/1/0bf10436d159b33cd959afa2a1bf1c87/_______-_____-________457.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37825415</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>רושם של הג' שבועות בהרגשים</title>
@@ -1170,6 +1470,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/6/8/896872ad12a2f46416c3140a3186d450/______-_____13.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37722975</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה על מהלך המחשבות</title>
@@ -1185,6 +1487,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/2/5/c825bcf28453171c16c3140a3186d450/______-____12.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37722955</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - התמדת הדברים מוליד אהבה</title>
@@ -1200,6 +1504,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/f/2/bbf2d8c69646b1cd16c3140a3186d450/_______-____-____12.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37722920</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה מחכה לתפלתו של העני המפרט את הרגשת הצרה כמו שהוא</title>
@@ -1215,6 +1521,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/6/e/d46ee1d2d3058cbad959afa2a1bf1c87/_______-____________999.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37627440</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תפלה - כפי גודל הקירבה מורגש ההתפעלות</title>
@@ -1230,6 +1538,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/2/9/ba290e922439697a16c3140a3186d450/_______-__-______888.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37627400</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>כל יהודי מתוך צרתו וגלותו מוסיף קול שני, תנועה, ליווי לשיר הארוך</title>
@@ -1245,6 +1555,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/2/1/6321378d82f2ea3ad959afa2a1bf1c87/_______-______________777.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37627380</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ושם נשיר שיר חדש, מי הלחין את השיר, ומהו החידוש</title>
@@ -1260,6 +1572,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/7/f/4/a7f4c71b038be2d9d959afa2a1bf1c87/_______-___________666.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37627220</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ההכרה בחשיבות העבודה בדורינו גורם לנו להוסיף עבודה מתוך אהבה להשי"ת</title>
@@ -1275,6 +1589,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/3/7/0/3370efbe7b0dcd61d959afa2a1bf1c87/________-____________157.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37539795</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>מחברת הכללית וגאולה הפרטית ע"י הלימוד ממעלת הזולת</title>
@@ -1290,6 +1606,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/9/b/8/c9b8e5c0c943207c16c3140a3186d450/________-__________158.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37539780</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>כל משבריך וגליך עלי עברו - הלקח שלומדים מגלי הים</title>
@@ -1305,6 +1623,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/1/f/e/91fe7ab04078b15d16c3140a3186d450/_______-______-____14.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37452825</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הערב בדבר שבקדושה היא טעימה מעצם המועיל והטוב</title>
@@ -1320,6 +1640,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/8/5/6/585635e1c48548f8d959afa2a1bf1c87/_______-________13.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37452805</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - לשנוא המחטיאים ולהתעיב הערב והטוב היוצא מהם</title>
@@ -1335,6 +1657,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/d/f/2/1df217031f39fa8916c3140a3186d450/_______-____-_______12.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37452780</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>לבטוח בהקב"ה עד רגע האחרון ועד בכלל</title>
@@ -1350,6 +1674,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/c/9/63c9a6a47998e5d216c3140a3186d450/_______-_______125.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37371355</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>המסתכל על יהודי בעין טובה יכול להמשיך שפע רב על ישראל</title>
@@ -1365,6 +1691,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/5/e/f/d5ef719c0b8d4f38d959afa2a1bf1c87/_______-___________124.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37371345</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש לא הביט און ביעקב - עצם נשמת היהודי אינו נפגם</title>
@@ -1380,6 +1708,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/8/b/2e8b9e60ed6f854516c3140a3186d450/_______-________-_____123.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37367980</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>עצה טובה לשמירת עיניים, נתינה לזולת עם העינים היא</title>
@@ -1395,6 +1725,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/7/a/447a1d8dd4d71ca716c3140a3186d450/_______-_________23.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37279195</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ע"י הלימוד בתוה"ק לשמה נלחם עם שורש המקטרגים</title>
@@ -1410,6 +1742,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/1/1/3d11d38276df8b3d16c3140a3186d450/_______-________22.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37279190</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הק' - חיי היהודי תלויים לעולם בניסים דוקא, כדי שיסתכל תמיד כלפי מעלה</title>
@@ -1425,6 +1759,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/c/a/55ca709ca46da887d959afa2a1bf1c87/_______-____-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37279125</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>העצה להינצל ממחלוקת ולהרבות שלום , להפריד בין המורגש להמציאות</title>
@@ -1440,6 +1776,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/d/a/addaa616e3d5feccd959afa2a1bf1c87/_______-__________123.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37170125</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>הצלחת האדם בעלם הזה נמדד האם הוא מתמודד כראוי בכל המצבים</title>
@@ -1455,6 +1793,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/b/2/2/8b2205af1ab1f089d959afa2a1bf1c87/_______-_____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37170090</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש השבח והודאה של בשר ודם גבוהה משירת המלאכים. שירת האדם שלאחרי הנס בגדלות המוחין, הרבה יותר נעלה ויכול להביא להשגות גדולות עד כ</title>
@@ -1470,6 +1810,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/8/c/e38c4c581c4715e1d959afa2a1bf1c87/-_1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37169995</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - מעשה הבנים יתייחס גם להאבות- למען לא ניגע לריק חלק א</title>
@@ -1485,6 +1827,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/c/9/7/9c97f1c51e319617d959afa2a1bf1c87/_______-____-_____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37084005</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>שם משמואל: י-ה יושיעך וגו'.. העבודה איחוד שמים וארץ חלק ג</title>
@@ -1500,6 +1844,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/6/5/7465e24a3ed02cddd959afa2a1bf1c87/_______-___-__..____13.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37083900</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>בלי השתוקקות אי אפשר להתדבק בשלימות הארץ חלק ב</title>
@@ -1515,6 +1861,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/a/2/34a2f8b4bbbc6c4c16c3140a3186d450/_______-_______12.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37083885</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>ביטול והכנעה - דרכי קניין הענווה למעשה</title>
@@ -1530,6 +1878,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/c/4/d4c44eaecbcc581916c3140a3186d450/_______-___-____23.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36976480</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>לא כן עבדי משה - הקב"ה חפץ שיעבדוהו בדרך המקובל [נורמאל] (אגרא דפרקא) חלק ב</title>
@@ -1545,6 +1895,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/6/3/83636d3510caea35d959afa2a1bf1c87/_______-_____-________22.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36976395</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש "על פי ה' יחנו" - העונג שבביטול לתוכנית של הקב"ה</title>
@@ -1560,6 +1912,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/b/2/e/2b2eb029ba99b6d8d959afa2a1bf1c87/_______-________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36976335</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>שיר ושבח בשבת קודש, מבטלים המקטרגים ומביאים רפואות וישועות חלק ג</title>
@@ -1575,6 +1929,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/b/d/a/fbdaaf5b6a83be22d959afa2a1bf1c87/13_______-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36876170</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>הזיכוך שמגיע על ידי מצוות מעשיות והתאפקות (פרי הארץ) חלק ב</title>
@@ -1590,6 +1946,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/9/7/2/e972298e1bb1a133d959afa2a1bf1c87/12_______-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36876145</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - לגלות את הכח הרוחני בכל חלקי הבריאה חלק א</title>
@@ -1605,6 +1963,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/5/8/6/0586e4117ae97d2e16c3140a3186d450/_______-____-_______11.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36876135</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה שבעל פה - הכח להבין את רצון ה'; עיקר ההשגה בשבועות מכח ההשתוקקות</title>
@@ -1620,6 +1980,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/8/6/e/286e4bc18f0c0002d959afa2a1bf1c87/_______-____-__________3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36780695</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>אלא אם כן נכשל בהן - הכישלון הוא המפתח להצלחה. למה ואיך</title>
@@ -1635,6 +1997,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/2/8/3/22836c5a98d0d8b4d959afa2a1bf1c87/_______-______-____.__2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36780680</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>לשמור ולעשות ולקיים - ההצלחה ביראת שמים כבר מוכנה ומחכה רק לאמונה</title>
@@ -1650,6 +2014,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/8/6/3/086386e64d117ac5d959afa2a1bf1c87/_______-____-________10.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36780660</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>לימוד התורה במצבים קשים - גאולה לשכינה חלק ג</title>
@@ -1665,6 +2031,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/5/5/b45503a789e22ce4d959afa2a1bf1c87/________-_____-__2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36682860</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>לפגוש את הקב"ה בתוך התורה חלק ב</title>
@@ -1680,6 +2048,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/0/0/f/700fdf18c0549e9916c3140a3186d450/________-_______1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36682845</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש (בחוקותי, אופן כ"ג): לימוד תורה לשמה מעיר את חלקי הנשמה הרדומים חלק א</title>
@@ -1695,6 +2065,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/f/2/83f280ade02f212f16c3140a3186d450/______-_______-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36682755</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>לא תיקום ולא תיטור - מצווה הנקנית על ידי חידוש</title>
@@ -1710,6 +2082,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/b/b/3/6bb3584ca70ea89216c3140a3186d450/________-_____-_____1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36496495</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>חיבור רגשי והשגה על ידי בריחה ומלחמה (שם משמואל)</title>
@@ -1725,6 +2099,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/6/6/1/b661496a0d56657716c3140a3186d450/________-_________2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36496240</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - קדושים תהיו הדרך להמשיך עליו קדושה</title>
@@ -1740,6 +2116,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/c/0/92c02422d63fd21516c3140a3186d450/________-____-______3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36495945</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>נתינה לאחרים עד שכואב - במשנת הרה"ק ר' ישעיה</title>
@@ -1755,6 +2133,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/b/9/48b9955e5016c4de16c3140a3186d450/_______-_____-____1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36404840</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>השפע צריך כלי בכדי שיוכל להישאר אצל האדם</title>
@@ -1770,6 +2150,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/4/0/dd40bed35670a11c16c3140a3186d450/_______-________2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36404810</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת צדיקים מביא לידי אמונה בהקב"ה ולידי תשובה. איך</title>
@@ -1785,6 +2167,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/b/1/a5b19e31961adbcb16c3140a3186d450/_______-________._.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36404735</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>בגדלות המוח הולכים לאט (עבודת ישראל)</title>
@@ -1800,6 +2184,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/e/e/d/6eedcb2e87cec745d959afa2a1bf1c87/_______-______3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36301620</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>המסכתא לזמן קיץ - אידשקייט</title>
@@ -1815,6 +2201,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/6/6/5/c665226ccd7842e116c3140a3186d450/_______-____-_2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36301610</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - "קרא משה לאהרן", הכח של החלטה בכל תוקף</title>
@@ -1830,6 +2218,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/2/f/c82f1ca53e13965516c3140a3186d450/_______-____-________1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36301595</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>מעלת הטרדות בערב פסח - לשכוח מעצמו</title>
@@ -1845,6 +2235,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/9/e/779e5dbe4c755855d959afa2a1bf1c87/_______-_____-__2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35998245</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>כאילו הקרבנו - להשתוקק להקרבת קרבן פסח</title>
@@ -1860,6 +2252,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/4/1/0/f410b9c259805aac16c3140a3186d450/_______-___-____3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35998230</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>שיהא שיח שפתותינו - הכוח בדיבורים של קדושה</title>
@@ -1875,6 +2269,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/6/8/6f6824c25b906c2716c3140a3186d450/_______-____-____1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35998205</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש: ומעלה מעל - לבנות את חלקי הנפש על ידי תשובה</title>
@@ -1890,6 +2286,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/e/f/20ef37a979e7f370d959afa2a1bf1c87/_______-____-___-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35998175</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת פקודי חלק ג' - הטרדות של חודש ניסן עם מחשבה נכונה</title>
@@ -1905,6 +2303,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/d/7/fed799ed8939936f16c3140a3186d450/______-________41.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35901855</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת פקודי חלק ב' - החודש - התחדשות ביסודות האמונה</title>
@@ -1920,6 +2320,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/c/0/b/6c0bd85f2564320616c3140a3186d450/______-__-____65.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35901850</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת המידות באופן תמידי, אף לא בעת ניסיון במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל</title>
@@ -1935,6 +2337,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/3/f/013f092658b3c62816c3140a3186d450/_______-______________1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35799870</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת התשובה במשנתו של הרה"ק ר' אלימלך מליזענסק זצוק"ל</title>
@@ -1950,6 +2354,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/5/d/465d31f0ad40f49a16c3140a3186d450/_______-_________2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35799845</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הק' - עבודת שבת קודש בפשטות מתקנת פגמיו של האדם</title>
@@ -1965,6 +2371,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/4/2/dd4210cb28cccee116c3140a3186d450/_______-___________2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35799815</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>איש לרעהו - הדרך להרבות רעות ואהבה</title>
@@ -1980,6 +2388,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/3/8/9a38d6bd7fda2bbb16c3140a3186d450/95_______-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35663400</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - הכח בקבלת התורה שאחרי מחיית עמלק</title>
@@ -1995,6 +2405,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/1/5/0f15dba98fe663fed959afa2a1bf1c87/_______-__-______94.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35663290</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>קריאת המגילה - להתבונן, להתרגש ולהגיע להודאה</title>
@@ -2010,6 +2422,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/7/a/9f7a8b49791e555116c3140a3186d450/_______-___-_____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35663215</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>ענוה מביא לידי נבואה</title>
@@ -2025,6 +2439,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/0/9/6109ebd040979c9416c3140a3186d450/_______-_95.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35568120</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>מהותו של יהודי שירות ותשבחות בכל מצב</title>
@@ -2040,6 +2456,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/c/3/9ec3dc1f56f7b682d959afa2a1bf1c87/_______-_______94.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35568075</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - אני לדודי מעורר ודודי לי</title>
@@ -2055,6 +2473,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/4/0/5d40c48e66ebb11516c3140a3186d450/_______-____-_____93.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35567845</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>מחצית השקל - השתוקקות למה שאין בו השגה</title>
@@ -2070,6 +2490,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/f/8/48f83c28787f3c6ad959afa2a1bf1c87/_______-___-_____1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35475235</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>ויקחו לי תרומה - הכלי לקבלת התעוררות הוא נתינה</title>
@@ -2085,6 +2507,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/7/a/9/07a9371a9214994416c3140a3186d450/_______-____-______1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35475165</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>"מעט מעט אגרשנו מפניך"- מלחמת היצר המתחדשת בכל יום</title>
@@ -2100,6 +2524,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/2/a/0/f2a06d77643a1601d959afa2a1bf1c87/_______-_____-______25.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35370400</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>פרשת 'משפטים' - לגלות את הקב"ה בעולם דרך בירור משפטי התורה</title>
@@ -2115,6 +2541,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/6/f/cb6fe4a463a8ba1ed959afa2a1bf1c87/_______-___-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35370230</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>מצוות כיבוד אב ואם</title>
@@ -2130,6 +2558,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/8/c/668cf1d97f7b0a9fd959afa2a1bf1c87/_______-____41.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35278680</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>לא תחמוד</title>
@@ -2145,6 +2575,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/2/2/9/82290604821b7f8716c3140a3186d450/_______-___75.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35278605</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>להודות להקב"ה לפני הישועה</title>
@@ -2160,6 +2592,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/f/e/0afec1d4af65eab016c3140a3186d450/_______-____45.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35183020</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>מסמיך גאולה לתפילה - לעורר אהבה</title>
@@ -2175,6 +2609,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/1/8/2/31821405481cfba4d959afa2a1bf1c87/_______-____-__27.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35182985</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>אשפוך לפניו שיחי צרתי לפניו אגיד</title>
@@ -2190,6 +2626,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/e/6/48e6aaebe3cbdb3616c3140a3186d450/_______-_______25.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35182970</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>תפילה על ביטחון - דדא ביה כולא ביה</title>
@@ -2205,6 +2643,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/f/a/8cfad189a30fede8d959afa2a1bf1c87/_______-____-_____655.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35091425</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>הילולא דצדיקיא - הרה"ק הרבי ר' זושא מאניפולי זצוק"ל - לחיות בלי להרגיש שום דבר רע</title>
@@ -2220,6 +2660,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/a/1/48a11fc759dd9a6416c3140a3186d450/_______-___-_______-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35091390</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח של מצוה קטנה להמשיך אור על האדם ולהעיר הניצוץ שבו</title>
@@ -2235,6 +2677,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/6/5/8c6590f4c8b9525316c3140a3186d450/_______-____________15.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34986755</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>לא לעשות משא ומתן עם הקב"ה</title>
@@ -2250,6 +2694,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/c/d/c/1cdc7361b23b055116c3140a3186d450/_______-_______18.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34986685</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>כשיש חן הוא סימן שהדבר שייך לו אפילו כשיש קשיים</title>
@@ -2265,6 +2711,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/8/7/6/3876aa3b6d10c82fd959afa2a1bf1c87/_______-___________3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34888410</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>זהירות מגזל מעלה את האדם לגאולה</title>
@@ -2280,6 +2728,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/3/d/3/d3d3cd0698c2063dd959afa2a1bf1c87/_______-_______2.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34888385</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>'לא להתפעל מ'מה יאמרו הבריות</title>
@@ -2295,6 +2745,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/5/6/b456ce4c8520b6acd959afa2a1bf1c87/_______-______13.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34793230</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>לא לדאוג דאגת מחר</title>
@@ -2310,6 +2762,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/1/5/f/515fc1d9e3957e25d959afa2a1bf1c87/_______-_____100.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34793200</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>כש'טרודים' בהודאה זוכים להכנעה וענווה ועוד טובות רבות</title>
@@ -2325,6 +2779,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/1/5/3f150c0ebf23928816c3140a3186d450/_______-_________444.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34703500</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>אלף אלפי אלפים - ללמוד להתבונן ולהעמיק בהודאה לה'</title>
@@ -2340,6 +2796,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/9/6/e/f96ed7c385409145d959afa2a1bf1c87/_______-____-______3.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34703410</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>איך להמשיך את עבודת ימי החנוכה - הודאה</title>
@@ -2355,6 +2813,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/d/4/2/ed42ccfe2b7441be16c3140a3186d450/_______-_______-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34703325</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ההשתוקקות לקדושה מביאה לאדם כלים חדשים</title>
@@ -2370,6 +2830,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/7/5/b8754d204ba0361116c3140a3186d450/_______-_______2022.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34625970</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>את האש מוצאים באפר - הילולא דצדיקיא, הרה"ק המגיד ממעזריטש זצוק"ל</title>
@@ -2385,6 +2847,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/4/3/454319e6879c1505d959afa2a1bf1c87/_______-_____-_______3021.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34539900</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>יוסף בבית האסורים - חיזוק לכל יהודי לדורי דורות</title>
@@ -2400,6 +2864,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/3/6/55361a48749082fa16c3140a3186d450/_______-____-______3020.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34539860</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>המקבל יסורים בהכנעה זוכה לטעם עוה"ב בעוה"ז</title>
@@ -2415,6 +2881,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/a/4/a/8a4afe4c45f931b816c3140a3186d450/_______-________3010.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34423220</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>חזרה תוך כדי דיבור עוקר את העבירה למפרע</title>
@@ -2430,6 +2898,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/7/f/7/17f795a44e0b468116c3140a3186d450/_______-_________3009.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34423105</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>ללמוד מיעקב אבינו להתמודד עם רצף נסיונות החיים</title>
@@ -2445,6 +2915,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/a/5/8/0a58aa3aca98761316c3140a3186d450/_______-_________3008.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34307945</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>ויפגע במקום - עבודת ה' לפי המקום שנמצאים בו</title>
@@ -2460,6 +2932,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/9/b/6/59b63f525f4c13a016c3140a3186d450/_______-___-_______3007.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34307915</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>וידו אוחזת בעקב עשו - העוסק בתורה ומצוות, יגיע לשמחה פנימית ואמיתית</title>
@@ -2475,6 +2949,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/1/7/441726dd06bdf171d959afa2a1bf1c87/_______-_____-________3004.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34197230</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>תכלית עשו הרשע, מיאוס הרע לאחר הנפילה</title>
@@ -2490,6 +2966,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/7/7/777775801db7db6fd959afa2a1bf1c87/_______-________3003.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34197220</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>תכלית עשו הרשע, מיאוס הרע לאחר הנפילה</title>
@@ -2505,6 +2983,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/7/7/777775801db7db6fd959afa2a1bf1c87/_______-________3003.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34197215</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>החיצוניות שמלמדת על הפנימיות - ליומא דהילולא של הרה"ק מהרי"ד מבעלזא זצוק"ל</title>
@@ -2520,6 +3000,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/5/4/8/3548d4d42d8b83e140be95ea3302a6a1/________-_____-________2099.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34098636</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>איך זוכים לניסים?</title>
@@ -2535,6 +3017,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/9/9/9599152d2022aa5f40be95ea3302a6a1/________-____2098.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34098546</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>העוסק בתורה ותפילה מוריד את כח היצה"ר לתאוות וניסיונות</title>
@@ -2550,6 +3034,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/7/5/9/3759120f4263b7a2e55e3c100dce7605/_______-__________2094.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33937712</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>העוסק בתורה ותפילה מוריד את כח היצה"ר לתאוות וניסיונות</title>
@@ -2565,6 +3051,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/7/5/9/3759120f4263b7a2e55e3c100dce7605/_______-__________2094.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33937707</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>בהירות והשגה בדרכי הקב"ה לאדם</title>
@@ -2580,6 +3068,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/5/9/f85987f1b53cf09be55e3c100dce7605/_______-______2093.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33937632</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>לך לך - גם כשהדרך מלאה ספקות ובלבולים</title>
@@ -2595,6 +3085,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/d/b/4/bdb4dbbac35faba3e55e3c100dce7605/________-___-______2083.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33841347</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>לך לך - גם (ובמיוחד) כשלא יודעים לאיפה הולכים</title>
@@ -2610,6 +3102,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/7/6/2076947d999b6cc227a2322813b393ee/________-___-_______2082.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33841327</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>הדרך לחיות ולהתרגש בסדר התפילה ושמו"ע מדי יום ביומו</title>
@@ -2625,6 +3119,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/8/6/3f865d188456110227a2322813b393ee/_______-___________2082.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33715502</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>חודש חשוון - הצורך לחדש סדרים וקביעות בלימוד התורה והשפעתה</title>
@@ -2640,6 +3136,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/c/6/63c60584bd7e4e3427a2322813b393ee/_______-___-________2081.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33715452</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה מרגיש את האדם בתוך חשכו</title>
@@ -2655,6 +3153,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/8/3/f683df73e68f649ae55e3c100dce7605/________-_______2044.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33244902</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>בא ליטהר מסעיין אותו אפילו טהרה מועטת</title>
@@ -2670,6 +3170,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/5/5/0/b55084483da3eecde55e3c100dce7605/________-________2043.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33244887</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>התועלת של הוספה בעסק התורה בכדי לזכות לאור התשובה</title>
@@ -2685,6 +3187,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/c/4/6/4c460490616e1a5527a2322813b393ee/________-__________2042.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33244877</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>עמו אנכי בצרה</title>
@@ -2700,6 +3204,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/a/5/e/8a5e16317e325b2327a2322813b393ee/________-____2043.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33131272</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>מלך שוכן עד... מלך מאזין שועה... - הקשר בין מלכות הקב"ה לקבלת התפילות</title>
@@ -2715,6 +3221,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/6/9/6/c696fc390e66bb80e55e3c100dce7605/________-___...___..._-_______2042.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33131262</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>התפילה על הגאולה בימים אלו מביא שלימות לאדם</title>
@@ -2730,6 +3238,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/1/b/0/b1b016cf93a9694527a2322813b393ee/________-_________2041.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33131257</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>למה נוהגים להרבות בניגונים בימים אלו?</title>
@@ -2745,6 +3255,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/f/b/b8fb4be116cb66a127a2322813b393ee/________-_______2040.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33131247</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>הילולא דצדיקיא - הרה"ק רבי פנחס מקוריץ זי"ע - הזיכוך דרך עבודת המידות של חודש תשרי</title>
@@ -2760,6 +3272,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/6/3/3/9633da1afc2ff26427a2322813b393ee/________-___-______-_______2041.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33028802</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>כל מחשבה ובמיוחד של קדושה מצמיחה פירות בהמשך</title>
@@ -2775,6 +3289,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/4/f/8/24f812978ae3ce4827a2322813b393ee/________-_________2040.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33028772</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>כוחו של הבא לטהר בפרישות מתענוגים ומותרות</title>
@@ -2790,6 +3306,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/6/9/61696a09a8c330b8e55e3c100dce7605/_______-________2034.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32935757</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>מזמור התשובה קפיטל נ"א במשנת הרה"ק הנועם אליעזר מסקולען זצ"ל</title>
@@ -2805,6 +3323,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/6/2/8/b628c93d20ab768127a2322813b393ee/_______-___________2033.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32935737</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>ע"י שזוכרים את הקב"ה בכל עת מרגישים אותו, ויותר קל לחזור בתשובה</title>
@@ -2820,6 +3340,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/9/6/e69667cdf472172327a2322813b393ee/_______-______________2031.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32802177</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה ושינוי הרגלים - בשיטת רב פרידא</title>
@@ -2835,6 +3357,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/3/d/7/93d7e02360305052e55e3c100dce7605/_______-____-____2030.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32802147</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ההתקדמות של יהודי נמדדת בהליכה לפי רצון השם</title>
@@ -2850,6 +3374,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/2/6/3/8263068bf1529da727a2322813b393ee/_______-_________1218.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32705147</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>השכינה מרגישה את עומק הצער והבלבול של יהודי</title>
@@ -2865,6 +3391,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/6/7/eb679eadd7b34ea1e55e3c100dce7605/_______-_________1217.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32705067</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>הלימוד מרחל אמנו - בכח הוויתור והביטול זוכים להשראת השכינה</title>
@@ -2880,6 +3408,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/b/3/8db31ff09c2ee5c427a2322813b393ee/_______-____-______._1216jpg.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32704997</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>הבכי של רחל אמנו - השתתפות השכינה בצער של היהודי שמביאה נחמה</title>
@@ -2895,6 +3425,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/7/7/e277258e365abeffe55e3c100dce7605/_______-_____-________1215.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32704917</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>כח הציור מביא לידי אהבה</title>
@@ -2910,6 +3442,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/6/1/d461227fec5df45be55e3c100dce7605/_______-______2012.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32596362</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>רב לך - כח ההשתוקקות למדרגה הבאה בקדושה</title>
@@ -2925,6 +3459,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/6/e/d46e00be0c9099d027a2322813b393ee/_______-___-______2011.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32596117</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>שברון הלב על החורבן הוא השלב הראשון של הגאולה</title>
@@ -2940,6 +3476,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/6/1/2/761297afad0ffa6de55e3c100dce7605/_______-__________2010.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32596077</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>שברון הלב על החורבן הוא השלב הראשון של הגאולה</title>
@@ -2955,6 +3493,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/6/1/2/761297afad0ffa6de55e3c100dce7605/_______-__________2010.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32596072</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>הדרך לעורר מידת הרחמנות על צער השכינה</title>
@@ -2970,6 +3510,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/9/b/2/79b23c80b33d084be55e3c100dce7605/_______-________2003.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32505912</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ההשפעה הטבעית של התנהגות טובה על חבריו</title>
@@ -2985,6 +3527,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/f/b/45fb138516b18985e55e3c100dce7605/_______-________2002.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32505892</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ארץ ישראל הוא למעלה מדרך הטבע - חיזוק לימים אלו</title>
@@ -3000,6 +3544,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/e/6/61e6831e01c0c71ee55e3c100dce7605/________-_______-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32396282</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>הרחב פיך ואמלאהו - לעשות כלים גדולים שיכילו שפע רב מתוך התבטלות מוחלטת</title>
@@ -3015,6 +3561,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/4/2/4242bf5725289723e55e3c100dce7605/________-____-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32396272</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>החכמה לדעת באיזה מצב לסתום את האוזן ובאיזה מצב לפתוח ולהקשיב</title>
@@ -3030,6 +3578,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/6/1/ae61500a34ad7842e55e3c100dce7605/_______-____________33333.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32296892</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת ה' מתוך אמונה שהקב"ה מאמין באדם וביכולותיו בכל מצב שהוא</title>
@@ -3045,6 +3595,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/7/8/5/b785042855e37ea1e55e3c100dce7605/_______-____________22222.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32296872</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>לאדם מערכי לב ומהשם מענה לשון - האמונה שהקב"ה מכניס את המילים שמוציא האדם מפיו</title>
@@ -3060,6 +3612,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/8/a/748af3ea27a7303527a2322813b393ee/_______-_______-_________1994.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32206672</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>מה טובו אוהליך יעקב - כשאדם ממלא את ראשו בתורה, ממילא אינו מתעניין בדברים שקוראים אצל השני</title>
@@ -3075,6 +3629,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/7/1/5571d2517d2c881027a2322813b393ee/_______-_____-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32206542</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>שם משמואל - כדי להגיע לעולם הבא חייב האדם את התמודדות וזהו עניין שבת קודש דווקא לאחר ימי המעשה.</title>
@@ -3090,6 +3646,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/d/d/6fddb1301f2631f927a2322813b393ee/_______-___-________________._1988.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32104847</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>כשאדם מתחזק, המניעות בהתחלה הם חלק בלתי נפרד מעשית המצווה</title>
@@ -3105,6 +3663,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/8/0/d/d80d67d708e50018e55e3c100dce7605/_______-___________1987.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32104812</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>וזה לאות כי גם התחתון למטה במדרגה יש בו צורך ומעלה לעליון ממנה (תפארת שלמה)</title>
@@ -3120,6 +3680,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/2/a/012a9441487f197427a2322813b393ee/_______-________________1967.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32017497</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>קיום המצוות בכל מצב גם כשלכאורה אי אפשר</title>
@@ -3135,6 +3697,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/e/6/6/be661b53a39dea6527a2322813b393ee/_______-________1964__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31922922</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>טובה הארץ מאוד מאוד - מאוד מאוד הוה שפל רוח</title>
@@ -3150,6 +3714,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/f/e/e/7feea1cc71f78bdde55e3c100dce7605/_______-_____-______1963.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31922892</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>יברכך השם וישמרך - הכנעה ושברון לב בתפילה על רוחניות</title>
@@ -3165,6 +3731,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/4/0/b440a41b1aa899b927a2322813b393ee/_______-____-_______1945.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31741272</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>פנים בפנים דיבר השם עמכם - פונה אני מכל עסקיי, מצד הקב''ה ומצד ישראל</title>
@@ -3180,6 +3748,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/9/e/b99ec5f3bc689667e55e3c100dce7605/_______-______-_________1944.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31741262</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>זכרתי לך.. חסד נעורייך - הקשר הפנימי והאהבה בין הקב''ה לישראל והביטוי לכך אחרי חג השבועות</title>
@@ -3195,6 +3765,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/e/6/9be690b25d9e1a2ee55e3c100dce7605/_______-__..___-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31741167</ns1:item-id>
+      <ns1:last-updated>2024-07-01T00:00:23Z</ns1:last-updated>
     </item>
     <item>
       <title>הילולא דצדיקיא - הרה"ק ר' שלמה'קע מזעוויהל זצוק"ל</title>
@@ -3210,6 +3782,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/6/a/a/06aaf466c273592627a2322813b393ee/_______-___-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31541277</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>השפע הבא להאדם מלימוד התורה אף שאינו מבין</title>
@@ -3225,6 +3799,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/b/3/4/2b34b8fe84d131cfe55e3c100dce7605/_______-_________1921.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31541157</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>בקשות בתפילה על רוחניות וגשמיות</title>
@@ -3240,6 +3816,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/6/1/e261695687e96db827a2322813b393ee/_______-______1997.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31343967</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>אהבה ויראה במצוות בזמן הגלות</title>
@@ -3255,6 +3833,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/d/3/9ad3202718f2866fe55e3c100dce7605/_______-______1996.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31343957</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עצה להתגבר על עיכובים ומחשבות זרות - להכיר באור והשגחת הבורא ית' בזה (פרי הארץ, אגרת ט')</title>
@@ -3270,6 +3850,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/3/2/2/5322e228186eaa4327a2322813b393ee/_______-_______-___________1985.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31222447</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>הכל מאתו יתברך (פרי הארץ, פר' בא) - כל עיכובי הטבע מגיעים בשליחות הקב''ה</title>
@@ -3285,6 +3867,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/a/e/2/eae246a29a44009ee55e3c100dce7605/_______-________-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31222272</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>האדם צריך לזכור את כוחו למסור נפש</title>
@@ -3300,6 +3884,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/1/a/b/71abb70b444246be88c4a68c3ddbc4f2/_______-________1980.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31094378</ns1:item-id>
+      <ns1:last-updated>2024-06-01T00:00:56Z</ns1:last-updated>
     </item>
     <item>
       <title>חיזוק לכבוד פסח במשנת הרה"ק האוהב ישראל מאפטא זצוק"ל</title>
@@ -3315,6 +3901,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/3/3/423321e85e04fbc188c4a68c3ddbc4f2/_______-__________1909.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30788973</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>התבוננות בשורש עוון לשון הרע</title>
@@ -3330,6 +3918,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/b/9/8/fb983fa68fd936b988c4a68c3ddbc4f2/_______-______1908.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30788958</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>איך להתחבר להתחדשות שיש בבריאה</title>
@@ -3345,6 +3935,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/a/6/f/ea6f8660648da94688c4a68c3ddbc4f2/ZXC_______-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30687763</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>וידום אהרן - השראת השכינה הבא על ידי השקטת ההרגשים והמחשבות</title>
@@ -3360,6 +3952,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/c/2/83c265cca560a05ee5bbc093207a2619/AZS_______-__-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30687738</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש פרשת שמיני - הכח הגדול שיש לגדרים וסייגים</title>
@@ -3375,6 +3969,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/c/4/a5c41707466c00eae5bbc093207a2619/QAZ______-___-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30687718</ns1:item-id>
+      <ns1:last-updated>2024-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>איך אפשר להגיע להתפעלות מעבודת ה' בכל יום ויום</title>
@@ -3390,6 +3986,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/e/e/0/6ee0e4401eeefec888c4a68c3ddbc4f2/1903________-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30588583</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>אחד המרבה ואחד הממעיט ובלבד שיכוון לבו לשמים</title>
@@ -3405,6 +4003,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/c/f/cbcfa7326ff35784e5bbc093207a2619/1902________-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30588563</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>הסיבה שצריך להתבונן בניסים</title>
@@ -3420,6 +4020,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/c/6/f/ac6f15aab72dbedae5bbc093207a2619/_______-_____1797.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30381468</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>החילוקים בין ישועה הבא בזכות אחרים וישועה הבא בזכות עצמו</title>
@@ -3435,6 +4037,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/c/8/5/3c85d8335bebd94fe5bbc093207a2619/_______-___________1798.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30381453</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>שבת שקלים - פנימיות הרצון מתגלה אצל כללות ישראל</title>
@@ -3450,6 +4054,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/5/6/4d56d455561a027888c4a68c3ddbc4f2/_______-___-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30277698</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל #3 - תשובה על השורש של העבירה</title>
@@ -3465,6 +4071,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/1/1/7/a117e44532dce0ef88c4a68c3ddbc4f2/________-________3_-______9003.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30174718</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל #2 - סיגופים בזמן הזה</title>
@@ -3480,6 +4088,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/d/2/99d2627f18bb67a888c4a68c3ddbc4f2/________-________2_-____9002.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30174453</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה במשנת הרה"ק ר' אלימלך מליזענסק זצוק"ל #1 - השתוקקות לתשובה</title>
@@ -3495,6 +4105,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/0/2/8/9028223028a2b936e5bbc093207a2619/________-________1_-___9001.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30174288</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>זכירת מאמר חז"ל שמזונותיו של אדם קצובים מביא שמחה לאדם</title>
@@ -3510,6 +4122,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/0/5/8/90585504e9bf617888c4a68c3ddbc4f2/_______-___________1767.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30072123</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>האדם אינו יודע למה הוא נמצא במקום שהוא נמצא</title>
@@ -3525,6 +4139,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/2/5/a/b25ada4bf8119534e5bbc093207a2619/_______-__________1765.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30072078</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>כל מקום שיהודי משתוקק להקב"ה הוא מקום ראוי להשראת השכינה</title>
@@ -3540,6 +4156,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/4/d/754d7cc2ba1aa586e5bbc093207a2619/_______-___________1764.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29976758</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>התשוקה לתורה שיש לכל יהודי בלבו</title>
@@ -3555,6 +4173,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/b/c/34bc14fb53071df488c4a68c3ddbc4f2/_______-_______1763.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29976648</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>סגולת תפילה בציבור והמסתעף</title>
@@ -3569,6 +4189,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29864963</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>יותר יש לו לשמור שלא יזיק משלא יוזק</title>
@@ -3583,6 +4205,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29864948</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>חזו בני חביבי דמשכחין בצערא דילהון ועסקין בחדוותא דילי</title>
@@ -3597,6 +4221,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29761963</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>הצורך להתפלל ולהתחנן לפני הקב"ה להצליח בלימוד התורה</title>
@@ -3611,6 +4237,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29761818</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>זה קלי ואנוהו - התפעלות מעבודת השם</title>
@@ -3625,6 +4253,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29653378</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>השכר שיגיע לאדם עבור עשיית מצוה קטנה</title>
@@ -3639,6 +4269,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29653363</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>איזה זכות יעשה האדם להינצל מצרתו</title>
@@ -3653,6 +4285,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29653348</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עשיית רצון הקב"ה במשנת הרה"ק הריי"צ מליובאוויטש זצוק"ל</title>
@@ -3667,6 +4301,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29554633</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עוצם עיניו מראות ברע זוכה לשפע רוחני וגשמי</title>
@@ -3681,6 +4317,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29554558</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>זמירות שבת יכולים לכפר ולתקן פגמים</title>
@@ -3695,6 +4333,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29554473</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>העצה של הרה"ק ר' זושא מאניפולי זצוק"ל האיך לזכות לרוח הקודש</title>
@@ -3709,6 +4349,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29449453</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>תכלית הצמצום בכדי להשפיע חסדים</title>
@@ -3723,6 +4365,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29449423</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>פנימיות ישראל מתגלה ממילא לעת הגאולה</title>
@@ -3737,6 +4381,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29337823</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>וירא מנחה כי טוב ויט שכמו לסבל</title>
@@ -3751,6 +4397,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29264933</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>עולמך תראה בחייך, ע"י קפץ עליו רוגזו של יוסף</title>
@@ -3765,6 +4413,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29264928</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>אל־תשליכני מלפניך</title>
@@ -3779,6 +4429,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29264913</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>שבחו של אמת</title>
@@ -3794,6 +4446,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/6/4/f/964f7652f1a2f7b4e5bbc093207a2619/_______-____1701.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29187108</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>עונשו של המשקר</title>
@@ -3809,6 +4463,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/d/d/6/edd6b1d8d81beb4888c4a68c3ddbc4f2/_______-____1700.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29187078</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הזמירות הם הביאור של הנרות חנוכה</title>
@@ -3824,6 +4480,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/7/c/6/e7c66fa41b65820588c4a68c3ddbc4f2/_______-_______1692.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28981418</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>ענוה ושפלות מביא לידי השגה בנרות חנוכה. במשנת הרה"ק מטאלנא זצוק"ל</title>
@@ -3839,6 +4497,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/c/7/0cc73dcc5e813a6ce5bbc093207a2619/_______-________-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28981203</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה מוריד עצמו לדרגת כל יהודי באשר הוא שם</title>
@@ -3854,6 +4514,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/5/2/e/652ee3e095b2279888c4a68c3ddbc4f2/_______-__________1691.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28981113</ns1:item-id>
+      <ns1:last-updated>2024-01-01T00:01:15Z</ns1:last-updated>
     </item>
     <item>
       <title>כי ממנו ניקח לעבוד את ה' - איך להשתמש ברמאות דקדושה</title>
@@ -3869,6 +4531,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/7/6/5/176583b0fa871455e5bbc093207a2619/_______-_______-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28870528</ns1:item-id>
+      <ns1:last-updated>2023-12-01T05:33:51Z</ns1:last-updated>
     </item>
     <item>
       <title>גודל הערך של כל ניצחון מול היצר הרע</title>
@@ -3884,6 +4548,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/a/2/b/7a2bbe75ce81967588c4a68c3ddbc4f2/_______-_________1680.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28870863</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>החריצות והנאמנות של האדם מביא הצלחה בכל העניינים</title>
@@ -3899,6 +4565,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/6/c/3a6c80f9bc751040e5bbc093207a2619/_______-_________1681.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28775678</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>האדם צריך להיות מוכן שאנשים לא יעריכו אותו עבור ההחלטות שלו ברוחניות</title>
@@ -3914,6 +4582,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/d/e/d1ded5bf08a4fface5bbc093207a2619/_______-_____________1680.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28775668</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>החיים הם כמו רכבת הרים, שב ותהנה - Life is like a roller coaster, sit back and enjoy</title>
@@ -3929,6 +4599,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/f/c/3/5fc3d0023886a231e5bbc093207a2619/_______-________-_Life_is_like_a_roller_coaster_sit_back_and_enjoy.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28775608</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>הביטול להקב"ה מביא לידי שמחה</title>
@@ -3944,6 +4616,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/b/4/0/6b405f75b67cbabfe5bbc093207a2619/________-______1678.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28575563</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת חיי שרה - חלק ב' - עבודת המדות</title>
@@ -3959,6 +4633,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/f/e/b9fecd0293570428e5bbc093207a2619/________-___1677.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28575143</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>איך להתחזק כשממתינים לישועה ושומעים שמישהו אחר נושע</title>
@@ -3974,6 +4650,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/7/7/d/077dc348c601ca47bafc7308ab683e82/_______-_________1672.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28502471</ns1:item-id>
+      <ns1:last-updated>2023-11-30T18:28:32Z</ns1:last-updated>
     </item>
     <item>
       <title>למה לא התפלל אברהם אבינו לבטל הגזירה של העקידה?</title>
@@ -3989,6 +4667,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/7/4/d1749009e4658a0216c3140a3186d450/_______-__________1671.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28502399</ns1:item-id>
+      <ns1:last-updated>2023-11-30T18:28:32Z</ns1:last-updated>
     </item>
     <item>
       <title>לא לגשם מתנות של רוחניות</title>
@@ -4004,6 +4684,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/2/5/1825a124da7beb1288c4a68c3ddbc4f2/________-______1671.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28435733</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח לעמוד בנסיונות מושרש לנו מהאבות</title>
@@ -4019,6 +4701,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/4/4/424460e6e24d4023e55e3c100dce7605/________-_______1670.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28435673</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>מצווה לספר בשבחן של ישראל</title>
@@ -4034,6 +4718,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/c/5/a/1c5ad4b04e2f5ce5a04421dee9605cbd/_______-______1662.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28371008</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>כח התורה כנגד עשיו שונא ליעקב</title>
@@ -4049,6 +4735,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/8/b/988bfd1a74b142d488c4a68c3ddbc4f2/_______-_______1661.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28370981</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>והשב לשכינינו שבעתים אל חיקם</title>
@@ -4064,6 +4752,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/a/5/9aa5a043c3c9ea4840be95ea3302a6a1/_______-______1655.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28304183</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>להגביר כח הקדושה באדם ע"י מצות בכל עת מצא'</title>
@@ -4079,6 +4769,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/9/e/fe9ed1c4006b0e91bafc7308ab683e82/______-________-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28108418</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>פיוט כי הנה כחומר - ווידוי על חוסר תפלה</title>
@@ -4094,6 +4786,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/2/0/1/2201e34bd02658a627a2322813b393ee/______-________-_____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28108400</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>גודל החטא כראי' על עוצם חסדיו ית'</title>
@@ -4109,6 +4803,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/9/0/0/0900fdaa6ee6b16fd959afa2a1bf1c87/______-________-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28108310</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה יודע מהות האדם</title>
@@ -4124,6 +4820,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/e/b/ccebb99ef8e39432bafc7308ab683e82/________-_____1625.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27976929</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הסתרה מביא הסתרה</title>
@@ -4139,6 +4837,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/6/c/526cb135b00b5b3b88c4a68c3ddbc4f2/________-____1624.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27976914</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>כי קרוב אליך הדבר מאוד בפיך ובלבבך לעשותו</title>
@@ -4154,6 +4854,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/2/f/922f95a2bd996f00a04421dee9605cbd/________-_________1623.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27976896</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>להתבונן בטובתו של הקב"ה גם כשהאדם מסובב בטרדות</title>
@@ -4169,6 +4871,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/a/5/57a54b82f047d7d816c3140a3186d450/________-_________1622.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27907197</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>טבילה בתוך תורה תפילה ומצוות לקראת ימים הנוראים</title>
@@ -4184,6 +4888,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/f/e/69fe41aa0a1a04665f2e77a3093c12a1/________-_________1621.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27907149</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>די חשיבות פון אראפשרייבען יעדען גוטע ווארט פון א שיעור וואס מען הערט (דגל מחנה אפרים)</title>
@@ -4199,6 +4905,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/4/b/3d4bea72e0e5ccd988c4a68c3ddbc4f2/________-_________________1618.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27844860</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>ארבעה דרכים למלחמת היצר שבכל יום</title>
@@ -4214,6 +4922,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/4/f/6d4f2a9e1f6b9f315f2e77a3093c12a1/________-_______1617.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27844836</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>הקב"ה מציל גם אנשים שנפלו מטעותים שהם עצמם גרמו להם</title>
@@ -4229,6 +4939,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/b/1/6/0b16bb2a9d7c873240be95ea3302a6a1/_______-___________1607.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27785535</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>איך עושים שלא יתעוור עיני האדם על ידי עבירות</title>
@@ -4244,6 +4956,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/0/7/9/c079417aa74da10927a2322813b393ee/_______-__________1607.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27785451</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>התלהבות דקדושה זה לעומת זה</title>
@@ -4259,6 +4973,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/1/6/9/31699ed1a846dc3040be95ea3302a6a1/_______-______1511.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27717441</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>צימאון לדבר שבקדושה</title>
@@ -4274,6 +4990,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/1/e/5/c1e55ff9f67c23b3d959afa2a1bf1c87/_______-____1510.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27717405</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>כח השבת להעלות את האדם למדריגת קרבת אלוקים הרבה יותר ממדריגתו</title>
@@ -4289,6 +5007,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/f/7/47f7111d9cc91948d959afa2a1bf1c87/_______-____________1585.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27656559</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>החשיבות של התאספות לעבודת השם באחדות (אור לשמים)</title>
@@ -4304,6 +5024,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/4/a/d64ac527d4fd953888c4a68c3ddbc4f2/_______-_________1583.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27656544</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>האהבה שנולד כשהאדם מתמיד בעבודת השם</title>
@@ -4319,6 +5041,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/9/3/e/e93e540c566f55d9e55e3c100dce7605/_______-_______1577.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27590070</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>הנחמה שיש בתורה לכל מצב</title>
@@ -4334,6 +5058,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/6/0/3/f6032820c40fd74627a2322813b393ee/_______-______1576.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27590061</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>מה זה נחמה? תורה חדשה מאיתי תצא</title>
@@ -4349,6 +5075,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/5/2/7/2527ff37318e0426bafc7308ab683e82/_______-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27590034</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>התורה של לעתיד לבוא נכתב כשאדם מתגבר על נסיונות</title>
@@ -4364,6 +5092,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/1/4/7/3147727ef2b39a6a16c3140a3186d450/_______-__________1582.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27527298</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>אליהו הנביא מבשר בשורות טובות</title>
@@ -4379,6 +5109,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/0/8/d208c2de154a6a85a04421dee9605cbd/_______-______1581.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27524358</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>איך שייך להיות אוהב את התוכחות</title>
@@ -4394,6 +5126,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/b/d/3/8bd3c584e137ccea16c3140a3186d450/_______-_______1580.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27524295</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>מטרת הנפילות ברוחניות כדי להרבות בתפילה להשגות גבוהות</title>
@@ -4409,6 +5143,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/f/2/d6f2a424a24237bee55e3c100dce7605/________-_________1574.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27460143</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת השם במשנת הרה"ק ר' מאיר אפטא זצוק"ל בעל ה'אור לשמים'</title>
@@ -4424,6 +5160,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/e/9/f8e92f75cb27b209bafc7308ab683e82/________-____________1573.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27460134</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>צער המלחמה לקדושה הוא צער השכינה בגלות</title>
@@ -4439,6 +5177,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/9/8/7598022a911d1e25a04421dee9605cbd/_______-________1569.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27393831</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>נושא בעול עם חבירו - השתתפות בצער השכינה</title>
@@ -4454,6 +5194,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/3/f/e/f3fec5939156cfde88c4a68c3ddbc4f2/_______-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27393783</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>לעלות למקום שאין שם מחיצות</title>
@@ -4469,6 +5211,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/4/7/6/a47696ff82d9aa7ae5bbc093207a2619/___________-______1562.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27328626</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>מהותו של יהודי הוא ברכה</title>
@@ -4484,6 +5228,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/6/7/cc670eb3105d082688c4a68c3ddbc4f2/___________-______1561.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27328575</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>יוקר יאמיר ושאר מצבי הספיקות כהכנה לגאולה</title>
@@ -4499,6 +5245,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/0/0/d/700db5d81aaf088bbafc7308ab683e82/________-___-________1558.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27164406</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>זהירות ממידת חסידות שלא ע"פ האמת וע"פ התורה</title>
@@ -4514,6 +5262,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/4/3/ba4347b7dedb16735f2e77a3093c12a1/________-___-___________1557.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27164391</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ג' - קבלת השפע מהתורה ע"י הכנה ראויה</title>
@@ -4529,6 +5279,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/4/8/1848d4c4b7852589d959afa2a1bf1c87/__________-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27086553</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק א' - הדרך להרגיש חיים בתורה</title>
@@ -4544,6 +5296,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/1/2/cd1222747501d926e5bbc093207a2619/__________-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27086487</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>תכלית החושך להביא חידושי תורה לעולם</title>
@@ -4559,6 +5313,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/1/e/2d1e6f92e47bd3dee55e3c100dce7605/__________-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27023493</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>בעבור אבותינו שבטחו בך - כן תחננו..... כי בך בטחנו</title>
@@ -4574,6 +5330,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/6/5/8365794522270761bafc7308ab683e82/__________-_____-__.....___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27020514</ns1:item-id>
+      <ns1:last-updated>2023-07-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>מידת היסוד- להתפעל מדברים פנימיים</title>
@@ -4589,6 +5347,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/1/d/9/a1d9a4d003267d0dbafc7308ab683e82/________-__-____1524.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26816175</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>מה מקוה מטהר את הטמאים אף הקב"ה מטהר את ישראל</title>
@@ -4604,6 +5364,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/1/4/a21435c0fcbdab12a04421dee9605cbd/________-___________1523.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26816133</ns1:item-id>
+      <ns1:last-updated>2023-06-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת המידות מביא גאולה לאדם, וסגולת ימי חודש ניסן לזה</title>
@@ -4619,6 +5381,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/1/6/671634a2864f741b27a2322813b393ee/_______-___________1560.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26323665</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>וראית את אחורי - הקב"ה משבח את ישראל אפילו כשאינם מתנהגים כראוי</title>
@@ -4634,6 +5398,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/e/a/baea535ad9ca0d8bd959afa2a1bf1c87/________-____-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26183823</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>ונתנו - על כל אחד להעניק בחזרה להשם ממה שזכה לקבל ממנו</title>
@@ -4649,6 +5415,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/6/9/cd69f94d0792855e16c3140a3186d450/________-__-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26183322</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת תרומה חלק ב' - נין התורה על ידי בריחה מהחיצוניות</title>
@@ -4664,6 +5432,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/9/2/5292da0568f9f094e55e3c100dce7605/_______-_______1469.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26028924</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ועבדתם את ה' אלוקיכם.. והסירותי מחלה מקרבך - רפואת השם למחלה של 'יש לו מנה רוצה מאתיים' (כתב סופר)</title>
@@ -4679,6 +5449,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/a/2/2/ba220d348d114a0ae5bbc093207a2619/_______-____..____-____________1473.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25957926</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>מדבר שקר תרחק - קירבת אלוקים כשחיים במידת האמת עם הקב"ה ואפילו כלפי חטאים ועוונות</title>
@@ -4694,6 +5466,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/9/7/4/39741a0a2d33776d40be95ea3302a6a1/_______-____-____________1474.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25957914</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ב' - כל אחד שומע משהו אחר - לשמוע מה שצריך לשמוע</title>
@@ -4709,6 +5483,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/9/3/3f93a51c8926aa5588c4a68c3ddbc4f2/_______-______-_____1475.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25885551</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>כללים חשובים בהשתדלות הנלמדים מפרשת המן</title>
@@ -4724,6 +5500,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/4/8/6/04865f12446cf76e16c3140a3186d450/_______-_______1982.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25815573</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>סבלנות לעושר שיגיע באושר, ביושר ובמתיקות (חתם סופר)</title>
@@ -4739,6 +5517,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/b/3/a/db3ae12fddc44a18e5bbc093207a2619/_______-_________1483.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25815546</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ממדריגה למדריגה תעלינו - הכח של קבלה קטנה (שפת אמת)</title>
@@ -4754,6 +5534,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/4/f/5/04f58fb625bd7d1f40be95ea3302a6a1/_______-____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25741944</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>לא ראו איש את אחיו - לראות וללמוד ממעלות חברינו (אור המאיר)</title>
@@ -4769,6 +5551,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/3/6/8136c6b602f2a0375f2e77a3093c12a1/_______-______-_______1488.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25741938</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>צפרדע אחת היתה והיו מכין אותה והיא מתזת נחילים נחילים - דוגמה להתנגות שלנו בכל יום</title>
@@ -4784,6 +5568,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/f/1/0/bf1037746b1afbeaa04421dee9605cbd/_______-___________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25664022</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>החשיבות של דעת ויישוב הדעת לעבודת הבורא</title>
@@ -4799,6 +5585,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/d/8/b4d8f53b3e53b4d1e5bbc093207a2619/_______-________1493.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25664016</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>ואראה את המראה - להתבונן וללמוד מכל מצב מה הקב"ה מדבר אילך</title>
@@ -4814,6 +5602,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/0/1/2/f01205bccd719a3b27a2322813b393ee/_______-____-_________1499.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25592991</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>יסודות באמונה בדברי הרמב"ם - ההבדל בין אמונה אמיתית לידיעה בלבד</title>
@@ -4829,6 +5619,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/6/c/9/26c9c52b3580e514d959afa2a1bf1c87/_______-_____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25592478</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>פחז כמים - יישוב הדעת ולשאול עצה לפני שעושים או מחליטים איזה דבר</title>
@@ -4844,6 +5636,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/f/5/0/ef502886073d49f540be95ea3302a6a1/_______-___-___________1471.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25519098</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>המלאך הגואל - מזקנים אתבונן להבין שלכל מצב יש תכלית טוב</title>
@@ -4859,6 +5653,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/d/a/cbda483581b6e96b27a2322813b393ee/_______-___-_________1470.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25519089</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ב' - על ידי הכנעה וביטול גם למי שיותר קטן ממך זוכים לפליטה גדולה</title>
@@ -4874,6 +5670,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/9/1/a/791a38ac2104c30e88c4a68c3ddbc4f2/_______-_____________1467.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25460088</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>ניסים ברוחניות</title>
@@ -4889,6 +5687,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/b/3/a5b3b91c15e2085888c4a68c3ddbc4f2/_______-____1438.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25413735</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הרגיל בנר הויין ליה בנים תלמידי חכמים</title>
@@ -4904,6 +5704,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/7/4/cc741841027d511be5bbc093207a2619/_______-________1437.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25413699</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הידור מצוה על ידי מחשבות והרגשי הלב</title>
@@ -4919,6 +5721,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/a/8/e/9a8ee1b3e4bcf9afa04421dee9605cbd/_______-________14353.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25413624</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>למה מוטב להפיל עצמו לכבשן האש ולא להלבין פני חבירו</title>
@@ -4934,6 +5738,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/9/7/579756c4373070ace5bbc093207a2619/_____-___-___________1425.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25346859</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>העבודה להזכיר לעצמו דמות דיוקנו של הקדושה</title>
@@ -4949,6 +5755,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/6/b/5/26b5ba5f36b36a89d959afa2a1bf1c87/_____-___-________1424.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25346694</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>להשכיח את ההשתדלות הלא נכונה שהאדם עשה</title>
@@ -4964,6 +5772,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/3/5/c/d35c5f480e99c24540be95ea3302a6a1/_____-___-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25346682</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>מעלת הנרדף ולב נשבר</title>
@@ -4979,6 +5789,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/0/a/950aadc2f9fb9cc8e5bbc093207a2619/______-_____1424.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25272243</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>הודיה מושלמת על מצב לא מושלם</title>
@@ -4994,6 +5806,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/0/e/2f0e7a02ab68d38c16c3140a3186d450/_______-_______1423.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25272219</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>שכר המתרחק משקר ורמאות במשא ומתן</title>
@@ -5009,6 +5823,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/8/e/fe8ea01c1840f022e55e3c100dce7605/_______-_______1421.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25194597</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>להתקרב לקב"ה ע"י הצימאון וההשתוקקות בימי ההסתר - צמאה לך נפשי.. כן בקודש חזיתיך</title>
@@ -5024,6 +5840,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/4/0/f/540f852730750fe95f2e77a3093c12a1/_______-_________-___..___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25194594</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ג' - על ידי ידיעת תפקידך בזה העולם אתה ניצול ממידה הרעה של קנאה</title>
@@ -5039,6 +5857,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/e/8/42e8fa26473fc0cb27a2322813b393ee/_______-_____________1418.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25127289</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ב' - הלימוד עם המלאך כהכנה לחיים</title>
@@ -5054,6 +5874,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/a/6/9/6a69ec9a9c18e7ffe5bbc093207a2619/_______-______1417.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25127280</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק א' - הרצון הפנימי של הנשמה לטוב אמיתי</title>
@@ -5069,6 +5891,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/5/4/8/7548b2d8737ed564d959afa2a1bf1c87/_______-_______1416.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25127265</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ואברהם שב למקומו - הכנעה גם כשהתפילה וההשתדלות לא עזר</title>
@@ -5084,6 +5908,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/c/1/a5c15fca60fbfbc927a2322813b393ee/_______-____-_______1400.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24973767</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>גדולה הכנסת אורחים יותר מהקבלת פני השכינה, ומה אם המשפחה לא רוצה</title>
@@ -5099,6 +5925,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/b/d/34bd1f9f76a0deeee55e3c100dce7605/_______-_____________1399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24973707</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח שהברית מילה נותנת לנו בכל עת ובכל זמן</title>
@@ -5114,6 +5942,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/5/c/e/15ce3a097cf57045a04421dee9605cbd/________-__________1398.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24899799</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>הלימוד מרחל אימנו איך לעשות למען הזולת</title>
@@ -5129,6 +5959,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/3/0/d130847ca334423440be95ea3302a6a1/________-________1890.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24899766</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ג' - יהיו מזונותי מרורין כזית בידו של הקב"ה ולא מתוקין כדבש בידי בשר ודם</title>
@@ -5144,6 +5976,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/c/7/0/dc7031b015fb7205bafc7308ab683e82/_______-______________1390.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24828339</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ב' - הפוגם עיניו ופיו, משעבד את מוחו וליבו ונהיה עבד לעניני עוה"ז, ומידה טובה מרובה</title>
@@ -5159,6 +5993,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/f/2/2/5f22cfd447e1ef9488c4a68c3ddbc4f2/_______-_______________1389.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24828330</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי חלק ג' - מהות בריאת האדם ותכליתה</title>
@@ -5174,6 +6010,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/9/6/2096fe937a1dd4b8d959afa2a1bf1c87/_______-_____1386.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24754110</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>באת שבת באת מנוחה</title>
@@ -5189,6 +6027,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/4/7/2/14724950333d7c7016c3140a3186d450/_______-____1385.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24754038</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>יהא רעוא קמיה ד(חודש)תשרי על עמיה</title>
@@ -5204,6 +6044,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/8/3/0/d8305abf427f05fc88c4a68c3ddbc4f2/_______-_______1384.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24754032</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>העצה של רבי זירא, לעבוד את הקב"ה במצב שנמצאים עכשיו ולא לחכות לכשיזדמן</title>
@@ -5219,6 +6061,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/b/b/0fbb3e106030f907d959afa2a1bf1c87/_____-______________1379.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24538002</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>כשצועקים להקב"ה באמת הקב"ה עושה לנו ניסים</title>
@@ -5234,6 +6078,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/8/7/e/d87e8097d83a384c88c4a68c3ddbc4f2/________-________1371.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24394473</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>האדם נברא בכדי לתת שיר ושבח להקב"ה</title>
@@ -5249,6 +6095,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/5/c/455c247399dd603116c3140a3186d450/________-________1370.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24394434</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי - שבת פרשת כי תבוא מונסי - בורו פארק</title>
@@ -5261,6 +6109,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/0/6/9/106953f2433c7cc240be95ea3302a6a1/Untitled_design.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24381135</ns1:item-id>
+      <ns1:last-updated>2022-11-03T08:20:51Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת שופטים חלק ג' - תמים תהיה עם ה' אלוקיך</title>
@@ -5276,6 +6126,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/c/f/e/ecfecec6985ea35127a2322813b393ee/_____-___-______1362.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24246024</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת שופטים חלק ב' - השקעה בתשוקה וחפץ להקב"ה</title>
@@ -5291,6 +6143,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/9/e/f/49efe68b32f8a42840be95ea3302a6a1/_____-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24245979</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>בכל מצב שהוא אין להתייאש, רק אני מאמין באמונה שלימה ואחכה לו בכל יום שיבוא</title>
@@ -5306,6 +6160,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/2/0/5d20d878c229651cbafc7308ab683e82/_______-_______________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23963877</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ובני קרח לא מתו - על ידי תיקון הטעות זוכים לחי החיים</title>
@@ -5321,6 +6177,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/e/5/6/6e562333499fb86ba04421dee9605cbd/________-_____-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23749181</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>תפקיד של מנהיג (כל אחד אחד מאתנו) הוא להבין אחד את השני</title>
@@ -5336,6 +6194,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/7/a/8/a7a89895a5ff874b16c3140a3186d450/________-____________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23749166</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>יוקר יאמיר ושאר מצבי הספיקות כהכנה לגאולה</title>
@@ -5351,6 +6211,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/e/b/adeb65ac69115a6d5f2e77a3093c12a1/________-___-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23523311</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>זהירות ממידת חסידות שלא ע"פ האמת וע"פ התורה</title>
@@ -5366,6 +6228,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/0/4/f/a04fe1cb3d8ea4e888c4a68c3ddbc4f2/________-___-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23523272</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>החשיבות של הנשמות של דורינו</title>
@@ -5381,6 +6245,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/8/2/578235e5958d72f588c4a68c3ddbc4f2/__________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23381657</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>התורה הקדושה - כאיש אחד בלב אחד</title>
@@ -5396,6 +6262,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/4/c/b/94cb277a3c83ba3d5f2e77a3093c12a1/_________-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23310902</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>יסוד להצלחה בעבודת השם - אין אדם עומד על דברי תורה אלא אם כן נכשל בהם</title>
@@ -5411,6 +6279,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/9/b/899be40c6fc4063aa04421dee9605cbd/_________-_____-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23310773</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>נהיגת כבוד זה לזה - ההכרה שאיננו יודעים את כל הסיפור</title>
@@ -5426,6 +6296,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/0/f/440fb380d54952a4d959afa2a1bf1c87/__________-_____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23022674</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>מצות ונקדשתי בתוך בני ישראל והשפע שהקב"ה רוצה לתת לכל אדם</title>
@@ -5441,6 +6313,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/2/5/8/72584a639f763d3e40be95ea3302a6a1/__________-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23022632</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת מצורע חלק ג' - למה צריכים להתחיל בגנות ולסיים בשבח בשעת ההגדה</title>
@@ -5456,6 +6330,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/0/c/d/80cd2b6912309fd1e5bbc093207a2619/_____-__-_________1314.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22721894</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת מצורע חלק ב' - דבר שאין לו שייכות עם האדם אין לו כח להזיק לאדם</title>
@@ -5471,6 +6347,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/2/e/4/a2e4ba18f7b33fc4e55e3c100dce7605/_____-___-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22721810</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת מצורע חלק א' - שבת הגדול - ליצנותא דעבודה זרה</title>
@@ -5486,6 +6364,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/b/b/9/2bb915d520e9e748bafc7308ab683e82/_____-___-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22721783</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פ' תזריע - חלק ג'</title>
@@ -5501,6 +6381,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/3/7/a/d37a3d2b0a8b6c005f2e77a3093c12a1/New_Thin_Boarder_Favicon.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22645991</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פ' תזריע - חלק ב'</title>
@@ -5516,6 +6398,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/9/7/9d973d2abdc7afb2d959afa2a1bf1c87/New_Thin_Boarder_Favicon.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22645844</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פ' תזריע - חלק א'</title>
@@ -5531,6 +6415,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/d/9/7/9d973d2abdc7afb2d959afa2a1bf1c87/New_Thin_Boarder_Favicon.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22645814</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>כל אחד מביא לעבודת השם הכלים והתכונות שהקב"ה נתן לו</title>
@@ -5546,6 +6432,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/c/d/6fcdeb582d7a6774e5bbc093207a2619/_____-___-___________1295.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22248587</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>השתוקקות לבית המקדש ולמחצית השקל</title>
@@ -5561,6 +6449,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/6/d/d/a6dd763195f54eb0d959afa2a1bf1c87/_____-___-______1294.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22248557</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>ראשית התשובה על ידי קליטת ריח הטוב</title>
@@ -5576,6 +6466,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/a/f/e/8afeb2b251fdc760e55e3c100dce7605/________-________1291.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22178393</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>למה ברא הקב"ה את שכחת התורה</title>
@@ -5591,6 +6483,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/9/7/4/297464588234c948e55e3c100dce7605/________-_______1290.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22178354</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שיעורים מיוחדים</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/4/1/cd41fbc43c79d97e27a2322813b393ee/_-___2045.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33156462</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה שלישית פרשת שופטים - ירושלים</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/7/3/44732cdd7a0119b6e55e3c100dce7605/____-__2049.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33156457</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשה בביהמ''ד בעלזא לונדון ט''ז אלול תשפ''ד</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/5/3/3d53e0398e64c64427a2322813b393ee/_______2047.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33156452</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>אנטווערפן - דרשה לגברים באולם חבד</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/1/0/a/310a3e10191a8df9e55e3c100dce7605/_-_____2043.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33156437</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

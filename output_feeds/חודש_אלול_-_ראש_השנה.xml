@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חודש אלול - ראש השנה</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/c/0/c/4c0cfc12040d149e16c3140a3186d450/_____-________9855.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38294820</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>הרגשת מלכיות זכרונות ושופרות</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/b/4/d/8b4d2936af6e0f64d959afa2a1bf1c87/_____-_____46669.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38264025</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>המתנה של אמונה והשגחה פרטית בראש השנה</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/e/a/d/4ead615745c225e6d959afa2a1bf1c87/_____-________7668.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38211480</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת ימי אלול - ללמוד את כלי המלחמה</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/b/a/66ba10756311475416c3140a3186d450/______-____-_____9816.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38045005</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>תועלת לימוד התורה בחודש אלול</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/2/0/d6200f0ee8039b6716c3140a3186d450/_____-______6713.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37934395</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>הבקשות בימים הנוראים באופן שמביא האדם לתשובה ולמחשבה של 'למה נבראת?'</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/6/9/bb69588f103d3d7127a2322813b393ee/____-_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33294527</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה שלישית פרשת נצבים וילך, בארא פארק - חלק ג' - שופרות - ובמה – בשופר</title>
@@ -135,6 +149,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/e/9/8/5e984f994c47b6dae55e3c100dce7605/_______-___-__-____2045.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33276982</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה שלישית פרשת נצבים וילך, בארא פארק - חלק ב' - זכרונות – כדי שיעלה זכרוניכם לפני לטובה</title>
@@ -150,6 +166,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/e/b/7/5eb7c8a81c2abf13e55e3c100dce7605/_______-___-________2043.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33276972</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה שלישית פרשת נצבים וילך, בארא פארק - חלק א' - מלכיות – כדי שתמליכוני עליכם</title>
@@ -165,6 +183,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/2/9/5/b295229d9acdbb42e55e3c100dce7605/_______-___-______2042.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33276967</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>טעם אמירת סליחות לפני ראש השנה</title>
@@ -180,6 +200,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/4/9/b/149bcbddab080d68e55e3c100dce7605/____-_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33248037</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>אשרי איש שלא ישכחך ובן אדם יתאמץ בך</title>
@@ -195,6 +217,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/5/8/1/858184e117d2feff5f2e77a3093c12a1/_______-_________1623.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28030605</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>שלא עשנו כגויי הארצות</title>
@@ -210,6 +234,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/e/c/7/4ec7551a0f75fd0ea04421dee9605cbd/_______-_____1622.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28030596</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>השיבנו ה' אליך ונשובה</title>
@@ -225,6 +251,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/5/c/b35cdbac609ec9dfd959afa2a1bf1c87/_______-_____1621.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28030569</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בענין אמירת ז' פעמים למנצח לפני התקיעות</title>
@@ -240,6 +268,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/6/6/5/e665641edcb9841d27a2322813b393ee/_______-________1620.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28030017</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>המלכת הקב"ה ע"י עשיית אגודה אחת</title>
@@ -255,6 +285,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/2/4/6/12461deb2626678a27a2322813b393ee/_______-_______1629.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28019337</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>תקיעת שופר - תפילה לפנימיות ולקרבת אלוקים</title>
@@ -270,6 +302,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/3/3/b833dd1e353b6b21a04421dee9605cbd/_______-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27997614</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סליחות - הטעם למה רק אחרי אמירת אשרי אפשר לבקש סליחה</title>
@@ -285,6 +319,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/d/3/5/bd35074d12de99aa16c3140a3186d450/_______-__-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27990222</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>גילוי מלכות הקב"ה בעולם</title>
@@ -300,6 +336,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/8/3/8983fb2c80056c5216c3140a3186d450/______-_____1617.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27955935</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הפותח שער לדופקי בתשובה</title>
@@ -315,6 +353,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/e/8/2/6e82ca17d8f14d15bafc7308ab683e82/______-_____1612.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27828549</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>מה צריך לכוון באמירת פסוקי השופרות?</title>
@@ -330,6 +370,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/2/5/6/5256ba3c71884834d959afa2a1bf1c87/_____-_______1378.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24457497</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>העבודה בראש השנה עם ישוב הדעת ולא עם לחץ (pressure)</title>
@@ -345,6 +387,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/6/8/9/56890df4cc32d0a440be95ea3302a6a1/_____-__________pressure.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24443799</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשה הכנה והתעוררת לקראת ימי הרחמים והרצון</title>
@@ -360,6 +404,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/8/1/5/7815565e9dc73056d959afa2a1bf1c87/_____-________1375.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24416586</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>בקשת סליחה על התעלמות מהקב"ה</title>
@@ -375,6 +421,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/0/2/5/b025fd31ed8c0f2e40be95ea3302a6a1/_____-______-_______1373.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24408633</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>הסייעתא דשמיא שיש בחודש אלול להצליח בתשובה</title>
@@ -390,6 +438,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/3/1/2/2312c1a9e86c77f527a2322813b393ee/_____-________1359.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24185394</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

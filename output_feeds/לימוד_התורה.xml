@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - לימוד התורה</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/3/e/1/83e160af9cbdaa6c27a2322813b393ee/_____-_____-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33865697</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/6/e/bb6e2a994f8ec25588c4a68c3ddbc4f2/THURSDAY_TZAVE.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30066128</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה - חלק י"ב - הדרך לגדלות על ידי שהאדם פוסע פסיעות קטנות</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/d/0/c2d098aaca31d95a88c4a68c3ddbc4f2/_____-____-___-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30062958</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה - חלק י"א - הלכה למעשה, איך מגיעים לזה?</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/9/5/6795b7c95809b62ae5bbc093207a2619/_____-____-___-______1759.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30047658</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה - חלק י' - ג' סוגי מניעות</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/f/1/0/4f10bbac1ad3ac90e5bbc093207a2619/_____-____-___-____1762.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30012423</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ט' - המניעות המקרבים את האדם להקב"ה</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/3/8/8/d388a0d3f693fcbbe5bbc093207a2619/_____-____-___-______1767.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30000663</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ח' - מניעות וסיוע שיש למתחזק בעבודת השם</title>
@@ -135,6 +149,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/b/7/7/6b77f3f4ed8cd5bbe5bbc093207a2619/_____-____-___-_______1760.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29965733</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ז' - תורה שלמדתי באף היא שעמדה לי</title>
@@ -150,6 +166,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/a/b/7bab045d63fb376988c4a68c3ddbc4f2/_____-____-___-_______1759.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29949908</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ו' - הבנת התורה הוא כלי לאורה ושמחה</title>
@@ -164,6 +182,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29902923</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ה' - עצות להתחבר למתיקות התורה</title>
@@ -178,6 +198,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29890908</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה? - חלק ד' - קביעות באיכות</title>
@@ -192,6 +214,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29854928</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה - חלק ג' - כח השעבוד לזכך את האדם ולקרבו להקב"ה</title>
@@ -206,6 +230,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29839263</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה?! חלק ב' - המזון והמים של האדם</title>
@@ -220,6 +246,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29801128</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>קבעת עיתים לתורה?! - חלק א'</title>
@@ -234,6 +262,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29787603</ns1:item-id>
+      <ns1:last-updated>2024-03-01T00:00:12Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #18 - הפתרונות לריכוז לחברותא וכו'</title>
@@ -249,6 +279,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/5/3/a5536b8a134d444088c4a68c3ddbc4f2/______-___18_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26247513</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #17 - ולא ידע כי קרן עור פניו</title>
@@ -264,6 +296,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/c/d/5/acd56b920d4583ebd959afa2a1bf1c87/_____-___17_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25984329</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #16 - הבאר הנובע מתוך מ"ח קניינים של התורה</title>
@@ -279,6 +313,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/f/4/1/1f419f9a53b9d565d959afa2a1bf1c87/_____-___16_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25950705</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #15 - המתנות שחז"ל נתנו לנו לזכות ללשמה</title>
@@ -294,6 +330,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/6/d/eb6da866e0e9ea5940be95ea3302a6a1/_____-___15_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25878627</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #14 -ללמוד על מנת לקיים או ללמוד לשם דבקות בהקב"ה</title>
@@ -309,6 +347,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/0/c/a50c6718cb4f676a27a2322813b393ee/_____-___14_-_________1485.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25808124</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #13 - הקליפה של כשרון טוב</title>
@@ -324,6 +364,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/a/0/2fa09b085cc1d924bafc7308ab683e82/_____-___13_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25734474</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #12 - התפשטות הדעת למעלה ולמטה</title>
@@ -339,6 +381,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/d/6/5dd670303ef777a3e55e3c100dce7605/_____-___12_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25656513</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #11 - לימוד עם דעת</title>
@@ -354,6 +398,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/9/7/a/297ad82dcefddd9ed959afa2a1bf1c87/_____-___11_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25584624</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #10 - לימוד תורה בכדי להגיע להאור המונח בתוכו</title>
@@ -369,6 +415,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/b/9/e/fb9e5c4566b7ea0e27a2322813b393ee/_____-___10_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25511979</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #9 - מהות ה'שלא לשמה' שמביא לידי 'לשמה'</title>
@@ -384,6 +432,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/c/d/5/2cd5281179d2802d88c4a68c3ddbc4f2/_____-___8_-________1448.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25454757</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #8 - איך מביא תורה שלא לשמה לידי לשמה</title>
@@ -399,6 +449,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/7/0/f/a70fb1661011fbaed959afa2a1bf1c87/_____-___8_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25265121</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #7 - להגיע לאהבת השם</title>
@@ -414,6 +466,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/a/f/9faf81e7c4f42cf4a04421dee9605cbd/_____-___7_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25186353</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #5 - זוכה לדברים הרבה - גם באיכות, וזה לעומת זה</title>
@@ -429,6 +483,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/8/7/2a878bfafa30d6b15f2e77a3093c12a1/______-___5_-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25046844</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #4 - עשיית כלי בכדי שהמים יתקבלו</title>
@@ -444,6 +500,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/9/a/2/c9a2d537537db574a04421dee9605cbd/_____-___4_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24965757</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
     <item>
       <title>תורה לשמה #3 - הצורך לערב קב חומטין של יראה ללימוד התורה</title>
@@ -459,6 +517,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/1/9/b419699983b70d83a04421dee9605cbd/______-___3_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24892185</ns1:item-id>
+      <ns1:last-updated>2024-02-07T10:47:06Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

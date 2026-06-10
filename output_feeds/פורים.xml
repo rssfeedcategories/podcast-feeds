@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - פורים</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -44,6 +46,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40319085</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3144" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>שמחת פורים דמוקפין תשפו - חלק א</title>
@@ -58,6 +66,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40319045</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3029" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פורים - ג' סוגי ניסים</title>
@@ -72,6 +86,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40268525</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2976" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פורים - העבודה באהבת ישראל</title>
@@ -86,6 +106,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40246745</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="998" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פורים - התבוננות במצוות היום</title>
@@ -100,6 +126,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40246710</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1996" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פורים - תשובה מאהבה באופן השווה לכל נפש</title>
@@ -114,6 +146,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40226220</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2940" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פארברענג לכבוד פורים דמוקפין בירושלים עיה"ק חלק ד' - הטרדות והניסיונות מקשרים את האדם לקב"ה בעומק, ומשפיעים עליו שפע רב, חלק ב'</title>
@@ -129,6 +167,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/b/e/2ebe59dc8e82027f16c3140a3186d450/________-______________38.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35709925</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2604" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פארברענג לכבוד פורים דמוקפין בירושלים עיה"ק חלק ג' - הטרדות והניסיונות מקשרים את האדם לקב"ה בעומק, ומשפיעים עליו שפע רב, חלק א'</title>
@@ -144,6 +188,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/1/9/2a194659d22ef71216c3140a3186d450/________-______________39.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35709905</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1097" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פארברענג לכבוד פורים דמקופין בירושלים עיה"ק חלק ג' - הטרדות והניסיונות מקשרים את האדם לקב"ה בעומק, ומשפיעים עליו שפע רב, חלק א'</title>
@@ -159,6 +209,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/1/9/2a194659d22ef71216c3140a3186d450/________-______________39.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35709900</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1097" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פארברענג לכבוד פורים דמוקפין בירושלים עיה"ק חלק ב' - הדרך להמשיך השמחה לכל השנה</title>
@@ -174,6 +230,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/7/d/7/07d79c4f37ac1a1616c3140a3186d450/________-______34.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35709890</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2812" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פארברענג לכבוד פורים דמוקפין בירושלים עיה"ק חלק א' - שירות ותשבחות</title>
@@ -189,6 +251,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/5/5/e35527c4e9d92e7d16c3140a3186d450/________-___36.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35709875</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="1325" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>פורים - קטנות מביא לגדלות</title>
@@ -204,6 +272,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/8/c/1/68c10898c33d880316c3140a3186d450/______-__-____23.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35669365</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>שושן פורים ח''ד - הוריני ה' דרכיך ואיך לבא לידי שנאת הרע</title>
@@ -219,6 +289,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/0/f/c/f0fc0b0708b1d79f88c4a68c3ddbc4f2/___-_________1795.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30539308</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>שושן פורים ח''ג - כל השונה בלא זמרה</title>
@@ -234,6 +306,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/f/f/a/7ffaf62e8508a43c88c4a68c3ddbc4f2/___-____1794.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30539273</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>שושן פורים ח''ב - חייב איניש לבסומי בפוריא</title>
@@ -249,6 +323,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/f/8/0ff8ef080a3b708488c4a68c3ddbc4f2/___-_____1793.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30539193</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>שושן פורים ח''א - נגינה</title>
@@ -264,6 +340,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/6/1/1/9611738dc9633cc788c4a68c3ddbc4f2/___-__1792.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30539158</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>מוצאי פורים דפרזים אור לשושן פורים</title>
@@ -279,6 +357,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/7/8/3/17830395396ff77ce5bbc093207a2619/______1798.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30525293</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - לשמוח ולשמח אחרים באמת</title>
@@ -294,6 +374,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/9/8/f8980a355a3c7f26e5bbc093207a2619/_______-__-_____1798.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30489108</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>קליפת עמלק מנתק את הקשר של האדם מהקב''ה בענייני קדושה</title>
@@ -309,6 +391,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/4/9/6/a49690e40769a24088c4a68c3ddbc4f2/_______-___________1796.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30489018</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת השמחה וההודאה בימי הפורים על ההצלחות ברוחניות</title>
@@ -324,6 +408,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/a/c/3/1ac333509754d88688c4a68c3ddbc4f2/_______-_________1797.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30489028</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>האיך לעורר שנאת עמלק מתוך אהבת ה' - ודרך העבודה בזה</title>
@@ -339,6 +425,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/8/a/f/f8af8ab413aa1e86e5bbc093207a2619/_____-________-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30475048</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנה לפורים - איך מתחברים ומהדרים בפנימיות במצוות היום</title>
@@ -354,6 +442,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/3/7/d/a37d7968b04599d588c4a68c3ddbc4f2/_____-___-_______-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30455403</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - מה הסיפור האמיתי של המגילה?</title>
@@ -369,6 +459,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/3/5/b9355abcc74849c188c4a68c3ddbc4f2/_____-__-______1792.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30370798</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - מה הסיפור האמיתי של המגילה?</title>
@@ -384,6 +476,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/3/5/b9355abcc74849c188c4a68c3ddbc4f2/_____-__-______1792.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>30370793</ns1:item-id>
+      <ns1:last-updated>2024-04-01T00:01:13Z</ns1:last-updated>
     </item>
     <item>
       <title>המגילה מגלה לנו דעת ורצון דקדושה</title>
@@ -399,6 +493,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/8/9/9/6899c1d6eec0699b27a2322813b393ee/______-_______1462.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26137800</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>מצוות משלוח מנות ומתנות לאביונים בהידור ובאהבה</title>
@@ -414,6 +510,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/7/a/a/e7aa40b45bb4869816c3140a3186d450/_______-________1467.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26111844</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>מצוות מחיית עמלק במחשבה דיבור ומעשה (בני יששכר)</title>
@@ -429,6 +527,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/f/d/a/8fda75d570c58a8a27a2322813b393ee/_______-_________1469.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26111781</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>מגילת אסתר - גילוי רחמנות של הקב"ה אחרי חטא האדם</title>
@@ -444,6 +544,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/3/8/9838efee065d6889bafc7308ab683e82/_____-___-________1472.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26090733</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>אשר קרך בדרך - קליפת עמלק של קרירות</title>
@@ -459,6 +561,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/6/f/776fd63674310d1216c3140a3186d450/_____-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26056809</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - החיסרון המשלים את האדם</title>
@@ -474,6 +578,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/e/1/3/3e136ce567cfe988e5bbc093207a2619/_____-__-_____1497.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26048397</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>פורים - הסרת הקנאה מהלב הוא תנאי לשמחה</title>
@@ -489,6 +595,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/b/4/9/2b496bd1ef6c1c0ce55e3c100dce7605/_____-__-_______1304.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22429715</ns1:item-id>
+      <ns1:last-updated>2022-11-01T11:12:51Z</ns1:last-updated>
     </item>
     <item>
       <title>וטוב לב משתה תמיד</title>
@@ -504,6 +612,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/e/c/b3eca25b0f1972a5a04421dee9605cbd/______-_____1289.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22152755</ns1:item-id>
+      <ns1:last-updated>2022-11-01T11:02:56Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

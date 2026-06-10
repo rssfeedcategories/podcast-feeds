@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הודעות</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -42,6 +44,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/8/8/4588ff20a53c1a43d959afa2a1bf1c87/Invite_RS.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34822970</ns1:item-id>
+      <ns1:last-updated>2025-01-12T15:14:42Z</ns1:last-updated>
     </item>
     <item>
       <title>פארברענג לכבוד זמן שמחתינו</title>
@@ -53,6 +57,8 @@
       <content:encoded>&lt;p&gt;&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28193102</ns1:item-id>
+      <ns1:last-updated>2023-10-01T22:16:21Z</ns1:last-updated>
     </item>
     <item>
       <title>שבת התעלות והתחזקות - פרשת תצוה - תשפ"ב</title>
@@ -65,6 +71,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/0/3/e/503e44d9b17e7e15a04421dee9605cbd/WhatsApp_Image_2021-10-28_at_11.35.29_AM.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21879812</ns1:item-id>
+      <ns1:last-updated>2022-01-24T21:05:17Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה בענין השיעורים</title>
@@ -76,6 +84,8 @@
       <content:encoded>&lt;p&gt;בימים הקרובים ישהה המג"ש שליט"א בעיר מלברון אוסטרליה למסע חיזוק ועידוד לאחב"י שם,&lt;/p&gt; &lt;p&gt;בעז"ה נשלח מהשיעורים שיאמרו שם או שיעורים מעניני דיומא משנים הקודמים.&lt;/p&gt; &lt;p&gt;כמו כן יתכן עיכוב בשיעורי הדף היומי.&lt;/p&gt; &lt;p&gt;בברכת יגדיל תורה ויאדיר&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10833824</ns1:item-id>
+      <ns1:last-updated>2019-08-09T06:51:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה משמחת</title>
@@ -90,6 +100,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10597256</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה על שמחת הברית</title>
@@ -104,6 +116,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9684029</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:09:00Z</ns1:last-updated>
     </item>
     <item>
       <title>טעימה משיעורי לומדות וחסידות לכבוד פסח - דוגמה</title>
@@ -118,6 +132,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>6423937</ns1:item-id>
+      <ns1:last-updated>2019-07-10T14:25:01Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה חשובה</title>
@@ -129,6 +145,8 @@
       <content:encoded>הננו בזה להודיע לציבור שוחרי התורה כי מגיד השיעורים של מפעל לומדות וחסידות הרה"ג רבי שמעון שפיצר שליט"א ישהה בעיר ניו יורק שבארה"ב מערב שבת קודש פרשת ויצא עד לאחר שבת קודש פרשת וישלח השיעורים היומיים והשבועיים יימסרו וישודרו כרגיל בעז"ה לפרטים נוספים, נא ליצור קשר עם &lt;a href="tel:(732)%20907-0123" target="_blank" rel= "noopener"&gt;732-907-0123&lt;/a&gt; בברכה מרובה &lt;p&gt; &lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>5924107</ns1:item-id>
+      <ns1:last-updated>2019-07-10T14:25:01Z</ns1:last-updated>
     </item>
     <item>
       <title>:מודעה על דבר שינוי בסדרי השיעורים לחודשי החורף הבעל"ט</title>
@@ -140,6 +158,8 @@
       <content:encoded>:מודעה על דבר שינוי בסדרי השיעורים לחודשי החורף הבעל"ט הננו להודיע לציבור שוחרי שיעורי לומדות וחסידות כי משבוע זו ולהלן למשך חודשי החורף, תחול שינוי בסדר השיעורים הנמסרים מדי שבוע השיעור השבועי (על ענייני יום השבת) יתקיים בכל יום חמישי, ולא ביום השישי כבחודשי הקיץ השיעור ביום השישי יהיה בספר האור החיים הק', ועל היארצייטים של השבוע הבא תקוותנו שעי"ז תהא לכל המאזינים הזדמנות ניאותה להקשיב לשיעורים עד לכניסת השבת</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>5859178</ns1:item-id>
+      <ns1:last-updated>2019-07-10T14:25:01Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

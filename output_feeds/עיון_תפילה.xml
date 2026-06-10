@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - עיון תפילה</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/7/8/8/37889f07b8dc6236e5bbc093207a2619/_____-___77_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28612118</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #76 - פוקח עורים</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/4/9/9949f9910a95f5bfe5bbc093207a2619/______-___76_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28517150</ns1:item-id>
+      <ns1:last-updated>2023-12-01T00:00:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #75 - המהלך של ברכת השחר לשנות התפיסה של האדם</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/a/f/e1afdc261efdc231a04421dee9605cbd/_____-___75_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28353878</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #74 - ללמוד לחיות</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/0/c/4/e0c4bb3ffbf33dae27a2322813b393ee/______-___74_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26587218</ns1:item-id>
+      <ns1:last-updated>2023-05-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #73 - להתפלל בתחנונים באופן קבוע</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/3/d/8/e3d81a0f197559cb27a2322813b393ee/______-___73_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26236353</ns1:item-id>
+      <ns1:last-updated>2023-04-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #72 - האמונה בקבלת התפילות וההסתר בזה</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/f/f/2fff0340eacdf582d959afa2a1bf1c87/_____-___72_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25937553</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #69 - הרה"ק הבני יששכר זצוק"ל - ובענין איך תפילה מועלת</title>
@@ -135,6 +149,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/2/b/1/72b189fdc47d008d5f2e77a3093c12a1/_____-___69_-_____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25572711</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #68 - איך להתפלל אם עבר עבירה</title>
@@ -150,6 +166,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/9/b/3/09b352e5f7d9a36940be95ea3302a6a1/_____-___68_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25501830</ns1:item-id>
+      <ns1:last-updated>2023-02-01T00:00:24Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #67 - להתפלל גם כשהאדם הוא בעל עבירה</title>
@@ -165,6 +183,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/a/2/5/aa25ea9b6682497b16c3140a3186d450/_____-___67_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25446576</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #66 - תפקידו הגדול של האומות העולם, ואיך זה מביא אותנו לשלמות</title>
@@ -180,6 +200,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/3/a/2/03a2a6663a7eddbd5f2e77a3093c12a1/_____-___66_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25250601</ns1:item-id>
+      <ns1:last-updated>2023-01-01T00:00:15Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #65 - להתרגש ולהתרגש בתפילה</title>
@@ -195,6 +217,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/4/9/1/9491b4111a133a6840be95ea3302a6a1/_____-___65_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25173837</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #64 - הבקשה לזכות לקדש שם שמים</title>
@@ -210,6 +234,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/d/c/bbdc0d71f7f240cf88c4a68c3ddbc4f2/_____-___64_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25109928</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #63 - אמירות קריאת שמע קטנה לפני הקרבנות</title>
@@ -225,6 +251,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/4/c/8/a4c8b2b80eb93e24e55e3c100dce7605/______-___63_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25033359</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #62 - למה פרשת העקידה הוה הכנה לתפילה</title>
@@ -240,6 +268,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/8/8/9/88891ebd9a88771416c3140a3186d450/_____-___62_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24951747</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #61 - מה אנו מה חיינו, אבל אנחנו בני אברהם יצחק ויעקב</title>
@@ -255,6 +285,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/c/0/c/bc0cb3a533f8f3edd959afa2a1bf1c87/______-___61_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24880569</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #60 - בענין ריכוז בתפילה - חלק ב', ולעבדו בכל לבבכם</title>
@@ -270,6 +302,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/0/1/1/00119bdf0c93c41e88c4a68c3ddbc4f2/______-___60_-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24372336</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #59 - בענין ריכוז בתפילה - חלק א'</title>
@@ -285,6 +319,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/a/3/18a33c060a9e2458bafc7308ab683e82/______-___59_-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24297561</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #58 - הצורך והתועלת של תפילה ביראה</title>
@@ -300,6 +336,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/f/f/9/6ff945305b67de5927a2322813b393ee/_____-______159_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24081588</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #57 - הבקשה של ה' שפתי תפתח</title>
@@ -315,6 +353,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/9/f/3a9f136b17fa5c1d16c3140a3186d450/_____-___57_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24013644</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #56 - אני לדודי ודודי לי - בתפילה</title>
@@ -330,6 +370,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/3/2/0/332002f41e22666be5bbc093207a2619/________-_____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23803658</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #54 - אמונה בקביעות מקום לתפילה בציבור</title>
@@ -345,6 +387,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/9/f/619fadf5ef936eca5f2e77a3093c12a1/________-___54_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23644742</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #53 - תפילה בציבור בגוף ובנשמה</title>
@@ -360,6 +404,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/5/2/9752cf505c4533f8e5bbc093207a2619/________-___53_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23575202</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #50 - הערב נא - מהו הבקשה המיוחדת של עריבות התורה</title>
@@ -375,6 +421,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/0/f/0/30f0337c489c9d5b27a2322813b393ee/________-___50_-___-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23222321</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #49 - כוחו של הקדיש להמשיך שפע לעולם</title>
@@ -390,6 +438,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/3/0/3b307e9983645ad827a2322813b393ee/________-___49_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23074733</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #48 - גודל מעלת תפילת 'עלינו לשבח' וסגולתה</title>
@@ -405,6 +455,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/9/9/b/f99bebef0363c4c227a2322813b393ee/________0___48_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22926689</ns1:item-id>
+      <ns1:last-updated>2022-05-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #47 - ניצול הזמן כראוי עלי ידי קביעת סדר היום לפרטי פרטים</title>
@@ -420,6 +472,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/a/4/9/fa497f552ffda23dbafc7308ab683e82/__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22625375</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #46 - ואהבת את השם אלוקיך - בכל דרכיך דעהו</title>
@@ -435,6 +489,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/f/7/e/5f7e917e6a31dde7e55e3c100dce7605/_____-___46_-_____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22542218</ns1:item-id>
+      <ns1:last-updated>2022-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #44 - איך כל יהודי יכול להגיע לתורה לשמה - במשנתו של הרה"ק התפארת שלמה זצוק"ל</title>
@@ -450,6 +506,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/4/2/9/3429f7f08c48c1305f2e77a3093c12a1/_____-___44_-________-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22308086</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #42 - לקראות קריאת שמע ללא נגיעות</title>
@@ -465,6 +523,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/1/2/e/f12e7911ce02a97a16c3140a3186d450/_____-___42_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22075034</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #41 - התזכורת של קריאת שמע</title>
@@ -480,6 +540,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/f/8/0/8f803ff24e3c320fd959afa2a1bf1c87/_____-___41_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21994616</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #40 - לעצור את נסיונות החיים בעת קריאת שמע</title>
@@ -495,6 +557,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/7/5/cc754236877389c5e5bbc093207a2619/_____-___40_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21901652</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #39 - לחקוק הקריאת שמע בלבו במיוחד בשעת הקושי</title>
@@ -510,6 +574,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/6/4/fc647d96b4769573a04421dee9605cbd/_____-___39_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21822509</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #38 - קריאת שמע - להרגיל מחשבתו לומר 'לא איכפת לי'</title>
@@ -525,6 +591,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/d/1/fcd1c42b0bf0d9b788c4a68c3ddbc4f2/_____-___38_-___-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21750863</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #37 - האופן שברכת קריאת שמע מביא לידי ואהבת את השם אלוקיך</title>
@@ -540,6 +608,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/f/e/4/ffe4da7edb4d61d5e5bbc093207a2619/_____-___37_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21680675</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #36 - מחשבה פשוטה בקריאת שמע שמיטב עם האדם בזה ובבא ובבא</title>
@@ -555,6 +625,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/4/f/774f0df3eede1b3240be95ea3302a6a1/_____-___36_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21622901</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #35 - קריאת שמע במשנתו של הרה"ק הבני יששכר זצוק"ל</title>
@@ -570,6 +642,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/e/2/6/1e26b3781219741788c4a68c3ddbc4f2/_____-___35_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21571184</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #34 - קריאת שמע וסגולתה</title>
@@ -585,6 +659,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/d/9/42d9c76bc80a05d416c3140a3186d450/_____-___34_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21491150</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #33 - חשיבות מצות קריאת שמע ובענין מסירות נפש</title>
@@ -600,6 +676,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/0/e/b30e9c87388eb6a9d959afa2a1bf1c87/_____-___33_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21417743</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #32 - כח הפיוס</title>
@@ -615,6 +693,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/d/9/cbd9ef39407420add959afa2a1bf1c87/_____-___32_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21192230</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #31 - לדבר עם הקב"ה באופן פתוח</title>
@@ -630,6 +710,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/5/0/48503fae7ee467f2e5bbc093207a2619/_____-___31_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21112778</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #30- עיון תפילה - כל המקבל עליו עול תפילה מעבירין ממנו עול דרך ארץ</title>
@@ -645,6 +727,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/e/1/3/0e1357862155c1cfe5bbc093207a2619/_____-___30-___-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21034619</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #29 - האם אני מאמין למה שאני אומר בתפילה? י</title>
@@ -660,6 +744,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/5/5/6/c5566c88420c257c40be95ea3302a6a1/______-___29_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20955038</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #28 - למה קביעות מקום לתפילה מביא ישועות? י</title>
@@ -675,6 +761,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/f/7/44f7ad1ea9d0fc18bafc7308ab683e82/_____-___28_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20876900</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #27 - עבודת התפילה - התרגשות והתפעלות</title>
@@ -690,6 +778,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/a/a/3aaa7cb88ca63c9e40be95ea3302a6a1/______-___27_-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20801189</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #26 - עבודת הרגשת הגאולה לפני התפילה</title>
@@ -705,6 +795,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/a/6/7/7a679e61cc50a2a2e5bbc093207a2619/_____-___26_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20724572</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #25 - איך זוכים להשפע החדש שמגיע כל יום?</title>
@@ -720,6 +812,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/a/6/5/ca651bdbc3d9ba685f2e77a3093c12a1/______-___25_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20254997</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #24 - איך יכול להיות שהתכוונתי כוונה גמורה בשמונה עשרה ולא נושעתי</title>
@@ -735,6 +829,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/9/c/679cce3a83c84cbfd959afa2a1bf1c87/______-___24_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20180231</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #23 - מלחמה עם הסטרא אחרא</title>
@@ -750,6 +846,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/4/7/e44743fe988611ef88c4a68c3ddbc4f2/_____-___23_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20103935</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #22 - שלא עשני אשה\שעשני כרצונו</title>
@@ -765,6 +863,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/6/8/2/2682b8ab69bf3087bafc7308ab683e82/_____-___22_-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19880957</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #21 - שלא עשני עבד - חלק ב</title>
@@ -780,6 +880,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/e/f/1/0ef1bffd18acfd4927a2322813b393ee/______-___21_-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19730558</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #20 - שלא עשני עבד</title>
@@ -795,6 +897,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/3/9/c/f39cba1d3acede0e5f2e77a3093c12a1/_____-___20_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19655414</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #19 - מה החילוק בין גוי ליהודי?</title>
@@ -810,6 +914,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/8/0/c880880ea05b3afae5bbc093207a2619/_____-___19_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19577441</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #18 - עבודת השמחה בברכת שלא עשני גוי</title>
@@ -825,6 +931,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/0/d/0/80d07f524bac420340be95ea3302a6a1/_____-___18_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19496048</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #17 - הנותן לשכוי בינה - הודיה על כח ההבחנה</title>
@@ -840,6 +948,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/8/9/d2892b8cad5e2e2ebafc7308ab683e82/_____-___17_-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19411658</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #16 - הזכרת שם שמים בברכות</title>
@@ -855,6 +965,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/a/1/7/4a1770b0f5f36afce5bbc093207a2619/_____-___16_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19327922</ns1:item-id>
+      <ns1:last-updated>2021-07-01T00:00:20Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #15 - והערב נא - בקשה על מתיקות התורה</title>
@@ -870,6 +982,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/4/9/5/1495d348266538d0d959afa2a1bf1c87/_____-___15_-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19245785</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפלה #14 - ברכת התורה -חלק ב</title>
@@ -885,6 +999,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/9/c/9/99c9ae32e9035869d959afa2a1bf1c87/______-___14_-___-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18986240</ns1:item-id>
+      <ns1:last-updated>2021-06-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפלה #13 - ברכת התורה - מה זה מתיקות התורה ואיך אפשר להשיגה</title>
@@ -900,6 +1016,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/5/9/a/b59adfe82dc7f68916c3140a3186d450/______-___13_-___-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18805127</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפלה #12 - הרה"ק הדברי חיים מצאנז זצוק"ל - ובענין עבודת ההתלהבות</title>
@@ -915,6 +1033,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/4/5/4d45996d4339354227a2322813b393ee/_____-___12_-______-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18633851</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #11 - אלקי נשמה שנתת בי - מי אתה? - חלק ב</title>
@@ -930,6 +1050,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/1/e/2/a1e229f9d0bfec5a/______-___11_-_____-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18266189</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #10 - אלקי נשמה שנתת בי - מי אתה?</title>
@@ -945,6 +1067,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/1/8/6/a18681df3a6e7f91/______-___10_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18171992</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #9 - ברכת אשר יצר - ברכת השבח</title>
@@ -960,6 +1084,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/b/8/c2b893dbb8fa40e9/_____-___9_-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17981219</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #8 - אשר יצר את האדם בחכמה</title>
@@ -975,6 +1101,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/0/3/3b03fa8d27308254/_____-___8_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17895431</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #7 - שמחה של מצוה - שמירה לתפילה ולכל היום</title>
@@ -990,6 +1118,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/e/6/01e6fc5343c189a4/_____-___7_-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17802332</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה #6 - על נטילת ידים</title>
@@ -1005,6 +1135,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/3/4/9/3349f718975eaf57/_____-__6_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17708768</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה שיעור #5 - מודה אני לפניך ברקידה</title>
@@ -1020,6 +1152,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/1/3/2/d13261d5808dcca7/_____-____5_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17619692</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה שיעור #4 - מודה אני לפניך</title>
@@ -1035,6 +1169,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/2/b/2/f2b269c840c0eebb/1033_____-____4_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17530274</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה שיעור #3 - שיעור יסודי בענין הגדרת מהות התפילה</title>
@@ -1050,6 +1186,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/d/c/aedcd5f2688410fc/_____-____3_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17443067</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה שיעור #2 - האמונה החזקה בכח התפילה</title>
@@ -1065,6 +1203,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/0/5/a/705a414df97ab622/_____-____2_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17366744</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>עיון תפילה שיעור #1 - הקדמה - פירותיהם בעולם הזה</title>
@@ -1080,6 +1220,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/b/7/0/4b7069d68f6a3ccf/_____-____1_-__-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17305916</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

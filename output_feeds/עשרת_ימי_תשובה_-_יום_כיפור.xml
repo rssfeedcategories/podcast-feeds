@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - עשרת ימי תשובה - יום כיפור</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/4/a/744aad2830c9d3b3d959afa2a1bf1c87/_____-___-_________61443.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38406015</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה - להשתמש בצד החזק של החולשות</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/e/c/2/7ec25a20482cc2b516c3140a3186d450/_______-__-______4559.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38405255</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה - להוציא החוצה את היופי שבאמת</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/f/e/3afe8d0159c38cddd959afa2a1bf1c87/_______-__-______9983.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38405245</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>לפני ה' - התהליך של היהודי ביום הקדוש</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/f/2/a/1f2a66701dbbd72d16c3140a3186d450/_______-___-______7745.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38405240</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>ירידות וחושך במשך עשרת ימי תשובה ע"פ סוד</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/c/0/92c01318814f3d5216c3140a3186d450/_____-__________7255.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38381035</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשת הכנה ליום הקדוש</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/0/4/dd0420f1b64b9fc7e55e3c100dce7605/____-____-_______-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33410322</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>לקבל עליו דברים מעשיים ופרקטיים</title>
@@ -135,6 +149,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/f/a/3/afa32e3845d47211e55e3c100dce7605/_________-______2059.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33409837</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>למה אומרים ווידוי כ"כ הרבה פעמים</title>
@@ -150,6 +166,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/4/c/184cab94a00e4e9be55e3c100dce7605/_________-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33409792</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>י"ג מידות של עשיה - אהבה שאינה תלויה בדבר</title>
@@ -165,6 +183,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/d/7/44d7dd1922d56ec5e55e3c100dce7605/_________-_____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33409777</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>כח של יום הכיפורים למחוק תענוגים רעים ולבנות תענוגים דקדושה</title>
@@ -180,6 +200,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/e/1/57e17d174296e424e55e3c100dce7605/_______-___________2057.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33402577</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת הקטורת ביום הקדוש בזמנינו</title>
@@ -195,6 +217,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/5/f/ad5f13edf6f0d8b0e55e3c100dce7605/_______-______2056.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33388017</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>כי קרוב אליך הדבר מאוד</title>
@@ -210,6 +234,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/f/5/d/8f5d128250f78c4be55e3c100dce7605/_____-_____2054.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33383117</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>למה בעשי"ת יותר קל לחזור בתשובה</title>
@@ -225,6 +251,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/f/b/9/bfb997fe81cf909427a2322813b393ee/_______-_______2052.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33375192</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>סליחה ביום הכיפורים כפי מדריגת הריצוי לחבירו</title>
@@ -240,6 +268,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/1/6/7/61670069874d433427a2322813b393ee/_______-________2051.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33355647</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>ומצאת כי תדרשנו בכל לבבך ובכל נפשך</title>
@@ -255,6 +285,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/e/f/6/7ef6e1f2070f42e627a2322813b393ee/_______-________-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33344137</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>החרטה הנובעת מהכרת ההפסד מהחטא</title>
@@ -270,6 +302,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/4/7/e/247e4e2d1ce45f0fa04421dee9605cbd/_____-______1650.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28101998</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בעניין אמירת י"ג מידות בימי הרחמים והסליחות</title>
@@ -285,6 +319,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/8/6/2/48621e5187efa5e316c3140a3186d450/_______-______1627.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28097831</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בענין זדונות נעשים זכויות</title>
@@ -300,6 +336,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/4/4/4/7444aee1e6269b345f2e77a3093c12a1/_____-_____-________1627.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28092467</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>תשובה מתוך התבוננות נכונה על מצבו ועל מה שהקב"ה דורש ממנו</title>
@@ -315,6 +353,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/e/2/e/9e2e29cf2cf8dbd588c4a68c3ddbc4f2/1626___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28091099</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ומצאת כי תדרשנו בכל לבבך ובכל נפשך</title>
@@ -330,6 +370,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/c/a/0cca1e52f68c191f27a2322813b393ee/_____-________1624.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28063227</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח שיום כיפור משריש להאדם לעקור הרגלים במשך השנה</title>
@@ -345,6 +387,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/0/1/9/5019a1f18f59369aa04421dee9605cbd/________-__________1375.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24577272</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>יום הכיפורים - מהו תכלית העינוי?       י</title>
@@ -360,6 +404,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/2/1/d/721dc90d1361768aa04421dee9605cbd/_____-___-____1374.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24564405</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>כל התפילות ביום כיפור לעורר רחמים עלינו הוא בכדי שנבין כמה הקב"ה מרחם עלינו</title>
@@ -375,6 +421,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/b/d/69bd274eff05c0b1e5bbc093207a2619/_______-______________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24538230</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>טעם אמירת וידוי ביום הכיפורים כמה וכמה פעמים</title>
@@ -390,6 +438,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/0/9/2/d0924ab7748ab469bafc7308ab683e82/_______-_________1380.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24538191</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>כללים מעשיים בעשיית תשובה</title>
@@ -405,6 +455,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/0/c/e10cbb8f2d4a3346e55e3c100dce7605/_____-_____1373.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24513693</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

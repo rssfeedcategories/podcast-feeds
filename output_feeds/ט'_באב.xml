@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ט' באב</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/9/a/e/d9ae92171c00c707d959afa2a1bf1c87/_____1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37653770</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל ט' באב תשפ"ה - ב' סוגי הבכיות בגלות - נמסר בוויזניץ מונסי</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/6/0/7/5607a1eccfb77b5516c3140a3186d450/____-_____-_654___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37650160</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל תשעה באב תשפ"ה</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/8/a/458a05427b4038f716c3140a3186d450/____357.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37647980</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>תשעה באב - קרא עלי מועד</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/8/c/2d8cd91474ce0afe16c3140a3186d450/_____-___-____765.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37575100</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ציפיה לישועה במהלך היומיומי של כל אחד</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/1/e/201e896a3c97db3827a2322813b393ee/_______-_______2009.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32560497</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>תשעה באב - תכלית הגלות, הצער והיסורים לקרב את האדם לבוראו</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/2/d/8/62d809f282311f35e55e3c100dce7605/__-_________-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32549437</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל תשעה באב תשפד - קול הלשון</title>
@@ -135,6 +149,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/4/7/f/947f2c17bcfebf2b27a2322813b393ee/____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32541152</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>למצוא את נקודת הכאב הפרטי ועי"ז להתחבר לקינה על חורבן ביהמ"ק</title>
@@ -150,6 +166,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/2/e/d/b2eddf685aa802eae55e3c100dce7605/_____-_______________2007.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32540802</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

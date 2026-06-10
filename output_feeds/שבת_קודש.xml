@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שבת קודש</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -46,6 +48,8 @@
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/7/5/477514d0a5f06fbb16c3140a3186d450/______-____100_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>40896405</ns1:item-id>
+      <ns1:last-updated>2026-05-01T00:00:17Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #99 - פיזור הנפש אינו דבר טבעי לאדם</title>
@@ -61,6 +65,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/b/b/5/8bb551d5d1e94fa5d959afa2a1bf1c87/______-____99_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40410170</ns1:item-id>
+      <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #98 - שמירת שבת מוחה עמלק</title>
@@ -76,6 +82,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/e/0/60e02a6029f6a5f716c3140a3186d450/_____-____98_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40239685</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3066" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #97 - שיעור יסודי - להתקדש ולהתברך בשב'ק</title>
@@ -91,6 +103,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/b/f/47bfcf0b88fda98d16c3140a3186d450/_____-____97_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40162215</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2836" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #96 - התקשרות לשבת קודש על ידי מחשבה דיבור ומעשה</title>
@@ -106,6 +124,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/d/c/3adc99b2f8824a9716c3140a3186d450/_____-____96_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40085000</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2765" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #95 - לחיים! - הכח לברך את ישראל ובפרט בשבת קודש</title>
@@ -121,6 +145,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/5/a/8/25a8640913fd786e16c3140a3186d450/_____-____95_-__-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>40003955</ns1:item-id>
+      <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2710" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #94 - עונג שבת - אמונה הנשרשת בפנימיות האדם</title>
@@ -136,6 +166,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/8/1/f/e81faaed708cc8bdd959afa2a1bf1c87/_____-____94_-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39921165</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2746" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #93 - להתענג -באכילת דגים</title>
@@ -151,6 +187,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/2/7/9/e27973db459b8eced959afa2a1bf1c87/_____-____93_-__-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39823480</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2858" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #92 - מה זה עונג?</title>
@@ -166,6 +208,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/a/c/bbace3d7cd4c938a16c3140a3186d450/_____-____92_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39739725</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3036" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #91 - זכר למן</title>
@@ -181,6 +229,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/0/7/a/f07a2c1973f8dba6d959afa2a1bf1c87/_____-____91_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39657375</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2479" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #90 - טהרה מביא לידי קדושה</title>
@@ -196,6 +250,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/1/4/fc1408c0c4545a2ed959afa2a1bf1c87/_____-____90_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39582810</ns1:item-id>
+      <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2921" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #89 - ברכת על נטילת ידים</title>
@@ -211,6 +271,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/2/b/d22b0eafbc2ad38816c3140a3186d450/_____-____89_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39532910</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2795" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #88 - קידוש חלק ז' - זכר ליציאת מצרים</title>
@@ -226,6 +292,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/2/6/8d262f0ee96c81f6d959afa2a1bf1c87/_____-____88_-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39265830</ns1:item-id>
+      <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2675" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #87 - קידוש חלק ו' - ורצה בנו - ווער וויל וועמען?!</title>
@@ -241,6 +313,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/e/7/d/5e7dee8e07c43f4216c3140a3186d450/_____-____87_-____-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39190645</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2631" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #86 - קידוש חלק ה' - אהבת הקב"ה לישראל בכל מצב שהוא</title>
@@ -256,6 +334,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/4/9/d649e7c55f42093416c3140a3186d450/_____-____86_-____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39107405</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2836" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #85 - קידוש חלק ד' - אשר קדשנו במצוותיו ורצה בנו</title>
@@ -271,6 +355,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/e/7/97e71d216f83134416c3140a3186d450/______-____85_-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>39019430</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2900" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #84 - קידוש חלק ג' - ווען ס'גייט נישט</title>
@@ -286,6 +376,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/1/a/d/41adbe93a69e5ac6d959afa2a1bf1c87/_____-____84_-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38935545</ns1:item-id>
+      <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2578" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #83 - קידוש חלק ב' - עדות על הבריאה - מה הכוונה?</title>
@@ -301,6 +397,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/1/b/8/c1b8f9cc19e83b44d959afa2a1bf1c87/______-____83_-____-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38841580</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2681" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #82 - קידוש - מהות המצוה</title>
@@ -316,6 +418,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/a/4/3/4a43326f7cef13c716c3140a3186d450/_____-____82_-__-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38753670</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2756" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #81 - שביתה, בגדי שבת, תענוגי שבת, במשנת המהר"ל</title>
@@ -331,6 +439,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/c/6/4/2c64d1648f22437cd959afa2a1bf1c87/______-____81_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38178045</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #80 - איך שלום מביא ברכה</title>
@@ -346,6 +456,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/0/3/1/5031c203ffc9526c16c3140a3186d450/______-____80_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38084070</ns1:item-id>
+      <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #79 - שבת הוא מקור הברכה</title>
@@ -361,6 +473,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/4/f/0c4f5f3130af1e60d959afa2a1bf1c87/_____-____79_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37998545</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #78 - המלאכים הנולדים ממעשי המצוות מימות השבוע</title>
@@ -376,6 +490,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/a/9/3/4a93b98f518016d3d959afa2a1bf1c87/_____-____78_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37901925</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #77 - מי הם המלאכים המלוים את האדם לביתו</title>
@@ -391,6 +507,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/c/5/9bc54387180605c3d959afa2a1bf1c87/_____-____77_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37814440</ns1:item-id>
+      <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #76 - השומר שבת נגאל מיד</title>
@@ -406,6 +524,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/1/d/b/b1db83b7b5aecf3116c3140a3186d450/______-____76_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37531285</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #75 - התכלית של השתיקה</title>
@@ -421,6 +541,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/9/b/bb9b0f091063bab7d959afa2a1bf1c87/_____-____75_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37438720</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #74 - שתיקת הנפש בשבת</title>
@@ -436,6 +558,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/0/1/2d0128547c90887bd959afa2a1bf1c87/_____-____74_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37358165</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #73 - לך דומיה תהילה</title>
@@ -451,6 +575,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/1/9/7/21975c6ab19ea16ed959afa2a1bf1c87/_____-____73_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37269650</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #72 - השתיקה בשב"ק מוליד שפע</title>
@@ -466,6 +592,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/9/2/2/f9221ad5180307bc16c3140a3186d450/_____-____72_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37159215</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #71 - שומע ומוסיף בזמירות שבת</title>
@@ -481,6 +609,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/1/c/021c84b9cd41ecb6d959afa2a1bf1c87/_____-____71_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37069590</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #70 - הנשמה של סעודות השבת</title>
@@ -496,6 +626,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/3/d/8/b3d8b40ebae2ed66d959afa2a1bf1c87/_____-____70_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36968360</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #69 - גודל מעלת אמירת 'ויכולו'</title>
@@ -511,6 +643,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/e/8/e/7e8e4c1e8bd4a3fb16c3140a3186d450/_____-____69_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36860375</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #68 - גודל מעלת ערבית ליל שבת קודש (חיזוק באמונה)</title>
@@ -526,6 +660,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/b/c/81bc7dc650c9645e16c3140a3186d450/______-____68_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36668195</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #68 - גודל מעלת ערבית ליל שבת קודש (חיזוק באמונה)</title>
@@ -541,6 +677,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/b/c/81bc7dc650c9645e16c3140a3186d450/______-____68_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36668190</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #67 - וכל דינין מתעברין מינה - הדרך להסיר את הצמצומים (דינין) ולהגביר את השפע</title>
@@ -556,6 +694,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/9/4/7b942319fdd88ef4d959afa2a1bf1c87/_____-____67_-_____-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35884585</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #66 - קדיש וכגוונא</title>
@@ -571,6 +711,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/e/7/0/ce7053c419bb2a9816c3140a3186d450/_____-____66_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35788075</ns1:item-id>
+      <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #64 - ה' מלך גאות לבש</title>
@@ -586,6 +728,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/d/7/6dd7ff8b4b4b853616c3140a3186d450/_____-____64_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35362160</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #63 - להגיד כי... צורי ולא עולתה בו</title>
@@ -601,6 +745,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/f/2/d/ff2d2ed3819732abd959afa2a1bf1c87/_____-____63_-__...____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35173805</ns1:item-id>
+      <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #62 - מזמור שיר ליום השבת ח"ד - הנאמנות להקב"ה בכל מצב הוא האות של שבת</title>
@@ -616,6 +762,12 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/8/d/e/18de2134c3f2b40ad959afa2a1bf1c87/_____-____62_-_______-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>35080190</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="2663" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>עניני שבת קודש #61 - וּכְסִיל לֹא יָבִין אֶת זֹאת, איך זה מביא לידי שמחה</title>
@@ -631,6 +783,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/0/1/4/1014de37c47781d8d959afa2a1bf1c87/_____-____61_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34969315</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #60 - טוב להודות על הטובות ועל הרעות ביחד</title>
@@ -646,6 +800,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/c/2/8/7c28a48bc97dd7a716c3140a3186d450/_____-____60_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34879005</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #59 - למה דוקא בשבת כל כך טוב להודות</title>
@@ -661,6 +817,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/9/3/1/1931cd374851367616c3140a3186d450/_____-____59_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34785040</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #58 - לא תבושי - בואי בשלום</title>
@@ -676,6 +834,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/3/7/a537cac3527a1237d959afa2a1bf1c87/_______-____58_-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34528650</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #57 - הכח בשבת למצוא פתרונות להבעיות של האדם</title>
@@ -691,6 +851,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/f/f/4/9ff4ccf9db506d5c16c3140a3186d450/_____-____57_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34411670</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #56 - לכה דודי לקראת כלה - חלק ב'</title>
@@ -706,6 +868,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/c/c/7bcc22503297924716c3140a3186d450/_____-____56_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34299295</ns1:item-id>
+      <ns1:last-updated>2025-01-01T00:00:27Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #55 - לכה דודי לקראת כלה</title>
@@ -721,6 +885,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/6/9/1/6691977be981d8a716c3140a3186d450/_____-____55_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34191415</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #54 - איך יכולים להרגיש באמת שלא חסר לי כלום</title>
@@ -736,6 +902,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/b/7/2/bb7222b958727dad40be95ea3302a6a1/______-____54_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34075496</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #53 - מזמור לדוד הבו לה'</title>
@@ -751,6 +919,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/6/e/0/46e0f892396e3087e55e3c100dce7605/_____-____53_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33926442</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #52 - צורת הלימוד בשבת קודש</title>
@@ -766,6 +936,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/d/d/2/fdd269ce74418f3327a2322813b393ee/______-____52_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33827757</ns1:item-id>
+      <ns1:last-updated>2024-12-01T00:00:48Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #51 - למה לפעמים מרגישים את יום השבת כיום פחות רוחני מימות החול</title>
@@ -781,6 +953,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/1/d/471d3d1ce0c821ece55e3c100dce7605/_____-____51_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33702162</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #50 - רצון הקב"ה שנרגיש קדושת השבת - במשנת הרה"ק ר' צדוק הכהן מלובלין זי"ע</title>
@@ -796,6 +970,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/6/8/4/7684d047125323ede55e3c100dce7605/______-____50_-______-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33019522</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #49 - שמחה בטרדות בהכנות לשבת בהכירו שלכך הוא נוצר</title>
@@ -811,6 +987,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/d/d/8/8dd8d6069d6d9975e55e3c100dce7605/_____-____49_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32907127</ns1:item-id>
+      <ns1:last-updated>2024-10-01T00:01:40Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #48 - אדם הטרוד בערב שבת, האיך שייך להיות בשמחה?</title>
@@ -826,6 +1004,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/6/b/d76ba0f75adf5958e55e3c100dce7605/_____-____48_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32789432</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #47 - השמחה הבאה על ידי הידיעה שהשבת הוא המזור לכל החסרונות</title>
@@ -841,6 +1021,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/9/e/1/89e1c7a9d505b970e55e3c100dce7605/_____-____47_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32689782</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #46 - לשמוח בשמחת הקב"ה - ישמח ה' במעשיו</title>
@@ -856,6 +1038,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/b/6/3/0b6302d83519211c27a2322813b393ee/______-____46_-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32585272</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #45 - קבלת שבת בשמחה על ידי מילוי הרצון. חלק א' - לימוד התורה</title>
@@ -871,6 +1055,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/6/1/6/361656600e49c608e55e3c100dce7605/_____-____45_-_______.___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32495667</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #44 - אמירת מזמורי קבלת שבת בשמחה בכדי לתת מקום להשראת השכינה</title>
@@ -886,6 +1072,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/5/2/6/3526a00d08c8977e27a2322813b393ee/______-____44_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32381482</ns1:item-id>
+      <ns1:last-updated>2024-09-01T00:02:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #43 - קבלת שבת בהתלהבות</title>
@@ -901,6 +1089,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/3/0/9/73098c5bdd00dc3e27a2322813b393ee/_____-____43_-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32288687</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #42 - לכו נרננה</title>
@@ -916,6 +1106,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/c/e/d/3cedc2e9b56573b4e55e3c100dce7605/_____-____42_-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32194262</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #41 - מנחה ערב שבת - ענינה וסגולתה - חלק ב'</title>
@@ -931,6 +1123,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/c/3/e/cc3e0d85338d544fe55e3c100dce7605/_____-____41_-____-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32095077</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #40 - מנחה ערב שבת - ענינה וסגולתה</title>
@@ -946,6 +1140,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/c/f/98cf289c88f75f13e55e3c100dce7605/_____-____40_-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>32011862</ns1:item-id>
+      <ns1:last-updated>2024-08-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>שבת מרפא את הנפש</title>
@@ -960,6 +1156,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29554518</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עונג שבת מתקן את האדם</title>
@@ -974,6 +1172,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>29337723</ns1:item-id>
+      <ns1:last-updated>2024-02-01T00:01:50Z</ns1:last-updated>
     </item>
     <item>
       <title>ליל שישי פרשת תרומה חלק א' - עניני שבת קודש - כח התפילה בשבת</title>
@@ -989,6 +1189,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/2/8/1/42815982af5b0c68d959afa2a1bf1c87/_______-____-____1468.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>26028939</ns1:item-id>
+      <ns1:last-updated>2023-03-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #39 - האמונה בכח השבת לעזור להאדם בגשמיות וברוחניות</title>
@@ -1004,6 +1206,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/0/8/f/b08f0bac821a1a6640be95ea3302a6a1/______-____39_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24308958</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #38 - כוחו של שבת קודש להביא הרהורי תשובה וחרטה</title>
@@ -1019,6 +1223,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/d/e/adde7d03305cf85e88c4a68c3ddbc4f2/_____-____38_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24237285</ns1:item-id>
+      <ns1:last-updated>2022-10-01T00:01:56Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #37 - יראה מביא לידי אהבה בשבת קודש ובכל בענינים</title>
@@ -1034,6 +1240,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/c/a/4/0ca4e3cdd632a34640be95ea3302a6a1/_____-____37_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24162666</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #36 - ידיד נפש - הבקשה לרפואת הנפש</title>
@@ -1049,6 +1257,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/a/8/3/aa8356f5c92283545f2e77a3093c12a1/_____-____36_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24024384</ns1:item-id>
+      <ns1:last-updated>2022-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #35 - מה ה' אלוקיך שואל מעמך (שיעור יסודי ביהדות)</title>
@@ -1064,6 +1274,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/9/4/7/c9470a9a6469708227a2322813b393ee/_________-____35_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23885547</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #34 - איך להכין את התענוג לעולם הבא דרך שבת קודש</title>
@@ -1079,6 +1291,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/7/b/6/47b61b3d98d445c9e5bbc093207a2619/________-____34_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23814173</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #33 - ידיד נפש - ויסוד ענין תענוג רוחני וגשמי</title>
@@ -1094,6 +1308,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/2/8/c228deaf28ce638b27a2322813b393ee/________-____33_-___-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23665487</ns1:item-id>
+      <ns1:last-updated>2022-08-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #32 - קפיטל ק"ז - תכלית היסורים הוא שיהא ישועה, ויהא שם שמים מתקדש על ידו</title>
@@ -1109,6 +1325,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/1/6/4/e164415c5bd8a89740be95ea3302a6a1/________-____32_-___________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23586704</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #31 - למה תיקן הבעש"ט הק' לומר הודו בערב שב"ק</title>
@@ -1124,6 +1342,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/5/1/2a51b7a4b32c9888a04421dee9605cbd/________-____31_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23516636</ns1:item-id>
+      <ns1:last-updated>2022-07-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #28 - סגולת תוספת שבת לכל הברכות</title>
@@ -1139,6 +1359,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/d/0/3/ed038b3c6ddaafefd959afa2a1bf1c87/________-_____28_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23086844</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #27 - ענין תוספות שבת, ואיך לעבוד על זה</title>
@@ -1154,6 +1376,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/8/c/eb8c57c2fdc6c1a716c3140a3186d450/________-____27_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>23014049</ns1:item-id>
+      <ns1:last-updated>2022-06-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #26 - כח המקוה להיות שמירה על העתיד</title>
@@ -1169,6 +1393,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/f/1/1/ff11add4f63f055ebafc7308ab683e82/_____-____26_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22321661</ns1:item-id>
+      <ns1:last-updated>2022-03-22T10:08:21Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #25 - סיפורים נפלאים וביאורים בענין כח וסגולת המקוה</title>
@@ -1184,6 +1410,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/3/c/0/c3c0560108ade10de5bbc093207a2619/_____-____25_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22240172</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #24 - מקוה - מיזוג היסודות כבתחילה</title>
@@ -1199,6 +1427,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/0/1/2/d0126441fb92d70288c4a68c3ddbc4f2/______-____24_-__-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22165439</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #23 - עבודת המקוה - להיפרד ממחשבות און</title>
@@ -1214,6 +1444,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/c/b/6/dcb6f6269a007ec6a04421dee9605cbd/_____-____23_-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22087964</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #22 - חיבור מחשבה ועשייה מביא את הגאולה</title>
@@ -1229,6 +1461,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/4/7/1/b4714a2d5bb97549bafc7308ab683e82/_____-____22_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22009118</ns1:item-id>
+      <ns1:last-updated>2022-03-01T00:00:36Z</ns1:last-updated>
     </item>
     <item>
       <title>בענין קציצת הציפורניים לכבוד שבת קודש</title>
@@ -1244,6 +1478,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/7/b/b/f7bb8683bc48be8c5f2e77a3093c12a1/_____-_______-___1279.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21916979</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #21 - ענין התפעלות בשבת קודש</title>
@@ -1259,6 +1495,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/2/c/3a2cd568585bd429bafc7308ab683e82/_____-____21_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21834464</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #20 - הדלקת הנשמה על ידי נרות שבת קודש</title>
@@ -1274,6 +1512,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/f/1/f/ef1f149806937572bafc7308ab683e82/_____-____20_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21763214</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #19 - בענין חשיבות הלבוש ובפרט בבגדי שבת</title>
@@ -1289,6 +1529,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/4/b/e44ba071d7515cf3bafc7308ab683e82/_____-____19_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21692120</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #19 - בענין חשיבות הלבוש ובפרט בבגדי שבת</title>
@@ -1304,6 +1546,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/4/4/b/e44ba071d7515cf3bafc7308ab683e82/_____-____19_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21692117</ns1:item-id>
+      <ns1:last-updated>2022-02-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #18 - חשיבות כל דבר קטן לכבוד שבת קודש ובעבודת השם</title>
@@ -1319,6 +1563,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/2/9/4/8294354a085a6ec5d959afa2a1bf1c87/__-____-____18_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21631751</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #17 - הכנות הגוף עם הכוונה הנכונה</title>
@@ -1334,6 +1580,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/d/1/9/2d19f18bbbe50be588c4a68c3ddbc4f2/_____-____17_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21583541</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #16 - מה הפירוש 'אמונה בשבת קודש'?    י</title>
@@ -1349,6 +1597,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/4/a/d/54ad5cc66fb61902d959afa2a1bf1c87/_____-____16_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21503783</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #15 - למה אנשים באים לידי כעס בערב שבת?</title>
@@ -1364,6 +1614,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/b/b/b/9bbbca9e5681b621bafc7308ab683e82/_____-____15_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21429689</ns1:item-id>
+      <ns1:last-updated>2022-01-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #14 - תכלית המלחמה של ערב שבת קודש</title>
@@ -1379,6 +1631,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/5/0/0/450009c4b5fc130ae55e3c100dce7605/_____-____14_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21205655</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #13 - ג' חלקי העבודה של ערב שבת קודש</title>
@@ -1394,6 +1648,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/3/d/3/53d3549ae82277bc16c3140a3186d450/_____-____13_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21129659</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - האם סעודת שבת הוא הזמן לחינוך הילדים? - משנת תשע"ח</title>
@@ -1409,6 +1665,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/8/6/a/786a5f36239f1ac240be95ea3302a6a1/_____-____-________-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>21048881</ns1:item-id>
+      <ns1:last-updated>2021-12-01T00:00:04Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #12 - שייכות לשבת אינו מספיק, יהודי צריך להתחבר לשבת קודש</title>
@@ -1424,6 +1682,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/2/1/6d211c54609c9574e55e3c100dce7605/______-____12_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20967989</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #10 - שנים מקרא ואחד תרגום - חלק ד' - הכנה לשבת</title>
@@ -1439,6 +1699,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/9/1/e/691e995671b2324040be95ea3302a6a1/_-____-____10_-_______-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20890475</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #9 - שנים מקרא ואחד תרגום עם חיות - חלק ג</title>
@@ -1454,6 +1716,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/8/8/0/3880f076a1f67ba9d959afa2a1bf1c87/______-____9_-_______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20813654</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #8 - שנים מקרא ואחד תרגום - חלק ב</title>
@@ -1469,6 +1733,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/9/8/c/198c8123edaeb8e9bafc7308ab683e82/_____-____8_-_____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20739722</ns1:item-id>
+      <ns1:last-updated>2021-11-01T00:00:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #07 - עצות מעשיות איך להכין את עצמו לשבת מתחילת השבוע</title>
@@ -1484,6 +1750,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/6/4/f/164fc944962a6ac527a2322813b393ee/______-____07_-_________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20268359</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #06 - הכנה לשבת קודש על ידי שבירת כח קנאה תאוה וכבוד</title>
@@ -1499,6 +1767,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/1/2/b/c12b0e6aef199b8b40be95ea3302a6a1/______-____06_-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20192492</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #05 - איך לקיים מצוות "זכור את יום השבת לקדשו"</title>
@@ -1514,6 +1784,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/2/6/7/c26755473fa24b4d40be95ea3302a6a1/_____-____05_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20117264</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #04 - בירור ענין ל"ט מלאכות האסורות בשבת</title>
@@ -1529,6 +1801,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/2/a/c/f2acec640e4f10b1bafc7308ab683e82/_____-____04_-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>20042576</ns1:item-id>
+      <ns1:last-updated>2021-09-01T00:00:51Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודת שבת קודש - האם סעודת שבת הוא הזמן לחינוך הילדים</title>
@@ -1544,6 +1818,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/b/0/7/db071c8883fe766d27a2322813b393ee/_____-____-________-___1113.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19966640</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #03 - לא תעשה כל מלאכה על פי פנימיות</title>
@@ -1559,6 +1835,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/a/4/8ca4a81fa813bd8d40be95ea3302a6a1/_____-____03_-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19893500</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #03 - מחבלי משיח יוצלו לרווחה</title>
@@ -1574,6 +1852,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/4/7/9/44791531670e0b6e27a2322813b393ee/_____-____03_-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19818782</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #02 - טעם מצות שמירת שבת קודש</title>
@@ -1589,6 +1869,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/a/8/8/5a88f2ad61df3dc2e5bbc093207a2619/______-____02_-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19743221</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש #01 - מתנה טובה יש לי בבית גנזי לך והודיעם</title>
@@ -1604,6 +1886,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/3/e/3/53e3b3d0c9bd909c16c3140a3186d450/_____-____01_-________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>19670048</ns1:item-id>
+      <ns1:last-updated>2021-08-01T00:00:52Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודת מלוה מלכה סגולה לכל הישועות</title>
@@ -1619,6 +1903,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/a/e/6/fae6f58b6a7b273dd959afa2a1bf1c87/_____-____-_______1070.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18648524</ns1:item-id>
+      <ns1:last-updated>2021-05-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - מוצאי שבת - מלוה מלכה - מקור החיות</title>
@@ -1634,6 +1920,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/7/1/8/67182d3021ce4b62/______-____-___-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18281339</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - מוצאי שבת - פיוט אליהו הנביא</title>
@@ -1649,6 +1937,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/6/9/3/7693f10082a9f7c6/______-____-___-____1053.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18187688</ns1:item-id>
+      <ns1:last-updated>2021-04-01T00:00:32Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - פיוט המבדיל בין קודש לחול - כיבוד אב ואם במוצאי שבת</title>
@@ -1664,6 +1954,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/d/6/5/4d65cf79126c1489/_____-____-______-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17910014</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ויתן לך - תפילה לשפע ממקום טהור</title>
@@ -1679,6 +1971,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/e/1/02e11704fc34cbcd/_____-____-___-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17817323</ns1:item-id>
+      <ns1:last-updated>2021-03-01T00:01:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - הבדלה - בורא מאורי האש</title>
@@ -1694,6 +1988,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/c/d/01cdbc0a88fcfccd/_____-____-__-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17632910</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ריח תורה ומצוות וריח יהודי</title>
@@ -1709,6 +2005,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/d/7/d/7d7d32c688797879/_____-____-_____1034_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17544986</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - הבדלה - הודאה על חוש הריח</title>
@@ -1724,6 +2022,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/c/8/6/8c8649f1758e7b88/_____-____-__-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17455559</ns1:item-id>
+      <ns1:last-updated>2021-02-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - הבדלה - יין נשפך כמים</title>
@@ -1739,6 +2039,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/c/5/4/ac54f48cadfc9fd1/_____-____-__-____1029.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17379287</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - א אנדערע טעם אין הבדלה</title>
@@ -1754,6 +2056,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/f/5/4/2f5474c8f966709d/_____-______1025.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17319305</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>ענייני שבת קודש - מעריב מוצש"ק - ויתן לך</title>
@@ -1769,6 +2073,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/9/7/a597d9f3f0c7be3d/_____-____-___-___1016.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>17047856</ns1:item-id>
+      <ns1:last-updated>2021-01-01T00:00:13Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - המאחרים לצאת</title>
@@ -1784,6 +2090,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/7/8/4/2784e7c135c84512/_____-____-___1017.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16872563</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - בענין שלש סעודות והרהורי תשובה</title>
@@ -1799,6 +2107,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/b/e/2/7be29cd35330ddb0/______-____-______1012.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16782419</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ה' רועי לא אחסר - הסתפקות במיעוט</title>
@@ -1814,6 +2124,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/9/a/d/49adcad209b1715b/_____-____-_____-___1005.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16692833</ns1:item-id>
+      <ns1:last-updated>2020-12-01T00:01:47Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ה' רועי לא אחסר</title>
@@ -1829,6 +2141,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/2/9/f/329fedb3ffde0c57/______-____-_____655693.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16596596</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודה שלישית - בני היכלא דכסיפין חלק ב' - מעט מן האור דוחה הרבה מן החושך</title>
@@ -1844,6 +2158,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/f/8/7/3f8772cce0f0dc85/_____-____-___-______-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16503887</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודה שלישית - בני היכלא דכסיפין</title>
@@ -1859,6 +2175,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/c/6/8/4c6850a3b325c3f1/_____-____-___-____422363.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>16413185</ns1:item-id>
+      <ns1:last-updated>2020-11-01T00:01:22Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודה שלישית הוא זמן תשובה</title>
@@ -1874,6 +2192,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/c/8/0/fc8022d22df70fc8/______-____-______552233.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15957677</ns1:item-id>
+      <ns1:last-updated>2020-10-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודה שלישית - סעודה דיעקב אבינו</title>
@@ -1889,6 +2209,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/5/4/8/a5481fa9009da3b1/______-____-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15868643</ns1:item-id>
+      <ns1:last-updated>2020-10-01T00:01:39Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ואני תפלתי לך ה' עת רצון</title>
@@ -1904,6 +2226,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/d/0/9/3d0939b88c0ae4e2/______-____-_______885996.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15775499</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - העת רצון של מנחה בשבת קודש</title>
@@ -1919,6 +2243,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/c/b/8/bcb87f79c4d01561/_____-____-_______265656.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15686876</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - שבתדיג'ע מאה ברכות</title>
@@ -1934,6 +2260,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/f/c/5/7fc5f86dfa1e0e12/_____-____-____123456.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15505829</ns1:item-id>
+      <ns1:last-updated>2020-09-01T00:00:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - עבודת שבת חזון</title>
@@ -1949,6 +2277,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/5/e/635e8c3b3d3c5ef2/_____-____-____399853.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15324896</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - שינה בשבת תענוג</title>
@@ -1964,6 +2294,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/8/5/d48552f8bc69022a/______-____-____64485.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15232163</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>מה נקרא לימוד הלכה בשבת?</title>
@@ -1979,6 +2311,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/b/9/3bb986ddb22e2fd8/________-______364444.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>15064934</ns1:item-id>
+      <ns1:last-updated>2020-08-01T00:00:31Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - איזה לימוד ילמוד אדם בשבת?</title>
@@ -1994,6 +2328,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/1/7/b9171e30080652eb/_______-____-______953369.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14961920</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - בענין לעסוק במלאכה בשבת</title>
@@ -2009,6 +2345,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/6/6/d/d66d9c29bbb96422/998651_______-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14873021</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - נשמה יתירה בכדי לעסוק בתורה</title>
@@ -2024,6 +2362,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/7/4/d/774d6a300068a000/_______-____-______89846.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14783972</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שב"ק - ברוך א-ל עליון חלק ג' - מסירת נפש בשבת</title>
@@ -2039,6 +2379,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/e/a/5/2ea577a8a0649318/_______-___-______-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14694485</ns1:item-id>
+      <ns1:last-updated>2020-07-01T00:01:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ברוך אל עליון חלק ב</title>
@@ -2054,6 +2396,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/7/0/d/970d422066f46da0/_____-____-______95623.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14509664</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>הרה"ק ר' מרדכי מטשערנאביל זצוק"ל - עניני שב"ק ברוך קל עליון</title>
@@ -2069,6 +2413,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/1/0/4/51040121a448fa3d/______-______-______6286.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14416511</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - צפרא דשבתא - אסדר לסעודתא</title>
@@ -2084,6 +2430,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/c/f/e/4cfe98b3693d2cf2/_____-____-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14326799</ns1:item-id>
+      <ns1:last-updated>2020-06-01T00:00:11Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - שהשלום שלו ישים עלינו ברכה ושלום</title>
@@ -2099,6 +2447,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/a/c/a/7acade48bec4fc5b/______-____-_______45648.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14215589</ns1:item-id>
+      <ns1:last-updated>2020-05-03T11:20:57Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ברוך הוא אלוקינו אשר טוב גמלנו</title>
@@ -2114,6 +2464,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/5/e/1/d5e16d88cd87bdad/______-____-_______856322.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>14110868</ns1:item-id>
+      <ns1:last-updated>2020-05-01T00:01:53Z</ns1:last-updated>
     </item>
     <item>
       <title>הרה"ק החידושי הרי"ם זצוק"ל - צפרא דשבתא - בבואו מאדום</title>
@@ -2129,6 +2481,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/b/f/5/3bf509be0ceba460/______-_____-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13614929</ns1:item-id>
+      <ns1:last-updated>2020-04-01T00:00:25Z</ns1:last-updated>
     </item>
     <item>
       <title>סגולת פיוט 'ברוך השם יום יום' להיות נגאל מכל צרה</title>
@@ -2144,6 +2498,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/7/c/9/57c984068f46d7de/_____-___________4564.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13325156</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ברוך השם יום יום</title>
@@ -2159,6 +2515,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/9/0/1/a9015c85134be0f7/8888_____-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13139741</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - עונג שבת לגוף ולנפש</title>
@@ -2174,6 +2532,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/6/f/9/b6f9c44a67640001/12245_____-____-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>13041818</ns1:item-id>
+      <ns1:last-updated>2020-03-01T00:01:07Z</ns1:last-updated>
     </item>
     <item>
       <title>יום ה' פרשת בא תשפ - עניני שב"ק</title>
@@ -2189,6 +2549,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/a/e/aeae66de88aad02e/_____-___-____-_____2566.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12947198</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - חשיבת ההתבוננות באכילת מאכלי שבת</title>
@@ -2204,6 +2566,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/0/e/1/70e1f88667fd8e1a/77878______-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12858200</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודת צפרא דשבתא</title>
@@ -2219,6 +2583,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/e/c/7/dec7410f8f6677fb/_____-____-____-_______99899.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12763988</ns1:item-id>
+      <ns1:last-updated>2020-02-01T00:00:16Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודת צפרא דשבתא</title>
@@ -2234,6 +2600,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/1/5/d715b3e3fbac9c80/_____-____-____-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12591818</ns1:item-id>
+      <ns1:last-updated>2020-01-28T17:22:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודת צפרא דשבתא</title>
@@ -2249,6 +2617,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/e/1/4/fe14b53cb4d80e8b/_____-____-____-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12375110</ns1:item-id>
+      <ns1:last-updated>2020-01-01T00:01:49Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - סעודת צפרא דשבתא - מאכלי שבת - ביצה ובצל</title>
@@ -2264,6 +2634,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/3/1/c/631c7a2851bcafc4/_____-____-____-___-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12210821</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - צפרא דשבתא - דא היא סעודתא דעתיקא קדישא</title>
@@ -2279,6 +2651,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/1/6/a/416a11c4a65a8d78/_____-____-___-______FF.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>12033815</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - צפרא דשבתא - קידושא רבה</title>
@@ -2294,6 +2668,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/b/7/b/db7b4084293c25a4/______-____-___-___DD.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11944220</ns1:item-id>
+      <ns1:last-updated>2019-12-01T00:00:50Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - תפלת מוסף</title>
@@ -2309,6 +2685,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/4/b/a/84ba8f32747fb9cd/______-____-___54745.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11313431</ns1:item-id>
+      <ns1:last-updated>2019-10-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - יקום פורקן מן שמיא</title>
@@ -2324,6 +2702,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/3/f/b83f04accdcc04c7/_____-____-_____66767.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11134760</ns1:item-id>
+      <ns1:last-updated>2019-09-18T08:09:44Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - קריאת התורה חלק ג' - הפטרה</title>
@@ -2339,6 +2719,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/0/0/4/8004a78413c4e211/_____-____-_____-__79055.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11041724</ns1:item-id>
+      <ns1:last-updated>2019-09-01T00:01:02Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - בענין האור הגנוז שמתגלה והעת רצון שמתעורר בעת קריאת התורה</title>
@@ -2354,6 +2736,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/d/7/3/6d73a5f3d5888438/_____-____-__________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10481918</ns1:item-id>
+      <ns1:last-updated>2019-08-01T00:01:09Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - קריאת התורה - מעמד הר סיני</title>
@@ -2369,6 +2753,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/9/d/ae9d166bf3fad60d/_____-____-___-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10311248</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:52:55Z</ns1:last-updated>
     </item>
     <item>
       <title>בענין קציצת הציפורניים - משנת תשע"ז</title>
@@ -2384,6 +2770,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/a/6/81a645d2e6946e17/______-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10219511</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:54:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - ובכן ישתבח, קל אדון, לקל אשר שבת</title>
@@ -2399,6 +2787,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/3/b/7/a3b7cc85e8335f9f/_____-__-____-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>10140199</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:55:05Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - נשמת כל חי חלק ד' - שוכן עד</title>
@@ -2414,6 +2804,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/0/6/9/a0696137cec0e6d7/______-____-______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9978188</ns1:item-id>
+      <ns1:last-updated>2019-07-11T14:56:19Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - נשמת כל חי חלק ג'</title>
@@ -2429,6 +2821,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/9/6/92965f0a64d614ce/______-____-______23154.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9806453</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:07:34Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - נשמת כל חי חלק ב'</title>
@@ -2444,6 +2838,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/7/b/8/d7b85daf02714514/_____-____-_____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9713717</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:08:38Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני שבת קודש - נשמת כל חי</title>
@@ -2459,6 +2855,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/0/3/3/e033bb41ca9859ba/______-____-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9618311</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:09:22Z</ns1:last-updated>
     </item>
     <item>
       <title>עניני ביטחון בשבת קודש חלק ב</title>
@@ -2474,6 +2872,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/8/5/6/7856cecd7385eeb8/____-_______2313.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>9265904</ns1:item-id>
+      <ns1:last-updated>2019-07-11T15:10:19Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודת ליל שב"ק - אכסוף נועם שבת - פנחס 7805</title>
@@ -2489,6 +2889,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/3/c/8/c3c8915c2dc2f060/168-52____-____-__7805.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>6776791</ns1:item-id>
+      <ns1:last-updated>2022-11-03T08:18:36Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

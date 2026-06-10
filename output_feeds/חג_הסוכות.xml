@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -44,6 +46,12 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38550800</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="3498" />
+      </ns1:ad-markers>
     </item>
     <item>
       <title>שמחת בית השואבה חול המועד סוכות תשפ"ו - חלק א</title>
@@ -58,6 +66,8 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38550790</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>השרשת יסודות הביטחון ברוחניות על ידי חג הסוכות</title>
@@ -73,6 +83,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/4/e/024ea0341d7940dc16c3140a3186d450/________-________-_______5733.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38536795</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>השרשת יסודות הביטחון ברוחניות על ידי חג הסוכות</title>
@@ -88,6 +100,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/2/4/e/024ea0341d7940dc16c3140a3186d450/________-________-_______5733.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38536790</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>השרשת הביטחון ע''י מצוות סוכה</title>
@@ -103,6 +117,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/d/d/1bdd927e309037bad959afa2a1bf1c87/_____-________-________65586.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524565</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -118,6 +134,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524400</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -133,6 +151,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524390</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -148,6 +168,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524385</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -163,6 +185,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524380</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -178,6 +202,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524370</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הכנסת הדעת להדרגה שהאדם נמצא בו</title>
@@ -193,6 +219,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/b/1/9/1b194a1b84fa536e16c3140a3186d450/______-_-__-_______7399.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38524365</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>להתרומם ולשמוח בחג ממצב של נסיונות וירידות</title>
@@ -208,6 +236,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/7/e/dd7e3d76e9972d3c16c3140a3186d450/_______-________47996.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38510595</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הקשר בין ר"ה ויום כיפור לסוכות</title>
@@ -223,6 +253,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/0/f/d/00fd3918303e5d5d16c3140a3186d450/_____-________6674.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>38468565</ns1:item-id>
+      <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
     </item>
     <item>
       <title>הושענא רבה - עבודת הביטול להקב"ה</title>
@@ -238,6 +270,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/6/1/cd619b7b7211520be55e3c100dce7605/__-____2078.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33580827</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>הושענא רבה - עבודת הביטול להקב"ה</title>
@@ -253,6 +287,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/d/6/1/cd619b7b7211520be55e3c100dce7605/__-____2078.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33580822</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ז' - שירות ותשבחות חלק ב</title>
@@ -268,6 +304,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/9/f/b/a9fbb8499fddd123e55e3c100dce7605/_____-___-_____2077.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565272</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ו'</title>
@@ -283,6 +321,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/2/0/6/9206b59f1ff7084d27a2322813b393ee/_____-___2076.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565252</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ה' - שירות ותשבחות חלק א</title>
@@ -298,6 +338,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/4/a/8/1/4a81e992a3eaa5ece55e3c100dce7605/_____-___-_____2075.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565237</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ד'</title>
@@ -313,6 +355,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/6/7/0167481b71120acee55e3c100dce7605/_____-___2074.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565227</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ג'</title>
@@ -328,6 +372,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/a/5/95a5e601be35720fe55e3c100dce7605/_____-___2073.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565202</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק ב/</title>
@@ -343,6 +389,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/a/9/0/3a90ca20d9b07bdce55e3c100dce7605/_____-___2072.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565197</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה סוכות תשפ"ה - חלק א'</title>
@@ -358,6 +406,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/1/3/20137c855b7be35227a2322813b393ee/_____-___2071.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33565012</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>הושענא רבה - תיקון פגמים של האדם ועבודת התפילה</title>
@@ -373,6 +423,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/3/a/1/03a11ec018b1f7a4e55e3c100dce7605/______-___-_______2068.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33546517</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>השמחה הנובע מהליכה בדרך הממוצע</title>
@@ -388,6 +440,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/4/9/e/d49e559c737610a227a2322813b393ee/______-______2063.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33534847</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת ההודאה עם הד' מינים</title>
@@ -403,6 +457,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/0/3/4/20346f5927d0575be55e3c100dce7605/_______-______2062.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33479577</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>עבודת ימי האהבה מתוך יראה</title>
@@ -418,6 +474,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/4/2/4/5424c415277d276ce55e3c100dce7605/_____-________-____-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33473607</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>מה צריכים לחשוב כשהשכן עושה שמחת בית השואבה ב2 בלילה?</title>
@@ -433,6 +491,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/1/9/b/819b2316924414c727a2322813b393ee/_______-_________2_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33463152</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשה הכנה לימי חג הסוכות - הרגשה של קרבת אלוקים בתוך הסוכה</title>
@@ -448,6 +508,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/c/e/7/6ce79ef76a56c7dae55e3c100dce7605/_____-_______-________2060.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33450862</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח של השמחה להשלים את מחילת העוונות</title>
@@ -463,6 +525,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/d/2/c/dd2ca325b430e9ee27a2322813b393ee/_______-________2059.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33445097</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>העבודה של ממחרת יום הכיפורים</title>
@@ -478,6 +542,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/e/0/4/ae042f5ba0d528f4e55e3c100dce7605/_______-______2057.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>33434512</ns1:item-id>
+      <ns1:last-updated>2024-11-01T00:00:18Z</ns1:last-updated>
     </item>
     <item>
       <title>הרגשת טעם עולם הבא בשמחת תורה כתוצאה מהעבודה במשך כל השנה</title>
@@ -493,6 +559,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/1/d/7/91d753c9700b8d5cbafc7308ab683e82/______-____________-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28232588</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>הושענא רבה - תיקון פגמים של האדם ועבודת התפילה</title>
@@ -508,6 +576,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/4/f/0/64f0d58ebb0e02e116c3140a3186d450/______-___-_______1642.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28222340</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>ריקודים</title>
@@ -523,6 +593,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/3/5/e/5/35e599a19051747c27a2322813b393ee/_____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28222259</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>להתבונן ולהעמיק בדרכי התקרבות ברוחניות, בחיי הפרט בנוסף לחיי הכלל</title>
@@ -538,6 +610,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/4/a/c/a4ac38ea8d9ce2ec5f2e77a3093c12a1/_____-___________1640.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28221884</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>אושפיזא דאהרן, מידת השלום - לחבר בין מידות ותכונות מנוגדות דייקא - חלק ב</title>
@@ -553,6 +627,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/a/f/8/7af8b13bb712a004e5bbc093207a2619/_____-_____-_______-___1639.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28221707</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>אושפיזא דאהרן, מידת השלום - לחבר בין מידות ותכונות מנוגדות דייקא - חלק א</title>
@@ -568,6 +644,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/5/6/2/9562212af47fd2a2e5bbc093207a2619/_____-_____-_______-__.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28221605</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>השמחה הגדולה בשמחת בית השואבה</title>
@@ -583,6 +661,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/f/d/c/0fdca149e1e9d12588c4a68c3ddbc4f2/_______-______1638.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28211171</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>סוכות - לברוח מהבלי עולם הזה</title>
@@ -598,6 +678,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/d/5/0/5d50ce637ca005ac16c3140a3186d450/______-__-____.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28197224</ns1:item-id>
+      <ns1:last-updated>2023-11-01T00:01:12Z</ns1:last-updated>
     </item>
     <item>
       <title>לנצל את ימי הסוכות עם כל ההרגשים</title>
@@ -613,6 +695,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/1/e/c/71ec6d6f431e0a17e5bbc093207a2619/_______-________1537.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28172423</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ד' מינים - איך להגיע לשמחה והתרגשות</title>
@@ -628,6 +712,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/b/d/a/0bda95fee1a4e50c5f2e77a3093c12a1/_______-___-_____1636.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28172399</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סוכה - איך להגיע לישוב הדעת ומנוחת הנפש</title>
@@ -643,6 +729,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/d/7/6/ad76d1e3edc5027727a2322813b393ee/_______-__-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28172357</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>מה לכוון בכניסה ובישיבה בסוכה</title>
@@ -658,6 +746,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/a/a/6/3/aa63246c239fed82e5bbc093207a2619/_______-______1635.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28166525</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סוכות - אשרי יושבי ביתך</title>
@@ -673,6 +763,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/7/6/8/f76877eb8ec3ad3fa04421dee9605cbd/_______-__-____1633.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28155947</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הגשר בין יוהכ"פ לסוכות - כריתת ברית לגמול חסד זו עם זו</title>
@@ -688,6 +780,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/8/6/8/9868d6a43892b2e1d959afa2a1bf1c87/_______-_____-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>28144532</ns1:item-id>
+      <ns1:last-updated>2023-10-01T00:01:28Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת תורה - התורה הק' מדריכה אותנו כיצד לעבוד את השם 'באמת', ונותנת כוח להתגבר על משיכות העוה"ז</title>
@@ -703,6 +797,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/8/8/0/4/8804d988bc630f52bafc7308ab683e82/_______-___-_______________.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24697614</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה חלק ג' - אנחנו מאירים את התורה והתורה מאירה אותנו</title>
@@ -718,6 +814,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/5/5/0/d/550d39ba855dc66a16c3140a3186d450/_____-________1386.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24687048</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה חלק ב' - כל הדרכים בחזקת סכנה</title>
@@ -733,6 +831,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/2/a/a/2/2aa2b808a25282bf16c3140a3186d450/_____-_____1385.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24686247</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה חלק א' - אחדות כלל ישראל עם כל הגוונים</title>
@@ -748,6 +848,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/8/9/7/b89763da380b5e6b27a2322813b393ee/_____-_______1384.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24686235</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>הדרך להתבונן על כל מצב ותקופה שאדם עובר</title>
@@ -763,6 +865,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/9/9/2/b99215d69722db20a04421dee9605cbd/_____-________1383.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24671022</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>סוכות - היו"ט שמשריש בנו הידיעה, שהקב"ה מכיר את הצרכים שלנו יותר טוב מהאדם עצמו</title>
@@ -778,6 +882,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/f/4/7/2/f47231428c717b69e5bbc093207a2619/--_-1.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24658656</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>נצחון על האומות העולם על ידי  ד' מינים ושמחה וענין הקפות סביב הבימה - נמסר בבית מדרש בעלזא בית פנחס אשדוד</title>
@@ -793,6 +899,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/3/3/5/0335b37cbe748633a04421dee9605cbd/_____-_______________-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24653745</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>למען ידעו דורותיכם - קנין הדעת על ידי ביטול הדעת</title>
@@ -808,6 +916,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/d/4/e/7d4ec2cb2987fe0b27a2322813b393ee/_____-____-_______-_______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24653682</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>אם אתה משמח את שלי אני משמח את שלך</title>
@@ -823,6 +933,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/9/4/c/7/94c7b18339a28f90a04421dee9605cbd/_____-__________1380.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24630042</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
     <item>
       <title>מי מוזמן לשבת בצילא דהימנותא? י</title>
@@ -838,6 +950,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/2/2/f/d22fae507a356f8127a2322813b393ee/______-______1379.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>24616953</ns1:item-id>
+      <ns1:last-updated>2022-11-01T00:01:01Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

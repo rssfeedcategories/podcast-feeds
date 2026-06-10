@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - GENERAL</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/7/c/2/f/7c2f93b79f21061ed959afa2a1bf1c87/________-______937.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37442095</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>התחזקות עבודת האדם לימי בין המצרים</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/b/9/9/cb9959e65cc3db2716c3140a3186d450/______-___________953.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37411285</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשה יום ג' פרשת חקת תשפ"ה - התאחדות אברכים דסאטמאר - בארא פארק</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/1/7/c/017c9f67d3b5105ad959afa2a1bf1c87/_________-___.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37358495</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>קראקא - צאנז - ליזענסק</title>
@@ -87,6 +95,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/0/e/a/3/0ea3c64776644e4a27a2322813b393ee/_-20240523-lstgojkgnv.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>31428882</ns1:item-id>
+      <ns1:last-updated>2024-05-23T03:11:12Z</ns1:last-updated>
     </item>
     <item>
       <title>שבת הבינני בארה"ק</title>
@@ -99,6 +109,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/2/e/9/b2e9186d8ee31aa35f2e77a3093c12a1/___.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27371166</ns1:item-id>
+      <ns1:last-updated>2023-07-05T11:29:37Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה משמחת - שיעור בירושלמי</title>
@@ -110,6 +122,8 @@
       <content:encoded>&lt;p style="text-align: center;"&gt;הודעה משמחת - שיעור בירושלמי&lt;/p&gt; &lt;p style="text-align: center;"&gt;לרגל התחלת מסלול חדש בלימוד תלמוד ירושלמי על סדר הדף של 'עוז והדר', נתחיל בלי"נ ובס"ד לשלוח שיעור חדש מדי יום. חפץ השם בידינו יצליח&lt;/p&gt; &lt;p style="text-align: center;"&gt;להצטרפות לקבלת השיעור בוואטסאפ https://chat.whatsapp.com/IU5wTPKGpMW9jFwO53Lqmz&lt;/p&gt; &lt;p style="text-align: center;"&gt;לקבלת השיעור במייל: לשלוח הודעה למייל info@machonhavineini.com ולרשום 'ירושלמי'&lt;/p&gt; &lt;p style="text-align: center;"&gt;כמו כן יעלה השיעור לאתר של קול הלשון, והאפליקציה Torah Any Timeו&lt;/p&gt; &lt;p style="text-align: center;"&gt;לשמיעה בטלפון: ארה"ב 718-686-8300 ארץ ישראל 072-257-7786 לונדון +44-333-366-1511 ללחוץ 1, 4&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>25052133</ns1:item-id>
+      <ns1:last-updated>2022-11-17T17:51:17Z</ns1:last-updated>
     </item>
     <item>
       <title>שבת הבינני עם הרב שמעון שפיצער שליט"א - לונדון - פרשת חיי שרה תשפ"ג</title>
@@ -124,8 +138,11 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/6/0/a/a/60aa2685bb8a7292e5bbc093207a2619/WhatsApp_Image_2022-11-03_at_3.57.21_PM.jpeg" />
+      <ns1:widescreen-image href="https://static.libsyn.com/p/assets/6/0/a/a/60aa2685bb8a7292e5bbc093207a2619/WhatsApp_Image_2022-11-03_at_3.57.21_PM.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Rabbi Shimon Spitzer</itunes:author>
+      <ns1:item-id>24942618</ns1:item-id>
+      <ns1:last-updated>2022-12-01T00:00:10Z</ns1:last-updated>
     </item>
     <item>
       <title>מודעה  - המגיד שיעור שליט"א ישהה בניו יורק</title>
@@ -138,6 +155,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/5/f/0/e5f073e4cbb9a87fe55e3c100dce7605/WhatsApp_Image_2021-10-28_at_11.35.29_AM.jpeg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22570991</ns1:item-id>
+      <ns1:last-updated>2022-03-25T17:18:55Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת פורים ומשלוח מנות אצל המגיד שיעור</title>
@@ -149,6 +168,8 @@
       <content:encoded>&lt;p style="text-align: center;"&gt;ליהודים היתה אורה ושמחה&lt;/p&gt; &lt;p style="text-align: center;"&gt;שמחת פורים ומשלוח מנות אצל המגיד שיעור הרב שמעון שפיצר שליט"א יתקיים ביום הפורים דפרוזים מהשעה 12:30 עד השעה 2:00 בביתו רחוב האתרוג 57א גבעת זאב&lt;/p&gt; &lt;p style="text-align: center;"&gt;בברכת פורים כשר ושמח&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>22460486</ns1:item-id>
+      <ns1:last-updated>2022-03-15T22:04:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הודעה בענין הוואכנאכט וברית</title>
@@ -161,6 +182,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/e/b/6/0/eb608f72d60d2eae/.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18314105</ns1:item-id>
+      <ns1:last-updated>2021-03-14T10:43:28Z</ns1:last-updated>
     </item>
     <item>
       <title>🌹 מזלא טבא וגדיא יאה 🌹</title>
@@ -172,6 +195,8 @@
       <content:encoded>&lt;p style="text-align: center;"&gt;שלוחה בזה ברכת 'מזל טוב' לבבית למורינו הרב שמעון שפיצר שליט"א &lt;em&gt;לרגל השמחה השרויה במעונו בהולדת הבן בשעטו"מ למזל טוב.&lt;/em&gt;&lt;/p&gt; &lt;p style="text-align: center;"&gt;יה"ר שיזכה עם נוות ביתו לגדלו לתורה לחופה ולמעשים טובים מתוך הרחבת הדעת בריות גופא ונהורא מעליא.&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>18229601</ns1:item-id>
+      <ns1:last-updated>2021-03-08T08:53:18Z</ns1:last-updated>
     </item>
     <item>
       <title>App Update</title>
@@ -183,6 +208,8 @@
       <content:encoded>&lt;p&gt;Please note that we ran in to a technical issue with the app which resulted in the Shiurim not being released since before Rosh Hashono. The issue has now been resolved and all missing Shiurim are now available in the App.&lt;/p&gt; &lt;p&gt;Please excuse us and thank you for all those that reached out with your feedback.&lt;/p&gt; &lt;p&gt;If you are not seeing new episodes, please try forcing a full refresh of the episodes. This can be done as follows: - Go to Settings and select the "Enable Full Refresh" option at the very bottom - Return to the main episode list and pull the list downward to trigger a refresh. This should force all episodes to update.&lt;/p&gt; &lt;p&gt;Gmar Chasima Tovah&lt;/p&gt; &lt;p&gt;Machon Havineini&lt;/p&gt; &lt;p style="text-align: right;"&gt; &lt;/p&gt; &lt;p style="text-align: right;"&gt;לצערינו עקב בעיה טכנית האפליקציה לא עבד בתקופה האחרונה, ב"ה הנושא הסתתדר ועכשיו אפשר למצוא את כל שם את כל השיעורים כולל האחרונים.&lt;/p&gt; &lt;p style="text-align: right;"&gt;בברכת גמר חתימה טובה&lt;/p&gt; &lt;p style="text-align: right;"&gt;מכון 'הבינני'&lt;/p&gt;</content:encoded>
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>11515319</ns1:item-id>
+      <ns1:last-updated>2019-10-05T17:53:15Z</ns1:last-updated>
     </item>
   </channel>
 </rss>

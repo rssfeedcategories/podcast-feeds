@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://rss.libsyn.com/ns.xml" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אמונת חכמים בדורינו</title>
-    <pubDate>Mon, 08 Jun 2026 10:31:38 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 10:31:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
+    <pubDate>Tue, 09 Jun 2026 11:53:22 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:53:22 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.1</generator>
+    <ns1:show-id>93012</ns1:show-id>
+    <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
     <language>en-us</language>
     <copyright>Machon Havineini</copyright>
@@ -45,6 +47,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/d/f/e/b/dfeb0ece8fc7d1ec40be95ea3302a6a1/_____-_____-________1601.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27744432</ns1:item-id>
+      <ns1:last-updated>2023-09-01T00:03:36Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת חכמים חלק ה' - מכל מלמדי השכלתי - אמתי?</title>
@@ -60,6 +64,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/3/8/2/c382eba6e26e12ede55e3c100dce7605/_____-_____-____-_.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27506931</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת חכמים חלק ד' - הקושי לברר בין אמת לשקר ועצות לזה</title>
@@ -75,6 +81,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/0/5/a/105ad515c648a929bafc7308ab683e82/______-_____-________1569.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27453921</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת חכמים בדורינו חלק ג' - ההרגשים וההתלהבות הנצרך בין רב ותלמיד</title>
@@ -90,6 +98,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/1/3/0/3/130380a80991ffcf40be95ea3302a6a1/_____-______-_______1565.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27370836</ns1:item-id>
+      <ns1:last-updated>2023-08-01T00:00:37Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת חכמים בדורינו חלק ב' - הבנת הענין של עירוב טוב ברע</title>
@@ -105,6 +115,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/b/0/7/4/b0742be7548625405f2e77a3093c12a1/_________-______-______.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27309873</ns1:item-id>
+      <ns1:last-updated>2023-07-05T09:59:59Z</ns1:last-updated>
     </item>
     <item>
       <title>אמונת חכמים בדורינו ח"א - עשה לך רב</title>
@@ -120,6 +132,8 @@
       <itunes:keywords />
       <itunes:image href="https://static.libsyn.com/p/assets/c/8/1/e/c81e59d1269593eed959afa2a1bf1c87/________-______-____1559.jpg" />
       <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>27233769</ns1:item-id>
+      <ns1:last-updated>2023-07-05T09:59:45Z</ns1:last-updated>
     </item>
   </channel>
 </rss>
