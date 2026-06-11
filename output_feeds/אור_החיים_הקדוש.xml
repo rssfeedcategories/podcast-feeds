@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 10 Jun 2026 10:27:29 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 10:27:29 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 21:09:00 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 21:09:00 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הק' פרשת קרח - הגוף מעכב שלא נראה את הטוב של הקב"ה</title>
+      <itunes:title>אור החיים הק' פרשת קרח - הגוף מעכב שלא נראה את הטוב של הקב"ה</itunes:title>
+      <pubDate>Thu, 11 Jun 2026 20:53:00 +0000</pubDate>
+      <guid isPermaLink="false">a219500e-2ace-4f9b-ada1-ea86e6d26384</guid>
+      <link>https://lomdotchasidut.libsyn.com/dj8rf4btemum</link>
+      <description>&lt;p&gt;ליל שישי פרשת קרח (שלח בחו"ל) תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת קרח (שלח בחו"ל) תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-______-________.mp3?dest-id=468609" length="12789706" type="audio/mpeg" />
+      <itunes:duration>42:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/2/0/7/f207fe6db28ca1bcd959afa2a1bf1c87/_________-______-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41616060</ns1:item-id>
+      <ns1:last-updated>2026-06-11T20:54:37Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת שלח - מה התענוג והגעשמאק של להיות עבד</title>
       <itunes:title>אור החיים הקדוש פרשת שלח - מה התענוג והגעשמאק של להיות עבד</itunes:title>
