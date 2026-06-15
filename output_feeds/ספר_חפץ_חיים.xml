@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 14 Jun 2026 10:34:57 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 10:34:57 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 10:59:33 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:59:33 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #43 - הקדמה חלק מ"ג, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק ב'</title>
+      <itunes:title>ספר חפץ חיים שיעור #43 - הקדמה חלק מ"ג, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק ב'</itunes:title>
+      <pubDate>Mon, 15 Jun 2026 09:12:00 +0000</pubDate>
+      <guid isPermaLink="false">a9d9d19d-9fda-4245-9cb4-a0de31c2afc3</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--43-4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____43_-_______-__.mp3?dest-id=468609" length="1846494" type="audio/mpeg" />
+      <itunes:duration>05:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/7/f/c/77fcb33fe3ca7ecd16c3140a3186d450/____43_-_______-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41645830</ns1:item-id>
+      <ns1:last-updated>2026-06-15T09:15:16Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #42 - הקדמה חלק מ"ב, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק א'</title>
       <itunes:title>ספר חפץ חיים שיעור #42 - הקדמה חלק מ"ב, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק א'</itunes:title>

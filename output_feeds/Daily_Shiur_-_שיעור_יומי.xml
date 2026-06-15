@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 14 Jun 2026 10:34:57 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 10:34:57 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 10:59:33 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:59:33 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להפוך הרוחניות משמיעה לראייה</title>
+      <itunes:title>להפוך הרוחניות משמיעה לראייה</itunes:title>
+      <pubDate>Mon, 15 Jun 2026 10:22:00 +0000</pubDate>
+      <guid isPermaLink="false">cc33ed4c-6738-4603-a5b9-95902ab957bd</guid>
+      <link>https://lomdotchasidut.libsyn.com/bktg4ggt186y</link>
+      <description>&lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;זאב בן דבורא יוטא&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;שרה רבקה בת עטיע דבורה&lt;/strong&gt;&lt;br /&gt; נדבת אבי הכלה הר"ר &lt;strong&gt;מאיר אברהם שפיצער&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;נלמד לזכות החתן זאב בן דבורא יוטא והכלה שרה רבקה בת עטיע דבורה נדבת אבי הכלה הר"ר מאיר אברהם שפיצער הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_____17992.mp3?dest-id=468609" length="13293632" type="audio/mpeg" />
+      <itunes:duration>44:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/3/0/8/6308368250cd2e3016c3140a3186d450/_______-_____17992.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41646265</ns1:item-id>
+      <ns1:last-updated>2026-06-15T10:38:26Z</ns1:last-updated>
+    </item>
     <item>
       <title>'ימין מקרבת' או שמאל דוחה' או מהלך שלישי....</title>
       <itunes:title>'ימין מקרבת' או שמאל דוחה' או מהלך שלישי....</itunes:title>
