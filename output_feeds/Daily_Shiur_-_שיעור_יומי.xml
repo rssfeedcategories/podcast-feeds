@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 16 Jun 2026 11:00:23 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 11:00:23 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 09:55:13 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:55:13 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>המתנה של דעת</title>
+      <itunes:title>המתנה של דעת</itunes:title>
+      <pubDate>Wed, 17 Jun 2026 09:48:00 +0000</pubDate>
+      <guid isPermaLink="false">6a35b07b-65c3-4cbc-aaa1-856a40c8d39e</guid>
+      <link>https://lomdotchasidut.libsyn.com/1fz793frkyfa</link>
+      <description>&lt;p&gt;יום ד' פרשת חקת (קרח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;נח בן יוכבד גיננדל אסתר&lt;/strong&gt; &lt;br /&gt; והכלה &lt;strong&gt;צביה יהודית בת העניא גיטל&lt;/strong&gt;&lt;br /&gt; נדבת אבי הכלה הר"ר &lt;strong&gt;אהרן שבדרון&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת חקת (קרח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן נח בן יוכבד גיננדל אסתר והכלה צביה יהודית בת העניא גיטל נדבת אבי הכלה הר"ר אהרן שבדרון הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-___.mp3?dest-id=468609" length="15916059" type="audio/mpeg" />
+      <itunes:duration>44:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/8/a/c/48acd85dfb5c708d16c3140a3186d450/_______-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41675885</ns1:item-id>
+      <ns1:last-updated>2026-06-17T09:51:26Z</ns1:last-updated>
+    </item>
     <item>
       <title>להפוך הרוחניות משמיעה לראייה</title>
       <itunes:title>להפוך הרוחניות משמיעה לראייה</itunes:title>
