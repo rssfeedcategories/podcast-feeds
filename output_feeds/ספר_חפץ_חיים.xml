@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Wed, 17 Jun 2026 09:55:13 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 09:55:13 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 10:30:08 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:30:08 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #46 - הקדמה חלק מ"ו, ההגה - ואל יפלא בעיני הקורא - חלק ג'</title>
+      <itunes:title>ספר חפץ חיים שיעור #46 - הקדמה חלק מ"ו, ההגה - ואל יפלא בעיני הקורא - חלק ג'</itunes:title>
+      <pubDate>Thu, 18 Jun 2026 08:51:00 +0000</pubDate>
+      <guid isPermaLink="false">474e105e-5b1e-4a56-a747-88e65b8625b2</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--46-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____46_-_____-_____-__.mp3?dest-id=468609" length="2593576" type="audio/mpeg" />
+      <itunes:duration>08:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/c/3/4/4c341ae34b5ca17b16c3140a3186d450/____46_-_____-_____-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41687480</ns1:item-id>
+      <ns1:last-updated>2026-06-18T08:52:45Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #45 - הקדמה חלק מ"ה, ההגה - ואל יפלא בעיני הקורא - חלק ב'</title>
       <itunes:title>ספר חפץ חיים שיעור #45 - הקדמה חלק מ"ה, ההגה - ואל יפלא בעיני הקורא - חלק ב'</itunes:title>

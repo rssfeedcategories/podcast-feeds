@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שבת קודש</title>
-    <pubDate>Wed, 17 Jun 2026 09:55:13 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 09:55:13 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 10:30:08 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:30:08 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עניני שבת קודש #101 - זמן שהמחשבות מתברכות</title>
+      <itunes:title>עניני שבת קודש #101 - זמן שהמחשבות מתברכות</itunes:title>
+      <pubDate>Thu, 18 Jun 2026 10:14:00 +0000</pubDate>
+      <guid isPermaLink="false">8f596c1f-e13d-4401-a7a5-f7a51549779a</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--101-1</link>
+      <description>&lt;p&gt;יום ה' פרשת חקת (קרח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;יושע מאיר גפן&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת נישאוי בנו &lt;br /&gt; החתן &lt;strong&gt;שמואל אהרן מנחם גרשון&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;שרה בת בילא פרידא&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת חקת (קרח בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר יושע מאיר גפן הי"ו לרגל שמחת נישאוי בנו החתן שמואל אהרן מנחם גרשון והכלה שרה בת בילא פרידא&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____101_-___.mp3?dest-id=468609" length="14518962" type="audio/mpeg" />
+      <itunes:duration>48:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/5/a/b/a5abf2220bd721d916c3140a3186d450/_______-____101_-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41687980</ns1:item-id>
+      <ns1:last-updated>2026-06-18T10:20:53Z</ns1:last-updated>
+    </item>
     <item>
       <title>עניני שבת קודש #100 - מה אני רוצה להעביר לילדים במשך סעודת שבת</title>
       <itunes:title>עניני שבת קודש #100 - מה אני רוצה להעביר לילדים במשך סעודת שבת</itunes:title>
