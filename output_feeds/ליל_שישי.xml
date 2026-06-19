@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 17 Jun 2026 09:55:13 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 09:55:13 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 22:44:54 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:44:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הקושי והעבודה של להיות מודה על האמת על טובות הקב"ה</title>
+      <itunes:title>הקושי והעבודה של להיות מודה על האמת על טובות הקב"ה</itunes:title>
+      <pubDate>Thu, 18 Jun 2026 22:34:00 +0000</pubDate>
+      <guid isPermaLink="false">ae7673ee-f9c5-442d-b7f2-d2188712b78e</guid>
+      <link>https://lomdotchasidut.libsyn.com/f0e7v4rb818u</link>
+      <description>&lt;p&gt;ליל שישי פרשת חקת (קרח בחו"ל) תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת חקת (קרח בחו"ל) תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-___________2488.mp3?dest-id=468609" length="9858466" type="audio/mpeg" />
+      <itunes:duration>32:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/c/1/a/6c1a91498a34938b16c3140a3186d450/_________-___________2488.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41696985</ns1:item-id>
+      <ns1:last-updated>2026-06-18T22:35:26Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>האחריות לא להכניס לילדים הרגשה שהקב"ה כועס עליהם</title>
+      <itunes:title>האחריות לא להכניס לילדים הרגשה שהקב"ה כועס עליהם</itunes:title>
+      <pubDate>Thu, 18 Jun 2026 22:32:00 +0000</pubDate>
+      <guid isPermaLink="false">bd7eff1f-4d97-4084-95ab-e309ec75f956</guid>
+      <link>https://lomdotchasidut.libsyn.com/3uvm19x7d3sh</link>
+      <description>&lt;p&gt;ליל שישי פרשת חקת (קרח בחו"ל) תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת חקת (קרח בחו"ל) תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-_________2552.mp3?dest-id=468609" length="2760997" type="audio/mpeg" />
+      <itunes:duration>09:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/4/9/d/b49d02168ee4809a16c3140a3186d450/_________-_________2552.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41696960</ns1:item-id>
+      <ns1:last-updated>2026-06-18T22:33:32Z</ns1:last-updated>
+    </item>
     <item>
       <title>העבודה של אמונה כשנצטער על ידי בעל בחירה</title>
       <itunes:title>העבודה של אמונה כשנצטער על ידי בעל בחירה</itunes:title>
