@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Thu, 18 Jun 2026 22:44:54 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 22:44:54 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 10:11:55 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:11:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1053 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ג</title>
+      <itunes:title>הבינני בהלכה #1053 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ג</itunes:title>
+      <pubDate>Sun, 21 Jun 2026 09:24:00 +0000</pubDate>
+      <guid isPermaLink="false">d8a5a0d1-28a7-4257-aa8a-c36a8728534b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1053</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1053_-_____________.mp3?dest-id=468609" length="4846357" type="audio/mpeg" />
+      <itunes:duration>16:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/d/f/4/edf4daccb13cdf3bd959afa2a1bf1c87/__1053_-_____________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41713235</ns1:item-id>
+      <ns1:last-updated>2026-06-21T09:25:05Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1052 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ב</title>
       <itunes:title>הבינני בהלכה #1052 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ב</itunes:title>
