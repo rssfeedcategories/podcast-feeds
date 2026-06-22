@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 21 Jun 2026 10:19:37 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 10:19:37 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 10:23:15 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:23:15 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מידת הסקרנות - שבחה וגנותה</title>
+      <itunes:title>מידת הסקרנות - שבחה וגנותה</itunes:title>
+      <pubDate>Mon, 22 Jun 2026 10:09:00 +0000</pubDate>
+      <guid isPermaLink="false">0381b439-931a-406d-bdb6-1cac4a24f378</guid>
+      <link>https://lomdotchasidut.libsyn.com/napwtqauo30q</link>
+      <description>&lt;p&gt;יום ב' פרשת בלק (חקת בלק בחו"ל) תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת בלק (חקת בלק בחו"ל) תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-___-___7224.mp3?dest-id=468609" length="14145411" type="audio/mpeg" />
+      <itunes:duration>47:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/e/4/a/9e4a6a31fc5c59f7d959afa2a1bf1c87/________-___-___7224.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41721845</ns1:item-id>
+      <ns1:last-updated>2026-06-22T10:11:39Z</ns1:last-updated>
+    </item>
     <item>
       <title>מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב - הגנות בחיפוש והתעניינות מה שקורה אצל האחר</title>
       <itunes:title>מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב - הגנות בחיפוש והתעניינות מה שקורה אצל האחר</itunes:title>

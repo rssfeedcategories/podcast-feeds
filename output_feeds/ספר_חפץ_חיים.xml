@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 21 Jun 2026 10:19:37 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 10:19:37 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 10:23:15 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:23:15 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #48 - הקדמה חלק מ"ח, ההגה - ואל יפלא בעיני הקורא - חלק ה'</title>
+      <itunes:title>ספר חפץ חיים שיעור #48 - הקדמה חלק מ"ח, ההגה - ואל יפלא בעיני הקורא - חלק ה'</itunes:title>
+      <pubDate>Mon, 22 Jun 2026 09:01:00 +0000</pubDate>
+      <guid isPermaLink="false">ae1b9789-9d4a-4a99-9f56-2c5b99040146</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--48-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____48_-_____-_____-__.mp3?dest-id=468609" length="2425347" type="audio/mpeg" />
+      <itunes:duration>07:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/d/4/7/4d474bfc71a6dda616c3140a3186d450/____48_-_____-_____-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41721545</ns1:item-id>
+      <ns1:last-updated>2026-06-22T09:03:37Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #47 - הקדמה חלק מ"ז, ההגה - ואל יפלא בעיני הקורא - חלק ד'</title>
       <itunes:title>ספר חפץ חיים שיעור #47 - הקדמה חלק מ"ז, ההגה - ואל יפלא בעיני הקורא - חלק ד'</itunes:title>
