@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 23 Jun 2026 10:33:33 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 10:33:33 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 11:03:40 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:03:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>סקרנות - סימן להאדם על מצבו</title>
+      <itunes:title>סקרנות - סימן להאדם על מצבו</itunes:title>
+      <pubDate>Wed, 24 Jun 2026 10:24:00 +0000</pubDate>
+      <guid isPermaLink="false">c1405d0a-2425-43cb-b6ec-4958af0c4699</guid>
+      <link>https://lomdotchasidut.libsyn.com/4aketnw845ll</link>
+      <description>&lt;p&gt;יום ד' פרשת בלק (חקת בלק בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;משה בן סימא מעכיא שבע מרים&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;חנה זעלדא בת מירל רבקה&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;חיים מרדכי שניצער&lt;/strong&gt; הי"ו&lt;/p&gt; &lt;p&gt;נדבת &lt;br /&gt; הר"ר &lt;strong&gt;חיים בצלאל לוי&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת נישואי בנו החתן &lt;strong&gt;אברהם יוסף אפרים&lt;/strong&gt; ני"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת בלק (חקת בלק בחו"ל) תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן משה בן סימא מעכיא שבע מרים והכלה חנה זעלדא בת מירל רבקה נדבת אבי החתן הר"ר חיים מרדכי שניצער הי"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר חיים בצלאל לוי הי"ו לרגל שמחת נישואי בנו החתן אברהם יוסף אפרים ני"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-__-____.mp3?dest-id=468609" length="14813503" type="audio/mpeg" />
+      <itunes:duration>49:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/a/b/5/0ab52250d492f7c216c3140a3186d450/________-__-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41791020</ns1:item-id>
+      <ns1:last-updated>2026-06-24T10:33:12Z</ns1:last-updated>
+    </item>
     <item>
       <title>מידת הסקרנות - שבחה וגנותה</title>
       <itunes:title>מידת הסקרנות - שבחה וגנותה</itunes:title>
