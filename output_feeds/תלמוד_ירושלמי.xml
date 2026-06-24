@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Tue, 23 Jun 2026 10:33:33 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 10:33:33 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 15:18:40 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:18:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת חגיגה דף ד'</title>
+      <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף ד'</itunes:title>
+      <pubDate>Wed, 24 Jun 2026 15:07:00 +0000</pubDate>
+      <guid isPermaLink="false">821cee4f-6eb8-4afc-8460-7442128223d5</guid>
+      <link>https://lomdotchasidut.libsyn.com/1mbbphlupz7p</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/04___-_____000.mp3?dest-id=468609" length="8604814" type="audio/mpeg" />
+      <itunes:duration>23:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/6/e/c/46ece561ba3d32b016c3140a3186d450/04___-_____000.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41793470</ns1:item-id>
+      <ns1:last-updated>2026-06-24T15:09:47Z</ns1:last-updated>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ג'</title>
       <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף ג'</itunes:title>
