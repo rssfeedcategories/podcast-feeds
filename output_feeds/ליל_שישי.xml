@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 24 Jun 2026 15:18:40 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 15:18:40 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 21:49:16 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:49:16 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להבחין שהאדם האחר גדל בסביבה שונה</title>
+      <itunes:title>להבחין שהאדם האחר גדל בסביבה שונה</itunes:title>
+      <pubDate>Thu, 25 Jun 2026 21:43:00 +0000</pubDate>
+      <guid isPermaLink="false">f4c79235-3a50-4672-9e67-d03fad156c1c</guid>
+      <link>https://lomdotchasidut.libsyn.com/d3o4dmf9o3yv</link>
+      <description>&lt;p&gt;ליל שישי פרשת בלק (חקת בלק בחו"ל) תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בלק (חקת בלק בחו"ל) תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__________-_______232.mp3?dest-id=468609" length="4194757" type="audio/mpeg" />
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/c/a/0/fca0686c5f255f3116c3140a3186d450/__________-_______232.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41810160</ns1:item-id>
+      <ns1:last-updated>2026-06-25T21:43:58Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>חינוך - לדבר מתוך הנשמה להנשמה</title>
+      <itunes:title>חינוך - לדבר מתוך הנשמה להנשמה</itunes:title>
+      <pubDate>Thu, 25 Jun 2026 21:35:00 +0000</pubDate>
+      <guid isPermaLink="false">21443743-d872-43d3-a7c6-b8ffec6e7279</guid>
+      <link>https://lomdotchasidut.libsyn.com/o9thbo0fdz41</link>
+      <description>&lt;p&gt;ליל שישי פרשת בלק (חקת בלק בחו"ל) תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בלק (חקת בלק בחו"ל) תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__________-__-____.mp3?dest-id=468609" length="6706562" type="audio/mpeg" />
+      <itunes:duration>22:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/d/5/3/fd5335b474f61f6cd959afa2a1bf1c87/__________-__-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41810135</ns1:item-id>
+      <ns1:last-updated>2026-06-25T21:42:21Z</ns1:last-updated>
+    </item>
     <item>
       <title>הקושי והעבודה של להיות מודה על האמת על טובות הקב"ה</title>
       <itunes:title>הקושי והעבודה של להיות מודה על האמת על טובות הקב"ה</itunes:title>
