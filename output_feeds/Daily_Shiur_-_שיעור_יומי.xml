@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 28 Jun 2026 10:24:20 +0000</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 10:24:20 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 10:26:53 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:26:53 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הנסיונות מראים לאדם איפה הוא עומד</title>
+      <itunes:title>הנסיונות מראים לאדם איפה הוא עומד</itunes:title>
+      <pubDate>Mon, 29 Jun 2026 10:06:00 +0000</pubDate>
+      <guid isPermaLink="false">bd10f051-cdbf-4317-a534-7b82fbf8066e</guid>
+      <link>https://lomdotchasidut.libsyn.com/7m6a88ll0pp4</link>
+      <description>&lt;p&gt;יום ב' פרשת פנחס תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;יוסף יצחק בן חנה טויבא&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;שרה שיינדל בת מחיה לאה&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;יעקב מאשקאוויטש&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת פנחס תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן יוסף יצחק בן חנה טויבא והכלה שרה שיינדל בת מחיה לאה נדבת אבי החתן הר"ר יעקב מאשקאוויטש הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______455.mp3?dest-id=468609" length="14138571" type="audio/mpeg" />
+      <itunes:duration>46:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/b/3/c/eb3c14a47ec6845e16c3140a3186d450/_____-_______455.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41860170</ns1:item-id>
+      <ns1:last-updated>2026-06-29T10:07:38Z</ns1:last-updated>
+    </item>
     <item>
       <title>בדרך שאדם רוצה לילך מוליכין אותו - לפי כוונת לבו</title>
       <itunes:title>בדרך שאדם רוצה לילך מוליכין אותו - לפי כוונת לבו</itunes:title>
