@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 29 Jun 2026 10:26:53 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 10:26:53 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 10:33:58 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:33:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חובות הלבבות שער הביטחון שיעור #336 - תרעומות - לשרש אחרי החטא</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #336 - תרעומות - לשרש אחרי החטא</itunes:title>
+      <pubDate>Tue, 30 Jun 2026 10:05:00 +0000</pubDate>
+      <guid isPermaLink="false">1069535d-f3a5-43e2-b6eb-3a7045984101</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--336-0</link>
+      <description>&lt;p&gt;יום ג' פרשת פנחס תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ &lt;br /&gt; הרה"ג ר' &lt;strong&gt;משה יצחק&lt;/strong&gt; ז"ל בן יבלחט"א הרה"ג ר' &lt;strong&gt;יחיאל&lt;/strong&gt; הי"ו &lt;strong&gt;באב"ד&lt;/strong&gt;&lt;br /&gt; נדבת משפחתו שיחי'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג' פרשת פנחס תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ הרה"ג ר' משה יצחק ז"ל בן יבלחט"א הרה"ג ר' יחיאל הי"ו באב"ד נדבת משפחתו שיחי'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______336_-__-___.mp3?dest-id=468609" length="22853012" type="audio/mpeg" />
+      <itunes:duration>01:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/b/c/8/bbc8557e48ea4aaad959afa2a1bf1c87/_____-______336_-__-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41904230</ns1:item-id>
+      <ns1:last-updated>2026-06-30T10:13:12Z</ns1:last-updated>
+    </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #335 - התרופה האמיתית להתמרמרות</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #335 - התרופה האמיתית להתמרמרות</itunes:title>
