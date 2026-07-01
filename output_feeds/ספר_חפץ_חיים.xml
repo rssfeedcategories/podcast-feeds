@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Tue, 30 Jun 2026 22:02:12 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 22:02:12 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>ספר חפץ חיים שיעור #55 - פתיחה חלק א'</title>
+      <itunes:title>ספר חפץ חיים שיעור #55 - פתיחה חלק א'</itunes:title>
+      <pubDate>Wed, 01 Jul 2026 15:35:00 +0000</pubDate>
+      <guid isPermaLink="false">39723b37-46da-466c-b604-9086a0856030</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--55-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____55_-___.mp3?dest-id=468609" length="3056851" type="audio/mpeg" />
+      <itunes:duration>08:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/d/0/2/5d022c0ac0ddd83116c3140a3186d450/____55_-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41920865</ns1:item-id>
+      <ns1:last-updated>2026-07-01T15:35:35Z</ns1:last-updated>
+    </item>
+    <item>
       <title>ספר חפץ חיים שיעור #54 - הקדמה חלק נ"ד, גַּם לְבַד זֶה יָדוּעַ הוּא מַה שֶּׁהוּבָא בְּמִדְרַשׁ - חלק ג'</title>
       <itunes:title>ספר חפץ חיים שיעור #54 - הקדמה חלק נ"ד, גַּם לְבַד זֶה יָדוּעַ הוּא מַה שֶּׁהוּבָא בְּמִדְרַשׁ - חלק ג'</itunes:title>
       <pubDate>Tue, 30 Jun 2026 10:21:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41904275</ns1:item-id>
-      <ns1:last-updated>2026-06-30T10:23:55Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #53 - הקדמה חלק נ"ג, גַּם לְבַד זֶה יָדוּעַ הוּא מַה שֶּׁהוּבָא בְּמִדְרַשׁ - חלק ב'</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41859945</ns1:item-id>
-      <ns1:last-updated>2026-06-29T09:18:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #52 - הקדמה חלק נ"ב, גַּם לְבַד זֶה יָדוּעַ הוּא מַה שֶּׁהוּבָא בְּמִדְרַשׁ - חלק א'</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41851515</ns1:item-id>
-      <ns1:last-updated>2026-06-28T10:16:24Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #51 - הקדמה חלק נ"א, גַּם חִבַּרְתִּי אֶל הַסֵפֶר הַזֶּה' - חלק ב'</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41802280</ns1:item-id>
-      <ns1:last-updated>2026-06-25T09:33:29Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #50 - הקדמה חלק נ', גַּם חִבַּרְתִּי אֶל הַסֵפֶר הַזֶּה' - חלק א'</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41791110</ns1:item-id>
-      <ns1:last-updated>2026-06-24T10:47:25Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #49 - הקדמה חלק מ"ט, ההגה - ואל יפלא בעיני הקורא - חלק ו'</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41739600</ns1:item-id>
-      <ns1:last-updated>2026-06-23T09:19:01Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #48 - הקדמה חלק מ"ח, ההגה - ואל יפלא בעיני הקורא - חלק ה'</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41721545</ns1:item-id>
-      <ns1:last-updated>2026-06-22T09:03:37Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #47 - הקדמה חלק מ"ז, ההגה - ואל יפלא בעיני הקורא - חלק ד'</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41713225</ns1:item-id>
-      <ns1:last-updated>2026-06-21T09:18:59Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #46 - הקדמה חלק מ"ו, ההגה - ואל יפלא בעיני הקורא - חלק ג'</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41687480</ns1:item-id>
-      <ns1:last-updated>2026-06-18T08:52:45Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #45 - הקדמה חלק מ"ה, ההגה - ואל יפלא בעיני הקורא - חלק ב'</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41675715</ns1:item-id>
-      <ns1:last-updated>2026-06-17T09:14:03Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #44 - הקדמה חלק מ"ד, ההגה - ואל יפלא בעיני הקורא - חלק א'</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41660745</ns1:item-id>
-      <ns1:last-updated>2026-06-16T09:30:29Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #43 - הקדמה חלק מ"ג, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק ב'</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41645830</ns1:item-id>
-      <ns1:last-updated>2026-06-15T09:15:16Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #42 - הקדמה חלק מ"ב, ואֲחַלֶּה לְהַקּוֹרֵא הַנָּעִים - חלק א'</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41636360</ns1:item-id>
-      <ns1:last-updated>2026-06-14T10:17:07Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #41 - הקדמה חלק מ"א, וּמִפְּנִי שֶׁלֹּא יָקּוּץ הַקּוֹרֵא בִּקְּרִיאָתוֹ - חלק ב'</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41609145</ns1:item-id>
-      <ns1:last-updated>2026-06-11T09:17:28Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #40 - הקדמה חלק מ', וּמִפְּנִי שֶׁלֹּא יָקּוּץ הַקּוֹרֵא בִּקְּרִיאָתוֹ</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41595800</ns1:item-id>
-      <ns1:last-updated>2026-06-10T09:14:04Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #39 - הקדמה חלק ל"ט, וְקרָאתִי אֶת שֵׁם הַסֵפֶר הַזֶּה</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41583310</ns1:item-id>
-      <ns1:last-updated>2026-06-09T09:16:26Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #38 - הקדמה חלק ל"ח, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק ב'</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41569975</ns1:item-id>
-      <ns1:last-updated>2026-06-08T09:21:35Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #37 - הקדמה חלק ל"ז, עַל כֵּן אָזַרְתִּי כְּגֶבֶר חֲלָצַי - חלק א'</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41561430</ns1:item-id>
-      <ns1:last-updated>2026-06-07T09:23:17Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #36 - הקדמה חלק ל"ו, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ד'</title>
@@ -373,7 +391,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41532640</ns1:item-id>
-      <ns1:last-updated>2026-06-04T09:28:18Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #35 - הקדמה חלק ל"ה, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ג'</title>
@@ -391,7 +409,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522195</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:12:22Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #34 - הקדמה חלק ל"ד, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק ב'</title>
@@ -409,7 +427,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41506095</ns1:item-id>
-      <ns1:last-updated>2026-06-02T10:21:26Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #33 - הקדמה חלק ל"ג, וְכָל אֵלּוּ הַסִבּוֹת עִקָּרָם הוּא - חלק א'</title>
@@ -427,7 +445,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41506075</ns1:item-id>
-      <ns1:last-updated>2026-06-02T10:19:43Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #32 - הקדמה חלק ל"ב, וּמִצּד אֵלּוּ הַסִבּוֹת נִתְמוֹטֵט הָעִנְיָן</title>

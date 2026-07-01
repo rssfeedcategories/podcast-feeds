@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Tue, 30 Jun 2026 22:02:12 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 22:02:12 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>תלמוד ירושלמי - מסכת חגיגה דף י"א</title>
+      <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף י"א</itunes:title>
+      <pubDate>Wed, 01 Jul 2026 16:14:00 +0000</pubDate>
+      <guid isPermaLink="false">06fa07b1-fdc6-4d9c-9339-43b2838d40bb</guid>
+      <link>https://lomdotchasidut.libsyn.com/oqday3bzl7ur</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/11___-_____554.mp3?dest-id=468609" length="13101637" type="audio/mpeg" />
+      <itunes:duration>43:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/3/a/d/d3adb890de0e72c016c3140a3186d450/11___-_____554.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41921465</ns1:item-id>
+      <ns1:last-updated>2026-07-01T16:16:54Z</ns1:last-updated>
+    </item>
+    <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף י'</title>
       <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף י'</itunes:title>
       <pubDate>Tue, 30 Jun 2026 21:54:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41912940</ns1:item-id>
-      <ns1:last-updated>2026-06-30T21:56:18Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ט'</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41860035</ns1:item-id>
-      <ns1:last-updated>2026-06-29T09:34:31Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ח'</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41860030</ns1:item-id>
-      <ns1:last-updated>2026-06-29T09:32:41Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ז'</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41802625</ns1:item-id>
-      <ns1:last-updated>2026-06-25T10:45:29Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ו'</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41802575</ns1:item-id>
-      <ns1:last-updated>2026-06-25T10:43:39Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ד'</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41793470</ns1:item-id>
-      <ns1:last-updated>2026-06-24T15:09:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ג'</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41739670</ns1:item-id>
-      <ns1:last-updated>2026-06-23T09:37:18Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף ב'</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41739660</ns1:item-id>
-      <ns1:last-updated>2026-06-23T09:35:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>מסכת חדשה - תלמוד ירושלמי - מסכת חגיגה דף א'</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41721665</ns1:item-id>
-      <ns1:last-updated>2026-06-22T09:32:53Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף מ"א</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41713240</ns1:item-id>
-      <ns1:last-updated>2026-06-21T09:29:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ט</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41687595</ns1:item-id>
-      <ns1:last-updated>2026-06-18T09:11:44Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ח</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41675790</ns1:item-id>
-      <ns1:last-updated>2026-06-17T09:27:07Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ז</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41675760</ns1:item-id>
-      <ns1:last-updated>2026-06-17T09:24:13Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ו</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41661080</ns1:item-id>
-      <ns1:last-updated>2026-06-16T10:42:02Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ה</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41661060</ns1:item-id>
-      <ns1:last-updated>2026-06-16T10:40:17Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ד</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41609475</ns1:item-id>
-      <ns1:last-updated>2026-06-11T10:27:03Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ג</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41595890</ns1:item-id>
-      <ns1:last-updated>2026-06-10T09:31:14Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"ב</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41595870</ns1:item-id>
-      <ns1:last-updated>2026-06-10T09:28:15Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל"א</title>
@@ -373,7 +391,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41583575</ns1:item-id>
-      <ns1:last-updated>2026-06-09T10:16:10Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף ל'</title>
@@ -391,7 +409,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41583485</ns1:item-id>
-      <ns1:last-updated>2026-06-09T09:50:44Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ט</title>
@@ -409,7 +427,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41561540</ns1:item-id>
-      <ns1:last-updated>2026-06-07T10:10:00Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ח</title>
@@ -427,7 +445,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41561460</ns1:item-id>
-      <ns1:last-updated>2026-06-07T09:37:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ו</title>
@@ -445,7 +463,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41532995</ns1:item-id>
-      <ns1:last-updated>2026-06-04T10:34:21Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ז</title>
@@ -463,7 +481,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41533000</ns1:item-id>
-      <ns1:last-updated>2026-06-04T10:34:37Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ד</title>
@@ -481,7 +499,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522490</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:43:25Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ה</title>
@@ -499,7 +517,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522495</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:43:49Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ג</title>
@@ -517,7 +535,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522480</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:42:51Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"ב</title>
@@ -535,7 +553,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522465</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:39:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>תלמוד ירושלמי - מסכת מגילה דף כ"א</title>

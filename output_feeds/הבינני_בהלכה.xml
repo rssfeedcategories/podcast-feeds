@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Tue, 30 Jun 2026 22:02:12 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 22:02:12 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>הבינני בהלכה #1060 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"י</title>
+      <itunes:title>הבינני בהלכה #1060 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"י</itunes:title>
+      <pubDate>Wed, 01 Jul 2026 15:44:00 +0000</pubDate>
+      <guid isPermaLink="false">08dea254-ed89-4aae-8612-cbf388bf3f8b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1060</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1060_-_____________.mp3?dest-id=468609" length="2463865" type="audio/mpeg" />
+      <itunes:duration>08:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/a/b/4/9ab40f3205de7553d959afa2a1bf1c87/__1060_-_____________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41921015</ns1:item-id>
+      <ns1:last-updated>2026-07-01T15:45:56Z</ns1:last-updated>
+    </item>
+    <item>
       <title>הבינני בהלכה #1059 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ט</title>
       <itunes:title>הבינני בהלכה #1059 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ט</itunes:title>
       <pubDate>Tue, 30 Jun 2026 21:48:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41912830</ns1:item-id>
-      <ns1:last-updated>2026-06-30T21:49:48Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1058 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ח</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41860015</ns1:item-id>
-      <ns1:last-updated>2026-06-29T09:30:26Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1057 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ז</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41802515</ns1:item-id>
-      <ns1:last-updated>2026-06-25T10:32:43Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1056 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ו</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41791175</ns1:item-id>
-      <ns1:last-updated>2026-06-24T10:54:16Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1055 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ה</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41739630</ns1:item-id>
-      <ns1:last-updated>2026-06-23T09:22:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1054 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ד</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41721570</ns1:item-id>
-      <ns1:last-updated>2026-06-22T09:08:01Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1053 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ג</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41713235</ns1:item-id>
-      <ns1:last-updated>2026-06-21T09:25:05Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1052 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ד' ח"ב</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41687570</ns1:item-id>
-      <ns1:last-updated>2026-06-18T09:07:20Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1051 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ב' ג' ח"ב, ד' ח"א</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41675720</ns1:item-id>
-      <ns1:last-updated>2026-06-17T09:15:58Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1050 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף ב' ח"א</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41660760</ns1:item-id>
-      <ns1:last-updated>2026-06-16T09:37:18Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1049 - סימן ש"ט, טלטול על ידי דבר אחר אם מותר בשבת, סעיף א'</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41646310</ns1:item-id>
-      <ns1:last-updated>2026-06-15T10:49:22Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1048 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף נ"ב</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41636400</ns1:item-id>
-      <ns1:last-updated>2026-06-14T10:29:18Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1047 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף נ"א</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41609195</ns1:item-id>
-      <ns1:last-updated>2026-06-11T09:30:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1046 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ח, מ"ט, נ'</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41595830</ns1:item-id>
-      <ns1:last-updated>2026-06-10T09:24:55Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1045 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ו, מ"ז</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41583325</ns1:item-id>
-      <ns1:last-updated>2026-06-09T09:23:02Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1044 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"ה</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41570025</ns1:item-id>
-      <ns1:last-updated>2026-06-08T09:27:21Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1043 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"א ח"ב, מ"ב, מ"ג, מ"ד</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41561450</ns1:item-id>
-      <ns1:last-updated>2026-06-07T09:28:04Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1042 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ"א ח"א</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41532645</ns1:item-id>
-      <ns1:last-updated>2026-06-04T09:30:33Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1041 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף מ'</title>
@@ -373,7 +391,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41522290</ns1:item-id>
-      <ns1:last-updated>2026-06-03T13:19:39Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1040 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ל"ט</title>
@@ -391,7 +409,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41506160</ns1:item-id>
-      <ns1:last-updated>2026-06-02T10:40:29Z</ns1:last-updated>
+      <ns1:last-updated>2026-07-01T00:01:41Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1039 - סימן ש"ח, דברים המותרים והאסורים לטלטל בשבת, סעיף ל"ח</title>
