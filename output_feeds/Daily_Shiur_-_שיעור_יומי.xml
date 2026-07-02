@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 09:55:59 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:55:59 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור של ימי בין המצרים</title>
+      <itunes:title>אור של ימי בין המצרים</itunes:title>
+      <pubDate>Thu, 02 Jul 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="false">d31c8ff6-ae89-43a1-82ae-09bd0dea67b9</guid>
+      <link>https://lomdotchasidut.libsyn.com/17tj3amtft15</link>
+      <description>&lt;p&gt;יום ה' פרשת פנחס תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת פנחס תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______5122.mp3?dest-id=468609" length="14751112" type="audio/mpeg" />
+      <itunes:duration>49:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/9/3/2/f9320abb903c8f5d16c3140a3186d450/_____-______5122.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41930425</ns1:item-id>
+      <ns1:last-updated>2026-07-02T09:28:11Z</ns1:last-updated>
+    </item>
     <item>
       <title>הנסיונות מראים לאדם איפה הוא עומד</title>
       <itunes:title>הנסיונות מראים לאדם איפה הוא עומד</itunes:title>

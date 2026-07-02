@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 09:55:59 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:55:59 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #56 - פתיחה חלק ב'</title>
+      <itunes:title>ספר חפץ חיים שיעור #56 - פתיחה חלק ב'</itunes:title>
+      <pubDate>Thu, 02 Jul 2026 08:24:00 +0000</pubDate>
+      <guid isPermaLink="false">b25d2faa-dc19-41cd-9eb1-3ce58765c1f2</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--56-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____56_-___.mp3?dest-id=468609" length="2652475" type="audio/mpeg" />
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/5/a/0/e5a08f646725bd5ad959afa2a1bf1c87/____56_-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41929660</ns1:item-id>
+      <ns1:last-updated>2026-07-02T08:27:12Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #55 - פתיחה חלק א'</title>
       <itunes:title>ספר חפץ חיים שיעור #55 - פתיחה חלק א'</itunes:title>
