@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 01 Jul 2026 16:23:47 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 16:23:47 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 22:56:03 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:56:03 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מאיפה מביאים אש לבניין של אש</title>
+      <itunes:title>מאיפה מביאים אש לבניין של אש</itunes:title>
+      <pubDate>Thu, 02 Jul 2026 22:34:00 +0000</pubDate>
+      <guid isPermaLink="false">a84c64f9-855e-4659-b371-641eae5758f1</guid>
+      <link>https://lomdotchasidut.libsyn.com/lkbj2rtpd4l0</link>
+      <description>&lt;p&gt;ליל שישי פרשת פנחס תשפ"ו - חלק ב'&lt;/p&gt; &lt;p&gt;נמסר מול מקום בית המקדש שיבב"א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת פנחס תשפ"ו - חלק ב'&lt;/p&gt; &lt;p&gt;נמסר מול מקום בית המקדש שיבב"א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______355.mp3?dest-id=468609" length="8866092" type="audio/mpeg" />
+      <itunes:duration>29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/f/8/e/5f8ea2d4a61dfeabd959afa2a1bf1c87/_______-_______355.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41947270</ns1:item-id>
+      <ns1:last-updated>2026-07-02T22:36:52Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>בין המצרים - הזדמנות להרגיש צער השכינה</title>
+      <itunes:title>בין המצרים - הזדמנות להרגיש צער השכינה</itunes:title>
+      <pubDate>Thu, 02 Jul 2026 22:31:00 +0000</pubDate>
+      <guid isPermaLink="false">f428d36a-5bcf-431d-a6c3-b46d7a2262db</guid>
+      <link>https://lomdotchasidut.libsyn.com/5wce8eeu8a8e</link>
+      <description>&lt;p&gt;ליל שישי פרשת פנחס תשפ"ו - חלק א'&lt;/p&gt; &lt;p&gt;נמסר מול מקום בית המקדש שיבב"א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת פנחס תשפ"ו - חלק א'&lt;/p&gt; &lt;p&gt;נמסר מול מקום בית המקדש שיבב"א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-___-_____355.mp3?dest-id=468609" length="9665962" type="audio/mpeg" />
+      <itunes:duration>32:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/a/a/b/9aab0f9d3398195716c3140a3186d450/_______-___-_____355.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41947220</ns1:item-id>
+      <ns1:last-updated>2026-07-02T22:33:14Z</ns1:last-updated>
+    </item>
     <item>
       <title>להבחין שהאדם האחר גדל בסביבה שונה</title>
       <itunes:title>להבחין שהאדם האחר גדל בסביבה שונה</itunes:title>
