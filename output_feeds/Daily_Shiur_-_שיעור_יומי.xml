@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 05 Jul 2026 10:17:36 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2026 10:17:36 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 10:05:02 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:05:02 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>בין המצרים - הגלות של האדם עם עצמו</title>
+      <itunes:title>בין המצרים - הגלות של האדם עם עצמו</itunes:title>
+      <pubDate>Mon, 06 Jul 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">194c0cf8-e737-4ebc-82b7-3c5b65f112f2</guid>
+      <link>https://lomdotchasidut.libsyn.com/2i0eocx9tbbh</link>
+      <description>&lt;p&gt;יום ב' פרשת מטות מסעי תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת מטות מסעי תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___-______4556.mp3?dest-id=468609" length="13506102" type="audio/mpeg" />
+      <itunes:duration>44:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/9/f/8/69f8449cbcf650d916c3140a3186d450/______-___-______4556.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>41973020</ns1:item-id>
+      <ns1:last-updated>2026-07-06T09:17:34Z</ns1:last-updated>
+    </item>
     <item>
       <title>ימות המשיח - חיים של תכלית</title>
       <itunes:title>ימות המשיח - חיים של תכלית</itunes:title>
