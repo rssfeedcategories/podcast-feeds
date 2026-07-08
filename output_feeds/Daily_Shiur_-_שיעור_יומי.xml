@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 07 Jul 2026 19:38:46 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2026 19:38:46 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 10:00:47 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:00:47 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>גלות בינו לבין עצמו - למה אנחנו עושים מה שאנו עושים?</title>
+      <itunes:title>גלות בינו לבין עצמו - למה אנחנו עושים מה שאנו עושים?</itunes:title>
+      <pubDate>Wed, 08 Jul 2026 09:46:00 +0000</pubDate>
+      <guid isPermaLink="false">c7f39338-9337-4aad-aab3-532a07889fbf</guid>
+      <link>https://lomdotchasidut.libsyn.com/bwjr92uan18m</link>
+      <description>&lt;p&gt;יום ד' פרשת מטות מסעי תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;יוסף יודא יאקאבאוויטש&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הברית לבנו היום&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת מטות מסעי תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר יוסף יודא יאקאבאוויטש הי"ו לרגל שמחת הברית לבנו היום&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_____-_______6555.mp3?dest-id=468609" length="13203648" type="audio/mpeg" />
+      <itunes:duration>43:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/5/f/f/85ff223b8382f88616c3140a3186d450/______-_____-_______6555.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42005145</ns1:item-id>
+      <ns1:last-updated>2026-07-08T09:56:53Z</ns1:last-updated>
+    </item>
     <item>
       <title>בין המצרים - הגלות של האדם עם עצמו</title>
       <itunes:title>בין המצרים - הגלות של האדם עם עצמו</itunes:title>
