@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - שבת קודש</title>
-    <pubDate>Wed, 08 Jul 2026 10:00:47 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:00:47 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 10:02:31 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:02:31 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עניני שבת קודש #104 - מהלך פרקטי להגיע לידי עונג שבת</title>
+      <itunes:title>עניני שבת קודש #104 - מהלך פרקטי להגיע לידי עונג שבת</itunes:title>
+      <pubDate>Thu, 09 Jul 2026 09:26:00 +0000</pubDate>
+      <guid isPermaLink="false">7908be04-2666-40d1-a832-554dc5e48a1a</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--104-1</link>
+      <description>&lt;p&gt;יום ה' פרשת מטות מסעי תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת &lt;br /&gt; הר"ר &lt;strong&gt;יואל לעפקאוויטש&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הבר מצוה לבנו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת מטות מסעי תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר יואל לעפקאוויטש הי"ו לרגל שמחת הבר מצוה לבנו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-____104_-______.mp3?dest-id=468609" length="13201330" type="audio/mpeg" />
+      <itunes:duration>43:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/4/a/8/b4a863575c09bd85d959afa2a1bf1c87/______-____104_-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42021205</ns1:item-id>
+      <ns1:last-updated>2026-07-09T09:38:37Z</ns1:last-updated>
+    </item>
     <item>
       <title>עניני שבת קודש #103 - סעודת שבת - פרנסת הגוף והנפש ביחד</title>
       <itunes:title>עניני שבת קודש #103 - סעודת שבת - פרנסת הגוף והנפש ביחד</itunes:title>
