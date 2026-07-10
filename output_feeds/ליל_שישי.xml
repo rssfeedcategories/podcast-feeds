@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 08 Jul 2026 10:00:47 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:00:47 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 00:26:54 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:26:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>גלות הוא תמיד עם תקוה</title>
+      <itunes:title>גלות הוא תמיד עם תקוה</itunes:title>
+      <pubDate>Thu, 09 Jul 2026 23:03:00 +0000</pubDate>
+      <guid isPermaLink="false">2af66852-de26-461f-abfe-dc46a80e7008</guid>
+      <link>https://lomdotchasidut.libsyn.com/qxugrmcwwiz8</link>
+      <description>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______8989.mp3?dest-id=468609" length="3228689" type="audio/mpeg" />
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/c/8/5/1c858228e04f581316c3140a3186d450/________-______8989.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42028905</ns1:item-id>
+      <ns1:last-updated>2026-07-09T23:04:49Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>ריבון העולמים ידעתי</title>
+      <itunes:title>ריבון העולמים ידעתי</itunes:title>
+      <pubDate>Thu, 09 Jul 2026 22:57:00 +0000</pubDate>
+      <guid isPermaLink="false">0e0c15d1-9e25-41ee-8a22-e450f363511d</guid>
+      <link>https://lomdotchasidut.libsyn.com/ff1eudppttwc</link>
+      <description>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-____4566.mp3?dest-id=468609" length="8743574" type="audio/mpeg" />
+      <itunes:duration>29:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/f/2/5/0f253a8a75d979a1d959afa2a1bf1c87/________-____655.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42028880</ns1:item-id>
+      <ns1:last-updated>2026-07-10T00:26:45Z</ns1:last-updated>
+    </item>
     <item>
       <title>ראוי לכל יראש שמים שיהיה מתגעגע לבניין בית המקדש. איך?</title>
       <itunes:title>ראוי לכל יראש שמים שיהיה מתגעגע לבניין בית המקדש. איך?</itunes:title>

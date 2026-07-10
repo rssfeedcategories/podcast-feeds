@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 08 Jul 2026 10:00:47 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:00:47 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 00:26:54 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:26:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת מטות - ההזדמנות לקנות קניינים בבין הזמנים</title>
+      <itunes:title>אור החיים הקדוש פרשת מטות - ההזדמנות לקנות קניינים בבין הזמנים</itunes:title>
+      <pubDate>Thu, 09 Jul 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="false">62e9deb1-d6f7-41b1-a989-c7655e6ab784</guid>
+      <link>https://lomdotchasidut.libsyn.com/322lyiiulu1m</link>
+      <description>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת מטות מסעי תשפ"ו - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-______199.mp3?dest-id=468609" length="13252767" type="audio/mpeg" />
+      <itunes:duration>44:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/2/9/a/929ae913ac54a01816c3140a3186d450/________-______-______199.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42028845</ns1:item-id>
+      <ns1:last-updated>2026-07-09T22:56:57Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת בלק - לראות את הפנימיות - כח התשובה</title>
       <itunes:title>אור החיים הקדוש פרשת בלק - לראות את הפנימיות - כח התשובה</itunes:title>
