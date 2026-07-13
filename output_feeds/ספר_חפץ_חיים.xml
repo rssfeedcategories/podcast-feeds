@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 12 Jul 2026 09:32:27 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 09:32:27 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 10:27:16 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:27:16 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #63 - פתיחה חלק ט' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ד</title>
+      <itunes:title>ספר חפץ חיים שיעור #63 - פתיחה חלק ט' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ד</itunes:title>
+      <pubDate>Mon, 13 Jul 2026 09:58:00 +0000</pubDate>
+      <guid isPermaLink="false">257f7a18-1778-47a0-b155-5c7d85d1a606</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--63-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____63_-____-_______-__.mp3?dest-id=468609" length="2287595" type="audio/mpeg" />
+      <itunes:duration>05:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/5/f/7/b5f7a40ffc9abdaed959afa2a1bf1c87/____63_-____-_______-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42054920</ns1:item-id>
+      <ns1:last-updated>2026-07-13T10:00:14Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #62 - פתיחה חלק ח' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ג</title>
       <itunes:title>ספר חפץ חיים שיעור #62 - פתיחה חלק ח' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ג</itunes:title>
