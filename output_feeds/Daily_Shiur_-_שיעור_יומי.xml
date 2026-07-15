@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 14 Jul 2026 09:53:38 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 09:53:38 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 09:52:24 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:52:24 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מידתו של אהרן הכהן - קירוב לבם של ישראל לאביהם שבשמים</title>
+      <itunes:title>מידתו של אהרן הכהן - קירוב לבם של ישראל לאביהם שבשמים</itunes:title>
+      <pubDate>Wed, 15 Jul 2026 09:41:00 +0000</pubDate>
+      <guid isPermaLink="false">51e9b312-488c-4728-82b9-82d0f5df7b04</guid>
+      <link>https://lomdotchasidut.libsyn.com/a2aq6li5e6ok</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_____-_______15155.mp3?dest-id=468609" length="15911156" type="audio/mpeg" />
+      <itunes:duration>52:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/b/b/8/8bb86c943ce44c1e16c3140a3186d450/_____-_____-_______15155.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42099450</ns1:item-id>
+      <ns1:last-updated>2026-07-15T09:42:05Z</ns1:last-updated>
+    </item>
     <item>
       <title>כל מי שיש בו דעה כאילו נבנה ביהמ"ק בימיו - במשנת הרה"ק הישמח משה זצוק"ל</title>
       <itunes:title>כל מי שיש בו דעה כאילו נבנה ביהמ"ק בימיו - במשנת הרה"ק הישמח משה זצוק"ל</itunes:title>
