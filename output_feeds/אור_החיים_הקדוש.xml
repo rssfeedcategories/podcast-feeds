@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 15 Jul 2026 09:52:24 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 09:52:24 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 23:04:46 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:04:46 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.1</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הק' פרשת דברים - טובה מרדות אחת בלבו של אדם</title>
+      <itunes:title>אור החיים הק' פרשת דברים - טובה מרדות אחת בלבו של אדם</itunes:title>
+      <pubDate>Thu, 16 Jul 2026 22:51:00 +0000</pubDate>
+      <guid isPermaLink="false">d17b7772-9d78-4ace-8643-25babfeb2689</guid>
+      <link>https://lomdotchasidut.libsyn.com/2ncet0coz963</link>
+      <description>&lt;p&gt;ליל שישי פרשת דברים תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת דברים תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-_______6767.mp3?dest-id=468609" length="12483702" type="audio/mpeg" />
+      <itunes:duration>41:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/3/c/9/53c93e227d5b3977d959afa2a1bf1c87/_______-______-_______6767.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42122720</ns1:item-id>
+      <ns1:last-updated>2026-07-16T22:56:21Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת מטות - ההזדמנות לקנות קניינים בבין הזמנים</title>
       <itunes:title>אור החיים הקדוש פרשת מטות - ההזדמנות לקנות קניינים בבין הזמנים</itunes:title>
