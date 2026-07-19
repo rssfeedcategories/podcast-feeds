@@ -3,9 +3,9 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Thu, 16 Jul 2026 23:04:46 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 23:04:46 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.1</generator>
+    <pubDate>Sun, 19 Jul 2026 09:44:58 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:44:58 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
     <link>http://lomdotchasidut.libsyn.com/podcast</link>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #67 - פתיחה חלק י"ג - וַהֲרִיגַת הַתַּנָּא ר' אֱלִיעֶזֶר הַמּוֹדָעִי</title>
+      <itunes:title>ספר חפץ חיים שיעור #67 - פתיחה חלק י"ג - וַהֲרִיגַת הַתַּנָּא ר' אֱלִיעֶזֶר הַמּוֹדָעִי</itunes:title>
+      <pubDate>Sun, 19 Jul 2026 08:46:00 +0000</pubDate>
+      <guid isPermaLink="false">dab0c191-663e-4e36-b602-8e983061ff4b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--67-2</link>
+      <description>&lt;p&gt;וַהֲרִיגַת הַתַּנָּא ר' אֱלִיעֶזֶר הַמּוֹדָעִי, שֶׁהָיָה גַּם כֵּן סִבָּה לְחֻרְבַּן בֵּיתָר, הָיָה גַּם כֵּן עַל יְדֵי רְכִילוּת, שֶׁהִרְכִילוּ עָלָיו לִפְנֵי בֶּן כּוֹזִיבָא כִּדְאִיתָא בְּמִדְרַשׁ אֵיכָה &lt;a title="איכה רבה ב ד" href= "https://he.wikisource.org/wiki/%D7%90%D7%99%D7%9B%D7%94_%D7%A8%D7%91%D7%94_%D7%91_%D7%93"&gt;(איכה רבה ב, ד)&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;וַהֲרִיגַת הַתַּנָּא ר' אֱלִיעֶזֶר הַמּוֹדָעִי, שֶׁהָיָה גַּם כֵּן סִבָּה לְחֻרְבַּן בֵּיתָר, הָיָה גַּם כֵּן עַל יְדֵי רְכִילוּת, שֶׁהִרְכִילוּ עָלָיו לִפְנֵי בֶּן כּוֹזִיבָא כִּדְאִיתָא בְּמִדְרַשׁ אֵיכָה &lt;a title="איכה רבה ב ד" href= "https://he.wikisource.org/wiki/%D7%90%D7%99%D7%9B%D7%94_%D7%A8%D7%91%D7%94_%D7%91_%D7%93"&gt;(איכה רבה ב, ד)&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____67_-____-_____.mp3?dest-id=468609" length="5274598" type="audio/mpeg" />
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/4/7/1/8471e1abed5e1b77d959afa2a1bf1c87/____67_-____-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42141280</ns1:item-id>
+      <ns1:last-updated>2026-07-19T08:48:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #66 - פתיחה חלק י"ב - וְעוֹד כַּמָּה רָעוֹת עד אֵין מִסְפָּר</title>
       <itunes:title>ספר חפץ חיים שיעור #66 - פתיחה חלק י"ב - וְעוֹד כַּמָּה רָעוֹת עד אֵין מִסְפָּר</itunes:title>
