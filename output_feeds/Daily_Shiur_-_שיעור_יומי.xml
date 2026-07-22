@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 21 Jul 2026 10:24:45 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 10:24:45 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 09:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הקדמת צער הזולת לפני צער עצמו</title>
+      <itunes:title>הקדמת צער הזולת לפני צער עצמו</itunes:title>
+      <pubDate>Wed, 22 Jul 2026 09:37:00 +0000</pubDate>
+      <guid isPermaLink="false">1cff6766-d22f-403e-8ed2-63f3053f1e79</guid>
+      <link>https://lomdotchasidut.libsyn.com/ry1k97b3mimw</link>
+      <description>&lt;p&gt;יום ד' פרשת ואתחנן תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת ואתחנן תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______655.mp3?dest-id=468609" length="16791402" type="audio/mpeg" />
+      <itunes:duration>55:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/f/f/2cffad9574a74d1c16c3140a3186d450/_____-_______655.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42179340</ns1:item-id>
+      <ns1:last-updated>2026-07-22T09:38:01Z</ns1:last-updated>
+    </item>
     <item>
       <title>התבוננות ב-לא לדחוק רגלי השכינה</title>
       <itunes:title>התבוננות ב-לא לדחוק רגלי השכינה</itunes:title>

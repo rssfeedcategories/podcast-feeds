@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Tue, 21 Jul 2026 10:24:45 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 10:24:45 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 09:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1074 - סימן ש"י, דיני מוקצה בשבת, סעיף ז' ח"ד</title>
+      <itunes:title>הבינני בהלכה #1074 - סימן ש"י, דיני מוקצה בשבת, סעיף ז' ח"ד</itunes:title>
+      <pubDate>Wed, 22 Jul 2026 08:43:00 +0000</pubDate>
+      <guid isPermaLink="false">61d3f958-d41b-4397-8f0e-c036688564b1</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1074</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1074_-________.mp3?dest-id=468609" length="4990418" type="audio/mpeg" />
+      <itunes:duration>13:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/2/a/9/92a940daeade3f8316c3140a3186d450/__1074_-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42179145</ns1:item-id>
+      <ns1:last-updated>2026-07-22T08:44:24Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1073 - סימן ש"י, דיני מוקצה בשבת, סעיף ז' ח"ג</title>
       <itunes:title>הבינני בהלכה #1073 - סימן ש"י, דיני מוקצה בשבת, סעיף ז' ח"ג</itunes:title>

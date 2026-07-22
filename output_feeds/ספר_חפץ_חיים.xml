@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Tue, 21 Jul 2026 10:24:45 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 10:24:45 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 09:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #70 - פתיחה חלק ט"ז - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ג'</title>
+      <itunes:title>ספר חפץ חיים שיעור #70 - פתיחה חלק ט"ז - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ג'</itunes:title>
+      <pubDate>Wed, 22 Jul 2026 08:38:00 +0000</pubDate>
+      <guid isPermaLink="false">c875de81-5f86-49c0-b8eb-173a28847831</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--70-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____70_-____-________-__.mp3?dest-id=468609" length="3881331" type="audio/mpeg" />
+      <itunes:duration>07:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/2/d/8/52d80c2e1b82602916c3140a3186d450/____70_-____-________-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42179125</ns1:item-id>
+      <ns1:last-updated>2026-07-22T08:38:58Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #69 - פתיחה חלק ט"ו - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ב'</title>
       <itunes:title>ספר חפץ חיים שיעור #69 - פתיחה חלק ט"ו - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ב'</itunes:title>

@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - תלמוד ירושלמי</title>
-    <pubDate>Tue, 21 Jul 2026 10:24:45 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 10:24:45 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 09:48:04 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:48:04 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תלמוד ירושלמי - מסכת חגיגה דף כ"ז</title>
+      <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף כ"ז</itunes:title>
+      <pubDate>Wed, 22 Jul 2026 08:53:00 +0000</pubDate>
+      <guid isPermaLink="false">37a8c523-c3a5-41c7-a028-f6aa599c7593</guid>
+      <link>https://lomdotchasidut.libsyn.com/45898csjg5sq</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/27___-_____2727.mp3?dest-id=468609" length="12141532" type="audio/mpeg" />
+      <itunes:duration>33:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/6/6/4/f6648f157f3ec4d9d959afa2a1bf1c87/27___-_____2727.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42179175</ns1:item-id>
+      <ns1:last-updated>2026-07-22T08:54:06Z</ns1:last-updated>
+    </item>
     <item>
       <title>תלמוד ירושלמי - מסכת חגיגה דף כו</title>
       <itunes:title>תלמוד ירושלמי - מסכת חגיגה דף כו</itunes:title>
