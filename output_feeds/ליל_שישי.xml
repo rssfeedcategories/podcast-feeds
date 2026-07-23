@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 22 Jul 2026 19:13:26 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2026 19:13:26 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 22:25:29 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:25:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>השילוב בין 'להשתתף עם צערו של הקב"ה' ו'נחמה'</title>
+      <itunes:title>השילוב בין 'להשתתף עם צערו של הקב"ה' ו'נחמה'</itunes:title>
+      <pubDate>Thu, 23 Jul 2026 22:14:00 +0000</pubDate>
+      <guid isPermaLink="false">37bda503-35b0-491c-a6ae-47fbe3f1c9bb</guid>
+      <link>https://lomdotchasidut.libsyn.com/f7lrtkeozos0</link>
+      <description>&lt;p&gt;ליל שישי פרשת ואתחנן תשפ"ו - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ואתחנן תשפ"ו - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_________9877.mp3?dest-id=468609" length="10700035" type="audio/mpeg" />
+      <itunes:duration>35:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/3/3/c/233c24d3659fa61dd959afa2a1bf1c87/_______-_________9877.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42198960</ns1:item-id>
+      <ns1:last-updated>2026-07-23T22:15:16Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>איך אפשר להתנחם הרי אין לנו בית המקדש?</title>
+      <itunes:title>איך אפשר להתנחם הרי אין לנו בית המקדש?</itunes:title>
+      <pubDate>Thu, 23 Jul 2026 22:03:00 +0000</pubDate>
+      <guid isPermaLink="false">04728679-4bf8-47c6-8eea-6f89792d2039</guid>
+      <link>https://lomdotchasidut.libsyn.com/8vzjt7zfqvkd</link>
+      <description>&lt;p&gt;ליל שישי פרשת ואתחנן תשפ"ו - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ואתחנן תשפ"ו - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_________9898.mp3?dest-id=468609" length="8833978" type="audio/mpeg" />
+      <itunes:duration>29:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/d/2/1/0d21c0851e91876616c3140a3186d450/_______-_________9898.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42198945</ns1:item-id>
+      <ns1:last-updated>2026-07-23T22:12:33Z</ns1:last-updated>
+    </item>
     <item>
       <title>שבת חזון - האור מתוך החושך</title>
       <itunes:title>שבת חזון - האור מתוך החושך</itunes:title>
