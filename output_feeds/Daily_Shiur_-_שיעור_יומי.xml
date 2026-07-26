@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 23 Jul 2026 22:25:29 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 22:25:29 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 09:36:14 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:36:14 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ברכת המזון - מצוה שיכול לשנות את האדם שירגיש את הטוב</title>
+      <itunes:title>ברכת המזון - מצוה שיכול לשנות את האדם שירגיש את הטוב</itunes:title>
+      <pubDate>Sun, 26 Jul 2026 09:11:00 +0000</pubDate>
+      <guid isPermaLink="false">9aaf5922-9e73-456f-a476-0f84a170d512</guid>
+      <link>https://lomdotchasidut.libsyn.com/brahbqpx20cq</link>
+      <description>&lt;p&gt;יום א' פרשת עקב תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת עקב תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-_________4588.mp3?dest-id=468609" length="14722098" type="audio/mpeg" />
+      <itunes:duration>48:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/8/7/e/087eb03b770f2a5ed959afa2a1bf1c87/_____-___-_________4588.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42215690</ns1:item-id>
+      <ns1:last-updated>2026-07-26T09:13:33Z</ns1:last-updated>
+    </item>
     <item>
       <title>הקדמת צער הזולת לפני צער עצמו</title>
       <itunes:title>הקדמת צער הזולת לפני צער עצמו</itunes:title>
