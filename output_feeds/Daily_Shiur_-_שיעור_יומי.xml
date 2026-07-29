@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 28 Jul 2026 10:35:01 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 10:35:01 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 10:17:52 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:17:52 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חמשה עשר באב - ארבעים יום קודם הבריאה</title>
+      <itunes:title>חמשה עשר באב - ארבעים יום קודם הבריאה</itunes:title>
+      <pubDate>Wed, 29 Jul 2026 09:38:00 +0000</pubDate>
+      <guid isPermaLink="false">ec5a5e03-3327-49cb-a428-aff2611a1ec9</guid>
+      <link>https://lomdotchasidut.libsyn.com/gutoere1qydc</link>
+      <description>&lt;p&gt;יום ד' פרשת עקב תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;יואל ראזענבערג&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הברית לבנו היום&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת עקב תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר יואל ראזענבערג הי"ו לרגל שמחת הברית לבנו היום&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____-_____8585.mp3?dest-id=468609" length="13593643" type="audio/mpeg" />
+      <itunes:duration>45:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/5/0/b/a50bff90d89bc6a0d959afa2a1bf1c87/_____-____-_____8585.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42251260</ns1:item-id>
+      <ns1:last-updated>2026-07-29T09:45:24Z</ns1:last-updated>
+    </item>
     <item>
       <title>איך לברך ברכת המזון בשמחה ועצות למעשה לזה</title>
       <itunes:title>איך לברך ברכת המזון בשמחה ועצות למעשה לזה</itunes:title>
