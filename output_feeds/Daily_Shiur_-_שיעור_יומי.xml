@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 29 Jul 2026 10:17:52 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 10:17:52 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 10:45:09 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:45:09 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ירידה לצורך עלייה</title>
+      <itunes:title>ירידה לצורך עלייה</itunes:title>
+      <pubDate>Thu, 30 Jul 2026 09:49:00 +0000</pubDate>
+      <guid isPermaLink="false">3100103e-0a6f-4470-a86e-9911eab39d4a</guid>
+      <link>https://lomdotchasidut.libsyn.com/qmye325k1sbo</link>
+      <description>&lt;p&gt;יום ה' פרשת עקב תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;יושע בן שיינדל&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;גאלדא בת דבורה מושקט&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;חיים הערש גאלדבעגער&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' פרשת עקב תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן יושע בן שיינדל והכלה גאלדא בת דבורה מושקט נדבת אבי החתן הר"ר חיים הערש גאלדבעגער הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____485.mp3?dest-id=468609" length="13386092" type="audio/mpeg" />
+      <itunes:duration>44:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/d/f/b/bdfb833b0a0fee3a16c3140a3186d450/_____-____485.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42263430</ns1:item-id>
+      <ns1:last-updated>2026-07-30T09:51:24Z</ns1:last-updated>
+    </item>
     <item>
       <title>חמשה עשר באב - ארבעים יום קודם הבריאה</title>
       <itunes:title>חמשה עשר באב - ארבעים יום קודם הבריאה</itunes:title>
