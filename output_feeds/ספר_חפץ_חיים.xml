@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Fri, 31 Jul 2026 01:08:52 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2026 01:08:52 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 10:19:29 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:19:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>ספר חפץ חיים שיעור #75 - פתיחה חלק כ"א - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ג'</title>
+      <itunes:title>ספר חפץ חיים שיעור #75 - פתיחה חלק כ"א - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ג'</itunes:title>
+      <pubDate>Sun, 02 Aug 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="false">84cb7a4e-eb06-4885-850a-96ece6f16f6c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--75-3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____75_-____-______-__.mp3?dest-id=468609" length="2608082" type="audio/mpeg" />
+      <itunes:duration>06:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/2/2/6/e226ad0bdb9d3c53d959afa2a1bf1c87/____75_-____-______-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42289530</ns1:item-id>
+      <ns1:last-updated>2026-08-02T10:11:58Z</ns1:last-updated>
+    </item>
+    <item>
       <title>ספר חפץ חיים שיעור #74 - פתיחה חלק כ' - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ב'</title>
       <itunes:title>ספר חפץ חיים שיעור #74 - פתיחה חלק כ' - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ב'</itunes:title>
       <pubDate>Thu, 30 Jul 2026 10:33:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42263580</ns1:item-id>
-      <ns1:last-updated>2026-07-30T10:35:00Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #73 - פתיחה חלק י"ט - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק א'</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42251300</ns1:item-id>
-      <ns1:last-updated>2026-07-29T09:52:55Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #72 - פתיחה חלק י"ח - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ה'</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42239285</ns1:item-id>
-      <ns1:last-updated>2026-07-28T10:02:37Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #71 - פתיחה חלק י"ז - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ד'</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42215700</ns1:item-id>
-      <ns1:last-updated>2026-07-26T09:17:45Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #70 - פתיחה חלק ט"ז - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ג'</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42179125</ns1:item-id>
-      <ns1:last-updated>2026-07-22T08:38:58Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #69 - פתיחה חלק ט"ו - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק ב'</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42162470</ns1:item-id>
-      <ns1:last-updated>2026-07-21T08:39:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #68 - פתיחה חלק י"ד - וּמִפְּנֵי גֹּדֶל הָרָעוֹת שֶׁנִּמְצְּאוּ בַּמִּדָּה הַמְגֻנָּה הַזֹּאת - חלק א'</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42148905</ns1:item-id>
-      <ns1:last-updated>2026-07-20T08:28:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #67 - פתיחה חלק י"ג - וַהֲרִיגַת הַתַּנָּא ר' אֱלִיעֶזֶר הַמּוֹדָעִי</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42141280</ns1:item-id>
-      <ns1:last-updated>2026-07-19T08:48:20Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #66 - פתיחה חלק י"ב - וְעוֹד כַּמָּה רָעוֹת עד אֵין מִסְפָּר</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42110515</ns1:item-id>
-      <ns1:last-updated>2026-07-16T09:30:16Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #65 - פתיחה חלק י"א - וְעוֹד כָּל סִבַּת גָּלוּתֵנוּ עַתָּה - חלק ב'</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42099220</ns1:item-id>
-      <ns1:last-updated>2026-07-15T08:51:53Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #64 - פתיחה חלק י' - וְעוֹד כָּל סִבַּת גָּלוּתֵנוּ עַתָּה</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42067535</ns1:item-id>
-      <ns1:last-updated>2026-07-14T08:44:22Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #63 - פתיחה חלק ט' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ד</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42054920</ns1:item-id>
-      <ns1:last-updated>2026-07-13T10:00:14Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #62 - פתיחה חלק ח' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ג</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42046010</ns1:item-id>
-      <ns1:last-updated>2026-07-12T08:37:28Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #61 - פתיחה חלק ז' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִם - חלק ב</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42021020</ns1:item-id>
-      <ns1:last-updated>2026-07-09T08:35:36Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #60 - פתיחה חלק ו' - וְגם שֶׁעִקַּר סִבַּת יְרִידַת יִשְׂרָאֵל לְמִצְּרַיִםו</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42005105</ns1:item-id>
-      <ns1:last-updated>2026-07-08T09:45:19Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #59 - פתיחה חלק ה' - וְעוֹד כַּמָּה רָעוֹת עֲצּוּמּוֹת</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41996035</ns1:item-id>
-      <ns1:last-updated>2026-07-07T19:15:39Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #58 - פתיחה חלק ד'' - בְּאַהֲבַת הַשֵּׁם יִתְבָּרַךְ אֶת עַמּוֹ יִשְׂרָאֵל</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41972920</ns1:item-id>
-      <ns1:last-updated>2026-07-06T08:58:35Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #57 - פתיחה חלק ג'</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41964470</ns1:item-id>
-      <ns1:last-updated>2026-07-05T08:41:00Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #56 - פתיחה חלק ב'</title>
@@ -373,7 +391,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41929660</ns1:item-id>
-      <ns1:last-updated>2026-07-02T08:27:12Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #55 - פתיחה חלק א'</title>
@@ -391,7 +409,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41920865</ns1:item-id>
-      <ns1:last-updated>2026-07-01T15:35:35Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #54 - הקדמה חלק נ"ד, גַּם לְבַד זֶה יָדוּעַ הוּא מַה שֶּׁהוּבָא בְּמִדְרַשׁ - חלק ג'</title>

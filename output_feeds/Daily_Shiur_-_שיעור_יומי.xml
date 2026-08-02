@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Fri, 31 Jul 2026 01:08:52 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2026 01:08:52 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 10:19:29 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:19:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>איך להתנהג עם ריבוי שפע</title>
+      <itunes:title>איך להתנהג עם ריבוי שפע</itunes:title>
+      <pubDate>Sun, 02 Aug 2026 10:05:00 +0000</pubDate>
+      <guid isPermaLink="false">4aace2c0-44c8-456d-b861-2cbd833be4c2</guid>
+      <link>https://lomdotchasidut.libsyn.com/iv8lc1u2au5w</link>
+      <description>&lt;p&gt;יום א' פרשת ראה תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת ראה תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______8552.mp3?dest-id=468609" length="14148590" type="audio/mpeg" />
+      <itunes:duration>47:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/9/4/b/294b0e251a8fc94d16c3140a3186d450/_____-______8552.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42289520</ns1:item-id>
+      <ns1:last-updated>2026-08-02T10:07:34Z</ns1:last-updated>
+    </item>
+    <item>
       <title>סוגיות של גאוה וענווה</title>
       <itunes:title>סוגיות של גאוה וענווה</itunes:title>
       <pubDate>Fri, 31 Jul 2026 00:47:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42271790</ns1:item-id>
-      <ns1:last-updated>2026-07-31T00:50:01Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - וזכרת את ה' אלוקיך כי הוא הנותן לך כח לעשות חיל</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42271775</ns1:item-id>
-      <ns1:last-updated>2026-07-31T00:46:17Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - וזכרת את ה' אלוקיך כי הוא הנותן לך כח לעשות חיל</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42271760</ns1:item-id>
-      <ns1:last-updated>2026-07-31T00:44:23Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>אור החיים הקדוש - וזכרת את ה' אלוקיך כי הוא הנותן לך כח לעשות חיל</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42271725</ns1:item-id>
-      <ns1:last-updated>2026-07-31T00:37:15Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ירידה לצורך עלייה</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42263430</ns1:item-id>
-      <ns1:last-updated>2026-07-30T09:51:24Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חמשה עשר באב - ארבעים יום קודם הבריאה</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42251260</ns1:item-id>
-      <ns1:last-updated>2026-07-29T09:45:24Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>איך לברך ברכת המזון בשמחה ועצות למעשה לזה</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42224390</ns1:item-id>
-      <ns1:last-updated>2026-07-27T09:06:19Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ברכת המזון - מצוה שיכול לשנות את האדם שירגיש את הטוב</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42215690</ns1:item-id>
-      <ns1:last-updated>2026-07-26T09:13:33Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הקדמת צער הזולת לפני צער עצמו</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42179340</ns1:item-id>
-      <ns1:last-updated>2026-07-22T09:38:01Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>התבוננות ב-לא לדחוק רגלי השכינה</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42149295</ns1:item-id>
-      <ns1:last-updated>2026-07-20T09:44:30Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>לחשוב על הזולת לפני שחושבים על עצמינו - במשנת האריז"ל</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42141400</ns1:item-id>
-      <ns1:last-updated>2026-07-19T09:38:51Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>העבודה להוציא את השנאה הטמונה בלב</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42110500</ns1:item-id>
-      <ns1:last-updated>2026-07-16T09:28:31Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>מידתו של אהרן הכהן - קירוב לבם של ישראל לאביהם שבשמים</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42099450</ns1:item-id>
-      <ns1:last-updated>2026-07-15T09:42:05Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>כל מי שיש בו דעה כאילו נבנה ביהמ"ק בימיו - במשנת הרה"ק הישמח משה זצוק"ל</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42054875</ns1:item-id>
-      <ns1:last-updated>2026-07-13T09:43:43Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ההשגחה בעת הגלות להנסיונות של כל דור ודרור</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42046055</ns1:item-id>
-      <ns1:last-updated>2026-07-12T09:27:03Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>גלות בינו לבין עצמו - למה אנחנו עושים מה שאנו עושים?</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42005145</ns1:item-id>
-      <ns1:last-updated>2026-07-08T09:56:53Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בין המצרים - הגלות של האדם עם עצמו</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41973020</ns1:item-id>
-      <ns1:last-updated>2026-07-06T09:17:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ימות המשיח - חיים של תכלית</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41964625</ns1:item-id>
-      <ns1:last-updated>2026-07-05T10:09:22Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>אור של ימי בין המצרים</title>
@@ -373,7 +391,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>41930425</ns1:item-id>
-      <ns1:last-updated>2026-07-02T09:28:11Z</ns1:last-updated>
+      <ns1:last-updated>2026-08-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הנסיונות מראים לאדם איפה הוא עומד</title>
