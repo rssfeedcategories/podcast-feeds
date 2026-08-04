@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Mon, 03 Aug 2026 10:37:59 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 10:37:59 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 09:21:40 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:21:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #76 - פתיחה חלק כ"ב - וּמִתְּחִלָּה צָּרִיךָ לֵידַע הַכְּלָלִים</title>
+      <itunes:title>ספר חפץ חיים שיעור #76 - פתיחה חלק כ"ב - וּמִתְּחִלָּה צָּרִיךָ לֵידַע הַכְּלָלִים</itunes:title>
+      <pubDate>Tue, 04 Aug 2026 08:19:00 +0000</pubDate>
+      <guid isPermaLink="false">409711d4-b611-4921-9d3b-87f82b5b5f3a</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--76-3</link>
+      <description>&lt;p&gt;וּמִתְּחִלָּה צָּרִיךָ לֵידַע הַכְּלָלִים בַּהֲלָכוֹת אֵלּוּ דְּלָשׁוֹן הָרָע וּרְכִילוּת (לָשׁוֹן הָרָע הוּא, הַיְנוּ, הַמְּסַפֵּר בִּגְנוּת חֲבֵרוֹ, וּרְכִילוּת הַיְנוּ שֶׁמְסַפֵּר לְאֶחָד מַה שֶּׁחֲבֵרוֹ דִּבֵּר עָלָיו רָעָה אוֹ עָשָׂה לוֹ רָעָה), אָסוּר אֲפִלּוּ עַל דְּבַר אֱמֶת, כְּמוֹ שֶׁנְּבָאֵר לְקַּמָּן, אִם יִרְצֶּה הַשֵּׁם, בְּשֵׁם כָּל הַפּוֹסְקִים.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;וּמִתְּחִלָּה צָּרִיךָ לֵידַע הַכְּלָלִים בַּהֲלָכוֹת אֵלּוּ דְּלָשׁוֹן הָרָע וּרְכִילוּת (לָשׁוֹן הָרָע הוּא, הַיְנוּ, הַמְּסַפֵּר בִּגְנוּת חֲבֵרוֹ, וּרְכִילוּת הַיְנוּ שֶׁמְסַפֵּר לְאֶחָד מַה שֶּׁחֲבֵרוֹ דִּבֵּר עָלָיו רָעָה אוֹ עָשָׂה לוֹ רָעָה), אָסוּר אֲפִלּוּ עַל דְּבַר אֱמֶת, כְּמוֹ שֶׁנְּבָאֵר לְקַּמָּן, אִם יִרְצֶּה הַשֵּׁם, בְּשֵׁם כָּל הַפּוֹסְקִים.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____76_-____-____.mp3?dest-id=468609" length="2680652" type="audio/mpeg" />
+      <itunes:duration>07:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/e/b/3/9eb3774e4cfe67b516c3140a3186d450/____76_-____-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42311390</ns1:item-id>
+      <ns1:last-updated>2026-08-04T08:25:27Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #75 - פתיחה חלק כ"א - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ג'</title>
       <itunes:title>ספר חפץ חיים שיעור #75 - פתיחה חלק כ"א - וְעוֹד נִרְאֶה פָּשׁוּט טַעַם אַחֵר - חלק ג'</itunes:title>
