@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 04 Aug 2026 09:21:40 +0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 09:21:40 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 09:23:02 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:23:02 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>לכלכל דבריו במשפט</title>
+      <itunes:title>לכלכל דבריו במשפט</itunes:title>
+      <pubDate>Wed, 05 Aug 2026 08:49:00 +0000</pubDate>
+      <guid isPermaLink="false">99f03e9f-8958-4c62-9c3c-7d32df2ba235</guid>
+      <link>https://lomdotchasidut.libsyn.com/fu0nbzx74ej1</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-____7665.mp3?dest-id=468609" length="14243547" type="audio/mpeg" />
+      <itunes:duration>47:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/d/f/9/bdf9094c07fb319bd959afa2a1bf1c87/_____-____7665.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42323780</ns1:item-id>
+      <ns1:last-updated>2026-08-05T08:50:48Z</ns1:last-updated>
+    </item>
     <item>
       <title>מח שליט על הלב בריבוי שפע גשמי</title>
       <itunes:title>מח שליט על הלב בריבוי שפע גשמי</itunes:title>
