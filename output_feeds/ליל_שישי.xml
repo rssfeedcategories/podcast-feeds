@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 05 Aug 2026 09:23:02 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 09:23:02 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 22:21:50 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:21:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>עבודת המידות בשרשן וכלפי מעלה והסייעתא דשמיא לזה</title>
+      <itunes:title>עבודת המידות בשרשן וכלפי מעלה והסייעתא דשמיא לזה</itunes:title>
+      <pubDate>Thu, 06 Aug 2026 22:14:00 +0000</pubDate>
+      <guid isPermaLink="false">7293f480-2756-428e-9727-29830cd1a816</guid>
+      <link>https://lomdotchasidut.libsyn.com/n8qp50u2qza8</link>
+      <description>&lt;p&gt;ליל שישי פרשת ראה חלק ג.MP4&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ראה חלק ג.MP4&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_________555.mp3?dest-id=468609" length="3346019" type="audio/mpeg" />
+      <itunes:duration>11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/a/4/c/aa4cc0a233021ad316c3140a3186d450/_______-_________555.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42350435</ns1:item-id>
+      <ns1:last-updated>2026-08-06T22:19:28Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>השתמשות בחוש הראייה בעשה טוב ונתינה - וההשפעה עי"ז</title>
+      <itunes:title>השתמשות בחוש הראייה בעשה טוב ונתינה - וההשפעה עי"ז</itunes:title>
+      <pubDate>Thu, 06 Aug 2026 22:11:00 +0000</pubDate>
+      <guid isPermaLink="false">2e098a40-ba30-4162-aa94-5bd798ef63d6</guid>
+      <link>https://lomdotchasidut.libsyn.com/mykgncekgs4b</link>
+      <description>&lt;p&gt;ליל שישי פרשת ראה תשפ"ו חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ראה תשפ"ו חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______-___4785.mp3?dest-id=468609" length="6140991" type="audio/mpeg" />
+      <itunes:duration>20:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/4/7/d/747d1d4ba4f4cd4416c3140a3186d450/_______-_______-___4785.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42350430</ns1:item-id>
+      <ns1:last-updated>2026-08-06T22:13:34Z</ns1:last-updated>
+    </item>
     <item>
       <title>מה השם אלוקיך שואל מעמך כי אם ליראה</title>
       <itunes:title>מה השם אלוקיך שואל מעמך כי אם ליראה</itunes:title>

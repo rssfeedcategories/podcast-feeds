@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 05 Aug 2026 09:23:02 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 09:23:02 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 22:21:50 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:21:50 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור היים הקדוש פרשת ראה - משה רבינו מורה לנו איך לבחור בטוב</title>
+      <itunes:title>אור היים הקדוש פרשת ראה - משה רבינו מורה לנו איך לבחור בטוב</itunes:title>
+      <pubDate>Thu, 06 Aug 2026 22:09:00 +0000</pubDate>
+      <guid isPermaLink="false">df218885-f1e8-4a49-b6aa-5e49a2a87617</guid>
+      <link>https://lomdotchasidut.libsyn.com/fnpv2vjq6kt4</link>
+      <description>&lt;p&gt;ליל שישי פרשת ראה תשפו חלק א' &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ראה תשפו חלק א' &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-________4824.mp3?dest-id=468609" length="10441007" type="audio/mpeg" />
+      <itunes:duration>34:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/9/5/b/195bf173ef047cf816c3140a3186d450/_______-______-________4824.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42350395</ns1:item-id>
+      <ns1:last-updated>2026-08-06T22:10:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש - וזכרת את ה' אלוקיך כי הוא הנותן לך כח לעשות חיל</title>
       <itunes:title>אור החיים הקדוש - וזכרת את ה' אלוקיך כי הוא הנותן לך כח לעשות חיל</itunes:title>
