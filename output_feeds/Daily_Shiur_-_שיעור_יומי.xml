@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 11 Aug 2026 15:10:46 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 15:10:46 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 09:47:18 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:47:18 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תמים תהיה - בלי פאליטיק</title>
+      <itunes:title>תמים תהיה - בלי פאליטיק</itunes:title>
+      <pubDate>Wed, 12 Aug 2026 09:39:00 +0000</pubDate>
+      <guid isPermaLink="false">2c59db26-b9a1-4dda-b503-873be560ddc0</guid>
+      <link>https://lomdotchasidut.libsyn.com/j64rkakjsi11</link>
+      <description>&lt;p&gt;יום ד' פרשת שופטים תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; הרה"ח ר' &lt;strong&gt;יחזקי' שרגא פייוול&lt;/strong&gt; ב"ר &lt;strong&gt;צבי&lt;/strong&gt; ז"ל&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת שופטים תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ הרה"ח ר' יחזקי' שרגא פייוול ב"ר צבי ז"ל&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-___1866.mp3?dest-id=468609" length="13838483" type="audio/mpeg" />
+      <itunes:duration>45:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/c/5/8/dc583c637a8391a516c3140a3186d450/_____-___-___1866.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42400430</ns1:item-id>
+      <ns1:last-updated>2026-08-12T09:41:19Z</ns1:last-updated>
+    </item>
     <item>
       <title>מידת המתינות</title>
       <itunes:title>מידת המתינות</itunes:title>
