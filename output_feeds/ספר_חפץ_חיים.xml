@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Wed, 12 Aug 2026 09:47:18 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 09:47:18 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 13:57:36 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:57:36 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #81 - פתיחה חלק כ"ז - וּמְקַבֵּל מִקְרֵי בְּמַה שֶּׁמַּאֲמִין בְּלִבּוֹ - חלק ב'</title>
+      <itunes:title>ספר חפץ חיים שיעור #81 - פתיחה חלק כ"ז - וּמְקַבֵּל מִקְרֵי בְּמַה שֶּׁמַּאֲמִין בְּלִבּוֹ - חלק ב'</itunes:title>
+      <pubDate>Thu, 13 Aug 2026 13:50:00 +0000</pubDate>
+      <guid isPermaLink="false">5fcd2082-f1c0-4904-aa14-6dd685cd0edc</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--81-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____81_-____-______-__.mp3?dest-id=468609" length="2874699" type="audio/mpeg" />
+      <itunes:duration>07:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/9/5/2/f9522583a347f06f16c3140a3186d450/____81_-____-______-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42419650</ns1:item-id>
+      <ns1:last-updated>2026-08-13T13:52:06Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #80 - פתיחה חלק כ"ו - וּמְקַבֵּל מִקְרֵי בְּמַה שֶּׁמַּאֲמִין בְּלִבּוֹ</title>
       <itunes:title>ספר חפץ חיים שיעור #80 - פתיחה חלק כ"ו - וּמְקַבֵּל מִקְרֵי בְּמַה שֶּׁמַּאֲמִין בְּלִבּוֹ</itunes:title>
