@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 12 Aug 2026 09:47:18 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 09:47:18 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 22:50:27 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:50:27 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>החשיבות והתועלת שאדם יעריך את עצמו</title>
+      <itunes:title>החשיבות והתועלת שאדם יעריך את עצמו</itunes:title>
+      <pubDate>Thu, 13 Aug 2026 22:43:00 +0000</pubDate>
+      <guid isPermaLink="false">00f65ae1-167d-4be4-9ce5-a217f7639d21</guid>
+      <link>https://lomdotchasidut.libsyn.com/nc0rhdpwrngg</link>
+      <description>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______3588.mp3?dest-id=468609" length="4057603" type="audio/mpeg" />
+      <itunes:duration>13:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/3/3/9/f339fa644c78f875d959afa2a1bf1c87/_______-_______3588.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42432540</ns1:item-id>
+      <ns1:last-updated>2026-08-13T22:44:15Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>לעשות כלים להחזיק את האלול</title>
+      <itunes:title>לעשות כלים להחזיק את האלול</itunes:title>
+      <pubDate>Thu, 13 Aug 2026 22:40:00 +0000</pubDate>
+      <guid isPermaLink="false">20ebd8b3-39e0-4f37-87ff-1e6d805b1b5c</guid>
+      <link>https://lomdotchasidut.libsyn.com/rbhcmsgjexwj</link>
+      <description>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______8787.mp3?dest-id=468609" length="9534958" type="audio/mpeg" />
+      <itunes:duration>31:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/1/0/f/410f0297280288e7d959afa2a1bf1c87/_______-_______8787.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42432530</ns1:item-id>
+      <ns1:last-updated>2026-08-13T22:42:41Z</ns1:last-updated>
+    </item>
     <item>
       <title>עבודת המידות בשרשן וכלפי מעלה והסייעתא דשמיא לזה</title>
       <itunes:title>עבודת המידות בשרשן וכלפי מעלה והסייעתא דשמיא לזה</itunes:title>

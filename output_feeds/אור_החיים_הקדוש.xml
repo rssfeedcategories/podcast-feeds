@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 12 Aug 2026 09:47:18 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 09:47:18 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 22:50:27 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:50:27 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת שופטים - חשיבות קבלה קטנה שעושים קמעא קמעא</title>
+      <itunes:title>אור החיים הקדוש פרשת שופטים - חשיבות קבלה קטנה שעושים קמעא קמעא</itunes:title>
+      <pubDate>Thu, 13 Aug 2026 22:37:00 +0000</pubDate>
+      <guid isPermaLink="false">1917029d-47c8-40e6-8448-a318e873bd5f</guid>
+      <link>https://lomdotchasidut.libsyn.com/eyrgpujr08di</link>
+      <description>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת שופטים תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-_______7544.mp3?dest-id=468609" length="10783480" type="audio/mpeg" />
+      <itunes:duration>35:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/a/6/9/fa69eef94c777966d959afa2a1bf1c87/_______-______-_______7544.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42432485</ns1:item-id>
+      <ns1:last-updated>2026-08-13T22:39:50Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור היים הקדוש פרשת ראה - משה רבינו מורה לנו איך לבחור בטוב</title>
       <itunes:title>אור היים הקדוש פרשת ראה - משה רבינו מורה לנו איך לבחור בטוב</itunes:title>
