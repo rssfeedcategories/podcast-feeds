@@ -117,5 +117,37 @@
       <ns1:item-id>12807212</ns1:item-id>
       <ns1:last-updated>2023-12-31T10:14:40Z</ns1:last-updated>
     </item>
+    <item>
+      <title>שיעור מיוחד לקראת שובבים תשע"ט</title>
+      <itunes:title>שיעור מיוחד לקראת שובבים תשע"ט</itunes:title>
+      <pubDate>Tue, 25 Dec 2018 21:32:33 +0000</pubDate>
+      <guid isPermaLink="false">814e8967b9de40419eb2f6a2b0eb9a3c</guid>
+      <link>https://lomdotchasidut.libsyn.com/i6oox84k6x34</link>
+      <description>&lt;p&gt;נמסר בביהכנ בית דוד שאול דחסידי בעלזא - אשדוד&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;נמסר בביהכנ בית דוד שאול דחסידי בעלזא - אשדוד&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-________-_.mp3?dest-id=468609" length="17574508" type="audio/mpeg" />
+      <itunes:duration>48:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>8039576</ns1:item-id>
+      <ns1:last-updated>2023-12-31T10:14:51Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>בענין הבנת עבודת שבתים של שובבי"ם</title>
+      <itunes:title>בענין הבנת עבודת שבתים של שובבי"ם</itunes:title>
+      <pubDate>Sun, 29 Jan 2017 22:50:49 +0000</pubDate>
+      <guid isPermaLink="false">06341ac9d65aef06fba84779f411aeb5</guid>
+      <link>https://lomdotchasidut.libsyn.com/1416_-7706</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/1416_______-__7706.mp3?dest-id=468609" length="19298293" type="audio/mpeg" />
+      <itunes:duration>40:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>5035046</ns1:item-id>
+      <ns1:last-updated>2023-12-31T10:15:27Z</ns1:last-updated>
+    </item>
   </channel>
 </rss>
