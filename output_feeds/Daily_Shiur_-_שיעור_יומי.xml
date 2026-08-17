@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 16 Aug 2026 14:50:40 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 14:50:40 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 10:18:49 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:18:49 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אלול - ישוב הדעת לפני שמתקנים</title>
+      <itunes:title>אלול - ישוב הדעת לפני שמתקנים</itunes:title>
+      <pubDate>Mon, 17 Aug 2026 09:46:00 +0000</pubDate>
+      <guid isPermaLink="false">4dfe4082-ec11-461d-bb84-ebf93976ffd0</guid>
+      <link>https://lomdotchasidut.libsyn.com/joiwr66onxue</link>
+      <description>&lt;p&gt;יום ב' פרשת כי תצא תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;אליעזר זוסמאן בן שינדל לאה&lt;/strong&gt;&lt;br /&gt; הכלה &lt;strong&gt;רחל בת פיגא הינדא&lt;/strong&gt;&lt;br /&gt; נדבת אבי הכלה הר"ר &lt;strong&gt;יצחק מייזעלס&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת כי תצא תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן אליעזר זוסמאן בן שינדל לאה הכלה רחל בת פיגא הינדא נדבת אבי הכלה הר"ר יצחק מייזעלס הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-__-_____6255.mp3?dest-id=468609" length="13956034" type="audio/mpeg" />
+      <itunes:duration>46:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/6/d/b/76dbbb98dbdc8393d959afa2a1bf1c87/______-__-_____6255.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42458460</ns1:item-id>
+      <ns1:last-updated>2026-08-17T09:51:31Z</ns1:last-updated>
+    </item>
     <item>
       <title>כח של אמירת תהילים - לשים את ההרגשים במקום הנכון</title>
       <itunes:title>כח של אמירת תהילים - לשים את ההרגשים במקום הנכון</itunes:title>
