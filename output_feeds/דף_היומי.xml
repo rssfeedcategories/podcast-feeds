@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - דף היומי</title>
-    <pubDate>Mon, 17 Aug 2026 10:18:49 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 10:18:49 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 10:28:59 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:28:59 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -134,6 +134,584 @@
       <itunes:episodeType>full</itunes:episodeType>
       <ns1:item-id>37486615</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ח חלק א</title>
+      <itunes:title>מסכת עבודה זרה דף י"ח חלק א</itunes:title>
+      <pubDate>Mon, 21 Jul 2025 19:14:55 +0000</pubDate>
+      <guid isPermaLink="false">7c0a1e84-23f9-4ce1-8406-f2d87967b09c</guid>
+      <link>https://lomdotchasidut.libsyn.com/9xqlqa3in7cw</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_18_P1.mp3?dest-id=468609" length="16640686" type="audio/mpeg" />
+      <itunes:duration>55:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/6/5/2/4652d196c20199a8d959afa2a1bf1c87/Aodah_Zarah_18_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37486600</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ז חלק ב</title>
+      <itunes:title>מסכת עבודה זרה דף י"ז חלק ב</itunes:title>
+      <pubDate>Sun, 20 Jul 2025 21:12:03 +0000</pubDate>
+      <guid isPermaLink="false">f1812771-777c-4284-9785-90617bf40ae0</guid>
+      <link>https://lomdotchasidut.libsyn.com/bznak358egao</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_17_P2.mp3?dest-id=468609" length="15900768" type="audio/mpeg" />
+      <itunes:duration>52:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/e/d/3/fed372d6d546f796d959afa2a1bf1c87/Aodah_Zarah_17_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37473205</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ז חלק א</title>
+      <itunes:title>מסכת עבודה זרה דף י"ז חלק א</itunes:title>
+      <pubDate>Sun, 20 Jul 2025 21:10:04 +0000</pubDate>
+      <guid isPermaLink="false">c116fcae-6b3d-4154-824c-1f1b74183da9</guid>
+      <link>https://lomdotchasidut.libsyn.com/iw9c6gfux91c</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_17_P1.mp3?dest-id=468609" length="23955860" type="audio/mpeg" />
+      <itunes:duration>01:06:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/a/7/d/ca7d14beaf65191116c3140a3186d450/Aodah_Zarah_17_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37473175</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ט"ז</title>
+      <itunes:title>מסכת עבודה זרה דף ט"ז</itunes:title>
+      <pubDate>Wed, 16 Jul 2025 19:14:38 +0000</pubDate>
+      <guid isPermaLink="false">a743d0c9-29a2-465a-be8d-109af27a4ef6</guid>
+      <link>https://lomdotchasidut.libsyn.com/owpqiuyjjcao</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_16.mp3?dest-id=468609" length="15248360" type="audio/mpeg" />
+      <itunes:duration>50:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/4/1/0/54107c88ca15ad1416c3140a3186d450/Aodah_Zarah_16.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37431650</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ט"ו</title>
+      <itunes:title>מסכת עבודה זרה דף ט"ו</itunes:title>
+      <pubDate>Tue, 15 Jul 2025 14:01:40 +0000</pubDate>
+      <guid isPermaLink="false">717de04c-49d3-49e4-8038-fd82c455ea07</guid>
+      <link>https://lomdotchasidut.libsyn.com/9bcbiq6017cw</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_15.mp3?dest-id=468609" length="15553470" type="audio/mpeg" />
+      <itunes:duration>51:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/d/8/1/4d810a491e3c781ed959afa2a1bf1c87/Aodah_Zarah_15.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37413860</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ד</title>
+      <itunes:title>מסכת עבודה זרה דף י"ד</itunes:title>
+      <pubDate>Mon, 14 Jul 2025 15:27:58 +0000</pubDate>
+      <guid isPermaLink="false">912a0e5b-6728-4a97-a764-9752e07e9dbb</guid>
+      <link>https://lomdotchasidut.libsyn.com/115hffldoul0</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_14.mp3?dest-id=468609" length="15228245" type="audio/mpeg" />
+      <itunes:duration>50:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/3/c/0/e3c0b94fe90678c1d959afa2a1bf1c87/Aodah_Zarah_14.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37399890</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ג</title>
+      <itunes:title>מסכת עבודה זרה דף י"ג</itunes:title>
+      <pubDate>Sun, 13 Jul 2025 22:49:33 +0000</pubDate>
+      <guid isPermaLink="false">561b2ed1-cd26-40cb-bc9e-b3620c003919</guid>
+      <link>https://lomdotchasidut.libsyn.com/bdqtgplphurk</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_13.mp3?dest-id=468609" length="22078178" type="audio/mpeg" />
+      <itunes:duration>01:00:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/6/b/d/86bd94e6e1291e0016c3140a3186d450/Aodah_Zarah_13.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37392605</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ב</title>
+      <itunes:title>מסכת עבודה זרה דף י"ב</itunes:title>
+      <pubDate>Thu, 10 Jul 2025 14:06:34 +0000</pubDate>
+      <guid isPermaLink="false">5c077ae1-d997-4662-8a82-fe02feb38243</guid>
+      <link>https://lomdotchasidut.libsyn.com/2j3rv7hk891c</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_12.mp3?dest-id=468609" length="15426201" type="audio/mpeg" />
+      <itunes:duration>42:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/1/c/b/11cb68efc70f402bd959afa2a1bf1c87/Aodah_Zarah_12.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37360530</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"א</title>
+      <itunes:title>מסכת עבודה זרה דף י"א</itunes:title>
+      <pubDate>Wed, 09 Jul 2025 14:30:13 +0000</pubDate>
+      <guid isPermaLink="false">84436406-8584-4f36-bacd-43b88ba9c3a6</guid>
+      <link>https://lomdotchasidut.libsyn.com/su2taq2rpatc</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_11.mp3?dest-id=468609" length="13732205" type="audio/mpeg" />
+      <itunes:duration>45:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/0/9/d/709dbe2c678dbac916c3140a3186d450/Aodah_Zarah_11.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37347675</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י' ח"ב</title>
+      <itunes:title>מסכת עבודה זרה דף י' ח"ב</itunes:title>
+      <pubDate>Tue, 08 Jul 2025 15:45:06 +0000</pubDate>
+      <guid isPermaLink="false">f01e5cb4-629c-4aee-847e-f6cfe6536c3b</guid>
+      <link>https://lomdotchasidut.libsyn.com/spfbn23updds</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_10_p2.mp3?dest-id=468609" length="11885086" type="audio/mpeg" />
+      <itunes:duration>32:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/5/3/2c533a32121e68e316c3140a3186d450/Aodah_Zarah_10_p2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37335110</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י' ח"א</title>
+      <itunes:title>מסכת עבודה זרה דף י' ח"א</itunes:title>
+      <pubDate>Tue, 08 Jul 2025 15:42:48 +0000</pubDate>
+      <guid isPermaLink="false">85159637-c1ff-4e25-afe7-1ad93626d3b6</guid>
+      <link>https://lomdotchasidut.libsyn.com/dkymwok1ga9s</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_10_p1.mp3?dest-id=468609" length="12241527" type="audio/mpeg" />
+      <itunes:duration>40:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/9/d/2/69d2986d1d4b9cb116c3140a3186d450/Aodah_Zarah_10_p1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37335100</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ט'</title>
+      <itunes:title>מסכת עבודה זרה דף ט'</itunes:title>
+      <pubDate>Mon, 07 Jul 2025 20:57:26 +0000</pubDate>
+      <guid isPermaLink="false">49ecaa80-3628-4515-a31f-a918d88be420</guid>
+      <link>https://lomdotchasidut.libsyn.com/n56aall6jqps</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_09.mp3?dest-id=468609" length="14145070" type="audio/mpeg" />
+      <itunes:duration>46:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/0/0/d/700d91938b5f86cfd959afa2a1bf1c87/Aodah_Zarah_09.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37325585</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ח'</title>
+      <itunes:title>מסכת עבודה זרה דף ח'</itunes:title>
+      <pubDate>Sun, 06 Jul 2025 20:29:24 +0000</pubDate>
+      <guid isPermaLink="false">314803a6-5878-4b07-bd86-44aea1930c49</guid>
+      <link>https://lomdotchasidut.libsyn.com/e2q7wjpsql8g</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_08.mp3?dest-id=468609" length="15677543" type="audio/mpeg" />
+      <itunes:duration>51:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/e/7/f/1e7f3d927b65177e16c3140a3186d450/Aodah_Zarah_08.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37299285</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ז'</title>
+      <itunes:title>מסכת עבודה זרה דף ז'</itunes:title>
+      <pubDate>Wed, 02 Jul 2025 20:10:00 +0000</pubDate>
+      <guid isPermaLink="false">3d916d49-6f31-423f-b791-b77285667152</guid>
+      <link>https://lomdotchasidut.libsyn.com/9dp1eolmgebk</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_07.mp3?dest-id=468609" length="12558262" type="audio/mpeg" />
+      <itunes:duration>41:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/b/e/e/8bee5af1d8901a57d959afa2a1bf1c87/Aodah_Zarah_07.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37263260</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ו' ח"ב</title>
+      <itunes:title>מסכת עבודה זרה דף ו' ח"ב</itunes:title>
+      <pubDate>Tue, 01 Jul 2025 18:57:55 +0000</pubDate>
+      <guid isPermaLink="false">af8dc533-eee1-4023-aa5c-c052d217ba47</guid>
+      <link>https://lomdotchasidut.libsyn.com/9hz4hgk25bls</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_06_p2.mp3?dest-id=468609" length="13002761" type="audio/mpeg" />
+      <itunes:duration>35:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/e/d/2cedff5f3db009dfd959afa2a1bf1c87/Aodah_Zarah_06_p2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37243260</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ו' ח"א</title>
+      <itunes:title>מסכת עבודה זרה דף ו' ח"א</itunes:title>
+      <pubDate>Tue, 01 Jul 2025 18:53:39 +0000</pubDate>
+      <guid isPermaLink="false">a4529866-c52d-493e-a9c5-acee5b5d4a5e</guid>
+      <link>https://lomdotchasidut.libsyn.com/7w0uhzam708w</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_06_p1.mp3?dest-id=468609" length="10008319" type="audio/mpeg" />
+      <itunes:duration>32:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/7/0/d/470d944875c29fdad959afa2a1bf1c87/Aodah_Zarah_06_p1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37243135</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ה'</title>
+      <itunes:title>מסכת עבודה זרה דף ה'</itunes:title>
+      <pubDate>Mon, 30 Jun 2025 21:35:40 +0000</pubDate>
+      <guid isPermaLink="false">19a1cde1-8aba-49d3-b933-e7cc8134e84a</guid>
+      <link>https://lomdotchasidut.libsyn.com/rd8zgegf94w0</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_05.mp3?dest-id=468609" length="15675845" type="audio/mpeg" />
+      <itunes:duration>51:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/a/b/e/7abe6ed8246a28f116c3140a3186d450/Aodah_Zarah_05.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37229020</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ד' חלק ב</title>
+      <itunes:title>מסכת עבודה זרה דף ד' חלק ב</itunes:title>
+      <pubDate>Sun, 29 Jun 2025 19:35:27 +0000</pubDate>
+      <guid isPermaLink="false">024b89d1-665e-438c-a30e-9754b0d5c0ee</guid>
+      <link>https://lomdotchasidut.libsyn.com/ge1k6zrwugao</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/paganism_4_P2.mp3?dest-id=468609" length="10708269" type="audio/mpeg" />
+      <itunes:duration>35:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/9/d/6/89d62c68f057655216c3140a3186d450/paganism_4_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37210225</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ד' חלק א</title>
+      <itunes:title>מסכת עבודה זרה דף ד' חלק א</itunes:title>
+      <pubDate>Sun, 29 Jun 2025 19:32:38 +0000</pubDate>
+      <guid isPermaLink="false">3b1962a5-e79a-4975-af6b-2bacd20b3589</guid>
+      <link>https://lomdotchasidut.libsyn.com/ibzuzsw2k5c0</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/paganism_4_P1.mp3?dest-id=468609" length="12678293" type="audio/mpeg" />
+      <itunes:duration>41:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/d/5/f/0d5fa6b7c7045b8516c3140a3186d450/paganism_4_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37210200</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ג</title>
+      <itunes:title>מסכת עבודה זרה דף ג</itunes:title>
+      <pubDate>Thu, 26 Jun 2025 23:07:17 +0000</pubDate>
+      <guid isPermaLink="false">a4cfa6bf-7b9d-4bd1-a861-e3c799e46b23</guid>
+      <link>https://lomdotchasidut.libsyn.com/mljhnan3o9a8</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/paganism_3.mp3?dest-id=468609" length="15603930" type="audio/mpeg" />
+      <itunes:duration>42:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/8/1/e/081ec61a0158c1b9d959afa2a1bf1c87/paganism_3.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37170390</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ב עמוד א</title>
+      <itunes:title>מסכת עבודה זרה דף ב עמוד א</itunes:title>
+      <pubDate>Wed, 25 Jun 2025 22:33:50 +0000</pubDate>
+      <guid isPermaLink="false">08391003-2aac-44b5-a179-e2c41799c6c3</guid>
+      <link>https://lomdotchasidut.libsyn.com/93fnu2wyjlvk</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______123.mp3?dest-id=468609" length="13014992" type="audio/mpeg" />
+      <itunes:duration>33:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/1/6/3/31631c5e35ad8ae316c3140a3186d450/______123.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37154980</ns1:item-id>
+      <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ט</title>
+      <itunes:title>מסכת סנהדרין דף ק"ט</itunes:title>
+      <pubDate>Sun, 04 May 2025 22:36:45 +0000</pubDate>
+      <guid isPermaLink="false">bc4a2043-56f8-4f4a-8a48-009434690b87</guid>
+      <link>https://lomdotchasidut.libsyn.com/narh38je0ikg</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_109.mp3?dest-id=468609" length="12615732" type="audio/mpeg" />
+      <itunes:duration>41:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/6/e/0/e6e00f5415dcc059d959afa2a1bf1c87/Sanhedrin_109.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36430040</ns1:item-id>
+      <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ח חלק ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"ח חלק ב</itunes:title>
+      <pubDate>Wed, 30 Apr 2025 21:03:30 +0000</pubDate>
+      <guid isPermaLink="false">ccd8465f-aad7-4558-93b1-8725ab93a9b1</guid>
+      <link>https://lomdotchasidut.libsyn.com/p9do75yvv0n4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_108_P2.mp3?dest-id=468609" length="11448335" type="audio/mpeg" />
+      <itunes:duration>37:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/a/c/9/4ac96632ff3d234616c3140a3186d450/Sanhedrin_108_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36378635</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ח חלק א</title>
+      <itunes:title>מסכת סנהדרין דף ק"ח חלק א</itunes:title>
+      <pubDate>Wed, 30 Apr 2025 20:59:26 +0000</pubDate>
+      <guid isPermaLink="false">f17f32c4-c7c0-4629-98d0-b191ee40bb92</guid>
+      <link>https://lomdotchasidut.libsyn.com/412ps45tnq4g</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_108_P1.mp3?dest-id=468609" length="11235829" type="audio/mpeg" />
+      <itunes:duration>37:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/5/1/e/651e275771cb3a5416c3140a3186d450/Sanhedrin_108_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36378575</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ז</title>
+      <itunes:title>מסכת סנהדרין דף ק"ז</itunes:title>
+      <pubDate>Tue, 29 Apr 2025 14:14:21 +0000</pubDate>
+      <guid isPermaLink="false">01ef779e-fd10-4671-9835-eaff71833a5b</guid>
+      <link>https://lomdotchasidut.libsyn.com/5ont4extrdog</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_107.mp3?dest-id=468609" length="20595748" type="audio/mpeg" />
+      <itunes:duration>01:08:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/a/2/a/0a2a94bb84447ad1d959afa2a1bf1c87/Sanhedrin_107.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36356765</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ו חלק ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"ו חלק ב</itunes:title>
+      <pubDate>Sun, 27 Apr 2025 18:48:43 +0000</pubDate>
+      <guid isPermaLink="false">373d3c5c-c512-488f-898f-deff8d064bf1</guid>
+      <link>https://lomdotchasidut.libsyn.com/9dqgx1wf8074</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_106_P2.mp3?dest-id=468609" length="16449216" type="audio/mpeg" />
+      <itunes:duration>54:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/3/a/2/53a22c6a7c666c0b16c3140a3186d450/Sanhedrin_106_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36328770</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ו חלק א</title>
+      <itunes:title>מסכת סנהדרין דף ק"ו חלק א</itunes:title>
+      <pubDate>Sun, 27 Apr 2025 18:43:40 +0000</pubDate>
+      <guid isPermaLink="false">75541623-c4fc-41de-bb3a-eeca16bce881</guid>
+      <link>https://lomdotchasidut.libsyn.com/gn6zri7gx2ww</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_106_P1.mp3?dest-id=468609" length="15243927" type="audio/mpeg" />
+      <itunes:duration>41:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/6/7/d/467d2ba787bc003216c3140a3186d450/Sanhedrin_106_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36328725</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ה חלק ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"ה חלק ב</itunes:title>
+      <pubDate>Thu, 24 Apr 2025 13:57:20 +0000</pubDate>
+      <guid isPermaLink="false">8b0c9533-5924-4337-bb3c-70b9a8dbd2f4</guid>
+      <link>https://lomdotchasidut.libsyn.com/bv7n2j0wk3r4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_105_P2.mp3?dest-id=468609" length="13107946" type="audio/mpeg" />
+      <itunes:duration>36:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/4/0/5/24051e8495deff6016c3140a3186d450/Sanhedrin_105_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36294085</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ה חלק א</title>
+      <itunes:title>מסכת סנהדרין דף ק"ה חלק א</itunes:title>
+      <pubDate>Thu, 24 Apr 2025 13:54:27 +0000</pubDate>
+      <guid isPermaLink="false">12090e4f-db72-4a89-b6f3-58bde2a15368</guid>
+      <link>https://lomdotchasidut.libsyn.com/jqnizkyetu68</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_105_P1.mp3?dest-id=468609" length="8555783" type="audio/mpeg" />
+      <itunes:duration>28:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/f/7/3/ff7318630e20beed16c3140a3186d450/Sanhedrin_105_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36294060</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ד חלק ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"ד חלק ב</itunes:title>
+      <pubDate>Wed, 23 Apr 2025 18:11:27 +0000</pubDate>
+      <guid isPermaLink="false">5ba116c4-b289-48a2-8881-3c13ed7a80ab</guid>
+      <link>https://lomdotchasidut.libsyn.com/ldso5pa2xqtc</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_104_P2.mp3?dest-id=468609" length="5338293" type="audio/mpeg" />
+      <itunes:duration>17:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/2/a/2/b2a2003f6c3ad1f416c3140a3186d450/Sanhedrin_104_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36281510</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ד חלק א</title>
+      <itunes:title>מסכת סנהדרין דף ק"ד חלק א</itunes:title>
+      <pubDate>Wed, 23 Apr 2025 18:10:30 +0000</pubDate>
+      <guid isPermaLink="false">92002ecd-f5c8-4649-897e-203cf75f1db9</guid>
+      <link>https://lomdotchasidut.libsyn.com/glvkq4enjq4g</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_104_P1.mp3?dest-id=468609" length="14388273" type="audio/mpeg" />
+      <itunes:duration>47:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/9/2/6/092694c6ba116b4116c3140a3186d450/Sanhedrin_104_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36281480</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ג</title>
+      <itunes:title>מסכת סנהדרין דף ק"ג</itunes:title>
+      <pubDate>Tue, 22 Apr 2025 17:54:37 +0000</pubDate>
+      <guid isPermaLink="false">c0f04f7d-61d0-4516-b012-eb86d468115c</guid>
+      <link>https://lomdotchasidut.libsyn.com/309012evuyf4</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_103.mp3?dest-id=468609" length="23211833" type="audio/mpeg" />
+      <itunes:duration>01:04:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/f/5/a/9f5ac9a025c9536ed959afa2a1bf1c87/Sanhedrin_103.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36266080</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"ב</itunes:title>
+      <pubDate>Mon, 21 Apr 2025 15:57:47 +0000</pubDate>
+      <guid isPermaLink="false">00640ce7-dc12-4c67-9483-ca22a899fe99</guid>
+      <link>https://lomdotchasidut.libsyn.com/imql7rx4v94w</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_102.mp3?dest-id=468609" length="10122919" type="audio/mpeg" />
+      <itunes:duration>27:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/1/3/1/d131a608dcc01dd016c3140a3186d450/Sanhedrin_102.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36248895</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת סנהדרין דף ק"א חלק ב</title>
+      <itunes:title>מסכת סנהדרין דף ק"א חלק ב</itunes:title>
+      <pubDate>Sun, 20 Apr 2025 12:59:48 +0000</pubDate>
+      <guid isPermaLink="false">1bbdc1d1-d0e4-41d9-8a40-57475e14ff2e</guid>
+      <link>https://lomdotchasidut.libsyn.com/7hjsqtufe2kg</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Sanhedrin_101_P2.mp3?dest-id=468609" length="11676789" type="audio/mpeg" />
+      <itunes:duration>32:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/2/6/4/426448fafb883af1d959afa2a1bf1c87/Sanhedrin_101_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>36234285</ns1:item-id>
+      <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
     </item>
   </channel>
 </rss>
