@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 18 Aug 2026 10:28:59 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2026 10:28:59 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 10:14:35 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:14:35 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>איך לעורר דעת בימי אלול</title>
+      <itunes:title>איך לעורר דעת בימי אלול</itunes:title>
+      <pubDate>Wed, 19 Aug 2026 09:41:00 +0000</pubDate>
+      <guid isPermaLink="false">9d40a9b7-889e-46df-ae88-6adde6931edf</guid>
+      <link>https://lomdotchasidut.libsyn.com/eifsmz2qz53c</link>
+      <description>&lt;p&gt;יום ד' פרשת כי תצא תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת כי תצא תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______5477.mp3?dest-id=468609" length="13673292" type="audio/mpeg" />
+      <itunes:duration>45:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/1/4/5/01450ac426d7116ed959afa2a1bf1c87/______-______5477.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42485205</ns1:item-id>
+      <ns1:last-updated>2026-08-19T09:44:29Z</ns1:last-updated>
+    </item>
     <item>
       <title>אלול - ישוב הדעת לפני שמתקנים</title>
       <itunes:title>אלול - ישוב הדעת לפני שמתקנים</itunes:title>
