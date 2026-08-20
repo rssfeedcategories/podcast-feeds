@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 19 Aug 2026 10:14:35 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 10:14:35 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 22:41:02 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:41:02 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להחשיב נצחונות קטנות נגד היצר</title>
+      <itunes:title>להחשיב נצחונות קטנות נגד היצר</itunes:title>
+      <pubDate>Thu, 20 Aug 2026 22:29:00 +0000</pubDate>
+      <guid isPermaLink="false">aee145c2-afff-4cc2-a2e8-c789f0151b1f</guid>
+      <link>https://lomdotchasidut.libsyn.com/630j3udqb09d</link>
+      <description>&lt;p&gt;ליל שישי פרשת כי תצא תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת כי תצא תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______7753.mp3?dest-id=468609" length="3883530" type="audio/mpeg" />
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/5/8/d/b58d3004160e6c08d959afa2a1bf1c87/________-______7753.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42507650</ns1:item-id>
+      <ns1:last-updated>2026-08-20T22:30:36Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>חודש אלול - אני לדודי ודודי לי</title>
+      <itunes:title>חודש אלול - אני לדודי ודודי לי</itunes:title>
+      <pubDate>Thu, 20 Aug 2026 22:27:00 +0000</pubDate>
+      <guid isPermaLink="false">a54ac6f3-31ff-49a0-aed3-f6d222f9d69a</guid>
+      <link>https://lomdotchasidut.libsyn.com/4qq0861pygwb</link>
+      <description>&lt;p&gt;ליל שישי פרשת כי תצא תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת כי תצא תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-___-_____7553.mp3?dest-id=468609" length="7178616" type="audio/mpeg" />
+      <itunes:duration>23:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/d/2/7/3d278b0f434f08d516c3140a3186d450/________-___-_____7553.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42507345</ns1:item-id>
+      <ns1:last-updated>2026-08-20T22:28:15Z</ns1:last-updated>
+    </item>
     <item>
       <title>החשיבות והתועלת שאדם יעריך את עצמו</title>
       <itunes:title>החשיבות והתועלת שאדם יעריך את עצמו</itunes:title>
