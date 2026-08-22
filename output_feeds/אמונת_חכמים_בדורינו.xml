@@ -118,22 +118,5 @@
       <ns1:item-id>27309873</ns1:item-id>
       <ns1:last-updated>2023-07-05T09:59:59Z</ns1:last-updated>
     </item>
-    <item>
-      <title>אמונת חכמים בדורינו ח"א - עשה לך רב</title>
-      <itunes:title>אמונת חכמים בדורינו ח"א - עשה לך רב</itunes:title>
-      <pubDate>Thu, 22 Jun 2023 08:58:41 +0000</pubDate>
-      <guid isPermaLink="false">c8a45c14-9851-42b5-a637-1d35da267c1f</guid>
-      <link>https://lomdotchasidut.libsyn.com/hbyd3lkn3chs</link>
-      <description />
-      <content:encoded />
-      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-____1559.mp3?dest-id=468609" length="18616392" type="audio/mpeg" />
-      <itunes:duration>51:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords />
-      <itunes:image href="https://static.libsyn.com/p/assets/c/8/1/e/c81e59d1269593eed959afa2a1bf1c87/________-______-____1559.jpg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <ns1:item-id>27233769</ns1:item-id>
-      <ns1:last-updated>2023-07-05T09:59:45Z</ns1:last-updated>
-    </item>
   </channel>
 </rss>

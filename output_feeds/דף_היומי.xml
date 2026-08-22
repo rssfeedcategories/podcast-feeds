@@ -135,5 +135,73 @@
       <ns1:item-id>37486615</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
     </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ח חלק א</title>
+      <itunes:title>מסכת עבודה זרה דף י"ח חלק א</itunes:title>
+      <pubDate>Mon, 21 Jul 2025 19:14:55 +0000</pubDate>
+      <guid isPermaLink="false">7c0a1e84-23f9-4ce1-8406-f2d87967b09c</guid>
+      <link>https://lomdotchasidut.libsyn.com/9xqlqa3in7cw</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_18_P1.mp3?dest-id=468609" length="16640686" type="audio/mpeg" />
+      <itunes:duration>55:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/6/5/2/4652d196c20199a8d959afa2a1bf1c87/Aodah_Zarah_18_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37486600</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ז חלק ב</title>
+      <itunes:title>מסכת עבודה זרה דף י"ז חלק ב</itunes:title>
+      <pubDate>Sun, 20 Jul 2025 21:12:03 +0000</pubDate>
+      <guid isPermaLink="false">f1812771-777c-4284-9785-90617bf40ae0</guid>
+      <link>https://lomdotchasidut.libsyn.com/bznak358egao</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_17_P2.mp3?dest-id=468609" length="15900768" type="audio/mpeg" />
+      <itunes:duration>52:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/e/d/3/fed372d6d546f796d959afa2a1bf1c87/Aodah_Zarah_17_P2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37473205</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף י"ז חלק א</title>
+      <itunes:title>מסכת עבודה זרה דף י"ז חלק א</itunes:title>
+      <pubDate>Sun, 20 Jul 2025 21:10:04 +0000</pubDate>
+      <guid isPermaLink="false">c116fcae-6b3d-4154-824c-1f1b74183da9</guid>
+      <link>https://lomdotchasidut.libsyn.com/iw9c6gfux91c</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_17_P1.mp3?dest-id=468609" length="23955860" type="audio/mpeg" />
+      <itunes:duration>01:06:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/a/7/d/ca7d14beaf65191116c3140a3186d450/Aodah_Zarah_17_P1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37473175</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>מסכת עבודה זרה דף ט"ז</title>
+      <itunes:title>מסכת עבודה זרה דף ט"ז</itunes:title>
+      <pubDate>Wed, 16 Jul 2025 19:14:38 +0000</pubDate>
+      <guid isPermaLink="false">a743d0c9-29a2-465a-be8d-109af27a4ef6</guid>
+      <link>https://lomdotchasidut.libsyn.com/owpqiuyjjcao</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/Aodah_Zarah_16.mp3?dest-id=468609" length="15248360" type="audio/mpeg" />
+      <itunes:duration>50:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/4/1/0/54107c88ca15ad1416c3140a3186d450/Aodah_Zarah_16.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>37431650</ns1:item-id>
+      <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
+    </item>
   </channel>
 </rss>
