@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Thu, 20 Aug 2026 22:41:02 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 22:41:02 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 10:16:55 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:16:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1083 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"א</title>
+      <itunes:title>הבינני בהלכה #1083 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"א</itunes:title>
+      <pubDate>Sun, 23 Aug 2026 10:08:00 +0000</pubDate>
+      <guid isPermaLink="false">d750a98a-e533-484c-862a-2990cf022462</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1083</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1083_-____________.mp3?dest-id=468609" length="3978939" type="audio/mpeg" />
+      <itunes:duration>13:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/3/d/2c3d94c61c5f80a9d959afa2a1bf1c87/__1083_-____________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42524235</ns1:item-id>
+      <ns1:last-updated>2026-08-23T10:08:57Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1082 - סימן ש"י, דיני מוקצה בשבת, סעיף ח' ח"ג, ט'</title>
       <itunes:title>הבינני בהלכה #1082 - סימן ש"י, דיני מוקצה בשבת, סעיף ח' ח"ג, ט'</itunes:title>
