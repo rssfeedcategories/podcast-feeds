@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אמונת חכמים בדורינו</title>
-    <pubDate>Thu, 20 Aug 2026 22:41:02 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 22:41:02 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 10:16:55 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:16:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -117,23 +117,6 @@
       <itunes:episodeType>full</itunes:episodeType>
       <ns1:item-id>27309873</ns1:item-id>
       <ns1:last-updated>2023-07-05T09:59:59Z</ns1:last-updated>
-    </item>
-    <item>
-      <title>אמונת חכמים בדורינו ח"א - עשה לך רב</title>
-      <itunes:title>אמונת חכמים בדורינו ח"א - עשה לך רב</itunes:title>
-      <pubDate>Thu, 22 Jun 2023 08:58:41 +0000</pubDate>
-      <guid isPermaLink="false">c8a45c14-9851-42b5-a637-1d35da267c1f</guid>
-      <link>https://lomdotchasidut.libsyn.com/hbyd3lkn3chs</link>
-      <description />
-      <content:encoded />
-      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-____1559.mp3?dest-id=468609" length="18616392" type="audio/mpeg" />
-      <itunes:duration>51:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords />
-      <itunes:image href="https://static.libsyn.com/p/assets/c/8/1/e/c81e59d1269593eed959afa2a1bf1c87/________-______-____1559.jpg" />
-      <itunes:episodeType>full</itunes:episodeType>
-      <ns1:item-id>27233769</ns1:item-id>
-      <ns1:last-updated>2023-07-05T09:59:45Z</ns1:last-updated>
     </item>
   </channel>
 </rss>
