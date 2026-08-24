@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Sun, 23 Aug 2026 10:16:55 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 10:16:55 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 10:46:53 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:46:53 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1084 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"ב</title>
+      <itunes:title>הבינני בהלכה #1084 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"ב</itunes:title>
+      <pubDate>Mon, 24 Aug 2026 10:28:00 +0000</pubDate>
+      <guid isPermaLink="false">504c756b-fe86-4989-9734-4b48f965ff8e</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1084</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1084_-____________.mp3?dest-id=468609" length="3958509" type="audio/mpeg" />
+      <itunes:duration>10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/9/4/8/a948e637d3bd326016c3140a3186d450/__1084_-____________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42535255</ns1:item-id>
+      <ns1:last-updated>2026-08-24T10:38:22Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1083 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"א</title>
       <itunes:title>הבינני בהלכה #1083 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף א' ח"א</itunes:title>
