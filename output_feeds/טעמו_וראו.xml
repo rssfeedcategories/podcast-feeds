@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - טעמו וראו</title>
-    <pubDate>Sun, 23 Aug 2026 10:16:55 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 10:16:55 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 10:46:53 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:46:53 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -123,6 +123,46 @@
       <ns1:ad-markers>
         <ns1:ad-marker type="pre" count="2" />
         <ns1:ad-marker type="post" count="2" timestamp="279" />
+      </ns1:ad-markers>
+    </item>
+    <item>
+      <title>הכח העצום של קבלת יסורים באהבה - טעימה 548</title>
+      <itunes:title>הכח העצום של קבלת יסורים באהבה - טעימה 548</itunes:title>
+      <pubDate>Sun, 05 Jan 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">51d34e11-56c3-49cd-a6b8-67a7a5d0fff8</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--548</link>
+      <description>&lt;p&gt; מתוך שיעור שנמסר יום ראשון פרשת ויצא ל' חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/335501"&gt;https://torahanytime.com/lectures/335501&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt; מתוך שיעור שנמסר יום ראשון פרשת ויצא ל' חשון תשפ"ה&lt;/p&gt; &lt;p&gt;&lt;a href= "https://torahanytime.com/lectures/335501"&gt;https://torahanytime.com/lectures/335501&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-__548.mp3?dest-id=468609" length="2909977" type="audio/mpeg" />
+      <itunes:duration>03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34704580</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="182" />
+      </ns1:ad-markers>
+    </item>
+    <item>
+      <title>טעמו וראו - 547</title>
+      <itunes:title>טעמו וראו - 547</itunes:title>
+      <pubDate>Wed, 01 Jan 2025 18:12:00 +0000</pubDate>
+      <guid isPermaLink="false">842a4cfd-8b21-405c-ac4c-8d6344ba476c</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--547</link>
+      <description>&lt;p&gt;למה בכו אלפי אנשים? - זאת חנוכה&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;למה בכו אלפי אנשים? - זאת חנוכה&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____-__547.mp3?dest-id=468609" length="3852893" type="audio/mpeg" />
+      <itunes:duration>04:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>34680775</ns1:item-id>
+      <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
+      <ns1:ad-markers>
+        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="post" count="2" timestamp="241" />
       </ns1:ad-markers>
     </item>
   </channel>
