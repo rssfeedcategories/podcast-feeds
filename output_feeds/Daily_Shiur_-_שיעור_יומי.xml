@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 25 Aug 2026 10:02:34 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 10:02:34 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 11:22:46 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:22:46 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אהבת האמת ולא להסיק מסקנות שגויות מתוך יאוש</title>
+      <itunes:title>אהבת האמת ולא להסיק מסקנות שגויות מתוך יאוש</itunes:title>
+      <pubDate>Wed, 26 Aug 2026 11:14:00 +0000</pubDate>
+      <guid isPermaLink="false">e0413b14-84b7-4935-ab32-84a61c133748</guid>
+      <link>https://lomdotchasidut.libsyn.com/39rgb0q8t0vr</link>
+      <description>&lt;p&gt; יום ד פרשת כי תבוא תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt; יום ד פרשת כי תבוא תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-________1099.mp3?dest-id=468609" length="13399818" type="audio/mpeg" />
+      <itunes:duration>44:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/f/d/1/4fd152bc237a179cd959afa2a1bf1c87/_______-________1099.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42559920</ns1:item-id>
+      <ns1:last-updated>2026-08-26T11:15:55Z</ns1:last-updated>
+    </item>
     <item>
       <title>מתיקתו של האמת</title>
       <itunes:title>מתיקתו של האמת</itunes:title>
