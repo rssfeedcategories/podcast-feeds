@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 27 Aug 2026 08:37:59 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 08:37:59 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 20:17:00 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:17:00 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>"תחת אשר לא עבדת את ה' אלוקיך בשמחה" אהבת ישראל דרך עבודת השמחה</title>
+      <itunes:title>"תחת אשר לא עבדת את ה' אלוקיך בשמחה" אהבת ישראל דרך עבודת השמחה</itunes:title>
+      <pubDate>Thu, 27 Aug 2026 20:07:00 +0000</pubDate>
+      <guid isPermaLink="false">61f8b256-1aa1-4ec2-be6e-90acf8633b67</guid>
+      <link>https://lomdotchasidut.libsyn.com/axmpd7g4u401</link>
+      <description>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______________5722.mp3?dest-id=468609" length="2736197" type="audio/mpeg" />
+      <itunes:duration>08:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/2/7/b/b27b56b48462a51716c3140a3186d450/________-______________5722.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42578730</ns1:item-id>
+      <ns1:last-updated>2026-08-27T20:08:21Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>"וה' האמירך היום להיות לו לעם סגולה..." האהבה של הקב"ה גם במצבים הקשים ביותר</title>
+      <itunes:title>"וה' האמירך היום להיות לו לעם סגולה..." האהבה של הקב"ה גם במצבים הקשים ביותר</itunes:title>
+      <pubDate>Thu, 27 Aug 2026 20:02:00 +0000</pubDate>
+      <guid isPermaLink="false">2d9091b2-83c7-4c0a-b5b6-42220cf7b20b</guid>
+      <link>https://lomdotchasidut.libsyn.com/o5g7yf7siign</link>
+      <description>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_______...________9244.mp3?dest-id=468609" length="10054662" type="audio/mpeg" />
+      <itunes:duration>33:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/b/2/9/2b291ec9e911ca7716c3140a3186d450/________-_______...________9244.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42578690</ns1:item-id>
+      <ns1:last-updated>2026-08-27T20:03:29Z</ns1:last-updated>
+    </item>
     <item>
       <title>להחשיב נצחונות קטנות נגד היצר</title>
       <itunes:title>להחשיב נצחונות קטנות נגד היצר</itunes:title>

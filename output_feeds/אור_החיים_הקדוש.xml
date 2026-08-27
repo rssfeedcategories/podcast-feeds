@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Thu, 27 Aug 2026 08:37:59 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 08:37:59 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 20:17:00 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:17:00 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת כי תבוא - "וישמע ה' את קולנו" הקב"ה יודע את קושי המלחמה נגד היצר</title>
+      <itunes:title>אור החיים הקדוש פרשת כי תבוא - "וישמע ה' את קולנו" הקב"ה יודע את קושי המלחמה נגד היצר</itunes:title>
+      <pubDate>Thu, 27 Aug 2026 19:59:00 +0000</pubDate>
+      <guid isPermaLink="false">1e980a66-4042-4d71-a326-2d646d675e32</guid>
+      <link>https://lomdotchasidut.libsyn.com/tnf844xli7o</link>
+      <description>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת כי תבוא תשפ"ו - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_______-_____________3488.mp3?dest-id=468609" length="13650939" type="audio/mpeg" />
+      <itunes:duration>45:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/f/6/d/2f6d2cd4e364056ed959afa2a1bf1c87/________-_______-_____________3488.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42578660</ns1:item-id>
+      <ns1:last-updated>2026-08-27T20:01:14Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת כי תצא - די תורה איז זיס!</title>
       <itunes:title>אור החיים הקדוש פרשת כי תצא - די תורה איז זיס!</itunes:title>
