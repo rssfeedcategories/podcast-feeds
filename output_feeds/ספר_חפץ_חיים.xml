@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 30 Aug 2026 17:03:30 +0000</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2026 17:03:30 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 16:52:42 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:52:42 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #92 - פתיחה חלק ל"ח - לאוין ד' ח"ב</title>
+      <itunes:title>ספר חפץ חיים שיעור #92 - פתיחה חלק ל"ח - לאוין ד' ח"ב</itunes:title>
+      <pubDate>Mon, 31 Aug 2026 16:41:00 +0000</pubDate>
+      <guid isPermaLink="false">366cb5be-453c-46aa-90ca-1eea05198280</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--92-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____92_-____-___.mp3?dest-id=468609" length="2604093" type="audio/mpeg" />
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/2/1/b/e21b9bdbb8c9688a16c3140a3186d450/____92_-____-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42623045</ns1:item-id>
+      <ns1:last-updated>2026-08-31T16:41:49Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #90 - פתיחה חלק ל"ו - לאוין ג' ח"ב</title>
       <itunes:title>ספר חפץ חיים שיעור #90 - פתיחה חלק ל"ו - לאוין ג' ח"ב</itunes:title>
