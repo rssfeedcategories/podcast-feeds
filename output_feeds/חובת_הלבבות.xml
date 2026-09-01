@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 31 Aug 2026 16:52:42 +0000</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 16:52:42 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 10:39:54 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:39:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>חובות הלבבות שער הביטחון שיעור #345 - ראש השנה - כדלים וכרשים דפקנו דלתיך</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #345 - ראש השנה - כדלים וכרשים דפקנו דלתיך</itunes:title>
+      <pubDate>Tue, 01 Sep 2026 10:18:00 +0000</pubDate>
+      <guid isPermaLink="false">9d024718-d002-4b5e-813a-804cb0598308</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--345-0</link>
+      <description>&lt;p&gt;יום ג פרשת נצבים וילך תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;מרדכי בן חי&lt;/strong&gt;'&lt;br /&gt; והכלה &lt;strong&gt;פייגא חנה בת חוה שיינדל&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;שלמה ראזענפעלד&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג פרשת נצבים וילך תשפ"ו&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן מרדכי בן חי' והכלה פייגא חנה בת חוה שיינדל נדבת אבי החתן הר"ר שלמה ראזענפעלד הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______345_-___-____.mp3?dest-id=468609" length="22174520" type="audio/mpeg" />
+      <itunes:duration>01:01:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/4/f/6/e4f61027e911e351d959afa2a1bf1c87/______-______345_-___-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42640095</ns1:item-id>
+      <ns1:last-updated>2026-09-01T10:28:58Z</ns1:last-updated>
+    </item>
+    <item>
       <title>חובות הלבבות שער הביטחון שיעור #344 - להטיב לאחרים משום והלכת בדרכיו</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #344 - להטיב לאחרים משום והלכת בדרכיו</itunes:title>
       <pubDate>Tue, 25 Aug 2026 09:48:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42547600</ns1:item-id>
-      <ns1:last-updated>2026-08-25T09:50:00Z</ns1:last-updated>
+      <ns1:last-updated>2026-09-01T00:01:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #343 - להעמיד את המצוות של בין אדם לחבירו באופן הנכון</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42473470</ns1:item-id>
-      <ns1:last-updated>2026-08-18T10:22:31Z</ns1:last-updated>
+      <ns1:last-updated>2026-09-01T00:01:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #342 - אותך קויתי כל היום</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42388220</ns1:item-id>
-      <ns1:last-updated>2026-08-11T10:09:38Z</ns1:last-updated>
+      <ns1:last-updated>2026-09-01T00:01:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #341 - העבודה של קיווי להשם</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>42311505</ns1:item-id>
-      <ns1:last-updated>2026-08-04T09:20:26Z</ns1:last-updated>
+      <ns1:last-updated>2026-09-01T00:01:32Z</ns1:last-updated>
     </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #340 - האור המיוחד הבא דוקא מתוך הגלות והקושי</title>
