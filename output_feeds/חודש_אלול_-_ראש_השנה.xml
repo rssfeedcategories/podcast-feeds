@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חודש אלול - ראש השנה</title>
-    <pubDate>Tue, 01 Sep 2026 10:39:54 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 10:39:54 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 10:19:35 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:19:35 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>תפילה על פרנסה בראש השנה בדרך הנכונה</title>
+      <itunes:title>תפילה על פרנסה בראש השנה בדרך הנכונה</itunes:title>
+      <pubDate>Wed, 02 Sep 2026 09:39:00 +0000</pubDate>
+      <guid isPermaLink="false">c5d757c8-d33e-4bb5-b559-108ad27541f6</guid>
+      <link>https://lomdotchasidut.libsyn.com/bghtsv9m3vq5</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_________7284.mp3?dest-id=468609" length="16401026" type="audio/mpeg" />
+      <itunes:duration>54:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/c/f/8/1cf8e2e4f7fc357e16c3140a3186d450/______-_________7284.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42712975</ns1:item-id>
+      <ns1:last-updated>2026-09-02T09:41:35Z</ns1:last-updated>
+    </item>
     <item>
       <title>שופר מגלה פנימיות הלב ומעורר לשינוי המעשים</title>
       <itunes:title>שופר מגלה פנימיות הלב ומעורר לשינוי המעשים</itunes:title>
