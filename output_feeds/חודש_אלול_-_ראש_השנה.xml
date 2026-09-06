@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חודש אלול - ראש השנה</title>
-    <pubDate>Thu, 03 Sep 2026 20:41:33 +0000</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 20:41:33 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2026 10:00:26 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:00:26 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מה החילוק בין י"ג מידות לוותרנות?</title>
+      <itunes:title>מה החילוק בין י"ג מידות לוותרנות?</itunes:title>
+      <pubDate>Sun, 06 Sep 2026 09:51:00 +0000</pubDate>
+      <guid isPermaLink="false">c92d5e17-127b-4ba8-9103-f6b1fc3a8f5f</guid>
+      <link>https://lomdotchasidut.libsyn.com/77yr6g4g2gh0</link>
+      <description>&lt;p&gt;יום א' שבוע שחל בו ראש השנה תשפ"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' שבוע שחל בו ראש השנה תשפ"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______6522.mp3?dest-id=468609" length="13571330" type="audio/mpeg" />
+      <itunes:duration>45:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/2/e/7/52e7247f565ecc6a16c3140a3186d450/________-______6522.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42798410</ns1:item-id>
+      <ns1:last-updated>2026-09-06T09:56:46Z</ns1:last-updated>
+    </item>
     <item>
       <title>העבודה בר"ה: אהבה רבה לפני קריאת שמע</title>
       <itunes:title>העבודה בר"ה: אהבה רבה לפני קריאת שמע</itunes:title>
