@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חודש אלול - ראש השנה</title>
-    <pubDate>Wed, 09 Sep 2026 15:30:22 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 15:30:22 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 09:29:30 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:29:30 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>למה אנו מזכירים כל כך זכות אבות בתפילתינו?</title>
+      <itunes:title>למה אנו מזכירים כל כך זכות אבות בתפילתינו?</itunes:title>
+      <pubDate>Thu, 10 Sep 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="false">dbd337cb-d775-4222-a7a8-1b843c1eb437</guid>
+      <link>https://lomdotchasidut.libsyn.com/dautinvs2b8w</link>
+      <description>&lt;p&gt;יום ה' שבוע שחל בו ראש השנה תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;יוחנן האגער&lt;/strong&gt; שליט"א&lt;br /&gt; לרגל שמחת הברית לבנו היום&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' שבוע שחל בו ראש השנה תשפ"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר יוחנן האגער שליט"א לרגל שמחת הברית לבנו היום&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_________1542.mp3?dest-id=468609" length="20572192" type="audio/mpeg" />
+      <itunes:duration>57:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/8/e/5/b8e5da809a54a48b16c3140a3186d450/________-_________1542.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42855580</ns1:item-id>
+      <ns1:last-updated>2026-09-10T09:25:31Z</ns1:last-updated>
+    </item>
     <item>
       <title>העבודה המתוקה של אמירת פסוקי זכרונות</title>
       <itunes:title>העבודה המתוקה של אמירת פסוקי זכרונות</itunes:title>
