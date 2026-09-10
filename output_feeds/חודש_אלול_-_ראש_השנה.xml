@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חודש אלול - ראש השנה</title>
-    <pubDate>Thu, 10 Sep 2026 09:29:30 +0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 09:29:30 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 19:44:18 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:44:18 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,60 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>סבלנות - יסוד בעשיית תשובה</title>
+      <itunes:title>סבלנות - יסוד בעשיית תשובה</itunes:title>
+      <pubDate>Thu, 10 Sep 2026 19:34:00 +0000</pubDate>
+      <guid isPermaLink="false">73209027-036d-4aa6-9e85-71830b010390</guid>
+      <link>https://lomdotchasidut.libsyn.com/5464qw85ww7k</link>
+      <description>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__________-__-____1452.mp3?dest-id=468609" length="4706657" type="audio/mpeg" />
+      <itunes:duration>15:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/f/3/e/4f3ee0c7923ec1c816c3140a3186d450/__________-__-____1452.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42864455</ns1:item-id>
+      <ns1:last-updated>2026-09-10T19:35:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>אל יתהלל חכם בחכמתו</title>
+      <itunes:title>אל יתהלל חכם בחכמתו</itunes:title>
+      <pubDate>Thu, 10 Sep 2026 19:32:00 +0000</pubDate>
+      <guid isPermaLink="false">37a86425-b944-425a-b0f5-892e3092d690</guid>
+      <link>https://lomdotchasidut.libsyn.com/1w717spyeefl</link>
+      <description>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__________-_____3255.mp3?dest-id=468609" length="9987179" type="audio/mpeg" />
+      <itunes:duration>33:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/8/a/5/28a5b1e5895919ec16c3140a3186d450/__________-_____3255.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42864440</ns1:item-id>
+      <ns1:last-updated>2026-09-10T19:33:26Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>איך אני מתמודד עם הפחד של ראש השנה</title>
+      <itunes:title>איך אני מתמודד עם הפחד של ראש השנה</itunes:title>
+      <pubDate>Thu, 10 Sep 2026 19:31:00 +0000</pubDate>
+      <guid isPermaLink="false">6afc9018-bd67-4090-aabd-fd84c6961133</guid>
+      <link>https://lomdotchasidut.libsyn.com/g5bfy111acu4</link>
+      <description>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק א&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי שבוע שחל בו ראש השנה תשפ"ו - חלק א&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__________-________.mp3?dest-id=468609" length="13181041" type="audio/mpeg" />
+      <itunes:duration>43:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/d/9/6/1d96bed9688f6177d959afa2a1bf1c87/__________-________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42864420</ns1:item-id>
+      <ns1:last-updated>2026-09-10T19:32:12Z</ns1:last-updated>
+    </item>
     <item>
       <title>למה אנו מזכירים כל כך זכות אבות בתפילתינו?</title>
       <itunes:title>למה אנו מזכירים כל כך זכות אבות בתפילתינו?</itunes:title>
