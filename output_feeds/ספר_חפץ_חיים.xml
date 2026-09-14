@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Thu, 10 Sep 2026 19:44:18 +0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 19:44:18 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 09:32:20 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:32:20 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #100 - פתיחה חלק מ"ו - המשך לאוין ה' ח"ד</title>
+      <itunes:title>ספר חפץ חיים שיעור #100 - פתיחה חלק מ"ו - המשך לאוין ה' ח"ד</itunes:title>
+      <pubDate>Mon, 14 Sep 2026 09:22:00 +0000</pubDate>
+      <guid isPermaLink="false">bb07ead2-e794-45f8-ac79-5582caea989b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--100-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____100_-____-____.mp3?dest-id=468609" length="2990776" type="audio/mpeg" />
+      <itunes:duration>07:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>42895455</ns1:item-id>
+      <ns1:last-updated>2026-09-14T09:25:50Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #99 - פתיחה חלק מ"ה - המשך לאוין ה' ח"ג</title>
       <itunes:title>ספר חפץ חיים שיעור #99 - פתיחה חלק מ"ה - המשך לאוין ה' ח"ג</itunes:title>
