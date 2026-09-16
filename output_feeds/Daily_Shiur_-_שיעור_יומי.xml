@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 15 Sep 2026 19:53:45 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 19:53:45 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 09:13:11 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:13:11 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבנה איך להצליח לעשות שינויים אמיתיים</title>
+      <itunes:title>הבנה איך להצליח לעשות שינויים אמיתיים</itunes:title>
+      <pubDate>Wed, 16 Sep 2026 08:55:00 +0000</pubDate>
+      <guid isPermaLink="false">f092f2fa-1486-47ee-9dbb-fee1308f6cf3</guid>
+      <link>https://lomdotchasidut.libsyn.com/7ygq6ehyhjgx</link>
+      <description>&lt;p&gt;יום ד' פרשת האזינו תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;ישעיה שלום וודאנסקי&lt;/strong&gt; הי"ו&lt;br /&gt; לברכה והצלחה בכל הענינים&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת האזינו תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר ישעיה שלום וודאנסקי הי"ו לברכה והצלחה בכל הענינים&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______6755.mp3?dest-id=468609" length="14021126" type="audio/mpeg" />
+      <itunes:duration>46:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/d/e/8/1de8e993dcd173b6e55e3c100dce7605/_____-_______6755.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42925692</ns1:item-id>
+      <ns1:last-updated>2026-09-16T08:59:25Z</ns1:last-updated>
+    </item>
     <item>
       <title>שבת הבינני - וויליאמסבורג</title>
       <itunes:title>שבת הבינני - וויליאמסבורג</itunes:title>
