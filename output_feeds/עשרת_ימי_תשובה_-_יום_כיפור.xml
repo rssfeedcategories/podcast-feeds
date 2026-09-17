@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - עשרת ימי תשובה - יום כיפור</title>
-    <pubDate>Thu, 17 Sep 2026 07:39:42 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 07:39:42 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 21:07:16 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:07:16 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,60 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אין יום הכיפורים מרצה עד שירצה את חבירו</title>
+      <itunes:title>אין יום הכיפורים מרצה עד שירצה את חבירו</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 20:52:00 +0000</pubDate>
+      <guid isPermaLink="false">bc832a7d-0f62-435e-bbf2-401908869392</guid>
+      <link>https://lomdotchasidut.libsyn.com/fboxhmr0a8zb</link>
+      <description>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק ג'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק ג'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__________7352.mp3?dest-id=468609" length="4976502" type="audio/mpeg" />
+      <itunes:duration>16:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/2/4/f/924fb341b96856c5e5bbc093207a2619/_______-__________7352.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42945843</ns1:item-id>
+      <ns1:last-updated>2026-09-17T20:56:29Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>ישוב הדעת בכניסת יום הקדוש</title>
+      <itunes:title>ישוב הדעת בכניסת יום הקדוש</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 20:50:00 +0000</pubDate>
+      <guid isPermaLink="false">bea4c005-8b29-492d-b5e3-e451813d3f50</guid>
+      <link>https://lomdotchasidut.libsyn.com/n8ua3szbchy6</link>
+      <description>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______9355.mp3?dest-id=468609" length="8750804" type="audio/mpeg" />
+      <itunes:duration>29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/4/d/4/f4d4e43715b591b8e5bbc093207a2619/_______-______9355.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42945768</ns1:item-id>
+      <ns1:last-updated>2026-09-17T20:51:35Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>שירת המלאכים על ידינו ביום הכיפורים</title>
+      <itunes:title>שירת המלאכים על ידינו ביום הכיפורים</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 20:48:00 +0000</pubDate>
+      <guid isPermaLink="false">b7f96e32-2767-47be-ab07-2cab0fc241a9</guid>
+      <link>https://lomdotchasidut.libsyn.com/koqgkvdqsa89</link>
+      <description>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת האזינו תשפ"ז - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______9577.mp3?dest-id=468609" length="13665220" type="audio/mpeg" />
+      <itunes:duration>45:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/e/9/a/9e9ac94026fff35488c4a68c3ddbc4f2/_______-_______9577.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42945713</ns1:item-id>
+      <ns1:last-updated>2026-09-17T20:49:22Z</ns1:last-updated>
+    </item>
     <item>
       <title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</title>
       <itunes:title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</itunes:title>
