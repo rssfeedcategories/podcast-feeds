@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - עשרת ימי תשובה - יום כיפור</title>
-    <pubDate>Tue, 15 Sep 2026 19:53:45 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 19:53:45 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 07:39:42 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:39:42 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</title>
+      <itunes:title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 07:23:00 +0000</pubDate>
+      <guid isPermaLink="false">0db43b82-a4d8-44f4-aabc-00cb7f68522d</guid>
+      <link>https://lomdotchasidut.libsyn.com/o1jou1tpiryh</link>
+      <description>&lt;p&gt;יום ה פרשת האזינו תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה פרשת האזינו תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______1844.mp3?dest-id=468609" length="15019790" type="audio/mpeg" />
+      <itunes:duration>49:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/2/8/1/12817180ad366f8ee55e3c100dce7605/_____-_______1844.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42937652</ns1:item-id>
+      <ns1:last-updated>2026-09-17T07:28:12Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</title>
+      <itunes:title>התפילות והווידוי מועילים להתחרט חרטה עמוקה</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 07:23:00 +0000</pubDate>
+      <guid isPermaLink="false">f6c3afdb-ea5b-4d42-b790-5c4aac37fc30</guid>
+      <link>https://lomdotchasidut.libsyn.com/9dlqxcc7zj4m</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______8533.mp3?dest-id=468609" length="15019790" type="audio/mpeg" />
+      <itunes:duration>49:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/3/c/8/b3c80bce770686e6e55e3c100dce7605/_____-_______8533.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42937662</ns1:item-id>
+      <ns1:last-updated>2026-09-17T07:31:08Z</ns1:last-updated>
+    </item>
     <item>
       <title>הקשר של צום גדליה לעשרת ימי תשובה</title>
       <itunes:title>הקשר של צום גדליה לעשרת ימי תשובה</itunes:title>
