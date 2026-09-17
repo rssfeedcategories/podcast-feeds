@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 17 Sep 2026 07:39:42 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 07:39:42 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 19:16:24 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:16:24 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,54 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>דרשה שנמסרה בביהמ"ד הגדול סקווירא - בענין עבודת התפלה ביום הקדוש</title>
+      <itunes:title>דרשה שנמסרה בביהמ"ד הגדול סקווירא - בענין עבודת התפלה ביום הקדוש</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 19:14:00 +0000</pubDate>
+      <guid isPermaLink="false">2a21ae77-c484-4495-9b21-39d8e2739c33</guid>
+      <link>https://lomdotchasidut.libsyn.com/nzecz9zfkbbm</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/___-___5787.mp3?dest-id=468609" length="33055139" type="audio/mpeg" />
+      <itunes:duration>45:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>42944543</ns1:item-id>
+      <ns1:last-updated>2026-09-17T19:16:11Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>דרשה בביהמ"ד הגדול וויזניץ מאנסי - בענין העבודה בימי עשי"ת</title>
+      <itunes:title>דרשה בביהמ"ד הגדול וויזניץ מאנסי - בענין העבודה בימי עשי"ת</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 19:10:00 +0000</pubDate>
+      <guid isPermaLink="false">8f1a507a-eaae-4f15-bead-59a3eb35e47d</guid>
+      <link>https://lomdotchasidut.libsyn.com/jqrznx5yo70t</link>
+      <description>&lt;p&gt;דרשה שנמסרה בביהמ"ד הגדול וויזניץ מאנסי&lt;/p&gt; &lt;p&gt;בליל ג' האזינו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;דרשה שנמסרה בביהמ"ד הגדול וויזניץ מאנסי&lt;/p&gt; &lt;p&gt;בליל ג' האזינו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__-____5787.mp3?dest-id=468609" length="91743084" type="audio/mpeg" />
+      <itunes:duration>38:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>42944518</ns1:item-id>
+      <ns1:last-updated>2026-09-17T19:13:23Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>לקראת שבת לכו ונלכה! סדר השבת הבעל"ט וויליאמסבורג יצ"ו</title>
+      <itunes:title>לקראת שבת לכו ונלכה! סדר השבת הבעל"ט וויליאמסבורג יצ"ו</itunes:title>
+      <pubDate>Thu, 17 Sep 2026 18:38:00 +0000</pubDate>
+      <guid isPermaLink="false">a181e346-ad05-482d-92ba-b54b0741ff37</guid>
+      <link>https://lomdotchasidut.libsyn.com/dlmyuy6044bb</link>
+      <description>&lt;p&gt;מנחה וקבלת שבת 6:45&lt;/p&gt; &lt;p&gt;באטע 10:45&lt;/p&gt; &lt;p&gt;שחרית 9:30 - קידושא רבה אחר התפלה&lt;/p&gt; &lt;p&gt;מנחה ושלש סעודות 7:15&lt;/p&gt; &lt;p&gt;שבת קודש נפשי חולת אהבתך&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;מנחה וקבלת שבת 6:45&lt;/p&gt; &lt;p&gt;באטע 10:45&lt;/p&gt; &lt;p&gt;שחרית 9:30 - קידושא רבה אחר התפלה&lt;/p&gt; &lt;p&gt;מנחה ושלש סעודות 7:15&lt;/p&gt; &lt;p&gt;שבת קודש נפשי חולת אהבתך&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/1.mp3?dest-id=468609" length="511207" type="audio/mpeg" />
+      <itunes:duration>32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>42944123</ns1:item-id>
+      <ns1:last-updated>2026-09-17T18:40:38Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבנה איך להצליח לעשות שינויים אמיתיים</title>
       <itunes:title>הבנה איך להצליח לעשות שינויים אמיתיים</itunes:title>
