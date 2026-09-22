@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Sun, 20 Sep 2026 07:52:23 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 07:52:23 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 08:59:18 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:59:18 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>מיוהכ"פ לסוכות - עבודת המידות ע"י התבוננות בי"ג מידות של רחמים</title>
+      <itunes:title>מיוהכ"פ לסוכות - עבודת המידות ע"י התבוננות בי"ג מידות של רחמים</itunes:title>
+      <pubDate>Tue, 22 Sep 2026 08:49:00 +0000</pubDate>
+      <guid isPermaLink="false">d3448bdc-96a7-4636-b80d-de632d8cf78f</guid>
+      <link>https://lomdotchasidut.libsyn.com/qtyut563puyd</link>
+      <description>&lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;דוד פיקסלער&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל הבר מצוה לבנו הבה"ח &lt;strong&gt;שמחה בונם&lt;/strong&gt; ני"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;נדבת הר"ר דוד פיקסלער הי"ו לרגל הבר מצוה לבנו הבה"ח שמחה בונם ני"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-___-_________3255.mp3?dest-id=468609" length="14987114" type="audio/mpeg" />
+      <itunes:duration>41:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/9/9/8/59989230d099923c88c4a68c3ddbc4f2/_______-___-_________3255.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>42990653</ns1:item-id>
+      <ns1:last-updated>2026-09-22T08:52:09Z</ns1:last-updated>
+    </item>
     <item>
       <title>שמחת בית השואבה חול המועד סוכות תשפו - חלק ב</title>
       <itunes:title>שמחת בית השואבה חול המועד סוכות תשפו - חלק ב</itunes:title>
