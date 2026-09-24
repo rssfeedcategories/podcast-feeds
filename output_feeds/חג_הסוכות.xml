@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Wed, 23 Sep 2026 10:01:32 +0000</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 10:01:32 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 10:20:35 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:20:35 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>סוכות - דעת - אלטע ידיעות מיט נייע דערהערן</title>
+      <itunes:title>סוכות - דעת - אלטע ידיעות מיט נייע דערהערן</itunes:title>
+      <pubDate>Thu, 24 Sep 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="false">5265e746-49dd-4f13-8297-a4781b383f9d</guid>
+      <link>https://lomdotchasidut.libsyn.com/43oziy2lfpbf</link>
+      <description>&lt;p&gt;יום ה' שבוע שחל בו סוכות תשפ"ז&lt;/p&gt; &lt;p&gt;נלמד לע''נ&lt;br /&gt; הרה"ח ר' &lt;strong&gt;יוסף יהושע&lt;/strong&gt; ב''ר &lt;strong&gt;ברוך&lt;/strong&gt; ז"ל&lt;br /&gt; לא השאיר אחריו זש''ק&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' שבוע שחל בו סוכות תשפ"ז&lt;/p&gt; &lt;p&gt;נלמד לע''נ הרה"ח ר' יוסף יהושע ב''ר ברוך ז"ל לא השאיר אחריו זש''ק&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__-__-_____.mp3?dest-id=468609" length="16183515" type="audio/mpeg" />
+      <itunes:duration>53:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/c/b/b/acbba5f0f95365f8e5bbc093207a2619/_______-__-__-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43018153</ns1:item-id>
+      <ns1:last-updated>2026-09-24T10:11:27Z</ns1:last-updated>
+    </item>
     <item>
       <title>סוכות - לשמוח עם הקב"ה</title>
       <itunes:title>סוכות - לשמוח עם הקב"ה</itunes:title>
