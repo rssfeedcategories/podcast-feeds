@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - GENERAL</title>
-    <pubDate>Thu, 24 Sep 2026 22:38:12 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 22:38:12 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 11:26:57 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:26:57 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שיעורים ודרשות חול המועד סוכות תשפ"ז</title>
+      <itunes:title>שיעורים ודרשות חול המועד סוכות תשפ"ז</itunes:title>
+      <pubDate>Fri, 25 Sep 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="false">ebd0fad2-3d7f-49ba-a241-a387f2983f8c</guid>
+      <link>https://lomdotchasidut.libsyn.com/p1drxs9n82j8</link>
+      <description>&lt;p&gt;&lt;img src= "//assets.libsyn.com/show/93012/shiurim_chol_hamoed_succos.png" alt="" width="566" height="885" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;</content:encoded>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>43030698</ns1:item-id>
+      <ns1:last-updated>2026-09-25T11:17:33Z</ns1:last-updated>
+    </item>
     <item>
       <title>דרשה לכבוד היארצייט של אור החיים הק' -נמסר בבית המדרש בעלזא מאנסי</title>
       <itunes:title>דרשה לכבוד היארצייט של אור החיים הק' -נמסר בבית המדרש בעלזא מאנסי</itunes:title>
