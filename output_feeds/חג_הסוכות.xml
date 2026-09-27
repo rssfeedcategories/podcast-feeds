@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Fri, 25 Sep 2026 11:26:57 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 11:26:57 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2026 12:09:23 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:09:23 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>האושפיזין מסעיים לנו לחיות דרך גירות בעולם הזה, ועבודת המידות</title>
+      <itunes:title>האושפיזין מסעיים לנו לחיות דרך גירות בעולם הזה, ועבודת המידות</itunes:title>
+      <pubDate>Sun, 27 Sep 2026 11:55:00 +0000</pubDate>
+      <guid isPermaLink="false">54f306bb-0fbb-44a3-91d6-80255c483ca0</guid>
+      <link>https://lomdotchasidut.libsyn.com/f8vehxndlio0</link>
+      <description>&lt;p&gt;יום א' חול המועד סוכות תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' חול המועד סוכות תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___________1461.mp3?dest-id=468609" length="15173500" type="audio/mpeg" />
+      <itunes:duration>50:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/8/b/4/b8b4ad04b0de5fe588c4a68c3ddbc4f2/______-___________1461.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43045278</ns1:item-id>
+      <ns1:last-updated>2026-09-27T12:00:41Z</ns1:last-updated>
+    </item>
     <item>
       <title>לימוד התורה וניצול הזמן בחג</title>
       <itunes:title>לימוד התורה וניצול הזמן בחג</itunes:title>
