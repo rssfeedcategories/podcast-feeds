@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Sun, 27 Sep 2026 12:09:23 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 12:09:23 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 14:38:30 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:38:30 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ישוב הדעת ותענוג בתוך הטירדות</title>
+      <itunes:title>ישוב הדעת ותענוג בתוך הטירדות</itunes:title>
+      <pubDate>Mon, 28 Sep 2026 14:31:00 +0000</pubDate>
+      <guid isPermaLink="false">11e10333-874c-4d9d-ac5f-c3d99d9de012</guid>
+      <link>https://lomdotchasidut.libsyn.com/7qt55tdh5kic</link>
+      <description>&lt;p&gt;יום ב' חול המועד סוכות תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' חול המועד סוכות תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______45783.mp3?dest-id=468609" length="15366091" type="audio/mpeg" />
+      <itunes:duration>51:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/3/d/4/c3d4e5c3cf39c331e5bbc093207a2619/______-______45783.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43056718</ns1:item-id>
+      <ns1:last-updated>2026-09-28T14:32:36Z</ns1:last-updated>
+    </item>
     <item>
       <title>האושפיזין מסעיים לנו לחיות דרך גירות בעולם הזה, ועבודת המידות</title>
       <itunes:title>האושפיזין מסעיים לנו לחיות דרך גירות בעולם הזה, ועבודת המידות</itunes:title>
