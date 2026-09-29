@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Mon, 28 Sep 2026 14:38:30 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 14:38:30 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 13:31:13 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:31:13 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #102 - פתיחה חלק מ"ח - המשך לאוין ה' ח"ו - וּבִפְרָט אִם בַּסִפּוּר הַזֶּה</title>
+      <itunes:title>ספר חפץ חיים שיעור #102 - פתיחה חלק מ"ח - המשך לאוין ה' ח"ו - וּבִפְרָט אִם בַּסִפּוּר הַזֶּה</itunes:title>
+      <pubDate>Tue, 29 Sep 2026 13:23:00 +0000</pubDate>
+      <guid isPermaLink="false">8e098665-75e0-4733-b7a8-c70b4b2e3b2e</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--102-2</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____102_-____-_____-____.mp3?dest-id=468609" length="3282256" type="audio/mpeg" />
+      <itunes:duration>08:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/9/f/8/49f8bb936f6154ebe5bbc093207a2619/____102_-____-_____-____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43071603</ns1:item-id>
+      <ns1:last-updated>2026-09-29T13:24:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #101 - פתיחה חלק מ"ז - המשך לאוין ה' ח"ה - וְיָדוּעַ מַאֲמַר רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה</title>
       <itunes:title>ספר חפץ חיים שיעור #101 - פתיחה חלק מ"ז - המשך לאוין ה' ח"ה - וְיָדוּעַ מַאֲמַר רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה</itunes:title>
