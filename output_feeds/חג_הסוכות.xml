@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חג הסוכות</title>
-    <pubDate>Thu, 01 Oct 2026 01:33:28 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 01:33:28 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 12:22:55 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:22:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שמיני עצרת - להתייחד עם הקב"ה</title>
+      <itunes:title>שמיני עצרת - להתייחד עם הקב"ה</itunes:title>
+      <pubDate>Thu, 01 Oct 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="false">9949dce4-1507-468e-b447-f1a301fae902</guid>
+      <link>https://lomdotchasidut.libsyn.com/sph4d0ej4b6e</link>
+      <description>&lt;p&gt;יום ה' חול המועד סוכות תשפ"ז - נמסר בבית המדרש בית פנחס באשדוד&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ה' חול המועד סוכות תשפ"ז - נמסר בבית המדרש בית פנחס באשדוד&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-___-____6635.mp3?dest-id=468609" length="16661111" type="audio/mpeg" />
+      <itunes:duration>55:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/6/a/c/b6ac75883662efc688c4a68c3ddbc4f2/______-___-____6635.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43122003</ns1:item-id>
+      <ns1:last-updated>2026-10-01T12:12:26Z</ns1:last-updated>
+    </item>
     <item>
       <title>הושענא רבה - עבודת היום - תפילה מתוך ביטול ותיקון השפתיים</title>
       <itunes:title>הושענא רבה - עבודת היום - תפילה מתוך ביטול ותיקון השפתיים</itunes:title>
