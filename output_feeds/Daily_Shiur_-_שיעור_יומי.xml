@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 01 Oct 2026 12:22:55 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 12:22:55 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 22:00:45 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 22:00:45 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,58 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ג' - הקב"ה מודיע להאדם שיהיה ליקוי לבנה</title>
+      <itunes:title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ג' - הקב"ה מודיע להאדם שיהיה ליקוי לבנה</itunes:title>
+      <pubDate>Sun, 04 Oct 2026 21:55:00 +0000</pubDate>
+      <guid isPermaLink="false">3a1b2f55-4395-451e-a622-dfc421c8636b</guid>
+      <link>https://lomdotchasidut.libsyn.com/42hv32s24blx</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-_______1484.mp3?dest-id=468609" length="12162813" type="audio/mpeg" />
+      <itunes:duration>40:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/c/7/7/2c7716a7f0d30a2188c4a68c3ddbc4f2/_________-_______1484.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43167553</ns1:item-id>
+      <ns1:last-updated>2026-10-04T21:56:11Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ב' - מתי הוא הזמן לעורר רגש דקדושה - בשעת החגים או אחר כך</title>
+      <itunes:title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ב' - מתי הוא הזמן לעורר רגש דקדושה - בשעת החגים או אחר כך</itunes:title>
+      <pubDate>Sun, 04 Oct 2026 21:54:00 +0000</pubDate>
+      <guid isPermaLink="false">36a1c7ef-de09-46af-bb12-cfa241408138</guid>
+      <link>https://lomdotchasidut.libsyn.com/nso5r1z9s7k3</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-_______-______3515.mp3?dest-id=468609" length="9673997" type="audio/mpeg" />
+      <itunes:duration>32:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/e/3/0/8/e3089b40b04edf8c88c4a68c3ddbc4f2/_________-_______-______3515.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43167543</ns1:item-id>
+      <ns1:last-updated>2026-10-04T21:55:11Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק א' - אסרו חג - די לעצטע שבע ברכות</title>
+      <itunes:title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק א' - אסרו חג - די לעצטע שבע ברכות</itunes:title>
+      <pubDate>Sun, 04 Oct 2026 21:53:00 +0000</pubDate>
+      <guid isPermaLink="false">55ca6075-f74e-46c7-ae96-7d0fa4464bf6</guid>
+      <link>https://lomdotchasidut.libsyn.com/jdgcj85fdcpg</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_________-___-_____4554.mp3?dest-id=468609" length="7155924" type="audio/mpeg" />
+      <itunes:duration>23:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>43167538</ns1:item-id>
+      <ns1:last-updated>2026-10-04T21:54:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>חלק ד' - מחת תורה - עבודת הרקידה עם הקב"ה</title>
       <itunes:title>חלק ד' - מחת תורה - עבודת הרקידה עם הקב"ה</itunes:title>
