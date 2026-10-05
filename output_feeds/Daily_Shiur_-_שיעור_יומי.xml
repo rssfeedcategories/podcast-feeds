@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 04 Oct 2026 22:00:45 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 22:00:45 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 10:00:33 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:00:33 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>בתפילת שחרית יש כל היסודות של חודש תשרי</title>
+      <itunes:title>בתפילת שחרית יש כל היסודות של חודש תשרי</itunes:title>
+      <pubDate>Mon, 05 Oct 2026 09:47:00 +0000</pubDate>
+      <guid isPermaLink="false">b14f497f-82b3-4d9b-b840-618428f69d95</guid>
+      <link>https://lomdotchasidut.libsyn.com/7mhedudshsu2</link>
+      <description>&lt;p&gt;יום ב' פרשת בראשית תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת בראשית תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_________2124.mp3?dest-id=468609" length="16363518" type="audio/mpeg" />
+      <itunes:duration>54:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/3/c/f/73cf90b2bb74146488c4a68c3ddbc4f2/_____-_________2124.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43171818</ns1:item-id>
+      <ns1:last-updated>2026-10-05T09:50:28Z</ns1:last-updated>
+    </item>
     <item>
       <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ג' - הקב"ה מודיע להאדם שיהיה ליקוי לבנה</title>
       <itunes:title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ג' - הקב"ה מודיע להאדם שיהיה ליקוי לבנה</itunes:title>
