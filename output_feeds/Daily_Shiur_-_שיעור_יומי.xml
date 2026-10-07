@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Wed, 07 Oct 2026 09:14:48 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 09:14:48 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 10:26:01 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:26:01 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>בריאת העולם: בקיצור - מה צריכים לעשות בעולם הזה?!</title>
+      <itunes:title>בריאת העולם: בקיצור - מה צריכים לעשות בעולם הזה?!</itunes:title>
+      <pubDate>Wed, 07 Oct 2026 10:19:00 +0000</pubDate>
+      <guid isPermaLink="false">43a834d5-39b0-44a3-8a97-622b234c0fe6</guid>
+      <link>https://lomdotchasidut.libsyn.com/r5bfeem72iov</link>
+      <description>&lt;p&gt;יום ד' פרשת בראשית תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת בראשית תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-___-__-_____.mp3?dest-id=468609" length="15538586" type="audio/mpeg" />
+      <itunes:duration>51:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/a/a/0/2aa02b33850d4c5888c4a68c3ddbc4f2/_____-___-__-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43205598</ns1:item-id>
+      <ns1:last-updated>2026-10-07T10:20:46Z</ns1:last-updated>
+    </item>
     <item>
       <title>בתפילת שחרית יש כל היסודות של חודש תשרי</title>
       <itunes:title>בתפילת שחרית יש כל היסודות של חודש תשרי</itunes:title>
