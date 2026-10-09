@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 08 Oct 2026 09:12:11 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 09:12:11 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 20:54:28 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:54:28 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שבת הוא זמן שהאדם יכול להסתכל עם "ראיה חדשה" על המקרים העוברים עליו</title>
+      <itunes:title>שבת הוא זמן שהאדם יכול להסתכל עם "ראיה חדשה" על המקרים העוברים עליו</itunes:title>
+      <pubDate>Thu, 08 Oct 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">e9c2da11-168f-450b-ae3f-14c1bc48f053</guid>
+      <link>https://lomdotchasidut.libsyn.com/e82mcbc6kubn</link>
+      <description>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______________5478.mp3?dest-id=468609" length="5933612" type="audio/mpeg" />
+      <itunes:duration>19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/e/0/5/0e05ad4e85c1f9a2e5bbc093207a2619/_______-______________5478.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43227413</ns1:item-id>
+      <ns1:last-updated>2026-10-08T20:46:06Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>התורה פותח את הלב להיות רגיש ולהבין צרכי הנפש של אחרים</title>
+      <itunes:title>התורה פותח את הלב להיות רגיש ולהבין צרכי הנפש של אחרים</itunes:title>
+      <pubDate>Thu, 08 Oct 2026 20:42:00 +0000</pubDate>
+      <guid isPermaLink="false">b9cc79c6-d27d-4200-8d24-57d2ad22a830</guid>
+      <link>https://lomdotchasidut.libsyn.com/orux8m7d8f25</link>
+      <description>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____________95753.mp3?dest-id=468609" length="6458543" type="audio/mpeg" />
+      <itunes:duration>21:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/9/e/a/89ea8b7ed3f81777e5bbc093207a2619/_______-____________95753.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43227398</ns1:item-id>
+      <ns1:last-updated>2026-10-08T20:43:50Z</ns1:last-updated>
+    </item>
     <item>
       <title>"תחת אשר לא עבדת את ה' אלוקיך בשמחה" אהבת ישראל דרך עבודת השמחה</title>
       <itunes:title>"תחת אשר לא עבדת את ה' אלוקיך בשמחה" אהבת ישראל דרך עבודת השמחה</itunes:title>

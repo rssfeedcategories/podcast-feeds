@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Thu, 08 Oct 2026 09:12:11 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 09:12:11 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 20:54:28 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:54:28 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת בראשית - התורה מועיל להאדם להכיר ולהרגיש מהו חושך ומהו רע</title>
+      <itunes:title>אור החיים הקדוש פרשת בראשית - התורה מועיל להאדם להכיר ולהרגיש מהו חושך ומהו רע</itunes:title>
+      <pubDate>Thu, 08 Oct 2026 20:40:00 +0000</pubDate>
+      <guid isPermaLink="false">f5cf1aa6-b902-479e-855a-734d840b8611</guid>
+      <link>https://lomdotchasidut.libsyn.com/h0ngu7wq6uob</link>
+      <description>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת בראשית תשפ"ז - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______-__________2426.mp3?dest-id=468609" length="10736094" type="audio/mpeg" />
+      <itunes:duration>35:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/b/b/0/fbb0f69f1f1d23cf88c4a68c3ddbc4f2/_______-______-__________2426.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43227373</ns1:item-id>
+      <ns1:last-updated>2026-10-08T20:41:52Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת כי תבוא - "וישמע ה' את קולנו" הקב"ה יודע את קושי המלחמה נגד היצר</title>
       <itunes:title>אור החיים הקדוש פרשת כי תבוא - "וישמע ה' את קולנו" הקב"ה יודע את קושי המלחמה נגד היצר</itunes:title>
