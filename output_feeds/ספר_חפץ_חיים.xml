@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 11 Oct 2026 22:02:32 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 22:02:32 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 08:56:27 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:56:27 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #107 - פתיחה חלק נ"ג - לאוין ו' ח"ג - וְזֶה דִּבַּרְנוּ אֲפִלּוּ בִּסְתַם אִישׁ יִשְׂרָאֵל</title>
+      <itunes:title>ספר חפץ חיים שיעור #107 - פתיחה חלק נ"ג - לאוין ו' ח"ג - וְזֶה דִּבַּרְנוּ אֲפִלּוּ בִּסְתַם אִישׁ יִשְׂרָאֵל</itunes:title>
+      <pubDate>Mon, 12 Oct 2026 08:49:00 +0000</pubDate>
+      <guid isPermaLink="false">eabe77d7-b4b8-49b7-b662-3253be0bfd8f</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--107-1</link>
+      <description>&lt;p&gt;וְזֶה דִּבַּרְנוּ אֲפִלּוּ בִּסְתַם אִישׁ יִשְׂרָאֵל, וּבִפְרָט אִם הוּא אִישׁ חָשׁוּב, שֶׁהַכָּל מִסְתַּכְּלִין עַל מַעֲשָׂיו, בְּוַדַּאי מִתְחַלֵּל הַשֵּׁם עַל יְדֵי זֶה. וְעַל אַחַת כַּמָה וְכַמָה אִם הָיָה הָעֲבֵרָה הַזֹּאת בָּרַבִּים, בְּוַדַּאי שֶׁהַחֵטְא גָּדוֹל עַד מְאֹד, שֶׁנִּקְרָא מְחַלֵּל שֵׁם שָׁמַיִם בָּרַבִּים.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;וְזֶה דִּבַּרְנוּ אֲפִלּוּ בִּסְתַם אִישׁ יִשְׂרָאֵל, וּבִפְרָט אִם הוּא אִישׁ חָשׁוּב, שֶׁהַכָּל מִסְתַּכְּלִין עַל מַעֲשָׂיו, בְּוַדַּאי מִתְחַלֵּל הַשֵּׁם עַל יְדֵי זֶה. וְעַל אַחַת כַּמָה וְכַמָה אִם הָיָה הָעֲבֵרָה הַזֹּאת בָּרַבִּים, בְּוַדַּאי שֶׁהַחֵטְא גָּדוֹל עַד מְאֹד, שֶׁנִּקְרָא מְחַלֵּל שֵׁם שָׁמַיִם בָּרַבִּים.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____107_-____-____-______.mp3?dest-id=468609" length="2400610" type="audio/mpeg" />
+      <itunes:duration>07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/c/6/e/cc6e13bb60c3c32088c4a68c3ddbc4f2/____107_-____-____-______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43255268</ns1:item-id>
+      <ns1:last-updated>2026-10-12T08:49:44Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #106 - פתיחה חלק נ"ב - לאוין ו' ח"ב</title>
       <itunes:title>ספר חפץ חיים שיעור #106 - פתיחה חלק נ"ב - לאוין ו' ח"ב</itunes:title>
