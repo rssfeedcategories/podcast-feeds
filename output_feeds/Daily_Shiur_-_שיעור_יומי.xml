@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 12 Oct 2026 08:56:27 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 08:56:27 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 15:52:28 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:52:28 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>להבדיל את עצמו ממחשבות של האומות העולם</title>
+      <itunes:title>להבדיל את עצמו ממחשבות של האומות העולם</itunes:title>
+      <pubDate>Mon, 12 Oct 2026 13:08:00 +0000</pubDate>
+      <guid isPermaLink="false">abda6559-c00c-411c-84ff-c983aeaeb2e1</guid>
+      <link>https://lomdotchasidut.libsyn.com/1zea8y67hvgk</link>
+      <description>&lt;p&gt;יום ב' פרשת נח תשפ"ז&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;/p&gt; &lt;p&gt;החתן &lt;strong&gt;חיים יודא בן רומא&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;והכלה &lt;strong&gt;אסתר בת מרים&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;נדבת אבי הכלה הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת נח תשפ"ז&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;/p&gt; &lt;p&gt;החתן חיים יודא בן רומא&lt;/p&gt; &lt;p&gt;והכלה אסתר בת מרים&lt;/p&gt; &lt;p&gt;נדבת אבי הכלה הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-________1979.mp3?dest-id=468609" length="13606045" type="audio/mpeg" />
+      <itunes:duration>45:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/2/7/6/8276f24aa4ea6571e5bbc093207a2619/_____-________1978.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43257283</ns1:item-id>
+      <ns1:last-updated>2026-10-12T15:52:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>טבע הבריאה בענין שכר ועונש - ווי אזוי ארבעט די וועלט?</title>
       <itunes:title>טבע הבריאה בענין שכר ועונש - ווי אזוי ארבעט די וועלט?</itunes:title>
