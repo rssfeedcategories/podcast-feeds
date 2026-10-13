@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Mon, 12 Oct 2026 08:56:27 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 08:56:27 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 09:44:25 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:44:25 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1091 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ה' ו'</title>
+      <itunes:title>הבינני בהלכה #1091 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ה' ו'</itunes:title>
+      <pubDate>Tue, 13 Oct 2026 08:40:00 +0000</pubDate>
+      <guid isPermaLink="false">0d99df71-6906-4c76-a76e-3f7e25a5a22e</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1091</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1091_-____________.mp3?dest-id=468609" length="4396424" type="audio/mpeg" />
+      <itunes:duration>12:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/f/f/6/5ff6cfd2b23a2792e5bbc093207a2619/__1091_-____________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43273653</ns1:item-id>
+      <ns1:last-updated>2026-10-13T08:47:39Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1090 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ג' ד'</title>
       <itunes:title>הבינני בהלכה #1090 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ג' ד'</itunes:title>
