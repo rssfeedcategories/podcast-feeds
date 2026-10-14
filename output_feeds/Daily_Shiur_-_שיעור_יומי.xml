@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 13 Oct 2026 09:44:25 +0000</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 09:44:25 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 10:24:22 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:24:22 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הכח לסבול את אחרים - במשנת הרה"ק מרוזין זצוק"ל</title>
+      <itunes:title>הכח לסבול את אחרים - במשנת הרה"ק מרוזין זצוק"ל</itunes:title>
+      <pubDate>Wed, 14 Oct 2026 09:18:00 +0000</pubDate>
+      <guid isPermaLink="false">a079bdc5-7771-499c-819f-43c1b016ca56</guid>
+      <link>https://lomdotchasidut.libsyn.com/4f1i6ci5e1dm</link>
+      <description>&lt;p&gt;יום ד' פרשת נח תשפ"ז&lt;/p&gt; &lt;p&gt;&lt;br /&gt; נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;קלונימוס יהודה בן באשא דבורה יוכבד&lt;/strong&gt;&lt;br /&gt; הכלה &lt;strong&gt;מרים גיטל ברכה בת אסתר מלכה&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת נח תשפ"ז&lt;/p&gt; &lt;p&gt; נלמד לזכות החתן קלונימוס יהודה בן באשא דבורה יוכבד הכלה מרים גיטל ברכה בת אסתר מלכה&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_____-_____3526.mp3?dest-id=468609" length="14286012" type="audio/mpeg" />
+      <itunes:duration>47:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/a/7/9/aa79db8d6bf169da5f2e77a3093c12a1/_____-_____-_____3526.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43288624</ns1:item-id>
+      <ns1:last-updated>2026-10-14T09:27:03Z</ns1:last-updated>
+    </item>
     <item>
       <title>להבדיל את עצמו ממחשבות של האומות העולם</title>
       <itunes:title>להבדיל את עצמו ממחשבות של האומות העולם</itunes:title>
