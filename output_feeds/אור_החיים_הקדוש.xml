@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 14 Oct 2026 10:24:22 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 10:24:22 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 20:32:29 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:32:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת נח - לראות בחוש "משלך נתנו לך"</title>
+      <itunes:title>אור החיים הקדוש פרשת נח - לראות בחוש "משלך נתנו לך"</itunes:title>
+      <pubDate>Thu, 15 Oct 2026 20:05:00 +0000</pubDate>
+      <guid isPermaLink="false">72f4fcbe-b676-409d-834c-2605b7818a8f</guid>
+      <link>https://lomdotchasidut.libsyn.com/qdz6olepou3u</link>
+      <description>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק א&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק א&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____-______32566.mp3?dest-id=468609" length="12297726" type="audio/mpeg" />
+      <itunes:duration>40:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/4/8/2/0482c9d35010ae04a04421dee9605cbd/_______-____-______32566.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43315254</ns1:item-id>
+      <ns1:last-updated>2026-10-15T20:11:20Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת בראשית - התורה מועיל להאדם להכיר ולהרגיש מהו חושך ומהו רע</title>
       <itunes:title>אור החיים הקדוש פרשת בראשית - התורה מועיל להאדם להכיר ולהרגיש מהו חושך ומהו רע</itunes:title>

@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 14 Oct 2026 10:24:22 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 10:24:22 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 20:32:29 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:32:29 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הדרך להשיג שלמות הבן חורין</title>
+      <itunes:title>הדרך להשיג שלמות הבן חורין</itunes:title>
+      <pubDate>Thu, 15 Oct 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">f80c58ef-ec7f-4494-a437-a1db95528c78</guid>
+      <link>https://lomdotchasidut.libsyn.com/jt8ry6z2w268</link>
+      <description>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______54112.mp3?dest-id=468609" length="4558297" type="audio/mpeg" />
+      <itunes:duration>15:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/2/8/f/128ff88dcdfe0944a04421dee9605cbd/_______-______54112.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43315534</ns1:item-id>
+      <ns1:last-updated>2026-10-15T20:32:21Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>בעל חי - בכל העיתים ובכל מצבי החיים</title>
+      <itunes:title>בעל חי - בכל העיתים ובכל מצבי החיים</itunes:title>
+      <pubDate>Thu, 15 Oct 2026 20:28:00 +0000</pubDate>
+      <guid isPermaLink="false">f6bcf288-7115-469e-98b8-a1ffe9f49024</guid>
+      <link>https://lomdotchasidut.libsyn.com/aiz0tc5320mt</link>
+      <description>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת נח תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-___-______9588.mp3?dest-id=468609" length="7261318" type="audio/mpeg" />
+      <itunes:duration>24:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/7/a/f/57af430e1922396e5f2e77a3093c12a1/_______-___-______9588.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43315514</ns1:item-id>
+      <ns1:last-updated>2026-10-15T20:30:04Z</ns1:last-updated>
+    </item>
     <item>
       <title>שבת הוא זמן שהאדם יכול להסתכל עם "ראיה חדשה" על המקרים העוברים עליו</title>
       <itunes:title>שבת הוא זמן שהאדם יכול להסתכל עם "ראיה חדשה" על המקרים העוברים עליו</itunes:title>
