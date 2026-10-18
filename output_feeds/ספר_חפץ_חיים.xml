@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Thu, 15 Oct 2026 20:32:29 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 20:32:29 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 09:24:27 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:24:27 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #111 - פתיחה חלק נ"ז - לאוין ו' ח"ז</title>
+      <itunes:title>ספר חפץ חיים שיעור #111 - פתיחה חלק נ"ז - לאוין ו' ח"ז</itunes:title>
+      <pubDate>Sun, 18 Oct 2026 08:13:00 +0000</pubDate>
+      <guid isPermaLink="false">d5475521-4211-48d6-9e07-90b8030049ca</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--111-1</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____111_-____-___.mp3?dest-id=468609" length="4094808" type="audio/mpeg" />
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/4/e/a/64ea11aed42b2e4a5f2e77a3093c12a1/____111_-____-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43342464</ns1:item-id>
+      <ns1:last-updated>2026-10-18T08:15:06Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #110 - פתיחה חלק נ"ו - לאוין ו' ח"ו</title>
       <itunes:title>ספר חפץ חיים שיעור #110 - פתיחה חלק נ"ו - לאוין ו' ח"ו</itunes:title>
