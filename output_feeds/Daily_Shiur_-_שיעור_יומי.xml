@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 19 Oct 2026 08:14:33 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 08:14:33 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 09:31:54 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:31:54 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שקר במצבים לא נעימים</title>
+      <itunes:title>שקר במצבים לא נעימים</itunes:title>
+      <pubDate>Mon, 19 Oct 2026 09:20:00 +0000</pubDate>
+      <guid isPermaLink="false">4bfba411-0a11-4cce-8b46-21d6d99ba730</guid>
+      <link>https://lomdotchasidut.libsyn.com/l3tsgzgxmxfe</link>
+      <description>&lt;p&gt;יום ב' פרשת לך לך תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת לך לך תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_____3223.mp3?dest-id=468609" length="16236023" type="audio/mpeg" />
+      <itunes:duration>53:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/6/4/b/b64bdfcee5e2ff8b5f2e77a3093c12a1/______-_____3223.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43351184</ns1:item-id>
+      <ns1:last-updated>2026-10-19T09:26:30Z</ns1:last-updated>
+    </item>
     <item>
       <title>מתי אמירת האמת הוי שקר?</title>
       <itunes:title>מתי אמירת האמת הוי שקר?</itunes:title>
