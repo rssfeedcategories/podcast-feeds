@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 19 Oct 2026 09:31:54 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 09:31:54 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 10:23:58 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:23:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חובות הלבבות שער הביטחון שיעור #350 - ההבדל בהורדת השפע בין לשמה ושלא לשמה</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #350 - ההבדל בהורדת השפע בין לשמה ושלא לשמה</itunes:title>
+      <pubDate>Tue, 20 Oct 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="false">ea938311-6acd-4ed3-a2e0-0eed6d7760f5</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--350-0</link>
+      <description>&lt;p&gt;יום ג' פרשת לך לך תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג' פרשת לך לך תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______350_-_______.mp3?dest-id=468609" length="23003240" type="audio/mpeg" />
+      <itunes:duration>01:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/7/5/4/37548995b4901498a04421dee9605cbd/______-______350_-_______.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43369609</ns1:item-id>
+      <ns1:last-updated>2026-10-20T09:41:25Z</ns1:last-updated>
+    </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #349 - הדרך לעסוק נכון במצות שבין אדם לחבירו ולהביא לידי תוצאות טובות</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #349 - הדרך לעסוק נכון במצות שבין אדם לחבירו ולהביא לידי תוצאות טובות</itunes:title>
