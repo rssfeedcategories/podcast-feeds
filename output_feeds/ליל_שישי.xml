@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 21 Oct 2026 09:37:53 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 09:37:53 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 20:47:28 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:47:28 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ברית מילה, השלימות של המצווה הבאה בקושי ובטרחה</title>
+      <itunes:title>ברית מילה, השלימות של המצווה הבאה בקושי ובטרחה</itunes:title>
+      <pubDate>Thu, 22 Oct 2026 20:39:00 +0000</pubDate>
+      <guid isPermaLink="false">65f49d5f-3975-48c0-9834-284c178e23eb</guid>
+      <link>https://lomdotchasidut.libsyn.com/dk3g6clssf6i</link>
+      <description>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_________1452.mp3?dest-id=468609" length="4648974" type="audio/mpeg" />
+      <itunes:duration>15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/9/f/3/39f3eb6c73c38d69a04421dee9605cbd/________-_________1452.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43412754</ns1:item-id>
+      <ns1:last-updated>2026-10-22T20:40:04Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>אנוכי מגן לך - הבטחה מה' להשיג את העבודה הרצויה</title>
+      <itunes:title>אנוכי מגן לך - הבטחה מה' להשיג את העבודה הרצויה</itunes:title>
+      <pubDate>Thu, 22 Oct 2026 20:35:00 +0000</pubDate>
+      <guid isPermaLink="false">bad1126b-228a-4726-9d20-bdaf24e1055a</guid>
+      <link>https://lomdotchasidut.libsyn.com/abgm4sgi8e0t</link>
+      <description>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-__________3259.mp3?dest-id=468609" length="9881954" type="audio/mpeg" />
+      <itunes:duration>32:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/7/0/d/270d1a91b7214a64a04421dee9605cbd/________-__________3259.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43412719</ns1:item-id>
+      <ns1:last-updated>2026-10-22T20:38:27Z</ns1:last-updated>
+    </item>
     <item>
       <title>הדרך להשיג שלמות הבן חורין</title>
       <itunes:title>הדרך להשיג שלמות הבן חורין</itunes:title>

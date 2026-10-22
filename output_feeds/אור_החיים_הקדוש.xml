@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Wed, 21 Oct 2026 09:37:53 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 09:37:53 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 20:47:28 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:47:28 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת לך לך - ויבן שם מזבח לה הנראה אליו - תכלית העבודה היא הדבקות בהשם</title>
+      <itunes:title>אור החיים הקדוש פרשת לך לך - ויבן שם מזבח לה הנראה אליו - תכלית העבודה היא הדבקות בהשם</itunes:title>
+      <pubDate>Thu, 22 Oct 2026 20:34:00 +0000</pubDate>
+      <guid isPermaLink="false">624348fb-2636-4a62-a941-b982b96ae85e</guid>
+      <link>https://lomdotchasidut.libsyn.com/8tkwp9u875m2</link>
+      <description>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת לך לך תשפ"ז - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_______-_______-_____.mp3?dest-id=468609" length="11513693" type="audio/mpeg" />
+      <itunes:duration>38:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/7/8/6/5786d1838fa40b44a04421dee9605cbd/________-_______-_______-_____.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43412629</ns1:item-id>
+      <ns1:last-updated>2026-10-22T20:35:13Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת נח - לראות בחוש "משלך נתנו לך"</title>
       <itunes:title>אור החיים הקדוש פרשת נח - לראות בחוש "משלך נתנו לך"</itunes:title>
