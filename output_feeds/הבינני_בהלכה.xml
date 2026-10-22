@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Wed, 21 Oct 2026 09:37:53 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 09:37:53 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 09:49:05 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:49:05 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1098 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ג</title>
+      <itunes:title>הבינני בהלכה #1098 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ג</itunes:title>
+      <pubDate>Thu, 22 Oct 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="false">505aa908-f118-4a27-8ed6-0eb966ff0d79</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1098</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1098_-___________1.mp3?dest-id=468609" length="5605477" type="audio/mpeg" />
+      <itunes:duration>15:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/b/9/7/9/b979b3c4c7a3cf925f2e77a3093c12a1/__1098_-___________1.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43406284</ns1:item-id>
+      <ns1:last-updated>2026-10-22T09:42:55Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1097 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ב</title>
       <itunes:title>הבינני בהלכה #1097 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ב</itunes:title>
