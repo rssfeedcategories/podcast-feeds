@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Thu, 22 Oct 2026 20:47:28 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 20:47:28 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 11:00:41 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:00:41 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1099 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ד</title>
+      <itunes:title>הבינני בהלכה #1099 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ד</itunes:title>
+      <pubDate>Sun, 25 Oct 2026 10:50:00 +0000</pubDate>
+      <guid isPermaLink="false">2f8c9126-a3e2-40a4-922c-d0a35f21aadc</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1099</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1099_-__________.mp3?dest-id=468609" length="7492563" type="audio/mpeg" />
+      <itunes:duration>20:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/b/a/c/0bac022db4af617d5f2e77a3093c12a1/__1099_-__________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43438059</ns1:item-id>
+      <ns1:last-updated>2026-10-25T10:51:21Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1098 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ג</title>
       <itunes:title>הבינני בהלכה #1098 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ג</itunes:title>
