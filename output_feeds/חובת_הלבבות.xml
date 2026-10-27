@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חובת הלבבות</title>
-    <pubDate>Mon, 26 Oct 2026 10:22:54 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 10:22:54 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 11:13:38 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:13:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,22 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>חובות הלבבות שער הביטחון שיעור #351 - את מי אנחנו מנסים לרצות? ובענין קאמפלאמענ"ט (Compliment)</title>
+      <itunes:title>חובות הלבבות שער הביטחון שיעור #351 - את מי אנחנו מנסים לרצות? ובענין קאמפלאמענ"ט (Compliment)</itunes:title>
+      <pubDate>Tue, 27 Oct 2026 10:41:00 +0000</pubDate>
+      <guid isPermaLink="false">6faf7d0c-96fa-4a10-b221-c0f8ac7ef97c</guid>
+      <link>https://lomdotchasidut.libsyn.com/-351-compliment</link>
+      <description>&lt;p&gt;יום ג' פרשת וירא תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ג' פרשת וירא תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______351_-______-___Compliment.mp3?dest-id=468609" length="60393011" type="audio/mpeg" />
+      <itunes:duration>01:02:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:episodeType>full</itunes:episodeType>
+      <ns1:item-id>43471159</ns1:item-id>
+      <ns1:last-updated>2026-10-27T10:45:33Z</ns1:last-updated>
+    </item>
     <item>
       <title>חובות הלבבות שער הביטחון שיעור #350 - ההבדל בהורדת השפע בין לשמה ושלא לשמה</title>
       <itunes:title>חובות הלבבות שער הביטחון שיעור #350 - ההבדל בהורדת השפע בין לשמה ושלא לשמה</itunes:title>
