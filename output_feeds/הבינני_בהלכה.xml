@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Wed, 28 Oct 2026 10:32:15 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 10:32:15 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 11:08:45 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:08:45 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1103 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ד'</title>
+      <itunes:title>הבינני בהלכה #1103 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ד'</itunes:title>
+      <pubDate>Thu, 29 Oct 2026 10:59:00 +0000</pubDate>
+      <guid isPermaLink="false">720c35b0-73af-4d2e-b865-ecb0c74196d4</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1103</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1103_-_________.mp3?dest-id=468609" length="3802548" type="audio/mpeg" />
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/7/a/0/87a0f160eec1aa6c5f2e77a3093c12a1/__1103_-_________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43525034</ns1:item-id>
+      <ns1:last-updated>2026-10-29T11:00:10Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1102 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ב' ג'</title>
       <itunes:title>הבינני בהלכה #1102 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ב' ג'</itunes:title>
