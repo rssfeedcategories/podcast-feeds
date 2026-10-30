@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Wed, 28 Oct 2026 10:32:15 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 10:32:15 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 21:40:05 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:40:05 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הצפייה לישועה כדי לגלות את השם</title>
+      <itunes:title>הצפייה לישועה כדי לגלות את השם</itunes:title>
+      <pubDate>Thu, 29 Oct 2026 21:29:00 +0000</pubDate>
+      <guid isPermaLink="false">b6ea13cd-d43c-42d1-86b5-6bd82552185b</guid>
+      <link>https://lomdotchasidut.libsyn.com/cek62r4zh2wy</link>
+      <description>&lt;p&gt;ליל שישי פרשת וירא תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת וירא תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______3248.mp3?dest-id=468609" length="3058682" type="audio/mpeg" />
+      <itunes:duration>10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/2/3/4/7234f2f56a1bfda7a04421dee9605cbd/_______-_______3248.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43558134</ns1:item-id>
+      <ns1:last-updated>2026-10-29T21:30:40Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>ההטבה מה' שמגיע אחרי קיום מצווה</title>
+      <itunes:title>ההטבה מה' שמגיע אחרי קיום מצווה</itunes:title>
+      <pubDate>Thu, 29 Oct 2026 21:24:00 +0000</pubDate>
+      <guid isPermaLink="false">997bad22-29ae-4a32-86aa-5c806dca930d</guid>
+      <link>https://lomdotchasidut.libsyn.com/16rr01ujqrdx</link>
+      <description>&lt;p&gt;ליל שישי פרשת וירא תשפ"ז - חלק ב'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת וירא תשפ"ז - חלק ב'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-_______3232.mp3?dest-id=468609" length="7146453" type="audio/mpeg" />
+      <itunes:duration>23:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/6/2/5/762538370f9bba525f2e77a3093c12a1/_______-_______3232.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43558099</ns1:item-id>
+      <ns1:last-updated>2026-10-29T21:28:13Z</ns1:last-updated>
+    </item>
     <item>
       <title>ברית מילה, השלימות של המצווה הבאה בקושי ובטרחה</title>
       <itunes:title>ברית מילה, השלימות של המצווה הבאה בקושי ובטרחה</itunes:title>
