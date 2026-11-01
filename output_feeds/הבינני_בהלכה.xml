@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Thu, 29 Oct 2026 21:40:05 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 21:40:05 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 10:49:38 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:49:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>הבינני בהלכה #1104 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ה'</title>
+      <itunes:title>הבינני בהלכה #1104 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ה'</itunes:title>
+      <pubDate>Sun, 01 Nov 2026 10:42:00 +0000</pubDate>
+      <guid isPermaLink="false">2e0d7bf3-8c5f-4b87-9185-b96ccaec9a1e</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1104</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1104_-__________2148.mp3?dest-id=468609" length="4406290" type="audio/mpeg" />
+      <itunes:duration>12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/0/a/2/10a2da101aa9061ea04421dee9605cbd/__1104_-__________2148.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43581549</ns1:item-id>
+      <ns1:last-updated>2026-11-01T10:42:51Z</ns1:last-updated>
+    </item>
+    <item>
       <title>הבינני בהלכה #1103 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ד'</title>
       <itunes:title>הבינני בהלכה #1103 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ד'</itunes:title>
       <pubDate>Thu, 29 Oct 2026 10:59:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43525034</ns1:item-id>
-      <ns1:last-updated>2026-10-29T11:00:10Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1102 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ב' ג'</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43484869</ns1:item-id>
-      <ns1:last-updated>2026-10-28T10:20:41Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1101 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ו</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43469769</ns1:item-id>
-      <ns1:last-updated>2026-10-27T09:12:14Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1100 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ה</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43446114</ns1:item-id>
-      <ns1:last-updated>2026-10-26T09:22:09Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1099 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ד</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43438059</ns1:item-id>
-      <ns1:last-updated>2026-10-25T10:51:21Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1098 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ג</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43406284</ns1:item-id>
-      <ns1:last-updated>2026-10-22T09:42:55Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1097 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"ב</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43386074</ns1:item-id>
-      <ns1:last-updated>2026-10-21T08:31:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1096 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף א' ח"א</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43369749</ns1:item-id>
-      <ns1:last-updated>2026-10-20T10:13:17Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1095 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ח' ח"ג</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43350869</ns1:item-id>
-      <ns1:last-updated>2026-10-19T08:14:25Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1094 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ח' ח"ב</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43342509</ns1:item-id>
-      <ns1:last-updated>2026-10-18T08:40:27Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1093 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ח' ח"א</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43342504</ns1:item-id>
-      <ns1:last-updated>2026-10-18T08:38:43Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1092 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ז'</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43288754</ns1:item-id>
-      <ns1:last-updated>2026-10-14T10:15:50Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1091 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ה' ו'</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43273653</ns1:item-id>
-      <ns1:last-updated>2026-10-13T08:47:39Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1090 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ג' ד'</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43251728</ns1:item-id>
-      <ns1:last-updated>2026-10-11T21:57:31Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1089 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ב' ח"ג</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43220958</ns1:item-id>
-      <ns1:last-updated>2026-10-08T10:31:53Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הבינני בהלכה #1088 - סימן שי"א, דיני מת בשבת ושאר טלטול מן הצד, סעיף ב' ח"ב</title>

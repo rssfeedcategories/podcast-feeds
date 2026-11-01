@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Thu, 29 Oct 2026 21:40:05 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 21:40:05 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 10:49:38 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:49:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>ספר חפץ חיים שיעור #121 - פתיחה חלק ס"ז - לאוין ח' ט' ח"ה</title>
+      <itunes:title>ספר חפץ חיים שיעור #121 - פתיחה חלק ס"ז - לאוין ח' ט' ח"ה</itunes:title>
+      <pubDate>Sun, 01 Nov 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">39b6dbfa-6d8c-41cb-bec3-2681b4343e9b</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--121-1</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____121_-____-_____3571.mp3?dest-id=468609" length="8627214" type="audio/mpeg" />
+      <itunes:duration>08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/e/6/5/2e6580f8877db0155f2e77a3093c12a1/____121_-____-_____3571.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43581514</ns1:item-id>
+      <ns1:last-updated>2026-11-01T10:34:04Z</ns1:last-updated>
+    </item>
+    <item>
       <title>ספר חפץ חיים שיעור #120 - פתיחה חלק ס"ו - לאוין ח' ט' ח"ד</title>
       <itunes:title>ספר חפץ חיים שיעור #120 - פתיחה חלק ס"ו - לאוין ח' ט' ח"ד</itunes:title>
       <pubDate>Thu, 29 Oct 2026 10:45:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43524969</ns1:item-id>
-      <ns1:last-updated>2026-10-29T10:49:29Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #119 - פתיחה חלק ס"ה - לאוין ח' ט' ח"ג</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43484459</ns1:item-id>
-      <ns1:last-updated>2026-10-28T09:10:56Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #118 - פתיחה חלק ס"ד - לאוין ח' ט' ח"ב</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43469679</ns1:item-id>
-      <ns1:last-updated>2026-10-27T09:00:33Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #117 - פתיחה חלק ס"ג - לאוין ח' ט'</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43445979</ns1:item-id>
-      <ns1:last-updated>2026-10-26T09:08:25Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #116 - פתיחה חלק ס"ב - לאוין ז' ח"ג</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43437914</ns1:item-id>
-      <ns1:last-updated>2026-10-25T09:17:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #115 - פתיחה חלק ס"א - לאוין ז' ח"ב</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43405819</ns1:item-id>
-      <ns1:last-updated>2026-10-22T08:11:52Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #114 - פתיחה חלק ס' - לאוין ז'</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43386054</ns1:item-id>
-      <ns1:last-updated>2026-10-21T08:25:15Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #113 - פתיחה חלק נ"ט - לאוין ו' ח"ט</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43369239</ns1:item-id>
-      <ns1:last-updated>2026-10-20T08:20:28Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #112 - פתיחה חלק נ"ח - לאוין ו' ח"ח</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43350824</ns1:item-id>
-      <ns1:last-updated>2026-10-19T08:03:03Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #111 - פתיחה חלק נ"ז - לאוין ו' ח"ז</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43342464</ns1:item-id>
-      <ns1:last-updated>2026-10-18T08:15:06Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #110 - פתיחה חלק נ"ו - לאוין ו' ח"ו</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43307954</ns1:item-id>
-      <ns1:last-updated>2026-10-15T17:55:19Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #109 - פתיחה חלק נ"ה - לאוין ו' ח"ה</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43288514</ns1:item-id>
-      <ns1:last-updated>2026-10-14T08:57:40Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #108 - פתיחה חלק נ"ד - לאוין ו' ח"ד</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43273513</ns1:item-id>
-      <ns1:last-updated>2026-10-13T08:08:36Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #107 - פתיחה חלק נ"ג - לאוין ו' ח"ג - וְזֶה דִּבַּרְנוּ אֲפִלּוּ בִּסְתַם אִישׁ יִשְׂרָאֵל</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43255268</ns1:item-id>
-      <ns1:last-updated>2026-10-12T08:49:44Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #106 - פתיחה חלק נ"ב - לאוין ו' ח"ב</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43251703</ns1:item-id>
-      <ns1:last-updated>2026-10-11T21:54:27Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #105 - פתיחה חלק נ"א - לאוין ו' ח"א - וְעוֹבֵר נַמֵי הַמְסַפֵּר וְהַמְקַבֵּל</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43220553</ns1:item-id>
-      <ns1:last-updated>2026-10-08T09:03:41Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #104 - פתיחה חלק נ' - המשך לאוין ה' ח"ח</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43205218</ns1:item-id>
-      <ns1:last-updated>2026-10-07T08:36:25Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #103 - פתיחה חלק מ"ט - המשך לאוין ה' ח"ז</title>
@@ -355,7 +373,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43191233</ns1:item-id>
-      <ns1:last-updated>2026-10-06T08:50:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ספר חפץ חיים שיעור #102 - פתיחה חלק מ"ח - המשך לאוין ה' ח"ו - וּבִפְרָט אִם בַּסִפּוּר הַזֶּה</title>

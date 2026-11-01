@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 29 Oct 2026 21:40:05 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 21:40:05 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 10:49:38 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:49:38 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -34,6 +34,24 @@
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
     <item>
+      <title>ניהול וסדר במחשבות של האדם</title>
+      <itunes:title>ניהול וסדר במחשבות של האדם</itunes:title>
+      <pubDate>Sun, 01 Nov 2026 10:29:00 +0000</pubDate>
+      <guid isPermaLink="false">7d85b3e0-34ef-4f1d-abb4-474f62fee2d1</guid>
+      <link>https://lomdotchasidut.libsyn.com/cegx4u345c0y</link>
+      <description>&lt;p&gt;יום א' פרשת חיי שרה תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת&lt;br /&gt; הר"ר &lt;strong&gt;ברוך פערלאוויטץ&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל השלישי למילה לבנ&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת חיי שרה תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר ברוך פערלאוויטץ הי"ו לרגל השלישי למילה לבנ&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-______23233.mp3?dest-id=468609" length="15786192" type="audio/mpeg" />
+      <itunes:duration>52:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/f/5/8/7/f5877959f37955c95f2e77a3093c12a1/______-______23233.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43581484</ns1:item-id>
+      <ns1:last-updated>2026-11-01T10:30:12Z</ns1:last-updated>
+    </item>
+    <item>
       <title>להתלמד ולהתרגל להרגיש את הטוב של הקב"ה כיסוד לחיים - גם לאלו שחוו טראומ"א בילדות Trauma</title>
       <itunes:title>להתלמד ולהתרגל להרגיש את הטוב של הקב"ה כיסוד לחיים - גם לאלו שחוו טראומ"א בילדות Trauma</itunes:title>
       <pubDate>Thu, 29 Oct 2026 10:14:00 +0000</pubDate>
@@ -49,7 +67,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43524859</ns1:item-id>
-      <ns1:last-updated>2026-10-29T10:19:13Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>ההרגשים הלא אמיתיים המונעים מן האדם להרגיש וליהנות מהטוב של הקב"ה</title>
@@ -67,7 +85,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43484879</ns1:item-id>
-      <ns1:last-updated>2026-10-28T10:23:26Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>להעמיד היהדות על יסודות הכרת ההטבה מהקב"ה</title>
@@ -85,7 +103,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43446329</ns1:item-id>
-      <ns1:last-updated>2026-10-26T10:16:02Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הכרת הקב"ה על ידי הרגשת הטוב</title>
@@ -103,7 +121,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43438019</ns1:item-id>
-      <ns1:last-updated>2026-10-25T10:26:37Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>וכל גל וגל שבא עלי נענעתי לו ראשי - במשנת הרה"ק המאור עינים זצוק"ל</title>
@@ -121,7 +139,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43406234</ns1:item-id>
-      <ns1:last-updated>2026-10-22T09:29:39Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הגה"ק מטשעבין זצוק"ל - שחלק מחכמתו ליראיו - א אידישע הארץ</title>
@@ -139,7 +157,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43386254</ns1:item-id>
-      <ns1:last-updated>2026-10-21T09:31:12Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>שקר במצבים לא נעימים</title>
@@ -157,7 +175,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43351184</ns1:item-id>
-      <ns1:last-updated>2026-10-19T09:26:30Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>מתי אמירת האמת הוי שקר?</title>
@@ -175,7 +193,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43342584</ns1:item-id>
-      <ns1:last-updated>2026-10-18T09:16:23Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>אמת ושקר בשורש הנפש - במשנת הרה"ק מפיאסעצנא זצוק"ל</title>
@@ -193,7 +211,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43302384</ns1:item-id>
-      <ns1:last-updated>2026-10-15T10:40:28Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הכח לסבול את אחרים - במשנת הרה"ק מרוזין זצוק"ל</title>
@@ -211,7 +229,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43288624</ns1:item-id>
-      <ns1:last-updated>2026-10-14T09:27:03Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>להבדיל את עצמו ממחשבות של האומות העולם</title>
@@ -229,7 +247,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43257283</ns1:item-id>
-      <ns1:last-updated>2026-10-12T15:52:20Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>טבע הבריאה בענין שכר ועונש - ווי אזוי ארבעט די וועלט?</title>
@@ -247,7 +265,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43247843</ns1:item-id>
-      <ns1:last-updated>2026-10-11T10:06:47Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>הורדת הלבושים של העולם והאדם</title>
@@ -265,7 +283,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43220768</ns1:item-id>
-      <ns1:last-updated>2026-10-08T09:48:43Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בריאת העולם: בקיצור - מה צריכים לעשות בעולם הזה?!</title>
@@ -283,7 +301,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43205598</ns1:item-id>
-      <ns1:last-updated>2026-10-07T10:20:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>בתפילת שחרית יש כל היסודות של חודש תשרי</title>
@@ -301,7 +319,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43171818</ns1:item-id>
-      <ns1:last-updated>2026-10-05T09:50:28Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ג' - הקב"ה מודיע להאדם שיהיה ליקוי לבנה</title>
@@ -319,7 +337,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43167553</ns1:item-id>
-      <ns1:last-updated>2026-10-04T21:56:11Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק ב' - מתי הוא הזמן לעורר רגש דקדושה - בשעת החגים או אחר כך</title>
@@ -337,7 +355,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43167543</ns1:item-id>
-      <ns1:last-updated>2026-10-04T21:55:11Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>סעודה ופארבריינג לכבוד אסרו חג סוכות תשפ"ז חלק א' - אסרו חג - די לעצטע שבע ברכות</title>
@@ -353,7 +371,7 @@
       <itunes:keywords />
       <itunes:episodeType>full</itunes:episodeType>
       <ns1:item-id>43167538</ns1:item-id>
-      <ns1:last-updated>2026-10-04T21:54:20Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>חלק ד' - מחת תורה - עבודת הרקידה עם הקב"ה</title>
@@ -371,7 +389,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43115478</ns1:item-id>
-      <ns1:last-updated>2026-10-01T01:27:59Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>וימינו תחבקני - היהודי הוא בריה אחרת בעליותיו וירידותיו</title>
@@ -389,7 +407,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43115453</ns1:item-id>
-      <ns1:last-updated>2026-10-01T01:26:20Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>להתבונן בניסים מתוך הנס הגדול והגלוי</title>
@@ -407,7 +425,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43115438</ns1:item-id>
-      <ns1:last-updated>2026-10-01T01:24:34Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>שמחת בית השואבה חלק א' אושפיזא דיוסף - לעבוד את ה' ולהודות בכל המצבים</title>
@@ -425,7 +443,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>הרב שמעון שפיצר</itunes:author>
       <ns1:item-id>43115408</ns1:item-id>
-      <ns1:last-updated>2026-10-01T01:21:46Z</ns1:last-updated>
+      <ns1:last-updated>2026-11-01T00:00:28Z</ns1:last-updated>
     </item>
     <item>
       <title>דרשה שנמסרה בביהמ"ד הגדול סקווירא - בענין עבודת התפלה ביום הקדוש</title>
