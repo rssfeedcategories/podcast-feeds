@@ -49,6 +49,7 @@ jobs:
           fi
 
       - name: Commit and push ONLY if feeds changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -60,4 +61,22 @@ jobs:
             git commit -m "Feed update - $CHANGED file(s) $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
             echo "Pushed!"
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Havineini app: rebuild its episode list right after the feeds changed
+      # (GitHub's own timer on havineini-site is not reliable). Uses the
+      # HAVINEINI_TRIGGER_TOKEN secret, which can only start that rebuild.
+      # If it fails, these feeds are not affected.
+      - name: Tell havineini-site to rebuild the app episode list
+        if: steps.commit.outputs.pushed == 'true'
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.HAVINEINI_TRIGGER_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "No HAVINEINI_TRIGGER_TOKEN secret - skipped."; exit 0; fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/rssfeedcategories/havineini-site/actions/workflows/build.yml/dispatches \
+            -d '{"ref":"main"}' && echo "havineini-site rebuild started." 
