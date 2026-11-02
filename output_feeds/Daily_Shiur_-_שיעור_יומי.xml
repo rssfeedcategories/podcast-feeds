@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 02 Nov 2026 09:24:06 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 09:24:06 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 10:50:25 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:50:25 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>שידוכים - ההתמודדות והיגיעה והורדת השפע</title>
+      <itunes:title>שידוכים - ההתמודדות והיגיעה והורדת השפע</itunes:title>
+      <pubDate>Mon, 02 Nov 2026 10:33:00 +0000</pubDate>
+      <guid isPermaLink="false">e70250de-4b62-4683-87b5-e328bd88d4eb</guid>
+      <link>https://lomdotchasidut.libsyn.com/qzhcl439ra1n</link>
+      <description>&lt;p&gt;יום ב' פרשת חיי שרה תשפ"ז&lt;/p&gt; &lt;p&gt;נלמד לזכות&lt;br /&gt; החתן &lt;strong&gt;משה יעקב בן חי' בילא&lt;/strong&gt;&lt;br /&gt; והכלה &lt;strong&gt;טויבא צארטל בת רבקה מליא&lt;/strong&gt;&lt;br /&gt; נדבת אבי החתן הר"ר &lt;strong&gt;יחזקאל ענגל&lt;/strong&gt; הי"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ&lt;br /&gt; הרה"ח ר' &lt;strong&gt;אביגדור שלום&lt;/strong&gt; ב"ר &lt;strong&gt;דוד מרדכי&lt;/strong&gt; ז"ל &lt;strong&gt;מייזעלס&lt;/strong&gt;&lt;br /&gt; נדבת בניו הר"ר &lt;strong&gt;יואל מייזעלס&lt;/strong&gt; הי"ו והר"ר &lt;strong&gt;יצחק מייזעלס&lt;/strong&gt; הי"ו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת חיי שרה תשפ"ז&lt;/p&gt; &lt;p&gt;נלמד לזכות החתן משה יעקב בן חי' בילא והכלה טויבא צארטל בת רבקה מליא נדבת אבי החתן הר"ר יחזקאל ענגל הי"ו&lt;/p&gt; &lt;p&gt;נלמד לע"נ הרה"ח ר' אביגדור שלום ב"ר דוד מרדכי ז"ל מייזעלס נדבת בניו הר"ר יואל מייזעלס הי"ו והר"ר יצחק מייזעלס הי"ו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/______-_____3286.mp3?dest-id=468609" length="16731572" type="audio/mpeg" />
+      <itunes:duration>55:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/f/8/6/af86a0348882f44d5f2e77a3093c12a1/______-_____3286.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43598469</ns1:item-id>
+      <ns1:last-updated>2026-11-02T10:50:13Z</ns1:last-updated>
+    </item>
     <item>
       <title>ניהול וסדר במחשבות של האדם</title>
       <itunes:title>ניהול וסדר במחשבות של האדם</itunes:title>
