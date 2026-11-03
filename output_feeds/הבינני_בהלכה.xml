@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Tue, 03 Nov 2026 09:55:29 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 09:55:29 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 11:21:03 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:21:03 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1106 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ז'</title>
+      <itunes:title>הבינני בהלכה #1106 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ז'</itunes:title>
+      <pubDate>Tue, 03 Nov 2026 11:13:00 +0000</pubDate>
+      <guid isPermaLink="false">3d468b2d-4566-4e5a-a345-2e956e792011</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1106</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1106_-_________.mp3?dest-id=468609" length="8086785" type="audio/mpeg" />
+      <itunes:duration>16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/3/e/3/53e3cddbbb505ce3a04421dee9605cbd/__1106_-_________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43617129</ns1:item-id>
+      <ns1:last-updated>2026-11-03T11:14:34Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1105 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ו'</title>
       <itunes:title>הבינני בהלכה #1105 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף ו'</itunes:title>
