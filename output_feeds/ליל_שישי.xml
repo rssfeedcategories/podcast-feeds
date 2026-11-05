@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 05 Nov 2026 09:38:56 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 09:38:56 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 21:04:47 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:04:47 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>סבלנות מביא ישועות גדולות</title>
+      <itunes:title>סבלנות מביא ישועות גדולות</itunes:title>
+      <pubDate>Thu, 05 Nov 2026 20:55:00 +0000</pubDate>
+      <guid isPermaLink="false">61326844-57bd-4d9e-bef5-0bb3f604737e</guid>
+      <link>https://lomdotchasidut.libsyn.com/gnq52m4owp7a</link>
+      <description>&lt;p&gt;ליל שישי פרשת חיי שרה תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת חיי שרה תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-_____2578.mp3?dest-id=468609" length="4231719" type="audio/mpeg" />
+      <itunes:duration>13:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/a/e/a/3/aea34e2c5eaffa655f2e77a3093c12a1/________-_____2578.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43658979</ns1:item-id>
+      <ns1:last-updated>2026-11-05T20:59:09Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>יפה שיחתן של עבדי אבות - דיבור כמו יהודי</title>
+      <itunes:title>יפה שיחתן של עבדי אבות - דיבור כמו יהודי</itunes:title>
+      <pubDate>Thu, 05 Nov 2026 20:52:00 +0000</pubDate>
+      <guid isPermaLink="false">a8c13d47-e324-4b91-acb0-770814169f44</guid>
+      <link>https://lomdotchasidut.libsyn.com/muxdr5pe0psc</link>
+      <description>&lt;p&gt;ליל שישי פרשת חיי שרה תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת חיי שרה תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/________-______-____4156.mp3?dest-id=468609" length="10025155" type="audio/mpeg" />
+      <itunes:duration>33:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/8/5/f/1/85f15c31d01a51cb5f2e77a3093c12a1/________-______-____4156.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43658924</ns1:item-id>
+      <ns1:last-updated>2026-11-05T20:54:17Z</ns1:last-updated>
+    </item>
     <item>
       <title>הצפייה לישועה כדי לגלות את השם</title>
       <itunes:title>הצפייה לישועה כדי לגלות את השם</itunes:title>
