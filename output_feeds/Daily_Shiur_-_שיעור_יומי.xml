@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Thu, 05 Nov 2026 21:04:47 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 21:04:47 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ברכה על השובע, ומה זה שובע?</title>
+      <itunes:title>ברכה על השובע, ומה זה שובע?</itunes:title>
+      <pubDate>Sun, 08 Nov 2026 10:29:00 +0000</pubDate>
+      <guid isPermaLink="false">ac8ae47c-93c0-43a5-b132-da4c06cb4cea</guid>
+      <link>https://lomdotchasidut.libsyn.com/cart98on1tbo</link>
+      <description>&lt;p&gt;יום א' פרשת תולדות תשפ"ז&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום א' פרשת תולדות תשפ"ז&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_______3759.mp3?dest-id=468609" length="15451598" type="audio/mpeg" />
+      <itunes:duration>51:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/5/c/3/2/5c3268f91bc57e815f2e77a3093c12a1/_____-_______3759.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43680349</ns1:item-id>
+      <ns1:last-updated>2026-11-08T10:31:25Z</ns1:last-updated>
+    </item>
     <item>
       <title>לפתח הרגשת שובע בשידוכים ובשאר עניינים</title>
       <itunes:title>לפתח הרגשת שובע בשידוכים ובשאר עניינים</itunes:title>
@@ -2158,7 +2176,7 @@
       <ns1:item-id>40364525</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2915" />
       </ns1:ad-markers>
     </item>
@@ -2178,7 +2196,7 @@
       <ns1:item-id>40355700</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3035" />
       </ns1:ad-markers>
     </item>
@@ -2198,7 +2216,7 @@
       <ns1:item-id>40323920</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2813" />
       </ns1:ad-markers>
     </item>
@@ -2218,7 +2236,7 @@
       <ns1:item-id>40298680</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3188" />
       </ns1:ad-markers>
     </item>
@@ -2238,7 +2256,7 @@
       <ns1:item-id>40298665</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="1369" />
       </ns1:ad-markers>
     </item>
@@ -2258,7 +2276,7 @@
       <ns1:item-id>40278995</ns1:item-id>
       <ns1:last-updated>2026-04-01T00:00:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2811" />
       </ns1:ad-markers>
     </item>
@@ -2278,7 +2296,7 @@
       <ns1:item-id>40197825</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3014" />
       </ns1:ad-markers>
     </item>
@@ -2298,7 +2316,7 @@
       <ns1:item-id>40188485</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2655" />
       </ns1:ad-markers>
     </item>
@@ -2318,7 +2336,7 @@
       <ns1:item-id>40149620</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2783" />
       </ns1:ad-markers>
     </item>
@@ -2338,7 +2356,7 @@
       <ns1:item-id>40122760</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2698" />
       </ns1:ad-markers>
     </item>
@@ -2358,7 +2376,7 @@
       <ns1:item-id>40113400</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2643" />
       </ns1:ad-markers>
     </item>
@@ -2378,7 +2396,7 @@
       <ns1:item-id>40071530</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2753" />
       </ns1:ad-markers>
     </item>
@@ -2398,7 +2416,7 @@
       <ns1:item-id>40041800</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2863" />
       </ns1:ad-markers>
     </item>
@@ -2418,7 +2436,7 @@
       <ns1:item-id>40033135</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2755" />
       </ns1:ad-markers>
     </item>
@@ -2438,7 +2456,7 @@
       <ns1:item-id>39991285</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2688" />
       </ns1:ad-markers>
     </item>
@@ -2458,7 +2476,7 @@
       <ns1:item-id>39961970</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2646" />
       </ns1:ad-markers>
     </item>
@@ -2478,7 +2496,7 @@
       <ns1:item-id>39950335</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2607" />
       </ns1:ad-markers>
     </item>
@@ -2498,7 +2516,7 @@
       <ns1:item-id>39908060</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2952" />
       </ns1:ad-markers>
     </item>
@@ -2519,7 +2537,7 @@
       <ns1:item-id>39876535</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2721" />
       </ns1:ad-markers>
     </item>
@@ -2540,7 +2558,7 @@
       <ns1:item-id>39866280</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2878" />
       </ns1:ad-markers>
     </item>
@@ -2560,7 +2578,7 @@
       <ns1:item-id>39810070</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2658" />
       </ns1:ad-markers>
     </item>
@@ -2581,7 +2599,7 @@
       <ns1:item-id>39781655</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2879" />
       </ns1:ad-markers>
     </item>
@@ -2602,7 +2620,7 @@
       <ns1:item-id>39771315</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2809" />
       </ns1:ad-markers>
     </item>
@@ -2623,7 +2641,7 @@
       <ns1:item-id>39726500</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2949" />
       </ns1:ad-markers>
     </item>
@@ -2644,7 +2662,7 @@
       <ns1:item-id>39695840</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2518" />
       </ns1:ad-markers>
     </item>
@@ -2665,7 +2683,7 @@
       <ns1:item-id>39686780</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2876" />
       </ns1:ad-markers>
     </item>
@@ -2686,7 +2704,7 @@
       <ns1:item-id>39640425</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2882" />
       </ns1:ad-markers>
     </item>
@@ -2707,7 +2725,7 @@
       <ns1:item-id>39612235</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2899" />
       </ns1:ad-markers>
     </item>
@@ -2728,7 +2746,7 @@
       <ns1:item-id>39603500</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2658" />
       </ns1:ad-markers>
     </item>
@@ -2749,7 +2767,7 @@
       <ns1:item-id>39564230</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3323" />
       </ns1:ad-markers>
     </item>
@@ -2770,7 +2788,7 @@
       <ns1:item-id>39552065</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2805" />
       </ns1:ad-markers>
     </item>
@@ -2791,7 +2809,7 @@
       <ns1:item-id>39544915</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2726" />
       </ns1:ad-markers>
     </item>
@@ -2812,7 +2830,7 @@
       <ns1:item-id>39526965</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2915" />
       </ns1:ad-markers>
     </item>
@@ -2832,7 +2850,7 @@
       <ns1:item-id>39490470</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="304" />
       </ns1:ad-markers>
     </item>
@@ -2853,7 +2871,7 @@
       <ns1:item-id>39484685</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2873" />
       </ns1:ad-markers>
     </item>
@@ -2873,7 +2891,7 @@
       <ns1:item-id>39449725</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="268" />
       </ns1:ad-markers>
     </item>
@@ -2894,7 +2912,7 @@
       <ns1:item-id>39438495</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2681" />
       </ns1:ad-markers>
     </item>
@@ -2914,7 +2932,7 @@
       <ns1:item-id>39421815</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="309" />
       </ns1:ad-markers>
     </item>
@@ -2935,7 +2953,7 @@
       <ns1:item-id>39408470</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2966" />
       </ns1:ad-markers>
     </item>
@@ -2955,7 +2973,7 @@
       <ns1:item-id>39398290</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="254" />
       </ns1:ad-markers>
     </item>
@@ -2975,7 +2993,7 @@
       <ns1:item-id>39363470</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="312" />
       </ns1:ad-markers>
     </item>
@@ -2996,7 +3014,7 @@
       <ns1:item-id>39320555</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2648" />
       </ns1:ad-markers>
     </item>
@@ -3016,7 +3034,7 @@
       <ns1:item-id>39310020</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="292" />
       </ns1:ad-markers>
     </item>
@@ -3037,7 +3055,7 @@
       <ns1:item-id>39310970</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2517" />
       </ns1:ad-markers>
     </item>
@@ -3057,7 +3075,7 @@
       <ns1:item-id>39263980</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="261" />
       </ns1:ad-markers>
     </item>
@@ -3077,7 +3095,7 @@
       <ns1:item-id>39232275</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="191" />
       </ns1:ad-markers>
     </item>
@@ -3098,7 +3116,7 @@
       <ns1:item-id>39218705</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2812" />
       </ns1:ad-markers>
     </item>
@@ -3118,7 +3136,7 @@
       <ns1:item-id>39207220</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="230" />
       </ns1:ad-markers>
     </item>
@@ -3139,7 +3157,7 @@
       <ns1:item-id>39208345</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2734" />
       </ns1:ad-markers>
     </item>
@@ -3159,7 +3177,7 @@
       <ns1:item-id>39188230</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="283" />
       </ns1:ad-markers>
     </item>
@@ -3180,7 +3198,7 @@
       <ns1:item-id>39178395</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2867" />
       </ns1:ad-markers>
     </item>
@@ -3201,7 +3219,7 @@
       <ns1:item-id>39147625</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2776" />
       </ns1:ad-markers>
     </item>
@@ -3221,7 +3239,7 @@
       <ns1:item-id>39136440</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="254" />
       </ns1:ad-markers>
     </item>
@@ -3242,7 +3260,7 @@
       <ns1:item-id>39137500</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3120" />
       </ns1:ad-markers>
     </item>
@@ -3262,7 +3280,7 @@
       <ns1:item-id>39104445</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="224" />
       </ns1:ad-markers>
     </item>
@@ -3283,7 +3301,7 @@
       <ns1:item-id>39092400</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2847" />
       </ns1:ad-markers>
     </item>
@@ -3303,7 +3321,7 @@
       <ns1:item-id>39072740</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="150" />
       </ns1:ad-markers>
     </item>
@@ -3324,7 +3342,7 @@
       <ns1:item-id>39058015</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2787" />
       </ns1:ad-markers>
     </item>
@@ -3345,7 +3363,7 @@
       <ns1:item-id>39046900</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2726" />
       </ns1:ad-markers>
     </item>
@@ -3365,7 +3383,7 @@
       <ns1:item-id>39048085</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="263" />
       </ns1:ad-markers>
     </item>
@@ -3403,7 +3421,7 @@
       <ns1:item-id>39006000</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2720" />
       </ns1:ad-markers>
     </item>
@@ -3424,7 +3442,7 @@
       <ns1:item-id>38975620</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2848" />
       </ns1:ad-markers>
     </item>
@@ -3445,7 +3463,7 @@
       <ns1:item-id>38966865</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2806" />
       </ns1:ad-markers>
     </item>
@@ -3465,7 +3483,7 @@
       <ns1:item-id>38965780</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="267" />
       </ns1:ad-markers>
     </item>
@@ -3485,7 +3503,7 @@
       <ns1:item-id>38932370</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="251" />
       </ns1:ad-markers>
     </item>
@@ -3506,7 +3524,7 @@
       <ns1:item-id>38921580</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2792" />
       </ns1:ad-markers>
     </item>
@@ -3526,7 +3544,7 @@
       <ns1:item-id>38901335</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="281" />
       </ns1:ad-markers>
     </item>
@@ -3547,7 +3565,7 @@
       <ns1:item-id>38890690</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3326" />
       </ns1:ad-markers>
     </item>
@@ -3568,7 +3586,7 @@
       <ns1:item-id>38877710</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3180" />
       </ns1:ad-markers>
     </item>
@@ -3588,7 +3606,7 @@
       <ns1:item-id>38876760</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="309" />
       </ns1:ad-markers>
     </item>
@@ -3609,7 +3627,7 @@
       <ns1:item-id>38851435</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2681" />
       </ns1:ad-markers>
     </item>
@@ -3629,7 +3647,7 @@
       <ns1:item-id>38835050</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="254" />
       </ns1:ad-markers>
     </item>
@@ -3650,7 +3668,7 @@
       <ns1:item-id>38822645</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2992" />
       </ns1:ad-markers>
     </item>
@@ -3670,7 +3688,7 @@
       <ns1:item-id>38803975</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="214" />
       </ns1:ad-markers>
     </item>
@@ -3691,7 +3709,7 @@
       <ns1:item-id>38791520</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2752" />
       </ns1:ad-markers>
     </item>
@@ -3711,7 +3729,7 @@
       <ns1:item-id>38782470</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="270" />
       </ns1:ad-markers>
     </item>
@@ -3732,7 +3750,7 @@
       <ns1:item-id>38781835</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2794" />
       </ns1:ad-markers>
     </item>
@@ -3752,7 +3770,7 @@
       <ns1:item-id>38749865</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="317" />
       </ns1:ad-markers>
     </item>
@@ -3773,7 +3791,7 @@
       <ns1:item-id>38739415</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2868" />
       </ns1:ad-markers>
     </item>
@@ -3793,7 +3811,7 @@
       <ns1:item-id>38721170</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="224" />
       </ns1:ad-markers>
     </item>
@@ -3814,7 +3832,7 @@
       <ns1:item-id>38642420</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3049" />
       </ns1:ad-markers>
     </item>
@@ -3834,7 +3852,7 @@
       <ns1:item-id>38632240</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="161" />
       </ns1:ad-markers>
     </item>
@@ -3855,7 +3873,7 @@
       <ns1:item-id>38633015</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2830" />
       </ns1:ad-markers>
     </item>
@@ -3876,7 +3894,7 @@
       <ns1:item-id>38603080</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3089" />
       </ns1:ad-markers>
     </item>
@@ -3897,7 +3915,7 @@
       <ns1:item-id>38589890</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3072" />
       </ns1:ad-markers>
     </item>
@@ -3918,7 +3936,7 @@
       <ns1:item-id>38553010</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3029" />
       </ns1:ad-markers>
     </item>
@@ -3938,7 +3956,7 @@
       <ns1:item-id>38542210</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3352" />
       </ns1:ad-markers>
     </item>
@@ -3958,7 +3976,7 @@
       <ns1:item-id>38467860</ns1:item-id>
       <ns1:last-updated>2025-11-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="283" />
       </ns1:ad-markers>
     </item>
@@ -3978,7 +3996,7 @@
       <ns1:item-id>38402275</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="274" />
       </ns1:ad-markers>
     </item>
@@ -3998,7 +4016,7 @@
       <ns1:item-id>38398070</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="19" />
       </ns1:ad-markers>
     </item>
@@ -4035,7 +4053,7 @@
       <ns1:item-id>38379915</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="260" />
       </ns1:ad-markers>
     </item>
@@ -4072,7 +4090,7 @@
       <ns1:item-id>38294055</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="241" />
       </ns1:ad-markers>
     </item>
@@ -4092,7 +4110,7 @@
       <ns1:item-id>38262490</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="282" />
       </ns1:ad-markers>
     </item>
@@ -4129,7 +4147,7 @@
       <ns1:item-id>38232170</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="221" />
       </ns1:ad-markers>
     </item>
@@ -4166,7 +4184,7 @@
       <ns1:item-id>38210615</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="239" />
       </ns1:ad-markers>
     </item>
@@ -4203,7 +4221,7 @@
       <ns1:item-id>38136585</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="292" />
       </ns1:ad-markers>
     </item>
@@ -4257,7 +4275,7 @@
       <ns1:item-id>38116165</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="223" />
       </ns1:ad-markers>
     </item>
@@ -4277,7 +4295,7 @@
       <ns1:item-id>38068010</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="283" />
       </ns1:ad-markers>
     </item>
@@ -4314,7 +4332,7 @@
       <ns1:item-id>38053640</ns1:item-id>
       <ns1:last-updated>2025-10-01T00:00:38Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="268" />
       </ns1:ad-markers>
     </item>
@@ -4351,7 +4369,7 @@
       <ns1:item-id>37993040</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="194" />
       </ns1:ad-markers>
     </item>
@@ -4422,7 +4440,7 @@
       <ns1:item-id>37939470</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="25" />
       </ns1:ad-markers>
     </item>
@@ -4442,7 +4460,7 @@
       <ns1:item-id>37916100</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="311" />
       </ns1:ad-markers>
     </item>
@@ -4547,7 +4565,7 @@
       <ns1:item-id>37721120</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="257" />
       </ns1:ad-markers>
     </item>
@@ -4618,7 +4636,7 @@
       <ns1:item-id>37675665</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="288" />
       </ns1:ad-markers>
     </item>
@@ -4657,7 +4675,7 @@
       <ns1:item-id>37629785</ns1:item-id>
       <ns1:last-updated>2025-09-01T00:00:08Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="35" />
       </ns1:ad-markers>
     </item>
@@ -4694,7 +4712,7 @@
       <ns1:item-id>37614410</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="240" />
       </ns1:ad-markers>
     </item>
@@ -4731,7 +4749,7 @@
       <ns1:item-id>37588010</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="277" />
       </ns1:ad-markers>
     </item>
@@ -4751,7 +4769,7 @@
       <ns1:item-id>37565265</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="279" />
       </ns1:ad-markers>
     </item>
@@ -4788,7 +4806,7 @@
       <ns1:item-id>37527460</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="209" />
       </ns1:ad-markers>
     </item>
@@ -4825,7 +4843,7 @@
       <ns1:item-id>37500320</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="294" />
       </ns1:ad-markers>
     </item>
@@ -4862,7 +4880,7 @@
       <ns1:item-id>37435635</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="258" />
       </ns1:ad-markers>
     </item>
@@ -4899,7 +4917,7 @@
       <ns1:item-id>37435565</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="287" />
       </ns1:ad-markers>
     </item>
@@ -4936,7 +4954,7 @@
       <ns1:item-id>37403210</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="216" />
       </ns1:ad-markers>
     </item>
@@ -4973,7 +4991,7 @@
       <ns1:item-id>37389220</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="275" />
       </ns1:ad-markers>
     </item>
@@ -5011,7 +5029,7 @@
       <ns1:item-id>37387590</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="15" />
       </ns1:ad-markers>
     </item>
@@ -5048,7 +5066,7 @@
       <ns1:item-id>37354970</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="280" />
       </ns1:ad-markers>
     </item>
@@ -5099,7 +5117,7 @@
       <ns1:item-id>37324160</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="175" />
       </ns1:ad-markers>
     </item>
@@ -5136,7 +5154,7 @@
       <ns1:item-id>37292085</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="279" />
       </ns1:ad-markers>
     </item>
@@ -5173,7 +5191,7 @@
       <ns1:item-id>37266630</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="316" />
       </ns1:ad-markers>
     </item>
@@ -5224,7 +5242,7 @@
       <ns1:item-id>37232400</ns1:item-id>
       <ns1:last-updated>2025-08-01T00:01:41Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="240" />
       </ns1:ad-markers>
     </item>
@@ -5261,7 +5279,7 @@
       <ns1:item-id>37173440</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="268" />
       </ns1:ad-markers>
     </item>
@@ -5298,7 +5316,7 @@
       <ns1:item-id>37155995</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="269" />
       </ns1:ad-markers>
     </item>
@@ -5335,7 +5353,7 @@
       <ns1:item-id>37129865</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="286" />
       </ns1:ad-markers>
     </item>
@@ -5372,7 +5390,7 @@
       <ns1:item-id>37089620</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="226" />
       </ns1:ad-markers>
     </item>
@@ -5409,7 +5427,7 @@
       <ns1:item-id>37049525</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="325" />
       </ns1:ad-markers>
     </item>
@@ -5446,7 +5464,7 @@
       <ns1:item-id>37041510</ns1:item-id>
       <ns1:last-updated>2025-06-17T15:07:53Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="20" />
       </ns1:ad-markers>
     </item>
@@ -5466,7 +5484,7 @@
       <ns1:item-id>37035450</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="226" />
       </ns1:ad-markers>
     </item>
@@ -5520,7 +5538,7 @@
       <ns1:item-id>37013425</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="284" />
       </ns1:ad-markers>
     </item>
@@ -5574,7 +5592,7 @@
       <ns1:item-id>36929690</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="234" />
       </ns1:ad-markers>
     </item>
@@ -5628,7 +5646,7 @@
       <ns1:item-id>36885440</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="164" />
       </ns1:ad-markers>
     </item>
@@ -5648,7 +5666,7 @@
       <ns1:item-id>36857345</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="183" />
       </ns1:ad-markers>
     </item>
@@ -5685,7 +5703,7 @@
       <ns1:item-id>36803625</ns1:item-id>
       <ns1:last-updated>2025-07-01T00:01:56Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="207" />
       </ns1:ad-markers>
     </item>
@@ -5705,7 +5723,7 @@
       <ns1:item-id>36773330</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="296" />
       </ns1:ad-markers>
     </item>
@@ -5725,7 +5743,7 @@
       <ns1:item-id>36721515</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="212" />
       </ns1:ad-markers>
     </item>
@@ -5745,7 +5763,7 @@
       <ns1:item-id>36705100</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="183" />
       </ns1:ad-markers>
     </item>
@@ -5782,7 +5800,7 @@
       <ns1:item-id>36664290</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="281" />
       </ns1:ad-markers>
     </item>
@@ -5819,7 +5837,7 @@
       <ns1:item-id>36633480</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="315" />
       </ns1:ad-markers>
     </item>
@@ -5873,7 +5891,7 @@
       <ns1:item-id>36611170</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="254" />
       </ns1:ad-markers>
     </item>
@@ -5893,7 +5911,7 @@
       <ns1:item-id>36573985</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="323" />
       </ns1:ad-markers>
     </item>
@@ -5913,7 +5931,7 @@
       <ns1:item-id>36541965</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="284" />
       </ns1:ad-markers>
     </item>
@@ -5933,7 +5951,7 @@
       <ns1:item-id>36502385</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="276" />
       </ns1:ad-markers>
     </item>
@@ -5970,7 +5988,7 @@
       <ns1:item-id>36478860</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="293" />
       </ns1:ad-markers>
     </item>
@@ -6007,7 +6025,7 @@
       <ns1:item-id>36447600</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="299" />
       </ns1:ad-markers>
     </item>
@@ -6061,7 +6079,7 @@
       <ns1:item-id>36423330</ns1:item-id>
       <ns1:last-updated>2025-06-01T00:01:46Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="309" />
       </ns1:ad-markers>
     </item>
@@ -6098,7 +6116,7 @@
       <ns1:item-id>36381530</ns1:item-id>
       <ns1:last-updated>2025-05-01T10:03:57Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="279" />
       </ns1:ad-markers>
     </item>
@@ -6135,7 +6153,7 @@
       <ns1:item-id>36348160</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="254" />
       </ns1:ad-markers>
     </item>
@@ -6189,7 +6207,7 @@
       <ns1:item-id>36301490</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="214" />
       </ns1:ad-markers>
     </item>
@@ -6226,7 +6244,7 @@
       <ns1:item-id>36282240</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="250" />
       </ns1:ad-markers>
     </item>
@@ -6280,7 +6298,7 @@
       <ns1:item-id>36190050</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="409" />
       </ns1:ad-markers>
     </item>
@@ -6300,7 +6318,7 @@
       <ns1:item-id>36070455</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="274" />
       </ns1:ad-markers>
     </item>
@@ -6320,7 +6338,7 @@
       <ns1:item-id>36043600</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="233" />
       </ns1:ad-markers>
     </item>
@@ -6340,7 +6358,7 @@
       <ns1:item-id>36041560</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="268" />
       </ns1:ad-markers>
     </item>
@@ -6360,7 +6378,7 @@
       <ns1:item-id>36022310</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="251" />
       </ns1:ad-markers>
     </item>
@@ -6394,7 +6412,7 @@
       <ns1:item-id>35985270</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="276" />
       </ns1:ad-markers>
     </item>
@@ -6414,7 +6432,7 @@
       <ns1:item-id>35951675</ns1:item-id>
       <ns1:last-updated>2025-05-01T00:00:23Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="296" />
       </ns1:ad-markers>
     </item>
@@ -6448,7 +6466,7 @@
       <ns1:item-id>35921485</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="192" />
       </ns1:ad-markers>
     </item>
@@ -6468,7 +6486,7 @@
       <ns1:item-id>35882425</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="210" />
       </ns1:ad-markers>
     </item>
@@ -6505,7 +6523,7 @@
       <ns1:item-id>35849105</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="271" />
       </ns1:ad-markers>
     </item>
@@ -6559,7 +6577,7 @@
       <ns1:item-id>35823170</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="265" />
       </ns1:ad-markers>
     </item>
@@ -6579,7 +6597,7 @@
       <ns1:item-id>35783595</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="257" />
       </ns1:ad-markers>
     </item>
@@ -6616,7 +6634,7 @@
       <ns1:item-id>35740720</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="305" />
       </ns1:ad-markers>
     </item>
@@ -6654,7 +6672,7 @@
       <ns1:item-id>35713820</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="5659" />
       </ns1:ad-markers>
     </item>
@@ -6674,7 +6692,7 @@
       <ns1:item-id>35684170</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3433" />
       </ns1:ad-markers>
     </item>
@@ -6711,7 +6729,7 @@
       <ns1:item-id>35618065</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="233" />
       </ns1:ad-markers>
     </item>
@@ -6765,7 +6783,7 @@
       <ns1:item-id>35589990</ns1:item-id>
       <ns1:last-updated>2025-04-01T00:01:16Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="301" />
       </ns1:ad-markers>
     </item>
@@ -6802,7 +6820,7 @@
       <ns1:item-id>35453320</ns1:item-id>
       <ns1:last-updated>2025-03-06T11:07:37Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="284" />
       </ns1:ad-markers>
     </item>
@@ -6839,7 +6857,7 @@
       <ns1:item-id>35453155</ns1:item-id>
       <ns1:last-updated>2025-03-04T11:03:32Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="255" />
       </ns1:ad-markers>
     </item>
@@ -6876,7 +6894,7 @@
       <ns1:item-id>35452960</ns1:item-id>
       <ns1:last-updated>2025-03-02T11:03:34Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="228" />
       </ns1:ad-markers>
     </item>
@@ -6930,7 +6948,7 @@
       <ns1:item-id>35447225</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="196" />
       </ns1:ad-markers>
     </item>
@@ -6967,7 +6985,7 @@
       <ns1:item-id>35416275</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="321" />
       </ns1:ad-markers>
     </item>
@@ -7021,7 +7039,7 @@
       <ns1:item-id>35356785</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="217" />
       </ns1:ad-markers>
     </item>
@@ -7058,7 +7076,7 @@
       <ns1:item-id>35323890</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="154" />
       </ns1:ad-markers>
     </item>
@@ -7095,7 +7113,7 @@
       <ns1:item-id>35285615</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="180" />
       </ns1:ad-markers>
     </item>
@@ -7132,7 +7150,7 @@
       <ns1:item-id>35260230</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="232" />
       </ns1:ad-markers>
     </item>
@@ -7169,7 +7187,7 @@
       <ns1:item-id>35215615</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="218" />
       </ns1:ad-markers>
     </item>
@@ -7206,7 +7224,7 @@
       <ns1:item-id>35206925</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="243" />
       </ns1:ad-markers>
     </item>
@@ -7243,7 +7261,7 @@
       <ns1:item-id>35171670</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="205" />
       </ns1:ad-markers>
     </item>
@@ -7280,7 +7298,7 @@
       <ns1:item-id>35113275</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="209" />
       </ns1:ad-markers>
     </item>
@@ -7317,7 +7335,7 @@
       <ns1:item-id>35113215</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="241" />
       </ns1:ad-markers>
     </item>
@@ -7354,7 +7372,7 @@
       <ns1:item-id>35009080</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="276" />
       </ns1:ad-markers>
     </item>
@@ -7391,7 +7409,7 @@
       <ns1:item-id>35008995</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="233" />
       </ns1:ad-markers>
     </item>
@@ -7445,7 +7463,7 @@
       <ns1:item-id>35008865</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="227" />
       </ns1:ad-markers>
     </item>
@@ -7465,7 +7483,7 @@
       <ns1:item-id>34935490</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="273" />
       </ns1:ad-markers>
     </item>
@@ -7502,7 +7520,7 @@
       <ns1:item-id>34935080</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="180" />
       </ns1:ad-markers>
     </item>
@@ -7556,7 +7574,7 @@
       <ns1:item-id>34821145</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="202" />
       </ns1:ad-markers>
     </item>
@@ -7623,7 +7641,7 @@
       <ns1:item-id>34821075</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="257" />
       </ns1:ad-markers>
     </item>
@@ -7660,7 +7678,7 @@
       <ns1:item-id>34821000</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="215" />
       </ns1:ad-markers>
     </item>
@@ -7817,7 +7835,7 @@
       <ns1:item-id>34616240</ns1:item-id>
       <ns1:last-updated>2024-12-26T02:27:12Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="26" />
       </ns1:ad-markers>
     </item>
