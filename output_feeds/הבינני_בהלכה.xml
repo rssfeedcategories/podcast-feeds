@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 15:17:55 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:17:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1110 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"א</title>
+      <itunes:title>הבינני בהלכה #1110 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"א</itunes:title>
+      <pubDate>Mon, 09 Nov 2026 15:05:00 +0000</pubDate>
+      <guid isPermaLink="false">ee39788c-6d66-48c5-a1ca-4e819ed726fe</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1110</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1110_-__________.mp3?dest-id=468609" length="9606637" type="audio/mpeg" />
+      <itunes:duration>15:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/f/b/7/7fb7ac8750dcbaeea04421dee9605cbd/__1110_-__________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43693324</ns1:item-id>
+      <ns1:last-updated>2026-11-09T15:08:10Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1109 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף י'</title>
       <itunes:title>הבינני בהלכה #1109 - סימן שי"ב, הנצרך לנקביו במה מקנח בשבת, סעיף י'</itunes:title>

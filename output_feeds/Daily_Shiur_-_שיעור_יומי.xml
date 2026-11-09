@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 15:17:55 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:17:55 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>האיך עובדים על מחשבות שליליות?</title>
+      <itunes:title>האיך עובדים על מחשבות שליליות?</itunes:title>
+      <pubDate>Mon, 09 Nov 2026 11:16:00 +0000</pubDate>
+      <guid isPermaLink="false">f2a3679a-3ed1-424c-adb2-d8ab0e4c55f9</guid>
+      <link>https://lomdotchasidut.libsyn.com/8qz3tn677nhw</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______9753.mp3?dest-id=468609" length="16481059" type="audio/mpeg" />
+      <itunes:duration>54:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/d/a/e/2/dae205b6296bd8365f2e77a3093c12a1/_____-______9753.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43689039</ns1:item-id>
+      <ns1:last-updated>2026-11-09T11:17:45Z</ns1:last-updated>
+    </item>
     <item>
       <title>ברכה על השובע, ומה זה שובע?</title>
       <itunes:title>ברכה על השובע, ומה זה שובע?</itunes:title>
