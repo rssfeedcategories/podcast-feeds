@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - חנוכה</title>
-    <pubDate>Thu, 05 Nov 2026 21:04:47 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 21:04:47 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -50,7 +50,7 @@
       <ns1:item-id>39493280</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="3620" />
       </ns1:ad-markers>
     </item>
@@ -71,7 +71,7 @@
       <ns1:item-id>39452730</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2866" />
       </ns1:ad-markers>
     </item>
@@ -92,7 +92,7 @@
       <ns1:item-id>39398845</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2749" />
       </ns1:ad-markers>
     </item>
@@ -113,7 +113,7 @@
       <ns1:item-id>39367160</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2659" />
       </ns1:ad-markers>
     </item>
@@ -134,7 +134,7 @@
       <ns1:item-id>39353020</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2703" />
       </ns1:ad-markers>
     </item>
@@ -155,7 +155,7 @@
       <ns1:item-id>39249220</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2668" />
       </ns1:ad-markers>
     </item>

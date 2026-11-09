@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - טעמו וראו</title>
-    <pubDate>Thu, 05 Nov 2026 21:04:47 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 21:04:47 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -81,7 +81,7 @@
       <ns1:item-id>35395130</ns1:item-id>
       <ns1:last-updated>2025-03-01T00:01:18Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="149" />
       </ns1:ad-markers>
     </item>
@@ -101,7 +101,7 @@
       <ns1:item-id>34704675</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="196" />
       </ns1:ad-markers>
     </item>
@@ -121,7 +121,7 @@
       <ns1:item-id>34704645</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="279" />
       </ns1:ad-markers>
     </item>
@@ -141,7 +141,7 @@
       <ns1:item-id>34704580</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="182" />
       </ns1:ad-markers>
     </item>
@@ -161,7 +161,7 @@
       <ns1:item-id>34680775</ns1:item-id>
       <ns1:last-updated>2025-02-01T00:01:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="241" />
       </ns1:ad-markers>
     </item>

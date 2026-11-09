@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ENGLISH SHIURIM</title>
-    <pubDate>Thu, 05 Nov 2026 21:04:47 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 21:04:47 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 11:03:40 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:03:40 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -338,7 +338,7 @@
       <ns1:item-id>40149425</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2697" />
       </ns1:ad-markers>
     </item>
@@ -359,7 +359,7 @@
       <ns1:item-id>40122800</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2872" />
       </ns1:ad-markers>
     </item>
@@ -379,7 +379,7 @@
       <ns1:item-id>40056685</ns1:item-id>
       <ns1:last-updated>2026-03-01T00:00:44Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2625" />
       </ns1:ad-markers>
     </item>
@@ -400,7 +400,7 @@
       <ns1:item-id>39868675</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2754" />
       </ns1:ad-markers>
     </item>
@@ -421,7 +421,7 @@
       <ns1:item-id>39771570</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2244" />
       </ns1:ad-markers>
     </item>
@@ -442,7 +442,7 @@
       <ns1:item-id>39657230</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2241" />
       </ns1:ad-markers>
     </item>
@@ -463,7 +463,7 @@
       <ns1:item-id>39582620</ns1:item-id>
       <ns1:last-updated>2026-02-01T00:00:33Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2692" />
       </ns1:ad-markers>
     </item>
@@ -484,7 +484,7 @@
       <ns1:item-id>39438040</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2201" />
       </ns1:ad-markers>
     </item>
@@ -505,7 +505,7 @@
       <ns1:item-id>39354415</ns1:item-id>
       <ns1:last-updated>2026-01-01T00:00:49Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="1844" />
       </ns1:ad-markers>
     </item>
@@ -526,7 +526,7 @@
       <ns1:item-id>38935605</ns1:item-id>
       <ns1:last-updated>2025-12-01T00:01:07Z</ns1:last-updated>
       <ns1:ad-markers>
-        <ns1:ad-marker type="pre" count="2" />
+        <ns1:ad-marker type="pre" count="2" timestamp="0" />
         <ns1:ad-marker type="post" count="2" timestamp="2476" />
       </ns1:ad-markers>
     </item>
