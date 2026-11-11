@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Wed, 11 Nov 2026 09:51:10 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 09:51:10 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 10:59:15 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:59:15 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #129 - פתיחה חלק ע"ה - לאוין י"ג ח"ג</title>
+      <itunes:title>ספר חפץ חיים שיעור #129 - פתיחה חלק ע"ה - לאוין י"ג ח"ג</itunes:title>
+      <pubDate>Wed, 11 Nov 2026 09:39:00 +0000</pubDate>
+      <guid isPermaLink="false">54d9a455-3ad5-40b8-9ea6-979e4a58efa7</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--129-1</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____129_-____-___.mp3?dest-id=468609" length="10148269" type="audio/mpeg" />
+      <itunes:duration>08:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/8/a/8/08a830719c8223cb5f2e77a3093c12a1/____129_-____-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43723729</ns1:item-id>
+      <ns1:last-updated>2026-11-11T09:41:08Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #128 - פתיחה חלק ע"ד - לאוין י"ג ח"ב</title>
       <itunes:title>ספר חפץ חיים שיעור #128 - פתיחה חלק ע"ד - לאוין י"ג ח"ב</itunes:title>
