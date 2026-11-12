@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - אור החיים הקדוש</title>
-    <pubDate>Thu, 12 Nov 2026 09:50:27 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 09:50:27 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 17:11:58 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:11:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>אור החיים הקדוש פרשת תולדות - לחלק בין הנתינה לבין רגש של כאב כלפי המקבל</title>
+      <itunes:title>אור החיים הקדוש פרשת תולדות - לחלק בין הנתינה לבין רגש של כאב כלפי המקבל</itunes:title>
+      <pubDate>Thu, 12 Nov 2026 16:57:00 +0000</pubDate>
+      <guid isPermaLink="false">20615bb3-dd4a-41f2-94ac-23b24fe0211e</guid>
+      <link>https://lomdotchasidut.libsyn.com/74nwyk3zq4vc</link>
+      <description>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק א'&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק א'&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____-__________9177.mp3?dest-id=468609" length="13781328" type="audio/mpeg" />
+      <itunes:duration>45:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/2/1/2/7/2127f120c448a9f3a04421dee9605cbd/_______-____-__________9177.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43739839</ns1:item-id>
+      <ns1:last-updated>2026-11-12T17:01:37Z</ns1:last-updated>
+    </item>
     <item>
       <title>אור החיים הקדוש פרשת חיי שרה - איך משכנעים את הגוף לעבוד עם הנשמה</title>
       <itunes:title>אור החיים הקדוש פרשת חיי שרה - איך משכנעים את הגוף לעבוד עם הנשמה</itunes:title>

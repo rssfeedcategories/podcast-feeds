@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 12 Nov 2026 09:50:27 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 09:50:27 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 17:11:58 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:11:58 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>"וּלְאֹם מִלְאֹם יֶאֱמָץ" כוח הקדושה לעומת כוחות האחרים בזמננו</title>
+      <itunes:title>"וּלְאֹם מִלְאֹם יֶאֱמָץ" כוח הקדושה לעומת כוחות האחרים בזמננו</itunes:title>
+      <pubDate>Thu, 12 Nov 2026 17:04:00 +0000</pubDate>
+      <guid isPermaLink="false">4370528a-6235-4c7a-9549-3c96888f1a74</guid>
+      <link>https://lomdotchasidut.libsyn.com/9j2bbp2i27f8</link>
+      <description>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__________9832.mp3?dest-id=468609" length="4814713" type="audio/mpeg" />
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/9/d/0/5/9d05bd2272a0c5b2a04421dee9605cbd/_______-__________9832.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43739914</ns1:item-id>
+      <ns1:last-updated>2026-11-12T17:06:03Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>"וַיִּמְצָא בַּשָּׁנָה הַהִוא מֵאָה שְׁעָרִים" שכל המפריעים מגיעים מאת ה'</title>
+      <itunes:title>"וַיִּמְצָא בַּשָּׁנָה הַהִוא מֵאָה שְׁעָרִים" שכל המפריעים מגיעים מאת ה'</itunes:title>
+      <pubDate>Thu, 12 Nov 2026 17:03:00 +0000</pubDate>
+      <guid isPermaLink="false">2bcb49de-0708-48b7-9b18-d510e1b4c52b</guid>
+      <link>https://lomdotchasidut.libsyn.com/t8mz3lnlch3m</link>
+      <description>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת תולדות תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-__________7965.mp3?dest-id=468609" length="7415549" type="audio/mpeg" />
+      <itunes:duration>24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/4/f/4/e/4f4e60c9eaedf03fa04421dee9605cbd/_______-__________7965.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43739879</ns1:item-id>
+      <ns1:last-updated>2026-11-12T17:04:10Z</ns1:last-updated>
+    </item>
     <item>
       <title>סבלנות מביא ישועות גדולות</title>
       <itunes:title>סבלנות מביא ישועות גדולות</itunes:title>
