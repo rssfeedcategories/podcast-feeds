@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Sun, 15 Nov 2026 09:47:03 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 09:47:03 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 09:19:08 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:19:08 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #132 - פתיחה חלק ע"ח - לאוין י"ד ח"ג</title>
+      <itunes:title>ספר חפץ חיים שיעור #132 - פתיחה חלק ע"ח - לאוין י"ד ח"ג</itunes:title>
+      <pubDate>Mon, 16 Nov 2026 09:03:00 +0000</pubDate>
+      <guid isPermaLink="false">764fe58e-4301-4db8-8193-049bcec26050</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--132-1</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____132_-____-___.mp3?dest-id=468609" length="11067257" type="audio/mpeg" />
+      <itunes:duration>09:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/c/e/c/4/cec4f7c6880f911e5f2e77a3093c12a1/____132_-____-___.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43770044</ns1:item-id>
+      <ns1:last-updated>2026-11-16T09:06:50Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #131 - פתיחה חלק ע"ו - לאוין י"ד ח"ב</title>
       <itunes:title>ספר חפץ חיים שיעור #131 - פתיחה חלק ע"ו - לאוין י"ד ח"ב</itunes:title>
