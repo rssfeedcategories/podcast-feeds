@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Mon, 16 Nov 2026 09:19:08 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 09:19:08 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 10:42:15 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:42:15 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הנעימות בהרגשה שהעוה"ז הוא פרוזדור - ועצות איך להרגיש את זה</title>
+      <itunes:title>הנעימות בהרגשה שהעוה"ז הוא פרוזדור - ועצות איך להרגיש את זה</itunes:title>
+      <pubDate>Mon, 16 Nov 2026 10:29:00 +0000</pubDate>
+      <guid isPermaLink="false">a2e65a7d-1eec-47d0-a805-3ea76c94536e</guid>
+      <link>https://lomdotchasidut.libsyn.com/bszojv5fmz8x</link>
+      <description>&lt;p&gt;יום ב' פרשת ויצא תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;בנציון פארקאש&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל השלישי למילה לבנו ני"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;שמואל סאמעט&lt;/strong&gt; הי"ו&lt;br /&gt; לרגל שמחת הברית לבנו &lt;strong&gt;אברהם יצחק&lt;/strong&gt; ני"ו היום&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ב' פרשת ויצא תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר בנציון פארקאש הי"ו לרגל השלישי למילה לבנו ני"ו&lt;/p&gt; &lt;p&gt;נדבת הר"ר שמואל סאמעט הי"ו לרגל שמחת הברית לבנו אברהם יצחק ני"ו היום&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-______-______7748.mp3?dest-id=468609" length="16766125" type="audio/mpeg" />
+      <itunes:duration>55:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/1/7/1/01712ce2585d2725a04421dee9605cbd/_____-______-______7748.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43770369</ns1:item-id>
+      <ns1:last-updated>2026-11-16T10:33:59Z</ns1:last-updated>
+    </item>
     <item>
       <title>ההבדל בין מחשבות יסוד למחשבות אחרות</title>
       <itunes:title>ההבדל בין מחשבות יסוד למחשבות אחרות</itunes:title>
