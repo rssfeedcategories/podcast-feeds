@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ספר חפץ חיים</title>
-    <pubDate>Mon, 16 Nov 2026 09:19:08 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 09:19:08 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 10:56:46 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:56:46 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ספר חפץ חיים שיעור #133 - פתיחה חלק ע"ט - לאוין ט"ו</title>
+      <itunes:title>ספר חפץ חיים שיעור #133 - פתיחה חלק ע"ט - לאוין ט"ו</itunes:title>
+      <pubDate>Tue, 17 Nov 2026 09:29:00 +0000</pubDate>
+      <guid isPermaLink="false">b30b4476-5869-4ce6-b882-6ab73868c631</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--133-1</link>
+      <description>&lt;div class="mw-heading mw-heading3"&gt; &lt;h3 id="לאוין_-_טו"&gt;לאוין - טו&lt;/h3&gt; &lt;/div&gt; &lt;p&gt;וְאִם הוּא יָתוֹם אוֹ אַלְמָנָה, אֲפִלּוּ הֵם עֲשִׁירִים, וְסִפֵּר גְּנוּתָם בִּפְנֵיהֶם, עוֹבֵר עוֹד עַל לָאו אַחֵר וְהוּא (שמות כ"ב כ"א): "כָּל אַלְמָנָה וְיָתוֹם לֹא תְעַנּוּן", שֶׁהִזְהִירָה הַתּוֹרָה בָּזֶה שֶּׁלֹּא לְהַקְנִיטָן אוֹ לְהַכְאִיב לִבָּן בְּשׁוּם מִין צַעַר. וְעָנְשׁוֹ מְפֹרָשׁ בַּתּוֹרָה (שם כ"ג): "וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם" וְגוֹ'.&lt;/p&gt;</description>
+      <content:encoded>לאוין - טו &lt;p&gt;וְאִם הוּא יָתוֹם אוֹ אַלְמָנָה, אֲפִלּוּ הֵם עֲשִׁירִים, וְסִפֵּר גְּנוּתָם בִּפְנֵיהֶם, עוֹבֵר עוֹד עַל לָאו אַחֵר וְהוּא (שמות כ"ב כ"א): "כָּל אַלְמָנָה וְיָתוֹם לֹא תְעַנּוּן", שֶׁהִזְהִירָה הַתּוֹרָה בָּזֶה שֶּׁלֹּא לְהַקְנִיטָן אוֹ לְהַכְאִיב לִבָּן בְּשׁוּם מִין צַעַר. וְעָנְשׁוֹ מְפֹרָשׁ בַּתּוֹרָה (שם כ"ג): "וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם" וְגוֹ'.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/____133_-____-__.mp3?dest-id=468609" length="8176650" type="audio/mpeg" />
+      <itunes:duration>08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/8/8/c/788cb4348dd91d3c5f2e77a3093c12a1/____133_-____-__.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43782764</ns1:item-id>
+      <ns1:last-updated>2026-11-17T09:30:08Z</ns1:last-updated>
+    </item>
     <item>
       <title>ספר חפץ חיים שיעור #132 - פתיחה חלק ע"ח - לאוין י"ד ח"ג</title>
       <itunes:title>ספר חפץ חיים שיעור #132 - פתיחה חלק ע"ח - לאוין י"ד ח"ג</itunes:title>
