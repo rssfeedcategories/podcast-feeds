@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - Daily Shiur - שיעור יומי</title>
-    <pubDate>Tue, 17 Nov 2026 10:56:46 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 10:56:46 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 10:50:25 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:50:25 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>דרך ועצה שנסיונות החיים לא יכאיבו כל כך</title>
+      <itunes:title>דרך ועצה שנסיונות החיים לא יכאיבו כל כך</itunes:title>
+      <pubDate>Wed, 18 Nov 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="false">41dcf4cb-f768-432d-a306-f5f0749dbd7f</guid>
+      <link>https://lomdotchasidut.libsyn.com/ac5afns0vx9c</link>
+      <description>&lt;p&gt;יום ד' פרשת ויצא תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר &lt;strong&gt;הרוצה בעילום שמו&lt;/strong&gt; הי"ו&lt;br /&gt; להודות ולהלל על כל הטובות שהשי"ת עושה עמנו&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;יום ד' פרשת ויצא תשפ"ז&lt;/p&gt; &lt;p&gt;נדבת הר"ר הרוצה בעילום שמו הי"ו להודות ולהלל על כל הטובות שהשי"ת עושה עמנו&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_____-_________5547.mp3?dest-id=468609" length="14716160" type="audio/mpeg" />
+      <itunes:duration>48:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/1/1/9/1/11910f0903cc416d5f2e77a3093c12a1/_____-_________5547.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43796524</ns1:item-id>
+      <ns1:last-updated>2026-11-18T10:19:26Z</ns1:last-updated>
+    </item>
     <item>
       <title>הנעימות בהרגשה שהעוה"ז הוא פרוזדור - ועצות איך להרגיש את זה</title>
       <itunes:title>הנעימות בהרגשה שהעוה"ז הוא פרוזדור - ועצות איך להרגיש את זה</itunes:title>
