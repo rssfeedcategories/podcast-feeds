@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 19 Nov 2026 10:22:06 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 10:22:06 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 17:32:22 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:32:22 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>ותקנא רחל באחותה - גם בעת חסרון גשמי לחפש את הפגם ברוחניות</title>
+      <itunes:title>ותקנא רחל באחותה - גם בעת חסרון גשמי לחפש את הפגם ברוחניות</itunes:title>
+      <pubDate>Thu, 19 Nov 2026 17:21:00 +0000</pubDate>
+      <guid isPermaLink="false">ee6fa278-d3e2-49b0-bed8-4fc567d7c49e</guid>
+      <link>https://lomdotchasidut.libsyn.com/cu9ji04ouqtk</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויצא תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויצא תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____-_________8845.mp3?dest-id=468609" length="4178578" type="audio/mpeg" />
+      <itunes:duration>13:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/4/2/6/64266a5503b6526ca04421dee9605cbd/_______-____-_________8845.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43822334</ns1:item-id>
+      <ns1:last-updated>2026-11-19T17:23:45Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>הכח להתגבר על היצה"ר גם לאחר הנפילה</title>
+      <itunes:title>הכח להתגבר על היצה"ר גם לאחר הנפילה</itunes:title>
+      <pubDate>Thu, 19 Nov 2026 17:18:00 +0000</pubDate>
+      <guid isPermaLink="false">c097a5c5-c994-45d9-9db0-9c7798dbecec</guid>
+      <link>https://lomdotchasidut.libsyn.com/il9avdtrasmx</link>
+      <description>&lt;p&gt;ליל שישי פרשת ויצא תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת ויצא תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-________3521.mp3?dest-id=468609" length="8341451" type="audio/mpeg" />
+      <itunes:duration>27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/0/6/7/3/06739e2624d9d7eaa04421dee9605cbd/_______-________3521.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43822254</ns1:item-id>
+      <ns1:last-updated>2026-11-19T17:19:37Z</ns1:last-updated>
+    </item>
     <item>
       <title>"וּלְאֹם מִלְאֹם יֶאֱמָץ" כוח הקדושה לעומת כוחות האחרים בזמננו</title>
       <itunes:title>"וּלְאֹם מִלְאֹם יֶאֱמָץ" כוח הקדושה לעומת כוחות האחרים בזמננו</itunes:title>
