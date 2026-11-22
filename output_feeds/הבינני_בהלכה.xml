@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Thu, 19 Nov 2026 17:32:22 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 17:32:22 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 10:22:19 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:22:19 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1119 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"י</title>
+      <itunes:title>הבינני בהלכה #1119 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"י</itunes:title>
+      <pubDate>Sun, 22 Nov 2026 09:32:00 +0000</pubDate>
+      <guid isPermaLink="false">170096bf-eed5-4371-9d13-a578238b0dac</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1119</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1119_-__________.mp3?dest-id=468609" length="8638916" type="audio/mpeg" />
+      <itunes:duration>11:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/7/4/d/6/74d6f749e86b794da04421dee9605cbd/__1119_-__________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43851819</ns1:item-id>
+      <ns1:last-updated>2026-11-22T09:34:52Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1118 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"ט</title>
       <itunes:title>הבינני בהלכה #1118 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"ט</itunes:title>
