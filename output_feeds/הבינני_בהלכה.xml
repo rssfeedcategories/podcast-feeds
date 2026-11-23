@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - הבינני בהלכה</title>
-    <pubDate>Sun, 22 Nov 2026 10:22:19 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 10:22:19 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 10:44:42 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:44:42 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>הבינני בהלכה #1120 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף ב' ח"א</title>
+      <itunes:title>הבינני בהלכה #1120 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף ב' ח"א</itunes:title>
+      <pubDate>Mon, 23 Nov 2026 09:31:00 +0000</pubDate>
+      <guid isPermaLink="false">4a0ceac0-b850-4339-baed-aff367b74c0f</guid>
+      <link>https://lomdotchasidut.libsyn.com/episode--1120</link>
+      <description />
+      <content:encoded />
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/__1120_-__________.mp3?dest-id=468609" length="10060814" type="audio/mpeg" />
+      <itunes:duration>13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/5/5/5/655530b044a47f535f2e77a3093c12a1/__1120_-__________.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43860324</ns1:item-id>
+      <ns1:last-updated>2026-11-23T09:32:04Z</ns1:last-updated>
+    </item>
     <item>
       <title>הבינני בהלכה #1119 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"י</title>
       <itunes:title>הבינני בהלכה #1119 - סימן שי"ג, טלטול דלת וחלון והמנעול בשבת, סעיף א' ח"י</itunes:title>
