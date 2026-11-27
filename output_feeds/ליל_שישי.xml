@@ -3,8 +3,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/93012/destinations/468609.xml" rel="self" type="application/rss+xml" />
     <title>Havineini - הבינני - ליל שישי</title>
-    <pubDate>Thu, 26 Nov 2026 10:41:57 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 10:41:57 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 22:05:36 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:05:36 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <ns1:show-id>93012</ns1:show-id>
     <ns1:last-updated>2026-01-16T15:13:44Z</ns1:last-updated>
@@ -33,6 +33,42 @@
     <itunes:type>episodic</itunes:type>
     <itunes:keywords />
     <podcast:locked owner="info@machonhavineini.com">no</podcast:locked>
+    <item>
+      <title>המעלה של הכרת חסרונות עצמו</title>
+      <itunes:title>המעלה של הכרת חסרונות עצמו</itunes:title>
+      <pubDate>Thu, 26 Nov 2026 21:59:00 +0000</pubDate>
+      <guid isPermaLink="false">af025380-af0c-45ff-8d15-7b52485f5b0b</guid>
+      <link>https://lomdotchasidut.libsyn.com/7eqb1c2oloqi</link>
+      <description>&lt;p&gt;ליל שישי פרשת וישלח תשפ"ז - חלק ג&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת וישלח תשפ"ז - חלק ג&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-______312.mp3?dest-id=468609" length="3291069" type="audio/mpeg" />
+      <itunes:duration>10:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/3/f/a/f/3faf82c8e157f0e9a04421dee9605cbd/_______-______312.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43902419</ns1:item-id>
+      <ns1:last-updated>2026-11-26T22:00:06Z</ns1:last-updated>
+    </item>
+    <item>
+      <title>קטונתי מכל החסדים - באמצע הפחד - כשעוד לא רואים את הישועה</title>
+      <itunes:title>קטונתי מכל החסדים - באמצע הפחד - כשעוד לא רואים את הישועה</itunes:title>
+      <pubDate>Thu, 26 Nov 2026 21:57:00 +0000</pubDate>
+      <guid isPermaLink="false">0cc440b2-ad57-4c4b-a7c3-cbf3a06a15aa</guid>
+      <link>https://lomdotchasidut.libsyn.com/6nxhn8dfp34s</link>
+      <description>&lt;p&gt;ליל שישי פרשת וישלח תשפ"ז - חלק ב&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ליל שישי פרשת וישלח תשפ"ז - חלק ב&lt;/p&gt;</content:encoded>
+      <enclosure url="https://traffic.libsyn.com/clean/secure/lomdotchasidut/_______-____-___-______352_2.mp3?dest-id=468609" length="9171102" type="audio/mpeg" />
+      <itunes:duration>30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords />
+      <itunes:image href="https://static.libsyn.com/p/assets/6/8/b/5/68b56edb4540fd765f2e77a3093c12a1/_______-____-___-______352_2.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>הרב שמעון שפיצר</itunes:author>
+      <ns1:item-id>43902409</ns1:item-id>
+      <ns1:last-updated>2026-11-26T21:58:26Z</ns1:last-updated>
+    </item>
     <item>
       <title>ותקנא רחל באחותה - גם בעת חסרון גשמי לחפש את הפגם ברוחניות</title>
       <itunes:title>ותקנא רחל באחותה - גם בעת חסרון גשמי לחפש את הפגם ברוחניות</itunes:title>
